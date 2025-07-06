@@ -2,35 +2,34 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import json
-import os
-import time
-from datetime import datetime, timedelta
+from datetime import datetime
+import re
 
-# Listă de linkuri Telegram
 TELEGRAM_URLS = [
-    "https://t.me/s/kpszsu",
-    "https://t.me/s/AMK_Mapping"
-    "https://t.me/s/AMK_Mapping"
+    "https://t.me/s/kpszsu?embed=1",
+    "https://t.me/s/AMK_Mapping?embed=1"
 ]
 
-# Listă de cuvinte de activare
-ACTIVATION_WORDS = ["У ніч", "Tu-22M3", "BRICS"]
+ACTIVATION_WORDS = ["У ніч", "Tu-22M3"]
 
 def scrape_messages(url):
-    """Extrage mesajele de pe un canal Telegram dat."""
     print(f"Accesăm URL-ul: {url}")
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     print(f"Status cod răspuns: {response.status_code}")
     soup = BeautifulSoup(response.text, "html.parser")
     messages = []
-    for div in soup.find_all("div", class_="tgme_widget_message_text"):
-        text = div.get_text(separator="\n")
-        print(f"Mesaj extras: {text}")
+
+    for div in soup.find_all("div", class_=lambda c: c and "tgme_widget_message_text" in c):
+        text = div.get_text(separator="\n").strip()
         if any(word.lower() in text.lower() for word in ACTIVATION_WORDS):
             try:
                 translated_text = GoogleTranslator(source='auto', target='en').translate(text)
-                messages.append(translated_text)
+                messages.append({
+                    "original": text,
+                    "translated": translated_text,
+                    "timestamp": datetime.utcnow().isoformat() + "Z"
+                })
                 print(f"Mesaj tradus: {translated_text}")
             except Exception as e:
                 print(f"Eroare la traducere: {e}")
@@ -40,18 +39,10 @@ def scrape_messages(url):
 def main():
     all_messages = []
     for url in TELEGRAM_URLS:
-        print(f"Scraping {url}...")
-        messages = scrape_messages(url)
-        all_messages.extend(messages)
-    if all_messages:
-        try:
-            with open("data.json", "w", encoding="utf-8") as f:
-                json.dump(all_messages, f, ensure_ascii=False, indent=2)
-            print(f"Saved {len(all_messages)} messages to data.json")
-        except Exception as e:
-            print(f"Eroare la scrierea fișierului JSON: {e}")
-    else:
-        print("No messages found.")
+        all_messages.extend(scrape_messages(url))
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(all_messages, f, ensure_ascii=False, indent=2)
+    print(f"Saved {len(all_messages)} messages to data.json")
 
 if __name__ == "__main__":
     main()
