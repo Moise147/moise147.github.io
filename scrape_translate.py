@@ -10,10 +10,11 @@ from datetime import datetime, timedelta
 TELEGRAM_URLS = [
     "https://t.me/s/kpszsu",
     "https://t.me/s/AMK_Mapping"
+    "https://t.me/s/AMK_Mapping"
 ]
 
 # Listă de cuvinte de activare
-ACTIVATION_WORDS = ["У ніч", "Tu-22M3"]
+ACTIVATION_WORDS = ["У ніч", "Tu-22M3", "BRICS"]
 
 def scrape_messages(url):
     """Extrage mesajele de pe un canal Telegram dat."""
