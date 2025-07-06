@@ -2,29 +2,21 @@ name: Scrape Telegram and Update data.json
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # La fiecare 15 minute
-  workflow_dispatch:        # Poți rula manual
+    # ⚠️ GitHub cron min interval is 5 min by doc. 1-min “hack” using repository_dispatch via self-call, see note below.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
-      - name: Install Python dependencies
-        run: |
-          pip install requests beautifulsoup4 deep-translator
-
-      - name: Run Telegram scraper
-        run: python scrape_translate.py
-
-      - name: Commit and push changes
+      - run: pip install requests beautifulsoup4 deep-translator
+      - run: python scrape_translate.py
+      - name: Commit and push data.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
