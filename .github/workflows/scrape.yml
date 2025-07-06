@@ -1,37 +1,29 @@
 name: Scrape Telegram and Update data.json
-
 on:
   schedule:
     # La fiecare 5 minute
     - cron: "*/5 * * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python 3.x
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4 deep-translator
-
       - name: Run scraping script
         run: python scrape_translate.py
-
       - name: Debug - list files and check data.json
         run: |
           echo "Listing files in repo:"
           ls -la
           echo "Show contents of data.json:"
           cat data.json
-
       - name: Commit and push data.json if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
