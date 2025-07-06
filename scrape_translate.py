@@ -43,9 +43,12 @@ def main():
         messages = scrape_messages(url)
         all_messages.extend(messages)
     if all_messages:
-        with open("data.json", "w", encoding="utf-8") as f:
-            json.dump(all_messages, f, ensure_ascii=False, indent=2)
-        print(f"Saved {len(all_messages)} messages to data.json")
+        try:
+            with open("data.json", "w", encoding="utf-8") as f:
+                json.dump(all_messages, f, ensure_ascii=False, indent=2)
+            print(f"Saved {len(all_messages)} messages to data.json")
+        except Exception as e:
+            print(f"Eroare la scrierea fișierului JSON: {e}")
     else:
         print("No messages found.")
 
