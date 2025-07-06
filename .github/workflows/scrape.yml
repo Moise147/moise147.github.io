@@ -1,29 +1,35 @@
 name: Scrape Telegram and Update data.json
+
 on:
   schedule:
-    # La fiecare 5 minute
     - cron: "*/5 * * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Set up Python 3.x
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4 deep-translator
+
       - name: Run scraping script
         run: python scrape_translate.py
-      - name: Debug - list files and check data.json
+
+      - name: Debug - list files
         run: |
-          echo "Listing files in repo:"
+          echo "Listing files:"
           ls -la
-          echo "Show contents of data.json:"
+          echo "Contents of data.json:"
           cat data.json
+
       - name: Commit and push data.json if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,31 +37,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data.json
-          # verifică dacă există modificări
           if git diff --cached --quiet; then
-            echo "No changes detected, nothing to commit."
+            echo "No changes to commit."
           else
             git commit -m "Update data.json"
             git push origin main
-          fi
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages
-      - name: Check and Cancel Deployment if Needed
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          DEPLOYMENT_ID="10858f4d017c8a15080a724d66c5beaec5fb0398"
-          DEPLOYMENT_STATUS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/${{ github.repository }}/deployments/$DEPLOYMENT_ID/statuses" | jq -r '.[0].state')
-
-          if [ "$DEPLOYMENT_STATUS" != "completed" ]; then
-            echo "Anularea deployment-ului..."
-            curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${{ github.repository }}/deployments/$DEPLOYMENT_ID/cancel"
-          else
-            echo "Deployment-ul este deja finalizat."
-          fi
