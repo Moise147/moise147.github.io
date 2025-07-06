@@ -14,21 +14,26 @@ ACTIVATION_WORDS = ["У ніч", "Tu-22M3"]
 
 def scrape_messages(url):
     """Extrage mesajele de pe un canal Telegram dat."""
+    print(f"Accesăm URL-ul: {url}")
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
+    print(f"Status cod răspuns: {response.status_code}")
     soup = BeautifulSoup(response.text, "html.parser")
 
     messages = []
     for div in soup.find_all("div", class_="tgme_widget_message_text"):
         text = div.get_text(separator="\n")
+        print(f"Mesaj extras: {text}")
         if any(word.lower() in text.lower() for word in ACTIVATION_WORDS):
             try:
                 translated_text = GoogleTranslator(source='auto', target='en').translate(text)
                 messages.append(translated_text)
+                print(f"Mesaj tradus: {translated_text}")
             except Exception as e:
-                print(f"Error translating message: {e}")
+                print(f"Eroare la traducere: {e}")
                 continue
     return messages
+
 
 def main():
     all_messages = []
