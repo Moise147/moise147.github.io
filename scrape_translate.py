@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import json
+import os
+import time
+from datetime import datetime, timedelta
 
 # Listă de linkuri Telegram
 TELEGRAM_URLS = [
@@ -19,7 +22,6 @@ def scrape_messages(url):
     response = requests.get(url, headers=headers)
     print(f"Status cod răspuns: {response.status_code}")
     soup = BeautifulSoup(response.text, "html.parser")
-
     messages = []
     for div in soup.find_all("div", class_="tgme_widget_message_text"):
         text = div.get_text(separator="\n")
@@ -34,14 +36,12 @@ def scrape_messages(url):
                 continue
     return messages
 
-
 def main():
     all_messages = []
     for url in TELEGRAM_URLS:
         print(f"Scraping {url}...")
         messages = scrape_messages(url)
         all_messages.extend(messages)
-
     if all_messages:
         with open("data.json", "w", encoding="utf-8") as f:
             json.dump(all_messages, f, ensure_ascii=False, indent=2)
