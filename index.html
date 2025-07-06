@@ -1,34 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Telegram Alerts</title>
-  <style>
-    body { font-family: sans-serif; padding: 20px; background: #eee; }
-    .message { background: #fff; padding: 10px; margin: 10px 0; border-radius: 8px; box-shadow: 0 0 5px #ccc; }
-  </style>
-</head>
+<!DOCTYPE html><html lang="en">
+<head><meta charset="UTF-8"><title>Telegram Alerts Demo</title>
+<style>
+body { font-family: sans-serif; padding: 20px; }
+.message { background: #f9f9f9; margin: 10px 0; padding: 10px; border-radius: 5px; }
+</style></head>
 <body>
-  <h1>Translated Telegram Alerts</h1>
-  <div id="messages">Loading...</div>
-
-  <script>
+<h1>Translated Telegram Alerts</h1>
+<div id="messages">Loading messages...</div>
+<script>
+  function load() {
     fetch("data.json")
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById("messages");
-        container.innerHTML = "";
-        data.forEach(msg => {
-          const div = document.createElement("div");
-          div.className = "message";
-          div.textContent = msg;
-          container.appendChild(div);
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(arr => {
+        const c = document.getElementById("messages");
+        c.innerHTML = "";
+        arr.forEach(m => {
+          const d = document.createElement("div");
+          d.className = "message";
+          d.textContent = m;
+          c.appendChild(d);
         });
       })
       .catch(err => {
-        document.getElementById("messages").textContent = "Error loading messages.";
+        document.getElementById("messages").textContent = "Error: " + err.message;
         console.error(err);
       });
-  </script>
-</body>
-</html>
+  }
+  load(); setInterval(load, 60000);
+</script>
+</body></html>
