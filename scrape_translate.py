@@ -16,8 +16,7 @@ def main():
         text = div.get_text(separator="\n")
         if ACTIVATION_WORD.lower() in text.lower():
             try:
-                translated = GoogleTranslator(source='auto', target='en').translate(text)
-                messages.append(translated)
+                messages.append(GoogleTranslator(source='auto', target='en').translate(text))
             except:
                 continue
 
