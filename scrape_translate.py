@@ -4,7 +4,7 @@ from deep_translator import GoogleTranslator
 import json
 
 TELEGRAM_URL = "https://t.me/s/kpszsu"
-ACTIVATION_WORD = "alert"
+ACTIVATION_WORD = "У ніч"
 
 def main():
     headers = {"User-Agent": "Mozilla/5.0"}
