@@ -8,8 +8,9 @@ import re
 TELEGRAM_URLS = [
     "https://t.me/s/kpszsu?embed=1",
     "https://t.me/s/AMK_Mapping?embed=1"
+    "https://t.me/s/southfronteng?embed=1"
 ]
-ACTIVATION_WORDS = ["У ніч", "Tu-22M3"]
+ACTIVATION_WORDS = ["У ніч", "Tu-22M3","Military Situation In Ukraine"]
 
 def scrape_messages(url):
     print(f"Accesăm URL-ul: {url}")
