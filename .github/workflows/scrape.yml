@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -42,3 +43,4 @@ jobs:
           else
             git commit -m "Update data.json"
             git push origin main
+          fi
