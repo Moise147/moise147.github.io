@@ -1,4 +1,197 @@
 {
-  "messages": [],
-  "script_run_time": "2025-07-08T19:42:15.224477Z"
+  "messages": [
+    {
+      "original": "🛵\n Сумщина - загроза застосування ударних БпЛА з півночі!",
+      "timestamp": "2025-07-08T19:54:03.993203Z"
+    },
+    {
+      "original": "🚀\n \n🚀\n Донецька область - загроза застосування авіаційних засобів ураження!",
+      "timestamp": "2025-07-08T19:54:03.993227Z"
+    },
+    {
+      "original": "🛸\n🛸\n У Запорізькій області та на Сумщині - ворожі БпЛА! Залучено засоби щодо їх збиття. У разі оголошення тривоги - прямуйте в укриття!",
+      "timestamp": "2025-07-08T19:54:03.993235Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ/КАР тактичною авіацією на Донеччині.",
+      "timestamp": "2025-07-08T19:54:03.993240Z"
+    },
+    {
+      "original": "🛫\n Активність ворожої тактичної авіації на північно-східному та східному напрямках.\n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!\n🚀\nПуски КАБ/КАР тактичною авіацією на Сумщину.",
+      "timestamp": "2025-07-08T19:54:03.993247Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ/КАР тактичною авіацією на Сумщину.",
+      "timestamp": "2025-07-08T19:54:03.993256Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ/КАР тактичною авіацією на Донеччині.",
+      "timestamp": "2025-07-08T19:54:03.993260Z"
+    },
+    {
+      "original": "🚀\n \n🚀\n Харківська область - загроза застосування авіаційних засобів ураження!",
+      "timestamp": "2025-07-08T19:54:03.993265Z"
+    },
+    {
+      "original": "🛵\n Харківська, Донецька області - загроза застосування ворогом ударних БпЛА.",
+      "timestamp": "2025-07-08T19:54:03.993269Z"
+    },
+    {
+      "original": "🛵\n БпЛА в південній частині Харківщини, курс північно-західний/північний.",
+      "timestamp": "2025-07-08T19:54:03.993273Z"
+    },
+    {
+      "original": "🛵\n БпЛА в східній частині Харківщини, курс західний.",
+      "timestamp": "2025-07-08T19:54:03.993282Z"
+    },
+    {
+      "original": "🛵\n Сумська область - загроза застосування ворогом ударних БпЛА.",
+      "timestamp": "2025-07-08T19:54:03.993290Z"
+    },
+    {
+      "original": "🛵\n БпЛА в північній частині Сумщини, курс західний.",
+      "timestamp": "2025-07-08T19:54:03.993297Z"
+    },
+    {
+      "original": "🛵\n Запорізька область - загроза застосування ворогом ударних БпЛА.",
+      "timestamp": "2025-07-08T19:54:03.993305Z"
+    },
+    {
+      "original": "🛵\n БпЛА на межі Сумщини та Чернігівщини, курс західний/південно-західний.\n🛵\n БпЛА в східній, центральній та західній частині Харківщини, курс західний.\n🛵\n БпЛА в східній частині Дніпропетровщини, курс західний/північно-західний",
+      "timestamp": "2025-07-08T19:54:03.993321Z"
+    },
+    {
+      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччині.",
+      "timestamp": "2025-07-08T19:54:03.993328Z"
+    },
+    {
+      "original": "🛵\n БпЛА в північній частині Сумщини, курс західний/південно-західний.\n🛵\n БпЛА в східній та центральній частинах Чернігівщини, курс південно-західний.\n🛵\n БпЛА в південно-східній/південній/південно-західній частинах Харківщини, курс західний.\n🛵\n БпЛА в південно-східній частині Дніпропетровщини, курс північно-західний.\n🛵\n БпЛА північніше Дніпра, курс західний.",
+      "timestamp": "2025-07-08T19:54:03.993341Z"
+    },
+    {
+      "original": "🛵\n БпЛА в південній частині Миколаївщини, курс західний.\n🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Сумщину.",
+      "timestamp": "2025-07-08T19:54:03.993349Z"
+    },
+    {
+      "original": "🛵\n БпЛА в південній частині Миколаївщини зміни курс на північ.\n🛵\n БпЛА в східній та центральній частинах Чернігівщини, курс західний/південно-західний.\n🛵\n БпЛА в західній частині Сумщини, курс західний.\n🛵\n БпЛА північніше Києва, курс західний.\n🛵\n БпЛА в південній та центральній частинах Харківщини, курс західний.\n🛵\n БпЛА в південній частині Полтавщини, курс західний.\n🛵\n БпЛА в західній/центральній/східній частинах Дніпропетровщини, курс західний.\n🛵\n БпЛА в східній частині Кіровоградщини, курс західний.",
+      "timestamp": "2025-07-08T19:54:03.993366Z"
+    },
+    {
+      "original": "⚠\nУВАГА\n🚨\n Вся Україна - ракетна небезпека!\n🛫\n Зафіксовано зліт МіГ-31К з аеродрому Саваслейка (Нижньогородська область рф).",
+      "timestamp": "2025-07-08T19:54:03.993377Z"
+    },
+    {
+      "original": "Russian forces have captured the village of Bezsalivka, Bilopillya direction, Sumy Oblast.\nPre-war population: ~91\nTotal land area: ~0.72km²",
+      "timestamp": "2025-07-08T19:54:04.436505Z"
+    },
+    {
+      "original": "Overnight, 2 Russian Tu-95MS strategic bombers redeployed from Belaya Airbase in Irkutsk Oblast to Engels-2 Airbase in Saratov Oblast, likely after being equipped with Kh-101 cruise missiles at Belaya. \nAdditionally, 1 Tu-95MS redeployed from Olenya Airbase in Murmansk Oblast to Engels-2 Airbase, where it will be equipped with missiles. \n2 Tu-95s conducted training from Engels-2 Airbase and remained within Saratov Oblast, suggesting that one more bomber has been transferred to a training role at Engels-2.\nAs for the Tu-160s, 1 redeployed from Engels-2 to Yelizovo Airbase in Kamchatka Krai. Yelizovo Airbase has seen significantly increased Tu-160 activity since Ukraine's Operation Spiderweb on June 1. \n1 other Tu-160 departed from Engels-2, likely redeploying, but suffered an emergency situation onboard. Despite initial reports, it's highly unlikely that it crashed, and instead probably landed back at Engels-2.",
+      "timestamp": "2025-07-08T19:54:04.436520Z"
+    },
+    {
+      "original": "Overnight, 2 Russian Tu-95MS strategic bombers redeployed from Belaya Airbase in Irkutsk Oblast to Engels-2 Airbase in Saratov Oblast, likely after being equipped with Kh-101 cruise missiles at Belaya.   Additionally, 1 Tu-95MS redeployed from Olenya Airbase…",
+      "timestamp": "2025-07-08T19:54:04.436525Z"
+    },
+    {
+      "original": "New satellite imagery of Belaya Airbase in Irkutsk Oblast from July 7 shows that there is still 1 Tu-95MS stationed there, after 2 Tu-95s redeployed to Engels-2 Airbase in Saratov Oblast. \nThere have been no new flights of IL-76MD military transport aircraft, however it's still likely that those 2 Tu-95s were equipped with Kh-101 cruise missiles prior to flying to Engels-2. They were probably equipped from earlier deliveries of missiles by IL-76MDs. \nImage credit: \nt.me/strategicaviationT",
+      "timestamp": "2025-07-08T19:54:04.436529Z"
+    },
+    {
+      "original": "An explosion was heard in Chuhuiv. A reconnaissance drone operates over the city, filming the strike.",
+      "timestamp": "2025-07-08T19:54:04.436533Z"
+    },
+    {
+      "original": "Yesterday’s Iskander-M ballistic missile strike on Kharkiv Oblast targeted a temporary deployment point for the 154th Separate Mechanised Brigade of the AFU, near the city of Chuhuiv.",
+      "timestamp": "2025-07-08T19:54:04.436537Z"
+    },
+    {
+      "original": "Ukrainian forces have recaptured the village of Popiv Yar, Kostyantynivka direction, Donetsk Oblast. \nPre-war population: ~120\nTotal land area: ~0.50km²",
+      "timestamp": "2025-07-08T19:54:04.436542Z"
+    },
+    {
+      "original": "It's clear now that - after over 11 months of fighting - the battle of Toretsk is coming to an end.",
+      "timestamp": "2025-07-08T19:54:04.436545Z"
+    },
+    {
+      "original": "It's clear now that - after over 11 months of fighting - the battle of Toretsk is coming to an end.",
+      "timestamp": "2025-07-08T19:54:04.436548Z"
+    },
+    {
+      "original": "Iskander on Sumy Oblast. From Kursk",
+      "timestamp": "2025-07-08T19:54:04.436551Z"
+    },
+    {
+      "original": "Iskander on Sumy Oblast. From Kursk",
+      "timestamp": "2025-07-08T19:54:04.436554Z"
+    },
+    {
+      "original": "Disappeared near the international border",
+      "timestamp": "2025-07-08T19:54:04.436557Z"
+    },
+    {
+      "original": "Disappeared near the international border",
+      "timestamp": "2025-07-08T19:54:04.436560Z"
+    },
+    {
+      "original": "2 more launches were detected. These are S-300s, targeting something over Khotin.",
+      "timestamp": "2025-07-08T19:54:04.436563Z"
+    },
+    {
+      "original": "Last night, a major operation was conducted by the Al-Qassam Brigades (armed wing of Hamas) against IDF troops from the 933rd \"Nahal\" Brigade, in the city of Beit Hanoun, northeastern Gaza.\nReports suggest that the attack was coordinated between multiple cells, resulting in at least 6 deaths and 20 injuries among IDF soldiers. First, an IED hit an Israeli Merkava Tank. A rescue team was deployed, which was struck by a second IED. A second rescue team then came to aid the first team and was also targeted. A 4th IED was then detonated, before small-arms fire targeted the wounded soldiers.\nThe area in which the attacks took place was in the far north of Beit Hanoun, near the border with Israel. This area is part of a large region that Israel has previously claimed to have completely cleared.\nThe photo reportedly shows the moment Netanyahu was briefed on the event, who - at the time - was meeting with U.S. Special Envoy to the Middle East Steve Witkoff.",
+      "timestamp": "2025-07-08T19:54:04.436571Z"
+    },
+    {
+      "original": "Chief Pentagon Spokesman Sean Parnell released a statement, confirming that the U.S. will be sending additional weapons to Ukraine. He said that while this is to ensure Ukraine can defend itself, the U.S. will still be working towards securing a \"lasting peace\", to ensure that the killing stops.",
+      "timestamp": "2025-07-08T19:54:04.436577Z"
+    },
+    {
+      "original": "Last night, a major operation was conducted by the Al-Qassam Brigades (armed wing of Hamas) against IDF troops from the 933rd \"Nahal\" Brigade, in the city of Beit Hanoun, northeastern Gaza.  Reports suggest that the attack was coordinated between multiple…",
+      "timestamp": "2025-07-08T19:54:04.436583Z"
+    },
+    {
+      "original": "The IDF spokesperson released a statement, confirming that 5 IDF soldiers had been killed in the attack in Beit Hanoun last night. 2 of the killed were sergeants from the 97th \"Netzah Yehuda\" Infantry Battalion of the 900th \"Kfir\" Infantry Brigade. \nThe other 3 soldiers' ranks have not been cleared for publication yet.",
+      "timestamp": "2025-07-08T19:54:04.436587Z"
+    },
+    {
+      "original": "The UKMTO has released an update on the merchant ship which was attacked by the Houthis yesterday 51 Nautical Miles west of Al-Hodeidah, Houthi-controlled Yemen. It was attacked with 5 RPGs and is now surrounded by small boats and under \"continuous attack\".\nThis is likely a separate attack on the same vessel, as the two updates are over 12 hours apart. The U.S. presence in the area makes it impossible for long sustained Houthi attacks on the same target.",
+      "timestamp": "2025-07-08T19:54:04.436590Z"
+    },
+    {
+      "original": "At least 4 Russian Tu-95MS strategic bombers departed from Ukrainka Airbase in Amur Oblast, likely redeploying to either Engels-2 or Olenya Airbase. They are equipped with Kh-101 cruise missiles in preparation for the next combined missile attack on Ukraine.\nThe Tu-95s have been communicating with ground controller 20819 \"Masterok\".",
+      "timestamp": "2025-07-08T19:54:04.436594Z"
+    },
+    {
+      "original": "At least 4 Russian Tu-95MS strategic bombers departed from Ukrainka Airbase in Amur Oblast, likely redeploying to either Engels-2 or Olenya Airbase. They are equipped with Kh-101 cruise missiles in preparation for the next combined missile attack on Ukraine.…",
+      "timestamp": "2025-07-08T19:54:04.436597Z"
+    },
+    {
+      "original": "According to updated information, 5 Tu-95s are airborne. 2 of these are ones which redeployed to Ukrainka Airbase yesterday. It's unclear if they are redeploying or carrying out large-scale training, however the former is more likely.",
+      "timestamp": "2025-07-08T19:54:04.436600Z"
+    },
+    {
+      "original": "Footage filmed a couple of days ago shows how 2 Ukrainian marines moved into an empty position under Russian artillery and FPV drone fire. Based on the filming date and the nature of the surroundings in the video, it was probably recorded near Horikhove, Donetsk Oblast, near the border with Dnipropetrovsk Oblast.\nThe main thing this video highlights is the lack of established trenches and dugouts in some parts of the frontline. As the Russians advanced to the Horikhove area relatively quickly, there wasn't much time for the Ukrainians to prepare. Also, due to its proximity to the frontline beforehand, trench digging was difficult, and a lack of manpower complicated that further.\nObviously, this means holding these crucial treelines is much more difficult for both sides, which is why we often see this back-and-forth movement here until Russia is able to fully get the upper hand and push the frontline to an area with more established positions.",
+      "timestamp": "2025-07-08T19:54:04.436604Z"
+    },
+    {
+      "original": "According to updated information, 5 Tu-95s are airborne. 2 of these are ones which redeployed to Ukrainka Airbase yesterday. It's unclear if they are redeploying or carrying out large-scale training, however the former is more likely.",
+      "timestamp": "2025-07-08T19:54:04.436607Z"
+    },
+    {
+      "original": "The number of confirmed Tu-95s from Ukrainka Airbase has increased to 6.",
+      "timestamp": "2025-07-08T19:54:04.436610Z"
+    },
+    {
+      "original": "The number of confirmed Tu-95s from Ukrainka Airbase has increased to 6.",
+      "timestamp": "2025-07-08T19:54:04.436613Z"
+    },
+    {
+      "original": "It appears that the 6 Tu-95s were conducting large-scale training and landed back at Ukrainka Airbase. This is the first training of this type and size to be conducted in several months.",
+      "timestamp": "2025-07-08T19:54:04.436616Z"
+    },
+    {
+      "original": "The IDF has issued new evacuation orders for the last part of the city of Khan Younis, southern Gaza.\nAmong the updated evacuation zone is the rest of Khan Younis Refugee Camp, and the newer residential development to the northeast. Displaced residents residing in tents are also urged to evacuate to the Al-Mawasi \"humanitarian zone\" right next to Khan Younis. \nThe IDF has already been operating and conducting clearing operations in a small section of southwestern Khan Younis, prior to these evacuation orders being issued, however considering the fighting taking place nearby, and the proximity to the evacuation zone, it's likely that any families previously residing there fled some time ago. \nNew evacuation area: ~3.78km² (1.04% of the Gaza Strip).\nUpdated total evacuation area: ~278km² (76.18% of the Gaza Strip).",
+      "timestamp": "2025-07-08T19:54:04.436621Z"
+    }
+  ],
+  "script_run_time": "2025-07-08T19:54:04.436819Z"
 }
