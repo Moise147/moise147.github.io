@@ -25,21 +25,21 @@
       .then(data => {
         const container = document.getElementById("messages");
         container.innerHTML = "";
-        if (data.length === 0) {
+        // Accesează array-ul de mesaje din obiectul data
+        if (data.messages.length === 0) {
           container.textContent = "No alerts found.";
           return;
         }
-        data.forEach(msg => {
+        data.messages.forEach(msg => {
           const div = document.createElement("div");
           div.className = "message";
           div.innerHTML = `
             <div class="timestamp">⏱ ${new Date(msg.timestamp).toLocaleString()}</div>
             <div class="original">📌 ${msg.original}</div>
-            <div class="translated">➡️ ${msg.translated}</div>
+            <div class="translated">➡️ ${msg.translated || ''}</div>
           `;
           container.appendChild(div);
         });
-
         // Afișează data și ora rulării scriptului
         const scriptRunTime = document.getElementById("script-run-time");
         if (data.script_run_time) {
