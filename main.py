@@ -6,9 +6,10 @@ from datetime import datetime
 
 TELEGRAM_URLS = [
     "https://t.me/s/kpszsu?embed=1",
-    "https://t.me/s/AMK_Mapping?embed=1"
+    "https://t.me/s/AMK_Mapping?embed=1",
     "https://t.me/s/southfronteng?embed=1"
 ]
+
 
 def scrape_messages(url):
     print(f"Accesăm URL-ul: {url}")
