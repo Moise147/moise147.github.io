@@ -1,233 +1,249 @@
 {
   "messages": [
     {
-      "original": "🛵\n Миколаївська  область - загроза застосування ворогом ударних БпЛА з півдня..",
-      "timestamp": "2025-07-28T01:21:08.102165Z"
-    },
-    {
-      "original": "🛵\n БпЛА \n➡️\n на Запоріжжя",
-      "timestamp": "2025-07-28T01:21:08.102183Z"
-    },
-    {
-      "original": "🛵\n Київська область (Білоцерківський  р-н) - загроза застосування ударних ворожих БпЛА!",
-      "timestamp": "2025-07-28T01:21:08.102188Z"
-    },
-    {
-      "original": "🚨\nОновлення щодо \"шахедів\":\n🛵\n Група ворожих БпЛА з Сумщини  \n➡️\n курсом південно-західним.\n🛵\n Група БпЛА на сході та центрі  Чернігівщини \n➡️\n курс на захід.\n🛵\n Група БпЛА  на півночі Київщини \n➡️\n курсом на Житомирщину, \n🛵\n  Група БпЛА з  Дніпропетровщини  \n➡️\n курсом на Кіровоградщину .\n🛵\n Група БпЛА з півдня на Миколаївщину.\n🛵\n Київ \n➡️\n група БпЛА в напрямку міста.",
-      "timestamp": "2025-07-28T01:21:08.102208Z"
-    },
-    {
-      "original": "🚨\nОновлення щодо \"шахедів\":\n🛵\n Група ворожих БпЛА на сході Харківщини \n➡️\n курс західний.\n🛵\n Група ворожих БпЛА на сході Донеччини \n➡️\n курс західний.",
-      "timestamp": "2025-07-28T01:21:08.102217Z"
-    },
-    {
-      "original": "🛵\n Рівненська область - загроза застосування ударних БпЛА!",
-      "timestamp": "2025-07-28T01:21:08.102222Z"
-    },
-    {
-      "original": "🛵\n Дніпропетровська область (Павлоградський , Самарівський р-ни) загроза застосування ударних ворожих БпЛА!",
-      "timestamp": "2025-07-28T01:21:08.102226Z"
-    },
-    {
       "original": "🚨\nОновлення щодо \"шахедів\":\n🛵\n Група ворожих БпЛА на півдні Харківщини \n➡️\n курс західний.\n🛵\n Група ворожих БпЛА на сході Дніпропетровщини \n➡️\n курс західний.\n🛵\n Група ворожих БпЛА на межі Миколаївської та Одеської обл. \n➡️\n курс північно- західний.\n🛵\n Група ворожих БпЛА на півночі Житомирщини \n➡️\n курс Рівненська область \n🛵\n Група ворожих БпЛА на півдні Чернігівщини \n➡️\n курс південно-західний\n🛵\n БпЛА на Черкащині та Київщині \n➡️\n курс західний/південно-західний",
-      "timestamp": "2025-07-28T01:21:08.102254Z"
+      "timestamp": "2025-07-28T03:17:28.270107Z"
     },
     {
       "original": "🛵\n Волинська  область - загроза застосування ударних ворожих БпЛА!",
-      "timestamp": "2025-07-28T01:21:08.102259Z"
+      "timestamp": "2025-07-28T03:17:28.270126Z"
     },
     {
       "original": "⚠\nУвага! м.Рівне!\n🛵\n У вашому напрямку ворожі БпЛА зі сходу.\nПеребувайте у безпечних місцях!",
-      "timestamp": "2025-07-28T01:21:08.102265Z"
+      "timestamp": "2025-07-28T03:17:28.270133Z"
     },
     {
       "original": "⚠\nУвага! м.Вінниця!\n🛵\n У вашому напрямку ворожі БпЛА зі сходу.\nПеребувайте у безпечних місцях!",
-      "timestamp": "2025-07-28T01:21:08.102271Z"
+      "timestamp": "2025-07-28T03:17:28.270140Z"
     },
     {
       "original": "🚨\nОновлення щодо \"шахедів\":\n🛵\n Група ворожих БпЛА на сході Кіровоградщини \n➡️\n курс західний.\n🛵\n Група ворожих БпЛА на півдні і півночі Вінницької обл.  \n➡️\n курс північно - західний.\n🛵\n Група ворожих БпЛА на півдні Житомирщини \n➡️\n курс Хмельницька  область",
-      "timestamp": "2025-07-28T01:21:08.102284Z"
+      "timestamp": "2025-07-28T03:17:28.270153Z"
     },
     {
       "original": "🛵\n Старокостянтинів \n➡️\n загроза застосування ворогом ударних БпЛА.",
-      "timestamp": "2025-07-28T01:21:08.102289Z"
+      "timestamp": "2025-07-28T03:17:28.270159Z"
     },
     {
       "original": "🛵\n Кропивницький \n➡️\n БпЛА в напрямку міста",
-      "timestamp": "2025-07-28T01:21:08.102297Z"
+      "timestamp": "2025-07-28T03:17:28.270164Z"
     },
     {
       "original": "⚠\n Увага!\n🚀\n Швидкісна ціль на Чернігів!",
-      "timestamp": "2025-07-28T01:21:08.102303Z"
+      "timestamp": "2025-07-28T03:17:28.270170Z"
     },
     {
       "original": "🚀\n Швидкісна ціль на Черкаси",
-      "timestamp": "2025-07-28T01:21:08.102308Z"
+      "timestamp": "2025-07-28T03:17:28.270174Z"
     },
     {
       "original": "🚀\n Швидкісна ціль на півдні Чернігівської області",
-      "timestamp": "2025-07-28T01:21:08.102313Z"
+      "timestamp": "2025-07-28T03:17:28.270179Z"
     },
     {
       "original": "🛵\n Старокостянтинів \n➡️\n загроза застосування ворогом ударних БпЛА.",
-      "timestamp": "2025-07-28T01:21:08.102320Z"
+      "timestamp": "2025-07-28T03:17:28.270184Z"
     },
     {
       "original": "🚀\n Швидкісна ціль на Полтавщині курс на Черкаси",
-      "timestamp": "2025-07-28T01:21:08.102325Z"
+      "timestamp": "2025-07-28T03:17:28.270189Z"
     },
     {
       "original": "🚀\n Швидкісна ціль на Вінницьку область",
-      "timestamp": "2025-07-28T01:21:08.102329Z"
+      "timestamp": "2025-07-28T03:17:28.270193Z"
     },
     {
-      "original": "The 2 Tu-160s made a U-turn from Volgograd Oblast, likely after conducting launch maneuvers, and have landed at Engels-2 Airbase.",
-      "timestamp": "2025-07-28T01:21:08.758213Z"
+      "original": "🚀\n Швидкісна ціль на межі Вінницької та Житомирської обл.\n➡️\n курс на захід",
+      "timestamp": "2025-07-28T03:17:28.270199Z"
     },
     {
-      "original": "Geran-2 drones are also attacking Kropyvnytskyi City in Kirovohrad Oblast. 8 are flying in - 6 from the south, 2 from the north.",
-      "timestamp": "2025-07-28T01:21:08.758224Z"
+      "original": "🚀\n Швидкісна ціль на Старокостянтинів.",
+      "timestamp": "2025-07-28T03:17:28.270203Z"
     },
     {
-      "original": "Several Geran-2 impacts in Kropyvnytskyi. 2 remain, 1 approaching its target.",
-      "timestamp": "2025-07-28T01:21:08.758228Z"
+      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
+      "timestamp": "2025-07-28T03:17:28.270210Z"
     },
     {
-      "original": "Around 3 minutes ago, one of the Tu-95s landed at Engels-2 Airbase, Saratov Oblast. The IL-78 tanker from Diaghilev Airbase in Ryazan Oblast, which earlier carried out one refueling of the Tu-95s from Olenya, has also likely landed there.",
-      "timestamp": "2025-07-28T01:21:08.758232Z"
+      "original": "🛵\n Вінницька область  \n➡️\n загроза застосування ворогом ударних БпЛА.",
+      "timestamp": "2025-07-28T03:17:28.270216Z"
     },
     {
-      "original": "The Tu-95MS that landed at Engels-2 Airbase was the one which departed from Engels-2. The 2 bombers from Olenya Airbase are still airborne - location unknown.",
-      "timestamp": "2025-07-28T01:21:08.758235Z"
+      "original": "🛵\n Вінниця \n➡️\n БпЛА в напрямку міста з півдня",
+      "timestamp": "2025-07-28T03:17:28.270230Z"
     },
     {
-      "original": "Kh-101 cruise missiles will probably arrive in the airspace within the next 15 minutes.",
-      "timestamp": "2025-07-28T01:21:08.758238Z"
+      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
+      "timestamp": "2025-07-28T03:17:28.270238Z"
     },
     {
-      "original": "~45 Geran-2 drones in Ukrainian airspace.",
-      "timestamp": "2025-07-28T01:21:08.758241Z"
-    },
-    {
-      "original": "~35 Geran-2 drones in Ukrainian airspace. The ones at Kropyvnytskyi have impacted. The attack on Starokostyantyniv continues.",
-      "timestamp": "2025-07-28T01:21:08.758245Z"
-    },
-    {
-      "original": "No cruise missiles have been detected in Ukrainian airspace yet. It's possible that the launches were detected early, or that they took place further east than thought.",
-      "timestamp": "2025-07-28T01:21:08.758248Z"
-    },
-    {
-      "original": "As for Gerans: \nAround a dozen are still flying to strike Starokostyantyniv Airbase. \n6+ more are transiting through Kyiv Oblast towards Vinnytsia/Zhytomyr Oblasts, and possibly further to Starokostyantyniv. \n2 others are circling in Lutsk and Volyn Oblasts.",
-      "timestamp": "2025-07-28T01:21:08.758254Z"
-    },
-    {
-      "original": "~20 Geran-2 drones in Ukrainian airspace. Several impacts were recorded in and around Starokostyantyniv Airbase earlier.",
-      "timestamp": "2025-07-28T01:21:08.758257Z"
-    },
-    {
-      "original": "Kh-101s enter Sumy Oblast.",
-      "timestamp": "2025-07-28T01:21:08.758260Z"
-    },
-    {
-      "original": "Kh-101 group 1 is flying southwest through Sumy Oblast, over/near Romny towards Pyriatyn, Poltava Oblast. 4+ missiles in total.",
-      "timestamp": "2025-07-28T01:21:08.758263Z"
-    },
-    {
-      "original": "Kh-101 group 2 entered the airspace near Hlukhiv, Sumy Oblast, entered Chernihiv Oblast and is flying to Nizhyn.\nNo changes to group 1.",
-      "timestamp": "2025-07-28T01:21:08.758267Z"
-    },
-    {
-      "original": "Kh-101 group 1 flies south through Myrhorod District, between Myrhorod and Lubny. \nGroup 2 flies west towards Desna, Chernihiv Oblast.",
-      "timestamp": "2025-07-28T01:21:08.758271Z"
-    },
-    {
-      "original": "Kh-101 group 1 changes course to the southwest, bypassing Lubny from the west and flying towards Cherkasy City.\nGroup 2 changed course to the south, and is flying past Pyriatyn, Poltava Oblast.",
-      "timestamp": "2025-07-28T01:21:08.758274Z"
-    },
-    {
-      "original": "Kh-101 group 1 is flying southwest towards Zolotonosha, Cherkasy Oblast. \nGroup 2 also flies towards Zolotonosha, but from the north.",
-      "timestamp": "2025-07-28T01:21:08.758278Z"
-    },
-    {
-      "original": "Approximately 10 missiles in Ukrainian airspace. 5 in each group.",
-      "timestamp": "2025-07-28T01:21:08.758285Z"
-    },
-    {
-      "original": "Kh-101 group 1 bypasses Cherkasy city from the north, and is flying southwest towards Horodyshche, Cherkasy Oblast.\nGroup 2 entered northeastern Cherkasy Oblast, and is flying south/southwest towards areas west of Cherkasy City.",
-      "timestamp": "2025-07-28T01:21:08.758289Z"
-    },
-    {
-      "original": "Kh-101 group 1 changed course to the northwest, flying past Bohuslav, Kyiv Oblast.\nGroup 2 continues to fly southwest through northern Cherkasy Oblast.",
-      "timestamp": "2025-07-28T01:21:08.758293Z"
+      "original": "🚀\nЗапорізька ,Дніпропетровська області (Синельниківський р-н) - загроза застосування авіаційних засобів ураження!",
+      "timestamp": "2025-07-28T03:17:28.270242Z"
     },
     {
       "original": "Kh-101 group 1 changed course to the west, flying towards Tarashcha, Kyiv Oblast.\nGroup 2 flies southwest, slightly further south than before.",
-      "timestamp": "2025-07-28T01:21:08.758296Z"
+      "timestamp": "2025-07-28T03:17:28.928276Z"
     },
     {
       "original": "~18 Geran-2 drones remain in Ukrainian airspace, primarily in the area of Starokostyantyniv Airbase, Khemlnytskyi Oblast.",
-      "timestamp": "2025-07-28T01:21:08.758299Z"
+      "timestamp": "2025-07-28T03:17:28.928288Z"
     },
     {
       "original": "Kh-101 group 1 flies west towards Pohrebyshche, Vinnytsia Oblast.\nNo updates from group 2.",
-      "timestamp": "2025-07-28T01:21:08.758303Z"
+      "timestamp": "2025-07-28T03:17:28.928293Z"
+    },
+    {
+      "original": "Explosions continue to be heard in Starokostyantyniv from Geran impacts.",
+      "timestamp": "2025-07-28T03:17:28.928296Z"
+    },
+    {
+      "original": "Kh-101 group 1 flies west through northern Vinnytsia Oblast, towards Starokostyantyniv, Khmelnytskyi Oblast. ~130km away. \nGroup 2 changed course and is now following group 1.",
+      "timestamp": "2025-07-28T03:17:28.928308Z"
+    },
+    {
+      "original": "Explosions in Shepetivka, Khmelnytskyi Oblast. Geran impacts.",
+      "timestamp": "2025-07-28T03:17:28.928311Z"
+    },
+    {
+      "original": "Multiple Geran impacts in Shepetivka District and Starokostyantyniv Airbase area. ~8 Gerans left in the airspace, 4-5 of which are in Khmelnytskyi Oblast.",
+      "timestamp": "2025-07-28T03:17:28.928315Z"
+    },
+    {
+      "original": "Both groups of missiles changed course to the northwest. \nGroup 1 is bypassing Berdychiv, Zhytomyr Oblast, flying in the direction of Chudniv.\nGroup 2 flew past Kozyatyn, Vinnytsia Oblast.",
+      "timestamp": "2025-07-28T03:17:28.928320Z"
+    },
+    {
+      "original": "Kh-101 group 1 changed course again, now flying west/southwest towards Starokostyantyniv.\nGroup 2 is now flying west towards Khmil'nyk, Vinnytsia Oblast.",
+      "timestamp": "2025-07-28T03:17:28.928326Z"
+    },
+    {
+      "original": "Kh-101s are 30km away from Starokostyantyniv Airbase, flying low.",
+      "timestamp": "2025-07-28T03:17:28.928329Z"
+    },
+    {
+      "original": "Kh-101s are 30km away from Starokostyantyniv Airbase, flying low.",
+      "timestamp": "2025-07-28T03:17:28.928332Z"
+    },
+    {
+      "original": "~1-2 minutes until they arrive.",
+      "timestamp": "2025-07-28T03:17:28.928335Z"
+    },
+    {
+      "original": "~1-2 minutes until they arrive.",
+      "timestamp": "2025-07-28T03:17:28.928338Z"
+    },
+    {
+      "original": "Flying straight to the airbase - not changing course as of now.",
+      "timestamp": "2025-07-28T03:17:28.928341Z"
+    },
+    {
+      "original": "Flying straight to the airbase - not changing course as of now.",
+      "timestamp": "2025-07-28T03:17:28.928344Z"
+    },
+    {
+      "original": "10km out",
+      "timestamp": "2025-07-28T03:17:28.928347Z"
+    },
+    {
+      "original": "First group consists of 3 missiles",
+      "timestamp": "2025-07-28T03:17:28.928350Z"
+    },
+    {
+      "original": "10km out",
+      "timestamp": "2025-07-28T03:17:28.928353Z"
+    },
+    {
+      "original": "5km",
+      "timestamp": "2025-07-28T03:17:28.928356Z"
+    },
+    {
+      "original": "5km",
+      "timestamp": "2025-07-28T03:17:28.928359Z"
+    },
+    {
+      "original": "Disappeared in the area",
+      "timestamp": "2025-07-28T03:17:28.928362Z"
+    },
+    {
+      "original": "Explosions in Starokostyantyniv",
+      "timestamp": "2025-07-28T03:17:28.928367Z"
+    },
+    {
+      "original": "Approximate paths of the missiles from tonight's Russian attack on Ukraine. \n10 Kh-101 cruise missiles launched from 2 Tu-160 strategic bombers in the Kalachyovksy District of Volgograd Oblast were used, targeting the Starokostyantyniv Airbase in Khmelnytskyi Oblast. It's likely that the Tu-95MS bombers did not take part in the attack.\nInterception rates are unclear, but 2 missiles are known to have been shot down, likely during the first group's transit through southern Kyiv Oblast. Other unknown interceptions are possible. \nNo other types of missiles were launched during this attack, however dozens of Geran-2 drones hit targets in various parts of the country - including at Starokostyantyniv. I will give more details on the drones later.",
+      "timestamp": "2025-07-28T03:17:28.928373Z"
+    },
+    {
+      "original": "Approximate paths of the missiles from tonight's Russian attack on Ukraine.   10 Kh-101 cruise missiles launched from 2 Tu-160 strategic bombers in the Kalachyovksy District of Volgograd Oblast were used, targeting the Starokostyantyniv Airbase in Khmelnytskyi…",
+      "timestamp": "2025-07-28T03:17:28.928376Z"
+    },
+    {
+      "original": "Btw, I made the missile icons and paths smaller. This is to give me more maneuverability when doing the live posting and makes the movements more reliable. The old icon sizes were from when I initially started doing live tracking in early 2024, back when I wasn't as precise as I am today.",
+      "timestamp": "2025-07-28T03:17:28.928381Z"
+    },
+    {
+      "original": "Explosions in Starokostyantyniv",
+      "timestamp": "2025-07-28T03:17:28.928384Z"
+    },
+    {
+      "original": "New and clarified info suggests that 8 missiles did indeed impact the Starokostyantyniv Airbase / it's surroundings. They moved into a tight formation towards the end of their flight, and struck in one combined group one after another, rather than coming in from the east and northeast and striking as two separate groups from two separate directions at around the same time, as I previously thought. \nThis would explain the lack of info I got from group 2 as if flew through northwestern Vinnytsia Oblast and eastern Khmelnytskyi Oblast. It also confirms the 2 interceptions I previously reported on.",
+      "timestamp": "2025-07-28T03:17:28.928388Z"
     },
     {
       "original": "Israel Mourns Three Soldiers As Hamas Shares More Combat Footage From Gaza\nTwo Israeli soldiers were killed and an officer was moderately wounded by an explosive device in the southern Gaza Strip on July 26, the military announced.\nBoth slain soldiers were serving as technicians in the reconnaissance unit of the Israeli Defense Forces (IDF) elite Golani Brigade.\nAlso on the same day, the IDF acknowledged that a reservist combat engineer who was seriously wounded by a roadside bomb in southern Gaza a week before succumbed to his wounds. The soldier was serving in the ranks of the 749th Combat Engineering Battalion.\nRead more: \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537292Z"
+      "timestamp": "2025-07-28T03:17:29.709724Z"
     },
     {
       "original": "Israel Mourns Three Soldiers As Hamas Shares More Combat Footage From Gaza\nTwo Israeli soldiers were killed and an officer was moderately wounded by an explosive device in the southern Gaza Strip on July 26, the military announced.\nBoth slain soldiers were serving as technicians in the reconnaissance unit of the Israeli Defense Forces (IDF) elite Golani Brigade.\nAlso on the same day, the IDF acknowledged that a reservist combat engineer who was seriously wounded by a roadside bomb in southern Gaza a week before succumbed to his wounds. The soldier was serving in the ranks of the 749th Combat Engineering Battalion.\nRead more: \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537308Z"
+      "timestamp": "2025-07-28T03:17:29.709741Z"
     },
     {
       "original": "Russia Is Testing Unmanned Assault Tank \nRussia’s giant tank maker Uralvagonzavod is currently testing a new optionally-unmanned assault tank dubbed “Shturm.”\nVideo footage showing the tank and its command vehicle returning to Uralvagonzavod’s complex in Nizhny Tagil after a round of tests surfaced online on July 27. Both the tank and its command vehicle are reported to be built on the chassis of T-72/T-90 main battle tanks.\nOne of the main features of the Shturm is the shortened barrel of its 125 gun. This is meant to improve the maneuverability of the tank in urban areas. Launchers for thermobaric weapons, possibly a version of the man-portable RPO-A Shmel, are also installed on the tank’s turret.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537319Z"
+      "timestamp": "2025-07-28T03:17:29.709753Z"
     },
     {
       "original": "Russia Is Testing Unmanned Assault Tank \nRussia’s giant tank maker Uralvagonzavod is currently testing a new optionally-unmanned assault tank dubbed “Shturm.”\nVideo footage showing the tank and its command vehicle returning to Uralvagonzavod’s complex in Nizhny Tagil after a round of tests surfaced online on July 27. Both the tank and its command vehicle are reported to be built on the chassis of T-72/T-90 main battle tanks.\nOne of the main features of the Shturm is the shortened barrel of its 125 gun. This is meant to improve the maneuverability of the tank in urban areas. Launchers for thermobaric weapons, possibly a version of the man-portable RPO-A Shmel, are also installed on the tank’s turret.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537329Z"
+      "timestamp": "2025-07-28T03:17:29.709763Z"
     },
     {
       "original": "Russia’s Ka-52M Attack Helicopter Appears In ‘Drone-Buster’ Configuration\nA photo showing a Russian Ka-52M attack helicopter in what appears to be its drone interceptor configuration appeared online on July 27.\nThese helicopter began to play a key role in intercepting Ukrainian fixed-wing suicide drones over the special military operation zone and behind it in recent months.\nHelicopters can fly at low altitudes and speeds which make them very suitable for intercepting slow and small aerial targets like drones.\nThe Ka-52M in particular is very suitable for this role as it is equipped with Arbalet-52 dual-band coherent pulse radar and the GOES-451M electro-optical targeting system which are reportedly capable of detecting aerial targets from a range up to 15 kilometers.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537340Z"
+      "timestamp": "2025-07-28T03:17:29.709774Z"
     },
     {
       "original": "Clashes Continue On Thai-Cambodian Border Despite Trump’s Call For Ceasefire \nThailand and Cambodia exchanged fire across their disputed border for a fourth day on July 27, hours after United States President Donald Trump announced the leaders of the two countries had agreed to ceasefire talks.\nThailand hit several locations in Cambodia with drones, tank fire, cluster and aerial bombs early on July 27 morning local time, a spokesperson for Cambodia’s defense ministry told reporters.\nMeanwhile, the state-run National Broadcasting Services of Thailand reported that Cambodian forces had fired artillery into Surin, damaging residential homes. Thai forces were responding, it added.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537349Z"
+      "timestamp": "2025-07-28T03:17:29.709783Z"
     },
     {
       "original": "Clashes Continue On Thai-Cambodian Border Despite Trump’s Call For Ceasefire \nThailand and Cambodia exchanged fire across their disputed border for a fourth day on July 27, hours after United States President Donald Trump announced the leaders of the two countries had agreed to ceasefire talks.\nThailand hit several locations in Cambodia with drones, tank fire, cluster and aerial bombs early on July 27 morning local time, a spokesperson for Cambodia’s defense ministry told reporters.\nMeanwhile, the state-run National Broadcasting Services of Thailand reported that Cambodian forces had fired artillery into Surin, damaging residential homes. Thai forces were responding, it added.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537359Z"
+      "timestamp": "2025-07-28T03:17:29.709793Z"
     },
     {
       "original": "Military Situation In Ukraine On July 27, 2025 (Maps Update)",
-      "timestamp": "2025-07-28T01:21:09.537363Z"
+      "timestamp": "2025-07-28T03:17:29.709797Z"
     },
     {
       "original": "Military Situation In Ukraine On July 27, 2025 (Maps Update)",
-      "timestamp": "2025-07-28T01:21:09.537367Z"
+      "timestamp": "2025-07-28T03:17:29.709801Z"
     },
     {
       "original": "Israeli Defense Minister Threatens To Target Iran’s Khamenei\nDefense Minister Israel Katz on July 27 threatened Iranian Supreme Leader Ayatollah Ali Khamenei, hinting that Israel could attack Iran again.\nIsrael attacked Iran on June 13, stating that its goal was to cripple Iran’s nuclear program. Later, it expanded its targets to include the Islamic Republic’s missile program. A ceasefire was suddenly announced on June 24, just two days after the United States joined the war by attacking three key nuclear sites.\n“I want to convey a clear message to Khamenei the dictator,” said Katz during a visit to the Ramon Airbase in southern Israel, according to his office. “If you continue to threaten Israel, our long arm will again reach Tehran and with even greater force — and this time to you personally. Do not threaten, lest you be harmed.”\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537377Z"
+      "timestamp": "2025-07-28T03:17:29.709812Z"
     },
     {
       "original": "Military Situation In Gaza Strip On July 27, 2025 (Map Update)",
-      "timestamp": "2025-07-28T01:21:09.537381Z"
+      "timestamp": "2025-07-28T03:17:29.709815Z"
     },
     {
       "original": "Summary of Russian Combat Footage From July 27, 2025\nOn July 27, several videos documenting recent Russian combat operations against Kiev forces were posted to social networks.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537387Z"
+      "timestamp": "2025-07-28T03:17:29.709821Z"
     },
     {
       "original": "Summary of Russian Combat Footage From July 27, 2025\nOn July 27, several videos documenting recent Russian combat operations against Kiev forces were posted to social networks.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537396Z"
+      "timestamp": "2025-07-28T03:17:29.709827Z"
     },
     {
       "original": "Russian Army Is Testing Kalashnikov-Armed FPV Drones \nThe Russian military is testing first-person-view (FPV) multirotor drones armed with Kalashnikov-type rifles, according to video footage released by TASS on July 24.\nThe footage shows one such drone engaging a vehicle from a close range, most likely during a test. The Russian news agency noted, however, that the Kalashnikov-armed drone was being developed to intercept and shoot down Ukrainian grenade-dropping multirotor drones, commonly known as “Baba Yaga”.\n👉\nRead More\n \nHERE",
-      "timestamp": "2025-07-28T01:21:09.537405Z"
+      "timestamp": "2025-07-28T03:17:29.709835Z"
     }
   ],
-  "script_run_time": "2025-07-28T01:21:09.538239Z"
+  "script_run_time": "2025-07-28T03:17:29.710692Z"
 }
