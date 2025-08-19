@@ -1,209 +1,201 @@
 {
   "messages": [
     {
-      "original": "⚠\nУвага!\n🚀\nРакетна небезпека по всій території України!\n🛫\nЗафіксовано зліт МіГ-31К!",
-      "timestamp": "2025-08-18T23:56:51.910289Z"
-    },
-    {
-      "original": "⚠\nУвага! \n🚀\nРакетна небезпека по всій території України! \n🛫\nЗафіксовано зліт МіГ-31К!",
-      "timestamp": "2025-08-18T23:56:51.910307Z"
-    },
-    {
-      "original": "📢\n Відбій загрози МіГ-31К по областях.",
-      "timestamp": "2025-08-18T23:56:51.910313Z"
-    },
-    {
-      "original": "🛵\n Чернігівська область - загроза ударних БпЛА",
-      "timestamp": "2025-08-18T23:56:51.910318Z"
-    },
-    {
-      "original": "☄️\n Загроза застосування балістичного озброєння в областях, де оголошено повітряну тривогу.",
-      "timestamp": "2025-08-18T23:56:51.910322Z"
-    },
-    {
-      "original": "☄️\n Загроза застосування балістичного озброєння в областях, де оголошено повітряну тривогу.",
-      "timestamp": "2025-08-18T23:56:51.910326Z"
-    },
-    {
-      "original": "📢\n Відбій загрози застосування балістичного озброєння по областях.",
-      "timestamp": "2025-08-18T23:56:51.910331Z"
-    },
-    {
       "original": "🛵\n Ударний ворожий БпЛА на півночі Сумщини у напрямку Полтавщини південним курсом.",
-      "timestamp": "2025-08-18T23:56:51.910335Z"
+      "timestamp": "2025-08-19T01:02:21.240335Z"
     },
     {
       "original": "🛵\n Група ударних БпЛА на Сумщині у південному напрямку.",
-      "timestamp": "2025-08-18T23:56:51.910339Z"
+      "timestamp": "2025-08-19T01:02:21.240351Z"
     },
     {
       "original": "🛫\n Активність ворожої тактичної авіації на північно-східному  напрямку!\n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-08-18T23:56:51.910345Z"
+      "timestamp": "2025-08-19T01:02:21.240358Z"
     },
     {
       "original": "🛵\n Групи ударних ворожих БпЛА на сході Дніпропетровщини, курсом на Павлоград.",
-      "timestamp": "2025-08-18T23:56:51.910349Z"
+      "timestamp": "2025-08-19T01:02:21.240363Z"
     },
     {
       "original": "🛵\n Групи ворожих БпЛА на півночі, сході та півдні Сумщини у напрямку Полтавщини (вектор руху Полтава);\nГрупи ворожих БпЛА на сході (межа Дніпропетровщини та Харківщини) вектор руху північний захід (Полтава);\nЩе ворожі БпЛА на Чернігівщині, курс південний та західний.",
-      "timestamp": "2025-08-18T23:56:51.910355Z"
+      "timestamp": "2025-08-19T01:02:21.240369Z"
     },
     {
       "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Запоріжжі.",
-      "timestamp": "2025-08-18T23:56:51.910360Z"
+      "timestamp": "2025-08-19T01:02:21.240373Z"
     },
     {
       "original": "🛵\n Декілька груп ударних ворожих ударних БпЛА зі сходу та півночі рухаються у напрямку Кременчука.",
-      "timestamp": "2025-08-18T23:56:51.910364Z"
+      "timestamp": "2025-08-19T01:02:21.240378Z"
     },
     {
       "original": "⚠\nУвага!\n✈\nЗафіксовано зліт 2-х бортів Ту-95мс.\n🔱\n Про зміну обстановки повідомимо додатково!\n📢\nНе ігноруйте сигнал повітряної тривоги.",
-      "timestamp": "2025-08-18T23:56:51.910372Z"
+      "timestamp": "2025-08-19T01:02:21.240387Z"
     },
     {
       "original": "🛵\n Групи ворожих ударних БпЛА у північно-східній частини України (Сумщина, Полтавщина, Харківщина та північна частина Дніпропетровщини) переважно тримають курс на Кременчук.",
-      "timestamp": "2025-08-18T23:56:51.910377Z"
+      "timestamp": "2025-08-19T01:02:21.240391Z"
     },
     {
       "original": "☄️\n Загроза застосування балістичного озброєння з півдня, в областях де оголошено повітряну тривогу.",
-      "timestamp": "2025-08-18T23:56:51.910381Z"
+      "timestamp": "2025-08-19T01:02:21.240396Z"
     },
     {
       "original": "🚀\nШвидкісна ціль на Одещині курс північно-західний",
-      "timestamp": "2025-08-18T23:56:51.910385Z"
+      "timestamp": "2025-08-19T01:02:21.240403Z"
     },
     {
       "original": "🛵\n Щодо руху ворожих ударних БпЛА:\n1. Групи БпЛА на Сумщині, курс південно-західний (Полтавщина);\n2. Групи БпЛА на Харківщині, курс західний (Полтавщина);\n3. БпЛА на Дніпропетровщині та на північному сході Кіровоградщини, курсом на Кропивницький;\n4. Групи БпЛА на на південному сході Чернігівщини, курсом на Київщину та Черкащину;\n5. Ще БпЛА у напрямку міста Запоріжжя з північного сходу.",
-      "timestamp": "2025-08-18T23:56:51.910392Z"
+      "timestamp": "2025-08-19T01:02:21.240411Z"
     },
     {
       "original": "📢\n Відбій загрози застосування балістичного озброєння для південних областей.",
-      "timestamp": "2025-08-18T23:56:51.910396Z"
+      "timestamp": "2025-08-19T01:02:21.240416Z"
     },
     {
       "original": "🛵\n Групи БпЛА знаходяться між Полтавою та Кременчуком, курс західний та південний;\n🛵\n БпЛА із Сумщини заходять на Полтавщину, курс південний;\n🛵\n БпЛА південніше Кривого Рогу, курс західний;\n🛵\n БпЛА наближаються до Дніпра з півночі.",
-      "timestamp": "2025-08-18T23:56:51.910404Z"
+      "timestamp": "2025-08-19T01:02:21.240425Z"
     },
     {
       "original": "⚠️\n Увага!\n🚀\nЗафіксовано імовірні пуски крилатих ракет стратегічними бомбардувальниками.",
-      "timestamp": "2025-08-18T23:56:51.910410Z"
+      "timestamp": "2025-08-19T01:02:21.240430Z"
+    },
+    {
+      "original": "🛵\n БпЛА на місто Запоріжжя з півночі.",
+      "timestamp": "2025-08-19T01:02:21.240435Z"
+    },
+    {
+      "original": "🚀\nШвидкісна ціль через Харківщину та Полтавщину на Кременчук",
+      "timestamp": "2025-08-19T01:02:21.240441Z"
+    },
+    {
+      "original": "☄️\n Загроза балістичного озброєння з північного сходу.",
+      "timestamp": "2025-08-19T01:02:21.240445Z"
+    },
+    {
+      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Сумщині.",
+      "timestamp": "2025-08-19T01:02:21.240449Z"
+    },
+    {
+      "original": "🛵\n Щодо ворожих ударних БпЛА:\n1. БпЛА на Чернігівщині, курс західний;\n2. БпЛА південніше Кременчука, курсом на місто;\n3. БпЛА на сході Харківщини, курс західний.",
+      "timestamp": "2025-08-19T01:02:21.240455Z"
     },
     {
       "original": "Zaporizhzhia City",
-      "timestamp": "2025-08-18T23:56:52.455772Z"
+      "timestamp": "2025-08-19T01:02:21.772658Z"
     },
     {
       "original": "More from Zaporizhzhia. A large fire is burning at the impact sites.",
-      "timestamp": "2025-08-18T23:56:52.455784Z"
+      "timestamp": "2025-08-19T01:02:21.772669Z"
     },
     {
       "original": "More from Zaporizhzhia. A large fire is burning at the impact sites.",
-      "timestamp": "2025-08-18T23:56:52.455788Z"
+      "timestamp": "2025-08-19T01:02:21.772674Z"
     },
     {
       "original": "Last night, a large-scale Russian Geran-2 drone attack was carried out on Odesa Oblast. At least 26 drones attacked targets in Nerubaiske, Dachne, and Odesa City.  At least 14 impacts were recorded in Nerubaiske and Dachne, along with at least 2 others within…",
-      "timestamp": "2025-08-18T23:56:52.455792Z"
+      "timestamp": "2025-08-19T01:02:21.772677Z"
     },
     {
       "original": "NASA FIRMS data shows that a fire is burning at the Nova Poshta terminal.",
-      "timestamp": "2025-08-18T23:56:52.455795Z"
+      "timestamp": "2025-08-19T01:02:21.772684Z"
     },
     {
       "original": "Over the past 2 hours, 4 Russian Iskander-M ballistic missiles have been launched from three directions, targeting:  Oleksandrivka, Donetsk Oblast. Kharkiv City, Kharkiv Oblast. Sumy City, Sumy Oblast. Pavlohrad, Dnipropetrovsk Oblast.",
-      "timestamp": "2025-08-18T23:56:52.455801Z"
+      "timestamp": "2025-08-19T01:02:21.772689Z"
     },
     {
       "original": "Footage showing last night's Russian Iskander-M ballistic missile strike near Novodonetske, Donetsk Oblast. The missile - equipped with a cluster warhead - targeted a distribution point for FPV drones and ammunition.\nCoordinates\n: 48.6616033, 36.9760846",
-      "timestamp": "2025-08-18T23:56:52.455806Z"
+      "timestamp": "2025-08-19T01:02:21.772694Z"
     },
     {
       "original": "Last night, a combined missile and drone attack was carried out on Sumy Oblast. 1 Iskander-M ballistic missile and at least 8 Geran-2 drones attacked targets in the region.\nThe Iskander-M impacted a building newly used by the SBU and Sumy Regional Governor in Sumy City. Naturally, we didn't get any photos or videos from here.\nAdditionally, 4+ Geran-2 drones impacted a school in Sumy. At least 2 other impacts were also recorded at a \"non-residential building\" in the city of Shostka. All photos and videos are from the school in Sumy. No civilians were killed or injured.",
-      "timestamp": "2025-08-18T23:56:52.455811Z"
+      "timestamp": "2025-08-19T01:02:21.772700Z"
     },
     {
       "original": "Last night, a combined missile and drone attack was carried out on Sumy Oblast. 1 Iskander-M ballistic missile and at least 8 Geran-2 drones attacked targets in the region.\nThe Iskander-M impacted a building newly used by the SBU and Sumy Regional Governor in Sumy City. Naturally, we didn't get any photos or videos from here.\nAdditionally, 4+ Geran-2 drones impacted a school in Sumy. At least 2 other impacts were also recorded at a \"non-residential building\" in the city of Shostka. All photos and videos are from the school in Sumy. No civilians were killed or injured.",
-      "timestamp": "2025-08-18T23:56:52.455816Z"
+      "timestamp": "2025-08-19T01:02:21.772705Z"
     },
     {
       "original": "Last night, another massive Russian Geran-2 drone attack was carried out on Donetsk Oblast, possibly even the largest since the beginning of the war.\nAt least 39 drones attacked the settlements of Dobropillya, Bilozerske, Slovyansk, Novodonetske, Novoyavlenka, Vesela Hora, Shostakivka, Oleksandrivka, Samars'ke, and Druzhkivka.\nAlmost all of them impacted, with air defence activity only taking place in Slovyansk, Oleksandrivka, and Novodonetske. The majority of the strikes occurred in western Donetsk Oblast, while 6+ others struck targets in Druzhkivka and Slovyansk.\nAdditionally, as I've already reported, 1 Iskander-M ballistic missile impacted a distribution point for FPV drones and ammunition for the AFU.",
-      "timestamp": "2025-08-18T23:56:52.455822Z"
+      "timestamp": "2025-08-19T01:02:21.772710Z"
     },
     {
       "original": "Last night, another massive Russian Geran-2 drone attack was carried out on Donetsk Oblast, possibly even the largest since the beginning of the war.\nAt least 39 drones attacked the settlements of Dobropillya, Bilozerske, Slovyansk, Novodonetske, Novoyavlenka, Vesela Hora, Shostakivka, Oleksandrivka, Samars'ke, and Druzhkivka.\nAlmost all of them impacted, with air defence activity only taking place in Slovyansk, Oleksandrivka, and Novodonetske. The majority of the strikes occurred in western Donetsk Oblast, while 6+ others struck targets in Druzhkivka and Slovyansk.\nAdditionally, as I've already reported, 1 Iskander-M ballistic missile impacted a distribution point for FPV drones and ammunition for the AFU.",
-      "timestamp": "2025-08-18T23:56:52.455827Z"
+      "timestamp": "2025-08-19T01:02:21.772716Z"
     },
     {
       "original": "Last night, another massive Russian Geran-2 drone attack was carried out on Donetsk Oblast, possibly even the largest since the beginning of the war.  At least 39 drones attacked the settlements of Dobropillya, Bilozerske, Slovyansk, Novodonetske, Novoyavlenka…",
-      "timestamp": "2025-08-18T23:56:52.455830Z"
+      "timestamp": "2025-08-19T01:02:21.772719Z"
     },
     {
       "original": "Here's a map showing the settlements in Donetsk Oblast that we know were targeted.",
-      "timestamp": "2025-08-18T23:56:52.455833Z"
+      "timestamp": "2025-08-19T01:02:21.772723Z"
     },
     {
       "original": "More from Zaporizhzhia. A large fire is burning at the impact sites.",
-      "timestamp": "2025-08-18T23:56:52.455836Z"
+      "timestamp": "2025-08-19T01:02:21.772726Z"
     },
     {
       "original": "The two Iskanders impacted a commercial building in Zaporizhzhia City, rather than the Motor Sich Plant. Secondary detonations were heard right after the impacts. \nCoordinates: 47.874154, 35.048445",
-      "timestamp": "2025-08-18T23:56:52.455840Z"
+      "timestamp": "2025-08-19T01:02:21.772730Z"
     },
     {
       "original": "The two Iskanders impacted a commercial building in Zaporizhzhia City, rather than the Motor Sich Plant. Secondary detonations were heard right after the impacts. \nCoordinates: 47.874154, 35.048445",
-      "timestamp": "2025-08-18T23:56:52.455844Z"
+      "timestamp": "2025-08-19T01:02:21.772734Z"
     },
     {
       "original": "What Deepstate isn't telling you is that over 5,000km² (around 85% of their number) was captured in the last year.\nAdvances in a war of attrition aren't linear.",
-      "timestamp": "2025-08-18T23:56:52.455848Z"
+      "timestamp": "2025-08-19T01:02:21.772737Z"
     },
     {
       "original": "The Ukrainian General Staff stated that Ukrainian UAVs attacked the Nikskoe oil pumping station near Novonikolskoe, Tambov Oblast, last night. \nNASA FIRMS data shows that a large fire has broken out, and the general staff reports that oil pumping through the Druzhba pipeline has been halted. \nCoordinates: 52.804486, 40.367500",
-      "timestamp": "2025-08-18T23:56:52.455852Z"
+      "timestamp": "2025-08-19T01:02:21.772742Z"
     },
     {
       "original": "Last night, Ukrainian UAVs attacked Donetsk City. At least three impacts were recorded to a boarding school at 47.955690, 37.791983, where a fire subsequently broke out.",
-      "timestamp": "2025-08-18T23:56:52.455857Z"
+      "timestamp": "2025-08-19T01:02:21.772745Z"
     },
     {
       "original": "Last night, Ukrainian UAVs attacked Donetsk City. At least three impacts were recorded to a boarding school at 47.955690, 37.791983, where a fire subsequently broke out.",
-      "timestamp": "2025-08-18T23:56:52.455860Z"
+      "timestamp": "2025-08-19T01:02:21.772749Z"
     },
     {
       "original": "The Hammer Falls: Russia’s Combined Night Strikes Left Ukraine Reeling\nUnder cover of darkness, Russian forces launched one of their most intense aerial campaigns in recent weeks, striking targets across Ukraine with devastating effect. The tactical pause amid the Alaska talks is over. On the night of August 18th, the wave of strikes saw at least 140 Geran-type loitering munitions and four Iskander-M ballistic missiles unleashed against critical infrastructure and military facilities, demonstrating Moscow’s ability to sustain deep-strike operations even during high-level diplomatic talks between Ukraine and the United States. This was not the most massive Russian attack, but the scale of the confirmed destruction again highlights the impotence of Ukrainian air defense...\nRead more: \nHERE",
-      "timestamp": "2025-08-18T23:56:52.956212Z"
+      "timestamp": "2025-08-19T01:02:22.240269Z"
     },
     {
       "original": "The Hammer Falls: Russia’s Combined Night Strikes Left Ukraine Reeling\nUnder cover of darkness, Russian forces launched one of their most intense aerial campaigns in recent weeks, striking targets across Ukraine with devastating effect. The tactical pause amid the Alaska talks is over. On the night of August 18th, the wave of strikes saw at least 140 Geran-type loitering munitions and four Iskander-M ballistic missiles unleashed against critical infrastructure and military facilities, demonstrating Moscow’s ability to sustain deep-strike operations even during high-level diplomatic talks between Ukraine and the United States. This was not the most massive Russian attack, but the scale of the confirmed destruction again highlights the impotence of Ukrainian air defense...\nRead more: \nHERE",
-      "timestamp": "2025-08-18T23:56:52.956226Z"
+      "timestamp": "2025-08-19T01:02:22.240285Z"
     },
     {
       "original": "After Assad, Zionism And The Turks Coordinate Efforts Against The Islamic Resistance In Syria\nWhile the world media covering the events in Syria trumpet the genocide of the Druze and describe it as a form of “cold war” between the pro-Druze Zionists on one side and the Turks as the side supporting the Tahrir al-Sham (formerly Jabhat al-Nusra) regime on the other side. However, the reality of Syria is such that upon closer inspection the average person will see a completely different picture...\nRead more: \nHERE",
-      "timestamp": "2025-08-18T23:56:52.956233Z"
+      "timestamp": "2025-08-19T01:02:22.240291Z"
     },
     {
       "original": "Military Situation In Palestine On August 18, 2025 (Map Update)",
-      "timestamp": "2025-08-18T23:56:52.956237Z"
+      "timestamp": "2025-08-19T01:02:22.240296Z"
     },
     {
       "original": "Pipeline Warfare: Ukrainian Drones Target Russia’s Oil Lifeline\nOvernight, Ukrainian drones struck deep into Russian territory, likely hitting the Nikolskoe station in Tambov region. This is the latest in a wave of attacks crippling Russia’s energy infrastructure. The assault, some 340 km from Ukraine’s border, confirms the ongoing Kyiv’s effort to undermine Russia’s oil exports, a critical pillar of its war economy. The Nikolskoe facility is one of the hubs along the Druzhba pipeline, which supplies crude oil to Europe. This follows an August 13 attack on the Unecha pumping station in Bryansk Oblast—another critical node in the same pipeline—which temporarily halted oil deliveries to Hungary and drew sharp condemnation from Budapest...\nRead more: \nHERE",
-      "timestamp": "2025-08-18T23:56:52.956243Z"
+      "timestamp": "2025-08-19T01:02:22.240302Z"
     },
     {
       "original": "Pipeline Warfare: Ukrainian Drones Target Russia’s Oil Lifeline\nOvernight, Ukrainian drones struck deep into Russian territory, likely hitting the Nikolskoe station in Tambov region. This is the latest in a wave of attacks crippling Russia’s energy infrastructure. The assault, some 340 km from Ukraine’s border, confirms the ongoing Kyiv’s effort to undermine Russia’s oil exports, a critical pillar of its war economy. The Nikolskoe facility is one of the hubs along the Druzhba pipeline, which supplies crude oil to Europe. This follows an August 13 attack on the Unecha pumping station in Bryansk Oblast—another critical node in the same pipeline—which temporarily halted oil deliveries to Hungary and drew sharp condemnation from Budapest...\nRead more: \nHERE",
-      "timestamp": "2025-08-18T23:56:52.956250Z"
+      "timestamp": "2025-08-19T01:02:22.240308Z"
     },
     {
       "original": "Military Situation In Ukraine On August 18, 2025 (Map Update)",
-      "timestamp": "2025-08-18T23:56:52.956253Z"
+      "timestamp": "2025-08-19T01:02:22.240312Z"
     },
     {
       "original": "Military Situation In Ukraine On August 18, 2025 (Map Update)",
-      "timestamp": "2025-08-18T23:56:52.956258Z"
+      "timestamp": "2025-08-19T01:02:22.240317Z"
     },
     {
       "original": "KYIV'S LAST-HOPE GAMBLE: NO NEW GAINS WITH OLD TERRORIST TACTICS",
-      "timestamp": "2025-08-18T23:56:52.956261Z"
+      "timestamp": "2025-08-19T01:02:22.240320Z"
     }
   ],
-  "script_run_time": "2025-08-18T23:56:52.957082Z"
+  "script_run_time": "2025-08-19T01:02:22.241172Z"
 }
