@@ -1,245 +1,265 @@
 {
   "messages": [
     {
-      "original": "🛵\n Київщина:  БпЛА \n➡️\n на Вишгород/ Бориспіль/ Київ!",
-      "timestamp": "2025-09-03T03:07:42.784713Z"
-    },
-    {
-      "original": "Перша група ракет із Миколаївщини \n➡️\n на Одещину!",
-      "timestamp": "2025-09-03T03:07:42.784732Z"
-    },
-    {
-      "original": "Одещина: КР \n➡️\n курсом на Ширяєве!\nМиколаївщина:  КР \n➡️\n повз Нову Одесу!",
-      "timestamp": "2025-09-03T03:07:42.784739Z"
-    },
-    {
-      "original": "Одещина: КР \n➡️\n курсом на Ширяєве! Миколаївщина:  КР \n➡️\n повз Нову Одесу!",
-      "timestamp": "2025-09-03T03:07:42.784745Z"
-    },
-    {
       "original": "Ракета із Одещини \n➡️\n на Вінниччину!",
-      "timestamp": "2025-09-03T03:07:42.784751Z"
-    },
-    {
-      "original": "Ракета із Одещини \n➡️\n на Вінниччину!",
-      "timestamp": "2025-09-03T03:07:42.784755Z"
+      "timestamp": "2025-09-03T03:34:34.820581Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T03:07:42.784760Z"
+      "timestamp": "2025-09-03T03:34:34.820598Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T03:07:42.784764Z"
+      "timestamp": "2025-09-03T03:34:34.820603Z"
     },
     {
       "original": "Друга група КР дублює маршрут: через Одещину \n➡️\n у напрямку Вінниччини!",
-      "timestamp": "2025-09-03T03:07:42.784769Z"
+      "timestamp": "2025-09-03T03:34:34.820608Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T03:07:42.784777Z"
+      "timestamp": "2025-09-03T03:34:34.820613Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T03:07:42.784782Z"
+      "timestamp": "2025-09-03T03:34:34.820618Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T03:07:42.784787Z"
+      "timestamp": "2025-09-03T03:34:34.820622Z"
     },
     {
       "original": "+ група ракет з Вінниччини на Житомирщину!",
-      "timestamp": "2025-09-03T03:07:42.784790Z"
+      "timestamp": "2025-09-03T03:34:34.820625Z"
     },
     {
       "original": "+ група ракет з Вінниччини на Житомирщину!",
-      "timestamp": "2025-09-03T03:07:42.784794Z"
+      "timestamp": "2025-09-03T03:34:34.820628Z"
     },
     {
       "original": "КР \n➡️\n курсом на Озерне!",
-      "timestamp": "2025-09-03T03:07:42.784798Z"
+      "timestamp": "2025-09-03T03:34:34.820633Z"
     },
     {
       "original": "КР \n➡️\n курсом на Озерне!",
-      "timestamp": "2025-09-03T03:07:42.784803Z"
+      "timestamp": "2025-09-03T03:34:34.820638Z"
     },
     {
       "original": "КР тримає курс \n➡️\n на Київщину!",
-      "timestamp": "2025-09-03T03:07:42.784807Z"
+      "timestamp": "2025-09-03T03:34:34.820643Z"
     },
     {
       "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
-      "timestamp": "2025-09-03T03:07:42.784813Z"
+      "timestamp": "2025-09-03T03:34:34.820649Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T03:07:42.784818Z"
+      "timestamp": "2025-09-03T03:34:34.820653Z"
     },
     {
       "original": "КР через Хмельниччину (Ярмолинці) \n➡️\n у напрямку Тернопільської області!",
-      "timestamp": "2025-09-03T03:07:42.784822Z"
+      "timestamp": "2025-09-03T03:34:34.820658Z"
     },
     {
       "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
-      "timestamp": "2025-09-03T03:07:42.784828Z"
+      "timestamp": "2025-09-03T03:34:34.820663Z"
     },
     {
       "original": "Декілька груп КР \n➡️\n через Полтавщину! Полтава \n➡️\n терміново в укриття!",
-      "timestamp": "2025-09-03T03:07:42.784834Z"
+      "timestamp": "2025-09-03T03:34:34.820672Z"
     },
     {
       "original": "КР через Хмельниччину (Ярмолинці) \n➡️\n у напрямку Тернопільської області!",
-      "timestamp": "2025-09-03T03:07:42.784840Z"
+      "timestamp": "2025-09-03T03:34:34.820676Z"
     },
     {
       "original": "Ракети через Тернопільську область \n➡️\n на Івано-Франківську!",
-      "timestamp": "2025-09-03T03:07:42.784848Z"
+      "timestamp": "2025-09-03T03:34:34.820683Z"
     },
     {
       "original": "Декілька груп КР \n➡️\n через Полтавщину! Полтава \n➡️\n терміново в укриття!",
-      "timestamp": "2025-09-03T03:07:42.784854Z"
+      "timestamp": "2025-09-03T03:34:34.820688Z"
     },
     {
       "original": "Група КР через Лубни \n➡️\n у напрямку Черкащини/Київщини!",
-      "timestamp": "2025-09-03T03:07:42.784859Z"
+      "timestamp": "2025-09-03T03:34:34.820693Z"
     },
     {
       "original": "Група КР через Лубни \n➡️\n у напрямку Черкащини/Київщини!",
-      "timestamp": "2025-09-03T03:07:42.784863Z"
+      "timestamp": "2025-09-03T03:34:34.820697Z"
     },
     {
       "original": "Через Канів західним курсом!",
-      "timestamp": "2025-09-03T03:07:42.784866Z"
+      "timestamp": "2025-09-03T03:34:34.820700Z"
     },
     {
       "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
-      "timestamp": "2025-09-03T03:07:42.784872Z"
+      "timestamp": "2025-09-03T03:34:34.820706Z"
     },
     {
       "original": "Група КР повз Чернігівську область \n➡️\n в напрямку Київської!",
-      "timestamp": "2025-09-03T03:07:42.784876Z"
+      "timestamp": "2025-09-03T03:34:34.820712Z"
     },
     {
       "original": "🛵\n Нові групи ударних БпЛА \n➡️\n через Чернігівщину!",
-      "timestamp": "2025-09-03T03:07:42.784883Z"
+      "timestamp": "2025-09-03T03:34:34.820719Z"
     },
     {
       "original": "Через Канів західним курсом!",
-      "timestamp": "2025-09-03T03:07:42.784887Z"
+      "timestamp": "2025-09-03T03:34:34.820722Z"
     },
     {
       "original": "КР \n➡️\n в районі Корсунь-Шевченківського. Курс \n➡️\n південь Київщини!",
-      "timestamp": "2025-09-03T03:07:42.784892Z"
+      "timestamp": "2025-09-03T03:34:34.820728Z"
     },
     {
       "original": "КР \n➡️\n в районі Корсунь-Шевченківського. Курс \n➡️\n південь Київщини!",
-      "timestamp": "2025-09-03T03:07:42.784898Z"
+      "timestamp": "2025-09-03T03:34:34.820733Z"
     },
     {
       "original": "Група ракет \n➡️\n через Погребище! Курс \n➡️\n західний.",
-      "timestamp": "2025-09-03T03:07:42.784903Z"
+      "timestamp": "2025-09-03T03:34:34.820739Z"
     },
     {
       "original": "Група ракет \n➡️\n через Погребище! Курс \n➡️\n західний.",
-      "timestamp": "2025-09-03T03:07:42.784911Z"
+      "timestamp": "2025-09-03T03:34:34.820744Z"
     },
     {
       "original": "КР \n➡️\n у напрямку Старокостянтинова на Хмельниччині.",
-      "timestamp": "2025-09-03T03:07:42.784915Z"
+      "timestamp": "2025-09-03T03:34:34.820749Z"
     },
     {
-      "original": "Kalibr group 1 is flying west past Khmelnytskyi City towards Ternopil Oblast.\nNo updates from group 2.\nKalibr group 3 continues to fly northwest, and has passed Vinnytsia City.",
-      "timestamp": "2025-09-03T03:07:43.151604Z"
+      "original": "КР \n➡️\n у напрямку Старокостянтинова на Хмельниччині.",
+      "timestamp": "2025-09-03T03:34:34.820753Z"
     },
     {
-      "original": "Kalibr group 2 changed course to Ivankiv, Kyiv Oblast.\nNo changes to groups 1 & 2.",
-      "timestamp": "2025-09-03T03:07:43.151615Z"
+      "original": "Хмельницький \n➡️\nукриття! Ракета \n➡️\n в напрямку міста!",
+      "timestamp": "2025-09-03T03:34:34.820759Z"
     },
     {
-      "original": "Kh-101s have entered Ukrainian airspace via Sumy Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151620Z"
+      "original": "КР \n➡️\n у напрямку Старокостянтинова на Хмельниччині.",
+      "timestamp": "2025-09-03T03:34:34.820764Z"
     },
     {
-      "original": "Kh-101 group 1 flew past Okhtyrka, Sumy Oblast, towards Hadyach, Poltava Oblast.\nKalibr groups 1 & 3 are flying towards Chortkiv District, Ternopil Oblast. \nKalibr group 2 has disappeared for now.",
-      "timestamp": "2025-09-03T03:07:43.151624Z"
+      "original": "КР з Хмельниччини \n➡️\n у напрямку Тернопільщини!",
+      "timestamp": "2025-09-03T03:34:34.820768Z"
     },
     {
-      "original": "Kh-101 group 1 (~5 pcs) is flying towards Lubny, Poltava Oblast.\nNo changes to the Kalibrs.",
-      "timestamp": "2025-09-03T03:07:43.151628Z"
+      "original": "КР з Хмельниччини \n➡️\n у напрямку Тернопільщини!",
+      "timestamp": "2025-09-03T03:34:34.820772Z"
     },
     {
-      "original": "Kh-101 group continues to fly west/southwest through northern Poltava Oblast.\nA second group of Kh-101s has entered Sumy Oblast, flying towards Lebedyn.\nKalibr group 1 is flying through southern Ternopil Oblast towards Ivano-Frankivsk.\nKalibr group 3 is flying towards Husyatyn, Ternopil Oblast, still flying behind group 2.\nKalibr group 2 (~3 pcs) likely impacted a target in northwestern Kyiv Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151635Z"
-    },
-    {
-      "original": "Kalibr group 1 changed course towards Kalush, Ivano-Frankivsk Oblast.\nKalibr group 3 continues to follow behind group 1.\nKh-101 group 1 is flying west/southwest past Lubny.\nKh-101 group 2 is flying southwest from the Poltava-Chernihiv Oblast border towards the Poltava-Cherkasy Oblast border.",
-      "timestamp": "2025-09-03T03:07:43.151640Z"
-    },
-    {
-      "original": "Explosions in Kalush, Ivano-Frankivsk Oblast. Multiple Kalibr impacts.",
-      "timestamp": "2025-09-03T03:07:43.151643Z"
-    },
-    {
-      "original": "More explosions in Kalush.",
-      "timestamp": "2025-09-03T03:07:43.151647Z"
-    },
-    {
-      "original": "All clear on Kalibrs for now.",
-      "timestamp": "2025-09-03T03:07:43.151650Z"
-    },
-    {
-      "original": "Kh-101 group 1 flew past Kaniv, Cherkasy Oblast, towards Stavyshche, Kyiv Oblast. \nKh-101 group 2 changed Is flying southwest along the Kyiv-Cherkasy Oblast border.",
-      "timestamp": "2025-09-03T03:07:43.151654Z"
-    },
-    {
-      "original": "Correction: Kh-101 group 2 is flying towards Boryspil, Kyiv Oblast, after flying past Ichnya, Chernihiv Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151657Z"
-    },
-    {
-      "original": "Kh-101s are flying low northeast of Kyiv.",
-      "timestamp": "2025-09-03T03:07:43.151660Z"
-    },
-    {
-      "original": "Kh-101s are flying low northeast of Kyiv.",
-      "timestamp": "2025-09-03T03:07:43.151663Z"
+      "original": "Ракета з Тернопільщини \n➡️\n на Івано-Франківщину!",
+      "timestamp": "2025-09-03T03:34:34.820778Z"
     },
     {
       "original": "3 Kh-101s to Vyshhorod, Kyiv Oblast (north of Kyiv).",
-      "timestamp": "2025-09-03T03:07:43.151666Z"
-    },
-    {
-      "original": "3 Kh-101s to Vyshhorod, Kyiv Oblast (north of Kyiv).",
-      "timestamp": "2025-09-03T03:07:43.151669Z"
+      "timestamp": "2025-09-03T03:34:35.185535Z"
     },
     {
       "original": "The missiles in Kyiv Oblast disappeared again. They may still be flying low.",
-      "timestamp": "2025-09-03T03:07:43.151672Z"
+      "timestamp": "2025-09-03T03:34:35.185546Z"
     },
     {
       "original": "Kh-101 group 1 disappeared near the Kyiv-Chernihiv Oblast border.\nKh-101 group 2 changed course to the north, flying towards Tetiiv, Kyiv Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151676Z"
+      "timestamp": "2025-09-03T03:34:35.185551Z"
     },
     {
       "original": "Kh-101 group 2 is gone. Unclear if it impacted or if the last ones were shot down there.\nKh-101 group 1 flew west over Kozyatyn to Khmelnytskyi Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151680Z"
+      "timestamp": "2025-09-03T03:34:35.185555Z"
     },
     {
       "original": "The last Kh-101s seem to be heading to Starokostyantyniv Airbase, Khmelnytskyi Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151682Z"
+      "timestamp": "2025-09-03T03:34:35.185558Z"
     },
     {
       "original": "The last Kh-101s seem to be heading to Starokostyantyniv Airbase, Khmelnytskyi Oblast.",
-      "timestamp": "2025-09-03T03:07:43.151685Z"
+      "timestamp": "2025-09-03T03:34:35.185562Z"
     },
     {
       "original": "They should hit the Airbase in ~5 minutes",
-      "timestamp": "2025-09-03T03:07:43.151688Z"
+      "timestamp": "2025-09-03T03:34:35.185565Z"
     },
     {
       "original": "The last Kh-101 group turned away from Starokostyantyniv and is now flying southwest towards Khmelnytskyi City.",
-      "timestamp": "2025-09-03T03:07:43.151691Z"
+      "timestamp": "2025-09-03T03:34:35.185568Z"
+    },
+    {
+      "original": "The last Kh-101 group continues to fly southwest, and is bypassing Khmelnytskyi city from the south, flying towards Chortkiv, Ternopil Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185571Z"
+    },
+    {
+      "original": "The last Kh-101 group continues to fly southwest, and is bypassing Khmelnytskyi city from the south, flying towards Chortkiv, Ternopil Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185574Z"
+    },
+    {
+      "original": "The missiles turned back to Khmelnytskyi City.",
+      "timestamp": "2025-09-03T03:34:35.185577Z"
+    },
+    {
+      "original": "The missiles turned back to Khmelnytskyi City.",
+      "timestamp": "2025-09-03T03:34:35.185581Z"
+    },
+    {
+      "original": "Over the city",
+      "timestamp": "2025-09-03T03:34:35.185584Z"
+    },
+    {
+      "original": "2-3 missiles",
+      "timestamp": "2025-09-03T03:34:35.185587Z"
+    },
+    {
+      "original": "Explosions in Khmelnytskyi City",
+      "timestamp": "2025-09-03T03:34:35.185590Z"
+    },
+    {
+      "original": "2-3 missiles split off before the group flew to Khmelnytskyi City. They are now flying west towards Chortkiv, Ternopil Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185593Z"
+    },
+    {
+      "original": "The last group of Kh-101s is flying west towards Kopychyntsi, Ternopil Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185596Z"
+    },
+    {
+      "original": "Ukrainian F-16s and possibly Mirage-2000s are working to shoot down missiles. They flew over Khmelnytskyi a short time ago.",
+      "timestamp": "2025-09-03T03:34:35.185599Z"
+    },
+    {
+      "original": "The last group of Kh-101s is flying southwest/west towards northern Ivano-Frankivsk Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185602Z"
+    },
+    {
+      "original": "The last group of Kh-101s is flying southwest/west towards northern Ivano-Frankivsk Oblast.",
+      "timestamp": "2025-09-03T03:34:35.185605Z"
+    },
+    {
+      "original": "They are flying to Kalush, Ivano-Frankivsk Oblast. This is where the Kalibrs hit earlier.",
+      "timestamp": "2025-09-03T03:34:35.185608Z"
+    },
+    {
+      "original": "They are flying to Kalush, Ivano-Frankivsk Oblast. This is where the Kalibrs hit earlier.",
+      "timestamp": "2025-09-03T03:34:35.185610Z"
+    },
+    {
+      "original": "~40km from Kalush",
+      "timestamp": "2025-09-03T03:34:35.185613Z"
+    },
+    {
+      "original": "~40km from Kalush",
+      "timestamp": "2025-09-03T03:34:35.185616Z"
+    },
+    {
+      "original": "Explosions in Kalush, Ivano-Frankivsk Oblast. Impacts.",
+      "timestamp": "2025-09-03T03:34:35.185619Z"
+    },
+    {
+      "original": "The missile attack is over. \nApologies for missing so many lately, I've just been super busy. I hope you enjoyed the coverage. I will publish estimations and results of the attacks a little later.",
+      "timestamp": "2025-09-03T03:34:35.185623Z"
+    },
+    {
+      "original": "If you currently live in Ukraine or Russia and feel comfortable with getting in contact with me, please DM me. I’m looking to increase the scope of my sourcing and reliability of the information I provide, especially on Russian and Ukrainian attacks. \nYou will remain anonymous, and in complete control of the information you choose to provide, and how you provide it. I will only publish information that you allow me to, and that doesn’t put anyone from any side at risk. This will be extremely beneficial to my reporting. \nMy telegram account: \n@AMK_Mapping1\n. I also have Signal if you prefer that.",
+      "timestamp": "2025-09-03T03:34:35.185630Z"
     }
   ],
-  "script_run_time": "2025-09-03T03:07:43.531831Z"
+  "script_run_time": "2025-09-03T03:34:35.581061Z"
 }
