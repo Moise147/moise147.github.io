@@ -1,233 +1,245 @@
 {
   "messages": [
     {
-      "original": "🛵\n Львів \n➡️\n БпЛА у напрямку міста!",
-      "timestamp": "2025-09-03T02:35:11.215205Z"
-    },
-    {
-      "original": "🛵\n Львівщина: БпЛА \n➡️\n у районі Нового Калинова.",
-      "timestamp": "2025-09-03T02:35:11.215222Z"
-    },
-    {
-      "original": "⚠\nУвага!\nСхідні регіони - ракетна небезпека!",
-      "timestamp": "2025-09-03T02:35:11.215228Z"
-    },
-    {
-      "original": "⚠\nУвага! Східні регіони - ракетна небезпека!",
-      "timestamp": "2025-09-03T02:35:11.215232Z"
-    },
-    {
-      "original": "+ Південні регіони - ракетна небезпека!",
-      "timestamp": "2025-09-03T02:35:11.215236Z"
-    },
-    {
-      "original": "+ Південні регіони - ракетна небезпека!",
-      "timestamp": "2025-09-03T02:35:11.215239Z"
-    },
-    {
-      "original": "Ракета \n➡️\n на Миколаївську область! Курсом на Снігурівку!",
-      "timestamp": "2025-09-03T02:35:11.215244Z"
-    },
-    {
-      "original": "Ракета \n➡️\n на Миколаївську область! Курсом на Снігурівку!",
-      "timestamp": "2025-09-03T02:35:11.215249Z"
-    },
-    {
-      "original": "Калібри \n➡️\n повз Баштанку! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215253Z"
-    },
-    {
-      "original": "Калібри \n➡️\n повз Баштанку! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215258Z"
-    },
-    {
-      "original": "Ще одна група ракет через Миколаївщину!",
-      "timestamp": "2025-09-03T02:35:11.215261Z"
-    },
-    {
-      "original": "Калібри \n➡️\n повз Баштанку! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215270Z"
-    },
-    {
-      "original": "Перша група ракет із Миколаївщини \n➡️\n на Одещину!",
-      "timestamp": "2025-09-03T02:35:11.215275Z"
-    },
-    {
       "original": "🛵\n Київщина:  БпЛА \n➡️\n на Вишгород/ Бориспіль/ Київ!",
-      "timestamp": "2025-09-03T02:35:11.215280Z"
+      "timestamp": "2025-09-03T03:07:42.784713Z"
     },
     {
       "original": "Перша група ракет із Миколаївщини \n➡️\n на Одещину!",
-      "timestamp": "2025-09-03T02:35:11.215285Z"
+      "timestamp": "2025-09-03T03:07:42.784732Z"
     },
     {
       "original": "Одещина: КР \n➡️\n курсом на Ширяєве!\nМиколаївщина:  КР \n➡️\n повз Нову Одесу!",
-      "timestamp": "2025-09-03T02:35:11.215291Z"
+      "timestamp": "2025-09-03T03:07:42.784739Z"
     },
     {
       "original": "Одещина: КР \n➡️\n курсом на Ширяєве! Миколаївщина:  КР \n➡️\n повз Нову Одесу!",
-      "timestamp": "2025-09-03T02:35:11.215297Z"
+      "timestamp": "2025-09-03T03:07:42.784745Z"
     },
     {
       "original": "Ракета із Одещини \n➡️\n на Вінниччину!",
-      "timestamp": "2025-09-03T02:35:11.215301Z"
+      "timestamp": "2025-09-03T03:07:42.784751Z"
     },
     {
       "original": "Ракета із Одещини \n➡️\n на Вінниччину!",
-      "timestamp": "2025-09-03T02:35:11.215306Z"
+      "timestamp": "2025-09-03T03:07:42.784755Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215310Z"
+      "timestamp": "2025-09-03T03:07:42.784760Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215314Z"
+      "timestamp": "2025-09-03T03:07:42.784764Z"
     },
     {
       "original": "Друга група КР дублює маршрут: через Одещину \n➡️\n у напрямку Вінниччини!",
-      "timestamp": "2025-09-03T02:35:11.215319Z"
+      "timestamp": "2025-09-03T03:07:42.784769Z"
     },
     {
       "original": "КР \n➡️\n через Вінниччину! Курс північно-західний!",
-      "timestamp": "2025-09-03T02:35:11.215323Z"
+      "timestamp": "2025-09-03T03:07:42.784777Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T02:35:11.215338Z"
+      "timestamp": "2025-09-03T03:07:42.784782Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T02:35:11.215343Z"
+      "timestamp": "2025-09-03T03:07:42.784787Z"
     },
     {
       "original": "+ група ракет з Вінниччини на Житомирщину!",
-      "timestamp": "2025-09-03T02:35:11.215347Z"
+      "timestamp": "2025-09-03T03:07:42.784790Z"
     },
     {
       "original": "+ група ракет з Вінниччини на Житомирщину!",
-      "timestamp": "2025-09-03T02:35:11.215350Z"
+      "timestamp": "2025-09-03T03:07:42.784794Z"
     },
     {
       "original": "КР \n➡️\n курсом на Озерне!",
-      "timestamp": "2025-09-03T02:35:11.215354Z"
+      "timestamp": "2025-09-03T03:07:42.784798Z"
     },
     {
       "original": "КР \n➡️\n курсом на Озерне!",
-      "timestamp": "2025-09-03T02:35:11.215359Z"
+      "timestamp": "2025-09-03T03:07:42.784803Z"
     },
     {
       "original": "КР тримає курс \n➡️\n на Київщину!",
-      "timestamp": "2025-09-03T02:35:11.215367Z"
+      "timestamp": "2025-09-03T03:07:42.784807Z"
     },
     {
       "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
-      "timestamp": "2025-09-03T02:35:11.215373Z"
+      "timestamp": "2025-09-03T03:07:42.784813Z"
     },
     {
       "original": "Ракети через Жмеринський район\n➡️\n у напрямку Хмельниччини!",
-      "timestamp": "2025-09-03T02:35:11.215380Z"
+      "timestamp": "2025-09-03T03:07:42.784818Z"
     },
     {
       "original": "КР через Хмельниччину (Ярмолинці) \n➡️\n у напрямку Тернопільської області!",
-      "timestamp": "2025-09-03T02:35:11.215385Z"
+      "timestamp": "2025-09-03T03:07:42.784822Z"
     },
     {
       "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
-      "timestamp": "2025-09-03T02:35:11.215390Z"
+      "timestamp": "2025-09-03T03:07:42.784828Z"
     },
     {
       "original": "Декілька груп КР \n➡️\n через Полтавщину! Полтава \n➡️\n терміново в укриття!",
-      "timestamp": "2025-09-03T02:35:11.215396Z"
+      "timestamp": "2025-09-03T03:07:42.784834Z"
     },
     {
       "original": "КР через Хмельниччину (Ярмолинці) \n➡️\n у напрямку Тернопільської області!",
-      "timestamp": "2025-09-03T02:35:11.215400Z"
+      "timestamp": "2025-09-03T03:07:42.784840Z"
     },
     {
       "original": "Ракети через Тернопільську область \n➡️\n на Івано-Франківську!",
-      "timestamp": "2025-09-03T02:35:11.215406Z"
+      "timestamp": "2025-09-03T03:07:42.784848Z"
     },
     {
-      "original": "14-16 Kalibrs were launched in total.",
-      "timestamp": "2025-09-03T02:35:11.680474Z"
+      "original": "Декілька груп КР \n➡️\n через Полтавщину! Полтава \n➡️\n терміново в укриття!",
+      "timestamp": "2025-09-03T03:07:42.784854Z"
     },
     {
-      "original": "The first Kalibrs are entering Ukrainian airspace via Kakhovka, Kherson Oblast.",
-      "timestamp": "2025-09-03T02:35:11.680483Z"
+      "original": "Група КР через Лубни \n➡️\n у напрямку Черкащини/Київщини!",
+      "timestamp": "2025-09-03T03:07:42.784859Z"
     },
     {
-      "original": "The first group of Kalibrs is flying to Snihurivka, Mykolaiv Oblast. Northwestern course.",
-      "timestamp": "2025-09-03T02:35:11.680487Z"
+      "original": "Група КР через Лубни \n➡️\n у напрямку Черкащини/Київщини!",
+      "timestamp": "2025-09-03T03:07:42.784863Z"
     },
     {
-      "original": "Kalibr group 1 flew over Snihurivka, towards eastern Voznesenskyi District, Mykolaiv Oblast.",
-      "timestamp": "2025-09-03T02:35:11.680490Z"
+      "original": "Через Канів західним курсом!",
+      "timestamp": "2025-09-03T03:07:42.784866Z"
     },
     {
-      "original": "A 2nd group of Kalibrs has entered Ukrainian airspace, also via Kakhovka. A minimum of 2 missiles in this group.",
-      "timestamp": "2025-09-03T02:35:11.680493Z"
+      "original": "Нова група КР \n➡️\n через Сумщину! Курс \n➡️\n на Полтавщину!",
+      "timestamp": "2025-09-03T03:07:42.784872Z"
     },
     {
-      "original": "A third group of missiles entered Ukrainian airspace via Beryslav, Kherson Oblast. \nGroup 1 continues to fly towards Pivdennoukrainsk.\nGroup 2 flies towards Veselynove.\n10+ missiles in Ukrainian airspace, all in Mykolaiv Oblast flying northwest.",
-      "timestamp": "2025-09-03T02:35:11.680499Z"
+      "original": "Група КР повз Чернігівську область \n➡️\n в напрямку Київської!",
+      "timestamp": "2025-09-03T03:07:42.784876Z"
     },
     {
-      "original": "Kalibr group 1 is flying west towards the Odesa-Vinnytsia Oblast border.\nGroup 2 is flying past Veselynove, Mykolaiv Oblast.\nGroup 3 is flying towards the Baskhtanka - Pivdennoukrainsk area, Mykolaiv Oblast.",
-      "timestamp": "2025-09-03T02:35:11.680504Z"
+      "original": "🛵\n Нові групи ударних БпЛА \n➡️\n через Чернігівщину!",
+      "timestamp": "2025-09-03T03:07:42.784883Z"
     },
     {
-      "original": "Correction on the missiles:\nKalibr groups 1 & 2 flew south of Voznesensk, Mykolaiv Oblast, towards Podilsk, Odesa Oblast. Now they have changed course towards southeastern Vinnytsia Oblast.\nGroup 3 is following behind.",
-      "timestamp": "2025-09-03T02:35:11.680511Z"
+      "original": "Через Канів західним курсом!",
+      "timestamp": "2025-09-03T03:07:42.784887Z"
     },
     {
-      "original": "Repeated launch maneuvers were carried out by Tu-95MS/160 strategic bombers, likely from Kalachyovksy District, Volgograd Oblast. We will find out if the second launch maneuvers were real or not in the next 10-15 minutes.",
-      "timestamp": "2025-09-03T02:35:11.680515Z"
+      "original": "КР \n➡️\n в районі Корсунь-Шевченківського. Курс \n➡️\n південь Київщини!",
+      "timestamp": "2025-09-03T03:07:42.784892Z"
     },
     {
-      "original": "Kalibr group 1 has entered southwestern Vinnytsia Oblast. Groups 2 & 3 are following behind. \nStill around 10 missiles recorded in Ukrainian airspace.",
-      "timestamp": "2025-09-03T02:35:11.680519Z"
+      "original": "КР \n➡️\n в районі Корсунь-Шевченківського. Курс \n➡️\n південь Київщини!",
+      "timestamp": "2025-09-03T03:07:42.784898Z"
     },
     {
-      "original": "Kalibr group 1 is flying towards Vinnytsia City. It will likely bypass the city from the south and fly to Khmelnytskyi Oblast.\nKalibr group 2 has entered southeastern Vinnytsia Oblast, flying on the same course.\nKalibr group 3 follows behind group 2.",
-      "timestamp": "2025-09-03T02:35:11.680523Z"
+      "original": "Група ракет \n➡️\n через Погребище! Курс \n➡️\n західний.",
+      "timestamp": "2025-09-03T03:07:42.784903Z"
     },
     {
-      "original": "Kalibr group 1 is bypassing Vinnytsia City from the south, flying on a northwestern course between the city and Zherynka. \nKalibr group 2 is flying north towards Nemyriv, Vinnytsia Oblast.\nKalibr group 3 continues to follow group 2.",
-      "timestamp": "2025-09-03T02:35:11.680530Z"
+      "original": "Група ракет \n➡️\n через Погребище! Курс \n➡️\n західний.",
+      "timestamp": "2025-09-03T03:07:42.784911Z"
     },
     {
-      "original": "Kalibr group 1 changed course to the west and entered eastern Khmelnytskyi Oblast, flying south of Khmelnytskyi City.\nKalibr group 2 continues to fly north away from the rest of the missiles, in the direction of Berdychiv, Zhytomyr Oblast.\nKalibr group 3 is now following behind Kalibr group 1.",
-      "timestamp": "2025-09-03T02:35:11.680534Z"
-    },
-    {
-      "original": "Kalibr group 1 is flying towards the southern outskirts of Khmelnytskyi City.\nKalibr group 2 changed course to the northeast flying towards Kyiv.\nKalibr group 3 is approaching the southern outskirts of Vinnytsia, flying on a northwestern course.",
-      "timestamp": "2025-09-03T02:35:11.680539Z"
+      "original": "КР \n➡️\n у напрямку Старокостянтинова на Хмельниччині.",
+      "timestamp": "2025-09-03T03:07:42.784915Z"
     },
     {
       "original": "Kalibr group 1 is flying west past Khmelnytskyi City towards Ternopil Oblast.\nNo updates from group 2.\nKalibr group 3 continues to fly northwest, and has passed Vinnytsia City.",
-      "timestamp": "2025-09-03T02:35:11.680543Z"
+      "timestamp": "2025-09-03T03:07:43.151604Z"
     },
     {
       "original": "Kalibr group 2 changed course to Ivankiv, Kyiv Oblast.\nNo changes to groups 1 & 2.",
-      "timestamp": "2025-09-03T02:35:11.680547Z"
+      "timestamp": "2025-09-03T03:07:43.151615Z"
     },
     {
       "original": "Kh-101s have entered Ukrainian airspace via Sumy Oblast.",
-      "timestamp": "2025-09-03T02:35:11.680553Z"
+      "timestamp": "2025-09-03T03:07:43.151620Z"
     },
     {
       "original": "Kh-101 group 1 flew past Okhtyrka, Sumy Oblast, towards Hadyach, Poltava Oblast.\nKalibr groups 1 & 3 are flying towards Chortkiv District, Ternopil Oblast. \nKalibr group 2 has disappeared for now.",
-      "timestamp": "2025-09-03T02:35:11.680559Z"
+      "timestamp": "2025-09-03T03:07:43.151624Z"
     },
     {
       "original": "Kh-101 group 1 (~5 pcs) is flying towards Lubny, Poltava Oblast.\nNo changes to the Kalibrs.",
-      "timestamp": "2025-09-03T02:35:11.680563Z"
+      "timestamp": "2025-09-03T03:07:43.151628Z"
     },
     {
       "original": "Kh-101 group continues to fly west/southwest through northern Poltava Oblast.\nA second group of Kh-101s has entered Sumy Oblast, flying towards Lebedyn.\nKalibr group 1 is flying through southern Ternopil Oblast towards Ivano-Frankivsk.\nKalibr group 3 is flying towards Husyatyn, Ternopil Oblast, still flying behind group 2.\nKalibr group 2 (~3 pcs) likely impacted a target in northwestern Kyiv Oblast.",
-      "timestamp": "2025-09-03T02:35:11.680569Z"
+      "timestamp": "2025-09-03T03:07:43.151635Z"
+    },
+    {
+      "original": "Kalibr group 1 changed course towards Kalush, Ivano-Frankivsk Oblast.\nKalibr group 3 continues to follow behind group 1.\nKh-101 group 1 is flying west/southwest past Lubny.\nKh-101 group 2 is flying southwest from the Poltava-Chernihiv Oblast border towards the Poltava-Cherkasy Oblast border.",
+      "timestamp": "2025-09-03T03:07:43.151640Z"
+    },
+    {
+      "original": "Explosions in Kalush, Ivano-Frankivsk Oblast. Multiple Kalibr impacts.",
+      "timestamp": "2025-09-03T03:07:43.151643Z"
+    },
+    {
+      "original": "More explosions in Kalush.",
+      "timestamp": "2025-09-03T03:07:43.151647Z"
+    },
+    {
+      "original": "All clear on Kalibrs for now.",
+      "timestamp": "2025-09-03T03:07:43.151650Z"
+    },
+    {
+      "original": "Kh-101 group 1 flew past Kaniv, Cherkasy Oblast, towards Stavyshche, Kyiv Oblast. \nKh-101 group 2 changed Is flying southwest along the Kyiv-Cherkasy Oblast border.",
+      "timestamp": "2025-09-03T03:07:43.151654Z"
+    },
+    {
+      "original": "Correction: Kh-101 group 2 is flying towards Boryspil, Kyiv Oblast, after flying past Ichnya, Chernihiv Oblast.",
+      "timestamp": "2025-09-03T03:07:43.151657Z"
+    },
+    {
+      "original": "Kh-101s are flying low northeast of Kyiv.",
+      "timestamp": "2025-09-03T03:07:43.151660Z"
+    },
+    {
+      "original": "Kh-101s are flying low northeast of Kyiv.",
+      "timestamp": "2025-09-03T03:07:43.151663Z"
+    },
+    {
+      "original": "3 Kh-101s to Vyshhorod, Kyiv Oblast (north of Kyiv).",
+      "timestamp": "2025-09-03T03:07:43.151666Z"
+    },
+    {
+      "original": "3 Kh-101s to Vyshhorod, Kyiv Oblast (north of Kyiv).",
+      "timestamp": "2025-09-03T03:07:43.151669Z"
+    },
+    {
+      "original": "The missiles in Kyiv Oblast disappeared again. They may still be flying low.",
+      "timestamp": "2025-09-03T03:07:43.151672Z"
+    },
+    {
+      "original": "Kh-101 group 1 disappeared near the Kyiv-Chernihiv Oblast border.\nKh-101 group 2 changed course to the north, flying towards Tetiiv, Kyiv Oblast.",
+      "timestamp": "2025-09-03T03:07:43.151676Z"
+    },
+    {
+      "original": "Kh-101 group 2 is gone. Unclear if it impacted or if the last ones were shot down there.\nKh-101 group 1 flew west over Kozyatyn to Khmelnytskyi Oblast.",
+      "timestamp": "2025-09-03T03:07:43.151680Z"
+    },
+    {
+      "original": "The last Kh-101s seem to be heading to Starokostyantyniv Airbase, Khmelnytskyi Oblast.",
+      "timestamp": "2025-09-03T03:07:43.151682Z"
+    },
+    {
+      "original": "The last Kh-101s seem to be heading to Starokostyantyniv Airbase, Khmelnytskyi Oblast.",
+      "timestamp": "2025-09-03T03:07:43.151685Z"
+    },
+    {
+      "original": "They should hit the Airbase in ~5 minutes",
+      "timestamp": "2025-09-03T03:07:43.151688Z"
+    },
+    {
+      "original": "The last Kh-101 group turned away from Starokostyantyniv and is now flying southwest towards Khmelnytskyi City.",
+      "timestamp": "2025-09-03T03:07:43.151691Z"
     }
   ],
-  "script_run_time": "2025-09-03T02:35:12.115449Z"
+  "script_run_time": "2025-09-03T03:07:43.531831Z"
 }
