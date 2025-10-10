@@ -1,205 +1,209 @@
 {
   "messages": [
     {
-      "original": "⚠\nУвага! \n🛵\n В повітряному просторі країни перебуває декілька десятків ворожих ударних БпЛА. \nОсновна маса на Чернігівщині, Полтавщині, Харківщині та Дніпропетровщині. \nПеребувайте в укриттях до відбою!",
-      "timestamp": "2025-10-10T01:14:13.722684Z"
+      "original": "🛵\n БпЛА на Дніпро, Полтаву.",
+      "timestamp": "2025-10-10T02:39:15.061009Z"
     },
     {
-      "original": "🛵\n БпЛА в напрямку обласних центрів - Київ, Дніпро, Полтава, Черкаси!",
-      "timestamp": "2025-10-10T01:14:13.722701Z"
+      "original": "📢\nВідбій загрози застосування балістичного озброєння.",
+      "timestamp": "2025-10-10T02:39:15.061026Z"
     },
     {
-      "original": "🛵\n БпЛА в напрямку обласних центрів - Київ, Дніпро, Полтава, Черкаси!",
-      "timestamp": "2025-10-10T01:14:13.722706Z"
+      "original": "⚠\nУВАГА\n🚨\n Вся Україна - ракетна небезпека!\n🛫\n Зафіксовано зліт МіГ-31К з ае \"Саваслейка\"",
+      "timestamp": "2025-10-10T02:39:15.061038Z"
     },
     {
-      "original": "🛵\n БпЛА в напрямку м.Запоріжжя.",
-      "timestamp": "2025-10-10T01:14:13.722711Z"
+      "original": "☄️\n Загроза застосування балістичного озброєння з півдня та південного сходу!",
+      "timestamp": "2025-10-10T02:39:15.061043Z"
     },
     {
-      "original": "🛵\n БпЛА в напрямку Києва, Сум, Харкова, Дніпра.",
-      "timestamp": "2025-10-10T01:14:13.722715Z"
+      "original": "Ракета на Кременчук!",
+      "timestamp": "2025-10-10T02:39:15.061047Z"
     },
     {
-      "original": "🛵\n БпЛА в центральній частині Чернігівщини, курс - східний/південний/південно-західний;\n🛵\n БпЛА на півночі, сході та півдні Харківщини, курс - західний/північно-/південно-західний;\n🛵\n БпЛА на заході та південному заході Сумщини, курс західний/південно-західний;\n🛵\n БпЛА на півночі та півдні Київщини, курс - Київ;\n🛵\n БпЛА на Полтавщині, курс - південний, західний/ південно-західний;\n🛵\n БпЛА на Дніпропетровщині, курс - південний/північний;\n🛵\n БпЛА через Кіровоградщину на Черкащину;\n🛵\n БпЛА на південному сході та півночі Черкащини, курс - західний/північно-західний.",
-      "timestamp": "2025-10-10T01:14:13.722730Z"
+      "original": "Балістика з півдня в напрямку м.Дніпро",
+      "timestamp": "2025-10-10T02:39:15.061050Z"
     },
     {
-      "original": "🛵\n БпЛА в напрямку Києва, Полтави, Кременчука, Дніпра, Харкова.",
-      "timestamp": "2025-10-10T01:14:13.722734Z"
+      "original": "Балістика з півдня  в напрямку Кривого Рогу та Запоріжжя",
+      "timestamp": "2025-10-10T02:39:15.061053Z"
     },
     {
-      "original": "🛵\n БпЛА в центральній частині та на півдні Чернігівщини, курс - західний/ південно-західний;\n🛵\n БпЛА на півночі, південному заході та півдні Харківщини, курс - західний/північно-/південно-західний;\n🛵\n БпЛА на заході та центральній частині Сумщини, курс західний/південно-західний;\n🛵\n БпЛА на півдні та південному сході Київщини, курс - північний/північно-західний;\n🛵\n БпЛА на Полтавщині, курс - південний, західний/ південно-західний;\n🛵\n БпЛА на сході, північному сході та півночі Дніпропетровщини, курс - західний/південно-західний/північний;\n🛵\n БпЛА на Черкащині, курс - північний;\n🛵\n БпЛА на Київ, Запоріжжя, Дніпро, Кременчук;\n🛵\n БпЛА на Вінниччину з півдня Київщини.",
-      "timestamp": "2025-10-10T01:14:13.722750Z"
+      "original": "Балістика на Кам'янське (Дніпропетровщина)",
+      "timestamp": "2025-10-10T02:39:15.061056Z"
     },
     {
-      "original": "🛵\n БпЛА в центральній частині Чернігівщини, курс - західний/ південно-західний;\n🛵\n БпЛА на заході та в центральній частині Харківщини, курс - західний/південно-західний;\n🛵\n БпЛА на заході та півдні Сумщини, курс західний/південно-західний;\n🛵\n БпЛА на заході та сході Київщини, курс - північний/північно-західний;\n🛵\n БпЛА на Полтавщині, курс - південний, західний/ південно-західний;\n🛵\n БпЛА на Дніпропетровщині, курс - західний/південно-західний/північний;\n🛵\n БпЛА на північному сході Черкащини, курс - західний;\n🛵\n БпЛА на Київ, Запоріжжя, Кривий Ріг, Павлоград.",
-      "timestamp": "2025-10-10T01:14:13.722764Z"
+      "original": "Балістика в напрямку на Кропивницький з півдня",
+      "timestamp": "2025-10-10T02:39:15.061060Z"
     },
     {
-      "original": "🛵\n БпЛА на південному сході Житомирщини, курс - північно-західний.",
-      "timestamp": "2025-10-10T01:14:13.722769Z"
+      "original": "Ще швидкісна ціль на Кривий Ріг",
+      "timestamp": "2025-10-10T02:39:15.061065Z"
     },
     {
-      "original": "☄️\n Загроза застосування балістичного озброєння з північного сходу.",
-      "timestamp": "2025-10-10T01:14:13.722773Z"
+      "original": "Швидкісна ціль на півдні Сумщини в напрямку Полтавщини",
+      "timestamp": "2025-10-10T02:39:15.061068Z"
     },
     {
-      "original": "Київ в укриття!",
-      "timestamp": "2025-10-10T01:14:13.722776Z"
+      "original": "Балістика на Запоріжжя!",
+      "timestamp": "2025-10-10T02:39:15.061071Z"
     },
     {
-      "original": "Ще балістика на Київ!",
-      "timestamp": "2025-10-10T01:14:13.722780Z"
+      "original": "🚀\nПуски КАБ в напрямку м.Запоріжжя.",
+      "timestamp": "2025-10-10T02:39:15.061076Z"
     },
     {
-      "original": "🚀\nШвидкісна ціль на Київ!",
-      "timestamp": "2025-10-10T01:14:13.722784Z"
+      "original": "Ціль на м.Запоріжжя!",
+      "timestamp": "2025-10-10T02:39:15.061079Z"
     },
     {
-      "original": "🛵\n БпЛА на Київ, Запоріжжя, Кривий Ріг, Суми.",
-      "timestamp": "2025-10-10T01:14:13.722788Z"
+      "original": "🚀\nШвидкісна ціль з ТОТ Криму в напрямку Кривого Рогу!",
+      "timestamp": "2025-10-10T02:39:15.061085Z"
     },
     {
-      "original": "⚠\nУвага!\n🚀\n🛵\n Столиця країни перебуває під атакою ворожої балістики та масованою атакою ворожих ударних БпЛА. \nНе залишайте укриття до відбою!",
-      "timestamp": "2025-10-10T01:14:13.722796Z"
+      "original": "Ціль на м.Запоріжжя!",
+      "timestamp": "2025-10-10T02:39:15.061088Z"
     },
     {
-      "original": "🚀\nШвидкісна ціль на Київ!",
-      "timestamp": "2025-10-10T01:14:13.722800Z"
-    },
-    {
-      "original": "🛵\n БпЛА на Київ, Запоріжжя, Дніпро.",
-      "timestamp": "2025-10-10T01:14:13.722804Z"
+      "original": "🚀\nЩе швидкісна ціль з ТОТ Криму в напрямку Кривого Рогу!",
+      "timestamp": "2025-10-10T02:39:15.061093Z"
     },
     {
       "original": "🚀\nПуски КАБ на межі Донеччини і Дніпропетровщини.",
-      "timestamp": "2025-10-10T01:14:13.722809Z"
+      "timestamp": "2025-10-10T02:39:15.061097Z"
     },
     {
-      "original": "🚀\nШвидкісна ціль на Київ!",
-      "timestamp": "2025-10-10T01:14:13.722813Z"
+      "original": "🚀\nШвидкісна ціль на Запоріжжя!",
+      "timestamp": "2025-10-10T02:39:15.061103Z"
     },
     {
-      "original": "🛵\n БпЛА на Дніпро, Полтаву.",
-      "timestamp": "2025-10-10T01:14:13.722817Z"
+      "original": "🚀\nШвидкісна ціль на Запоріжжя!",
+      "timestamp": "2025-10-10T02:39:15.061109Z"
+    },
+    {
+      "original": "Продовжує рух в напрямку м.Дніпро",
+      "timestamp": "2025-10-10T02:39:15.061113Z"
     },
     {
       "original": "Several Russian Geran-2 drones attacked Slovyansk, Donetsk Oblast, last night. The main target seems to be the High-Voltage Insulator Plant, where a fire was seen burning afterwards.",
-      "timestamp": "2025-10-10T01:14:14.558509Z"
+      "timestamp": "2025-10-10T02:39:15.602277Z"
     },
     {
       "original": "Several Russian Geran-2 drones attacked Slovyansk, Donetsk Oblast, last night. The main target seems to be the High-Voltage Insulator Plant, where a fire was seen burning afterwards.",
-      "timestamp": "2025-10-10T01:14:14.558521Z"
+      "timestamp": "2025-10-10T02:39:15.602292Z"
     },
     {
       "original": "In Zaporizhzhia Oblast, intensified MLRS and artillery shelling of areas south of Zaporizhzhia City continues. The rates of Russian artillery shelling are especially high, targeting positions several kilometres behind the frontline.",
-      "timestamp": "2025-10-10T01:14:14.558524Z"
+      "timestamp": "2025-10-10T02:39:15.602297Z"
     },
     {
       "original": "Ukrainian UAVs attacked the Kotovsky Gas Processing Plant, near the village of Kotovo, Volgograd Oblast. The number of impacts is currently unknown, but a fire can be seen burning afterwards, which is also visible through NASA FIRMS. \nCoordinates: 50.344909, 44.710195",
-      "timestamp": "2025-10-10T01:14:14.558529Z"
+      "timestamp": "2025-10-10T02:39:15.602302Z"
     },
     {
       "original": "Ukrainian UAVs attacked the Kotovsky Gas Processing Plant, near the village of Kotovo, Volgograd Oblast. The number of impacts is currently unknown, but a fire can be seen burning afterwards, which is also visible through NASA FIRMS. \nCoordinates: 50.344909, 44.710195",
-      "timestamp": "2025-10-10T01:14:14.558537Z"
+      "timestamp": "2025-10-10T02:39:15.602306Z"
     },
     {
       "original": "One of the targets hit by KAB glide-bombs in Zaporizhzhia City was the Omelchenko Machine-building plant.  This plant is/was used to produce airplane and helicopter engines, and other critical aviation parts for civilian and military use. It also produces…",
-      "timestamp": "2025-10-10T01:14:14.558541Z"
+      "timestamp": "2025-10-10T02:39:15.602310Z"
     },
     {
       "original": "Sentinel satellite imagery reveals the damage to the Omelchenko Machine-building plant (part of the Motor Sich company) after it was struck by multiple KAB glide-bombs on October 6. \nWorkshop No. 610 at Omelchenko Plant, as well as aircraft engine testing stands for the neighbouring \"Progress\" plant, sustained heavy damage. \nImage credit",
-      "timestamp": "2025-10-10T01:14:14.558546Z"
+      "timestamp": "2025-10-10T02:39:15.602314Z"
     },
     {
       "original": "Russian forces have captured the village of Filiya, Novopavlivka direction, Dnipropetrovsk Oblast.\nPre-war population: ~133.\nTotal land area: ~0.35 km².",
-      "timestamp": "2025-10-10T01:14:14.558551Z"
+      "timestamp": "2025-10-10T02:39:15.602319Z"
     },
     {
       "original": "With only 13 minutes left until the ceasefire comes into effect, Israeli attacks have continued across the Gaza Strip at a higher-than-usual intensity.\nAt least 14 airstrikes, 12 artillery shellings, 7 robot detonations, and 10 instances of gunfire, helicopter fire, and vehicle fire have been recorded over the past 9 hours. \nMost attacks have been concentrated in Gaza City, with some taking place near the Netzarim Corrdior, and in Khan Younis.",
-      "timestamp": "2025-10-10T01:14:14.558556Z"
+      "timestamp": "2025-10-10T02:39:15.602324Z"
     },
     {
       "original": "With only 13 minutes left until the ceasefire comes into effect, Israeli attacks have continued across the Gaza Strip at a higher-than-usual intensity.\nAt least 14 airstrikes, 12 artillery shellings, 7 robot detonations, and 10 instances of gunfire, helicopter fire, and vehicle fire have been recorded over the past 9 hours. \nMost attacks have been concentrated in Gaza City, with some taking place near the Netzarim Corrdior, and in Khan Younis.",
-      "timestamp": "2025-10-10T01:14:14.558560Z"
+      "timestamp": "2025-10-10T02:39:15.602329Z"
     },
     {
       "original": "Two Russian KAB glide-bombs struck Slovyansk, Donetsk Oblast, just under an hour ago. One impacted the Betonmash machine-building factory (48.83417, 37.58467), and another hit an unknown \"critical infrastructure facility\".",
-      "timestamp": "2025-10-10T01:14:14.558564Z"
+      "timestamp": "2025-10-10T02:39:15.602332Z"
     },
     {
       "original": "Two Russian KAB glide-bombs struck Slovyansk, Donetsk Oblast, just under an hour ago. One impacted the Betonmash machine-building factory (48.83417, 37.58467), and another hit an unknown \"critical infrastructure facility\".",
-      "timestamp": "2025-10-10T01:14:14.558567Z"
+      "timestamp": "2025-10-10T02:39:15.602335Z"
     },
     {
       "original": "A ceasefire in the Gaza Strip has officially come into effect. As of now, no Israeli offensive activity is observed.",
-      "timestamp": "2025-10-10T01:14:14.558570Z"
+      "timestamp": "2025-10-10T02:39:15.602340Z"
     },
     {
       "original": "A large scale drone attack involving hundreds of Gerans is ongoing on Ukraine right now. \nThere is an increased threat of missiles being used such as Iskander-m and Iskander-k, but it’s unlikely that Kh-101s will be used.",
-      "timestamp": "2025-10-10T01:14:14.558575Z"
+      "timestamp": "2025-10-10T02:39:15.602345Z"
     },
     {
       "original": "Iskanders to Kyiv",
-      "timestamp": "2025-10-10T01:14:14.558578Z"
+      "timestamp": "2025-10-10T02:39:15.602348Z"
     },
     {
       "original": "Iskanders to Kyiv",
-      "timestamp": "2025-10-10T01:14:14.558581Z"
+      "timestamp": "2025-10-10T02:39:15.602351Z"
     },
     {
       "original": "2 more are following",
-      "timestamp": "2025-10-10T01:14:14.558584Z"
+      "timestamp": "2025-10-10T02:39:15.602354Z"
     },
     {
       "original": "Only one was launched. It is now in Ukrainian airspace.",
-      "timestamp": "2025-10-10T01:14:14.558592Z"
+      "timestamp": "2025-10-10T02:39:15.602357Z"
     },
     {
       "original": "Explosions in Kyiv",
-      "timestamp": "2025-10-10T01:14:14.558596Z"
+      "timestamp": "2025-10-10T02:39:15.602362Z"
+    },
+    {
+      "original": "Ukraine’s energy infrastructure is getting hit very hard tonight. Numerous Iskander, Kinzhal, and Kh-59 missiles have hit. Widespread power outages are reported. \nMore details later.",
+      "timestamp": "2025-10-10T02:39:15.602366Z"
     },
     {
       "original": "New Russian Offensive Is Developing In Dnepropetrovsk Close To Pokrovsk (Videos)\nThe Russian military appears to be developing an offensive to the west of the city of Pokrovsk in Donetsk, into Dnepropetrovsk with Novopavlivka as the main target.\nIn recent days, the Tsentr [Center] Group of Forces resumed advance to the west of Pokrovsk, capturing Udachne, then entering the Western Mine Number 1 to the north of settlement. By October 9, Russian troops had reportedly begun a push from the area to the west of Udachne towards Dnepropetrovsk.\nGains were reported close to Molodetske, which is located just a few kilometers to the northeast of Novopavlivka. Russian troops are now reportedly battling Kiev forces in the outskirts of the settlement.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311180Z"
+      "timestamp": "2025-10-10T02:39:16.137395Z"
     },
     {
       "original": "New Russian Offensive Is Developing In Dnepropetrovsk Close To Pokrovsk (Videos)\nThe Russian military appears to be developing an offensive to the west of the city of Pokrovsk in Donetsk, into Dnepropetrovsk with Novopavlivka as the main target.\nIn recent days, the Tsentr [Center] Group of Forces resumed advance to the west of Pokrovsk, capturing Udachne, then entering the Western Mine Number 1 to the north of settlement. By October 9, Russian troops had reportedly begun a push from the area to the west of Udachne towards Dnepropetrovsk.\nGains were reported close to Molodetske, which is located just a few kilometers to the northeast of Novopavlivka. Russian troops are now reportedly battling Kiev forces in the outskirts of the settlement.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311199Z"
+      "timestamp": "2025-10-10T02:39:16.137412Z"
     },
     {
       "original": "Military Situation In Ukraine On October 9, 2025 (Maps Update)",
-      "timestamp": "2025-10-10T01:14:15.311204Z"
+      "timestamp": "2025-10-10T02:39:16.137417Z"
     },
     {
       "original": "Military Situation In Ukraine On October 9, 2025 (Maps Update)",
-      "timestamp": "2025-10-10T01:14:15.311208Z"
+      "timestamp": "2025-10-10T02:39:16.137422Z"
     },
     {
       "original": "Ukrainian At Center Of Suspected Israeli Plot To Carry Out Bombings In Lebanon\nLebanon’s General Security thwarted an Israeli plot to carry out simultaneous bombings at commemorative events in the shrine of Hezbollah’s late Secretary-General Hassan Nasrallah and in the Sports City in Beirut, Lebanese media reported on October 9.\nAccording to the reports published by Al Modon, Bint Jbeil and other Lebanese news websites, the plot was orchestrated by a foreign individual named “Martin,” residing in Germany.\nInvestigations revealed that he was the primary operator, communicating with network members through encrypted applications, with the members unaware of each other’s identities. The General Security was reportedly able to confirm his ties to Israeli intelligence.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311218Z"
+      "timestamp": "2025-10-10T02:39:16.137431Z"
     },
     {
       "original": "Russian Strikes Paralyze Ukraine's Gas Production, Kyiv Appeals To West Ahead Of Winter\nThe parties to the conflict continued their active exchange of strikes on October 8-9, focusing their efforts on critical infrastructure and military-logistical facilities. On the night of October 9, port facilities in Odesa and Chornomorsk were attacked by Russian Geran kamikaze drones and Kalibr cruise missiles, causing large-scale fires and a powerful secondary detonation. Furthermore, Dnipropetrovsk Region encountered, for the first time, the use of a hybrid munition—a missile with a glide aviation bomb.\nMassive Russian strikes on energy infrastructure facilities in Kharkiv and Poltava regions led to the destruction of key gas production hubs. According to expert estimates, about 60% of Ukraine's gas production capacity has been disabled, effectively paralyzing domestic fuel production. Industrial compressor stations, gas gathering and storage systems...\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311226Z"
+      "timestamp": "2025-10-10T02:39:16.137440Z"
     },
     {
       "original": "Russian Strikes Paralyze Ukraine's Gas Production, Kyiv Appeals To West Ahead Of Winter\nThe parties to the conflict continued their active exchange of strikes on October 8-9, focusing their efforts on critical infrastructure and military-logistical facilities. On the night of October 9, port facilities in Odesa and Chornomorsk were attacked by Russian Geran kamikaze drones and Kalibr cruise missiles, causing large-scale fires and a powerful secondary detonation. Furthermore, Dnipropetrovsk Region encountered, for the first time, the use of a hybrid munition—a missile with a glide aviation bomb.\nMassive Russian strikes on energy infrastructure facilities in Kharkiv and Poltava regions led to the destruction of key gas production hubs. According to expert estimates, about 60% of Ukraine's gas production capacity has been disabled, effectively paralyzing domestic fuel production. Industrial compressor stations, gas gathering and storage systems...\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311245Z"
+      "timestamp": "2025-10-10T02:39:16.137448Z"
     },
     {
       "original": "Drone Strikes: Summary Of Russian Combat Footage From October 9, 2025\nOn October 9, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311255Z"
+      "timestamp": "2025-10-10T02:39:16.137454Z"
     },
     {
       "original": "Drone Strikes: Summary Of Russian Combat Footage From October 9, 2025\nOn October 9, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-10T01:14:15.311263Z"
+      "timestamp": "2025-10-10T02:39:16.137461Z"
     },
     {
       "original": "GAZA WAR APPROACHES END",
-      "timestamp": "2025-10-10T01:14:15.311267Z"
+      "timestamp": "2025-10-10T02:39:16.137464Z"
     }
   ],
-  "script_run_time": "2025-10-10T01:14:15.312099Z"
+  "script_run_time": "2025-10-10T02:39:16.138326Z"
 }
