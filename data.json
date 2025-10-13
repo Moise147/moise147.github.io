@@ -1,237 +1,237 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА на півночі Сумщині, курсом на Суми.\n🛵\n БпЛА на сході Чернігівщини, на південно-східний напрямок.",
-      "timestamp": "2025-10-13T00:00:17.178549Z"
-    },
-    {
-      "original": "🛵\n БпЛА на півночі Сумщині, курсом на Суми.\n🛵\n БпЛА на сході Чернігівщини, курсом на південь.",
-      "timestamp": "2025-10-13T00:00:17.178570Z"
-    },
-    {
-      "original": "🚀\nПуски КАБ на схід Харківщини.",
-      "timestamp": "2025-10-13T00:00:17.178579Z"
-    },
-    {
-      "original": "🛵\n БпЛА на півночі та заході Харківщини, курсом на південно-західний напрямок.",
-      "timestamp": "2025-10-13T00:00:17.178584Z"
-    },
-    {
-      "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-10-13T00:00:17.178589Z"
-    },
-    {
-      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на південно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-10-13T00:00:17.178598Z"
-    },
-    {
       "original": "🚀\nПуски КАБ у Запорізькій області.",
-      "timestamp": "2025-10-13T00:00:17.178603Z"
+      "timestamp": "2025-10-13T01:41:05.064006Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА в напрямку Харкова з півночі.",
-      "timestamp": "2025-10-13T00:00:17.178608Z"
+      "timestamp": "2025-10-13T01:41:05.064028Z"
     },
     {
       "original": "🛵\n БпЛА на Херсонщині, курсом на Миколаївщину.",
-      "timestamp": "2025-10-13T00:00:17.178615Z"
+      "timestamp": "2025-10-13T01:41:05.064034Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-10-13T00:00:17.178620Z"
+      "timestamp": "2025-10-13T01:41:05.064040Z"
     },
     {
       "original": "🛵\n БпЛА на півночі  Харківщини \n➡️\n на південно-західний напрямок.\n🛵\n група БпЛА на Донеччині \n➡️\n в західному напрямку.\n🛵\n група БпЛА на півдні Миколаївщини \n➡️\n на північно-західний напрямок.",
-      "timestamp": "2025-10-13T00:00:17.178632Z"
+      "timestamp": "2025-10-13T01:41:05.064053Z"
     },
     {
       "original": "🛸\n🛵\n  БпЛА курсом на Харків з півночі.",
-      "timestamp": "2025-10-13T00:00:17.178638Z"
+      "timestamp": "2025-10-13T01:41:05.064059Z"
     },
     {
       "original": "🛵\n  БпЛА на сході Запоріжжя \n➡️\n на південно-східний напрямок.\n🛵\n БпЛА на півдні Дніпропетровщини \n➡️\n курсом на захід.",
-      "timestamp": "2025-10-13T00:00:17.178646Z"
+      "timestamp": "2025-10-13T01:41:05.064069Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА курсом на Харків з півночі.",
-      "timestamp": "2025-10-13T00:00:17.178651Z"
+      "timestamp": "2025-10-13T01:41:05.064075Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-10-13T00:00:17.178656Z"
+      "timestamp": "2025-10-13T01:41:05.064079Z"
     },
     {
       "original": "🛵\n  БпЛА на заході Донеччини, курсом на північ.\n🛵\n  БпЛА в акваторії Чорного моря, в напрямку Одещини.",
-      "timestamp": "2025-10-13T00:00:17.178661Z"
+      "timestamp": "2025-10-13T01:41:05.064086Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА курсом на Харків з півночі.",
-      "timestamp": "2025-10-13T00:00:17.178666Z"
+      "timestamp": "2025-10-13T01:41:05.064092Z"
     },
     {
       "original": "🛵\n  Ударні БпЛА курсом на Одесу з Чорного моря.",
-      "timestamp": "2025-10-13T00:00:17.178670Z"
+      "timestamp": "2025-10-13T01:41:05.064098Z"
     },
     {
       "original": "🛵\n Одеса - перебувайте в укриттях, над містом ударні БпЛА.",
-      "timestamp": "2025-10-13T00:00:17.178675Z"
+      "timestamp": "2025-10-13T01:41:05.064103Z"
     },
     {
       "original": "🛵\n БпЛА на півночі  Харківщини \n➡️\n курсом на південь.",
-      "timestamp": "2025-10-13T00:00:17.178680Z"
+      "timestamp": "2025-10-13T01:41:05.064108Z"
+    },
+    {
+      "original": "🛵\n Ворожий БпЛА на заході Харківщини \n➡️\n курсом на Полтавщину.",
+      "timestamp": "2025-10-13T01:41:05.064114Z"
+    },
+    {
+      "original": "🛵\n Ворожий БпЛА на півдні Харківщини \n➡️\n курсом на схід.",
+      "timestamp": "2025-10-13T01:41:05.064120Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ на Донеччину.",
+      "timestamp": "2025-10-13T01:41:05.064132Z"
+    },
+    {
+      "original": "🛵\n БпЛА на півночі  Чернігівщини \n➡️\n курсом на південь.",
+      "timestamp": "2025-10-13T01:41:05.064138Z"
+    },
+    {
+      "original": "🛵\n Ворожі БпЛА на заході Донеччини \n➡️\n курсом на північ.",
+      "timestamp": "2025-10-13T01:41:05.064143Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ на Донеччину та Сумщину.",
+      "timestamp": "2025-10-13T01:41:05.064147Z"
     },
     {
       "original": "New rule for the Channel's group chat: All fascists will be perm muted, no exceptions. Fascism is not welcome here, unlike many other chats.   If you don't like that, you're the problem.",
-      "timestamp": "2025-10-13T00:00:17.886297Z"
+      "timestamp": "2025-10-13T01:41:05.738540Z"
     },
     {
       "original": "It's genuinely scary how quickly so many ordinary people have been radicalised by egotistical idiots like Nick Fuentes, and sigma edits on Tik Tok, and how normalised its become in online spaces.\nI'm generally very acceptive of almost all political opinions, but some things need to have strong measures put against.",
-      "timestamp": "2025-10-13T00:00:17.886309Z"
+      "timestamp": "2025-10-13T01:41:05.738556Z"
     },
     {
       "original": "Russian Su-34s from over Belgorod Oblast carried out 2 KAB glide-bomb strikes on southeastern Kharkiv City, a short time ago.\nThe strikes targeted the Slobidskyi District, and the Nemyshlianskyi District, injuring at least one civilian. The exact targets are unknown at this moment, but it should become clearer later on. Currently it is known that no residential buildings suffered any significant damage.",
-      "timestamp": "2025-10-13T00:00:17.886314Z"
+      "timestamp": "2025-10-13T01:41:05.738562Z"
     },
     {
       "original": "Russian Su-34s from over Belgorod Oblast carried out 2 KAB glide-bomb strikes on southeastern Kharkiv City, a short time ago.\nThe strikes targeted the Slobidskyi District, and the Nemyshlianskyi District, injuring at least one civilian. The exact targets are unknown at this moment, but it should become clearer later on. Currently it is known that no residential buildings suffered any significant damage.",
-      "timestamp": "2025-10-13T00:00:17.886319Z"
+      "timestamp": "2025-10-13T01:41:05.738566Z"
     },
     {
       "original": "Russian Su-34s from over Belgorod Oblast carried out 2 KAB glide-bomb strikes on southeastern Kharkiv City, a short time ago.  The strikes targeted the Slobidskyi District, and the Nemyshlianskyi District, injuring at least one civilian. The exact targets…",
-      "timestamp": "2025-10-13T00:00:17.886322Z"
+      "timestamp": "2025-10-13T01:41:05.738571Z"
     },
     {
       "original": "Reports suggest that a Ukrainian Patriot missile was fired at the Russian Su-34 that bombed Kharkiv City. \nThe missile was launched towards the jet's path in Voroenzh Oblast, but it managed to dodge it, flying supersonic speeds over the northern outskirts of Voronezh City. This resulted in a sonic boom being heard from across the city.",
-      "timestamp": "2025-10-13T00:00:17.886327Z"
+      "timestamp": "2025-10-13T01:41:05.738576Z"
     },
     {
       "original": "Russian aviation continues to heavily strike the eastern suburbs of Kostyantynivka in preparation for Russian assault units to enter the city. \nThis video shows a FAB-3000 glide-bomb strike on a reported Ukrainian temporary deployment point.",
-      "timestamp": "2025-10-13T00:00:17.886331Z"
+      "timestamp": "2025-10-13T01:41:05.738584Z"
     },
     {
       "original": "Several local Palestinian channels are reporting that Hamas' Sahm unit has carried out a massacre against families affiliated with anti-Hamas armed clans in the Al-Sabra Neighbourhood of Gaza City. As many as 25 people were reportedly executed.  Earlier, clashes…",
-      "timestamp": "2025-10-13T00:00:17.886338Z"
+      "timestamp": "2025-10-13T01:41:05.738589Z"
     },
     {
       "original": "Hamas militants continue to fire on homes related to the Daghmash Clan in Gaza City and have begun setting fire to the buildings. The armed members of the clan seem to be putting up very little resistance, as Hamas establishes itself as the dominant force in the city.",
-      "timestamp": "2025-10-13T00:00:17.886342Z"
+      "timestamp": "2025-10-13T01:41:05.738593Z"
     },
     {
       "original": "Hamas militants continue to fire on homes related to the Daghmash Clan in Gaza City and have begun setting fire to the buildings. The armed members of the clan seem to be putting up very little resistance, as Hamas establishes itself as the dominant force in the city.",
-      "timestamp": "2025-10-13T00:00:17.886345Z"
+      "timestamp": "2025-10-13T01:41:05.738596Z"
     },
     {
       "original": "Hamas militants continue to fire on homes related to the Daghmash Clan in Gaza City and have begun setting fire to the buildings. The armed members of the clan seem to be putting up very little resistance, as Hamas establishes itself as the dominant force…",
-      "timestamp": "2025-10-13T00:00:17.886349Z"
+      "timestamp": "2025-10-13T01:41:05.738600Z"
     },
     {
       "original": "So many Israeli sources claimed that Hamas is on the brink of collapse, and can't hold on much longer. Now reports suggest that as many as 7,000 Hamas internal security members have been deployed to Gaza City to establish full civil control over the city.",
-      "timestamp": "2025-10-13T00:00:17.886352Z"
+      "timestamp": "2025-10-13T01:41:05.738604Z"
     },
     {
       "original": "Pro-Hamas sources report that members of the Daghmash clan killed Palestinian journalist and activist Saleh Al-Jaafrawi, as well as the son of a Hamas official, in Gaza City.",
-      "timestamp": "2025-10-13T00:00:17.886355Z"
+      "timestamp": "2025-10-13T01:41:05.738607Z"
     },
     {
       "original": "Pro-Hamas sources report that members of the Daghmash clan killed Palestinian journalist and activist Saleh Al-Jaafrawi, as well as the son of a Hamas official, in Gaza City.",
-      "timestamp": "2025-10-13T00:00:17.886359Z"
+      "timestamp": "2025-10-13T01:41:05.738610Z"
     },
     {
       "original": "Footage showing a Pakistani M114A2 towed howitzer strike on an Afghan Taliban hilltop army post on the Pakistan - Afghanistan border.",
-      "timestamp": "2025-10-13T00:00:17.886362Z"
+      "timestamp": "2025-10-13T01:41:05.738614Z"
     },
     {
       "original": "Israeli forces intercepted an attempt at smuggling a large quantity of weapons into the West Bank on October 8, and released images of what was seized. \nIncluded in the captured weapons are: 15 anti-tank launchers, anti-tank rockets, 16 rifles of various types, 53 pistols of various types, 20 hand grenades, 29 claymore mines, 4 FPV drones, and hundreds of bullets. \nThe weapons were intended to be transferred to Palestinian armed groups, which have always suffered from low resources due to constant Israeli surveillance, raids, and blockade. This smuggling attempt is the largest in a long time. The Shin Bet claims that the weapons originated from Iran's IRGC.",
-      "timestamp": "2025-10-13T00:00:17.886367Z"
+      "timestamp": "2025-10-13T01:41:05.738621Z"
     },
     {
       "original": "Israeli forces intercepted an attempt at smuggling a large quantity of weapons into the West Bank on October 8, and released images of what was seized. \nIncluded in the captured weapons are: 15 anti-tank launchers, anti-tank rockets, 16 rifles of various types, 53 pistols of various types, 20 hand grenades, 29 claymore mines, 4 FPV drones, and hundreds of bullets. \nThe weapons were intended to be transferred to Palestinian armed groups, which have always suffered from low resources due to constant Israeli surveillance, raids, and blockade. This smuggling attempt is the largest in a long time. The Shin Bet claims that the weapons originated from Iran's IRGC.",
-      "timestamp": "2025-10-13T00:00:17.886371Z"
+      "timestamp": "2025-10-13T01:41:05.738627Z"
     },
     {
       "original": "Three Russian Geran-2 drones struck the Shevchenkivskyi District of Kharkiv City just now. Ukrainian air defence was practically absent, and no drones were shot down. The target of the strikes is currently unknown.",
-      "timestamp": "2025-10-13T00:00:17.886375Z"
+      "timestamp": "2025-10-13T01:41:05.738630Z"
     },
     {
       "original": "Three Russian Geran-2 drones struck the Shevchenkivskyi District of Kharkiv City just now. Ukrainian air defence was practically absent, and no drones were shot down. The target of the strikes is currently unknown.",
-      "timestamp": "2025-10-13T00:00:17.886378Z"
+      "timestamp": "2025-10-13T01:41:05.738633Z"
     },
     {
       "original": "A single Russian Geran-2 drone flew into Sumy and struck something in the city.",
-      "timestamp": "2025-10-13T00:00:17.886381Z"
+      "timestamp": "2025-10-13T01:41:05.738637Z"
     },
     {
       "original": "A single Russian Geran-2 drone flew into Sumy and struck something in the city.",
-      "timestamp": "2025-10-13T00:00:17.886384Z"
+      "timestamp": "2025-10-13T01:41:05.738640Z"
     },
     {
       "original": "Druzhkovka\nThe city began preparing for defense.",
-      "timestamp": "2025-10-13T00:00:17.886388Z"
+      "timestamp": "2025-10-13T01:41:05.738644Z"
     },
     {
       "original": "Druzhkovka  The city began preparing for defense.",
-      "timestamp": "2025-10-13T00:00:17.886399Z"
+      "timestamp": "2025-10-13T01:41:05.738649Z"
     },
     {
       "original": "Just 9 km from the frontline, yet so many civilians...",
-      "timestamp": "2025-10-13T00:00:17.886402Z"
+      "timestamp": "2025-10-13T01:41:05.738652Z"
     },
     {
       "original": "Military Situation In Ukraine On October 12, 2025 (Maps Update)",
-      "timestamp": "2025-10-13T00:00:18.499563Z"
+      "timestamp": "2025-10-13T01:41:06.332898Z"
     },
     {
       "original": "Military Situation In Ukraine On October 12, 2025 (Maps Update)",
-      "timestamp": "2025-10-13T00:00:18.499575Z"
+      "timestamp": "2025-10-13T01:41:06.332913Z"
     },
     {
       "original": "Reforming The Ukrainian Armed Forces: Why Is It Necessary, And Will It Lead To Victory?\nIn early 2025, the Ukrainian Army began reforming to adopt a corps structure. What has happened in the eight months since?\nFollowing the collapse of the USSR, the Ukrainian authorities considered the most effective strategy to be the demonstrative eradication of the Soviet legacy in order to conceal the global plundering of national wealth.\nSince 2014, this has applied to all aspects of life that remind people of their shared history with Russia. At the same time, all of this was done primarily to impress the West and secure their financial support.\nThe nation's military was not an exception to this. Large territorial units of troops, known in the Soviet Union as 'military districts', were renamed 'operational commands' and given names based on the four main directions: 'North' (Chernihiv), 'West' (Rivne), 'South' (Odesa) and 'East' (Dnipro). \n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499586Z"
+      "timestamp": "2025-10-13T01:41:06.332937Z"
     },
     {
       "original": "Reforming The Ukrainian Armed Forces: Why Is It Necessary, And Will It Lead To Victory?\nIn early 2025, the Ukrainian Army began reforming to adopt a corps structure. What has happened in the eight months since?\nFollowing the collapse of the USSR, the Ukrainian authorities considered the most effective strategy to be the demonstrative eradication of the Soviet legacy in order to conceal the global plundering of national wealth.\nSince 2014, this has applied to all aspects of life that remind people of their shared history with Russia. At the same time, all of this was done primarily to impress the West and secure their financial support.\nThe nation's military was not an exception to this. Large territorial units of troops, known in the Soviet Union as 'military districts', were renamed 'operational commands' and given names based on the four main directions: 'North' (Chernihiv), 'West' (Rivne), 'South' (Odesa) and 'East' (Dnipro). \n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499596Z"
+      "timestamp": "2025-10-13T01:41:06.332947Z"
     },
     {
       "original": "Ukrainian Defenses Are Falling In Pokrovsk And Dobropillia (Videos)\nDespite receiving steady reinforcements, Ukrainian defenses around Pokrovsk and in the Dobropillia salient nearby in the Donetsk direction are falling, according to reports from October 12.\nThe Tsentr [Center] Group of Forces is actively closing in on Pokrovsk from the eastern direction. Russian troops have reportedly secured Kazatskoye and stormed Balagan to the north of it. Both settlements are located right to the east of Mirnograd.\nThe advance in this area threatens to besiege Kiev forces in the southern part of Mirnograd, as well as near Sukhyi Yar, Lysivka, Chunyshyne and Novopavlivka.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499605Z"
+      "timestamp": "2025-10-13T01:41:06.332960Z"
     },
     {
       "original": "Ukrainian Defenses Are Falling In Pokrovsk And Dobropillia (Videos)\nDespite receiving steady reinforcements, Ukrainian defenses around Pokrovsk and in the Dobropillia salient nearby in the Donetsk direction are falling, according to reports from October 12.\nThe Tsentr [Center] Group of Forces is actively closing in on Pokrovsk from the eastern direction. Russian troops have reportedly secured Kazatskoye and stormed Balagan to the north of it. Both settlements are located right to the east of Mirnograd.\nThe advance in this area threatens to besiege Kiev forces in the southern part of Mirnograd, as well as near Sukhyi Yar, Lysivka, Chunyshyne and Novopavlivka.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499614Z"
+      "timestamp": "2025-10-13T01:41:06.332970Z"
     },
     {
       "original": "US-China Trade War Hits Ukrainian Special Services Hard\nThe resumption of the US–China trade war has led to the strange demise of the Ukrainian special services’ main ‘shadow wallet’. Zelensky’s regime is revealing its true colours, despite its external unity.\nThe trade war between the US and China has escalated further. In response to Beijing’s decision to restrict the export of rare earth metals and magnets, US President Donald Trump has announced that he will introduce 100% tariffs on all products imported from China. He also said that the planned meeting with his Chinese counterpart, Xi Jinping, was no longer necessary.\nThe two world superpowers are locked in a standoff. While it is currently only a trade war, the economy is the most important factor for a country’s stability in turbulent times. Trump’s statements have significantly impacted the global cryptocurrency market. Bitcoin fell from around $114,000 to $105,000 — the biggest drop in its history. \n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499623Z"
+      "timestamp": "2025-10-13T01:41:06.332980Z"
     },
     {
       "original": "Tensions Between Pakistan and Afghanistan, October 12, 2025",
-      "timestamp": "2025-10-13T00:00:18.499626Z"
+      "timestamp": "2025-10-13T01:41:06.332984Z"
     },
     {
       "original": "Ukrainian Troops Are Fleeing From Kupyansk (Videos)\nKiev forces are facing a serious morale problem in the Kharkiv direction, as the Russian military pushes forward in Kupyansk.\nReports from October 12 indicate that Ukrainian troops cornered in the center of Kupyansk are attempting to flee, despite the risk of being targeted by blocking detachments which were recently reinforced by Kiev with a number of special forces.\nVast parts of the city’s eastern and western parts are under the control of the Russian military’s Zapad [West] Group of Forces. Last week, the group began work to clear the city center. The only part of the city that remains under solid Ukrainian control is the southern one.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499635Z"
+      "timestamp": "2025-10-13T01:41:06.332993Z"
     },
     {
       "original": "Ukrainian Troops Are Fleeing From Kupyansk (Videos)\nKiev forces are facing a serious morale problem in the Kharkiv direction, as the Russian military pushes forward in Kupyansk.\nReports from October 12 indicate that Ukrainian troops cornered in the center of Kupyansk are attempting to flee, despite the risk of being targeted by blocking detachments which were recently reinforced by Kiev with a number of special forces.\nVast parts of the city’s eastern and western parts are under the control of the Russian military’s Zapad [West] Group of Forces. Last week, the group began work to clear the city center. The only part of the city that remains under solid Ukrainian control is the southern one.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499644Z"
+      "timestamp": "2025-10-13T01:41:06.333002Z"
     },
     {
       "original": "Artillery Strikes: Summary Of Russian Combat Footage From October 12, 2025\nOn October 12, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499650Z"
+      "timestamp": "2025-10-13T01:41:06.333009Z"
     },
     {
       "original": "Artillery Strikes: Summary Of Russian Combat Footage From October 12, 2025\nOn October 12, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499657Z"
+      "timestamp": "2025-10-13T01:41:06.333015Z"
     },
     {
       "original": "Tactical Encirclement: Ukrainian Units Isolated Near Myroliubivka As Russian Pressure Mounts\nRussian forces have captured the settlements of Balagan and Moskovske on the Pokrovsk axis. Russian units are advancing towards the center of Poltavka in the Zaporizhzhia region.\nA former UK prime minister has been implicated in receiving payments from a defense industry representative.\nRead more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499663Z"
+      "timestamp": "2025-10-13T01:41:06.333022Z"
     },
     {
       "original": "Tactical Encirclement: Ukrainian Units Isolated Near Myroliubivka As Russian Pressure Mounts\nRussian forces have captured the settlements of Balagan and Moskovske on the Pokrovsk axis. Russian units are advancing towards the center of Poltavka in the Zaporizhzhia region.\nA former UK prime minister has been implicated in receiving payments from a defense industry representative.\nRead more \nHERE",
-      "timestamp": "2025-10-13T00:00:18.499674Z"
+      "timestamp": "2025-10-13T01:41:06.333030Z"
     }
   ],
-  "script_run_time": "2025-10-13T00:00:18.500504Z"
+  "script_run_time": "2025-10-13T01:41:06.334029Z"
 }
