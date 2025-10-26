@@ -1,245 +1,241 @@
 {
   "messages": [
     {
-      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації на східному напрямку!\n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-10-26T14:43:12.879932Z"
-    },
-    {
       "original": "🚀\nПуски КАБ ворожою тактичною авіацією на Харківщину зі сходу.",
-      "timestamp": "2025-10-26T14:43:12.879945Z"
+      "timestamp": "2025-10-26T14:48:52.302961Z"
     },
     {
       "original": "Швидкісна ціль на прикордоння Харківщини з півночі",
-      "timestamp": "2025-10-26T14:43:12.879950Z"
+      "timestamp": "2025-10-26T14:48:52.302976Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА в напрямку Сум з північного сходу.",
-      "timestamp": "2025-10-26T14:43:12.879956Z"
+      "timestamp": "2025-10-26T14:48:52.302982Z"
     },
     {
       "original": "🛵\n БпЛА на заході Донеччини, курс - південно-східний.",
-      "timestamp": "2025-10-26T14:43:12.879960Z"
+      "timestamp": "2025-10-26T14:48:52.302987Z"
     },
     {
       "original": "🛸\n Ворожий розвідувальний БпЛА на межі Херсонщини і Миколаївщини. Залучено засоби для збиття.",
-      "timestamp": "2025-10-26T14:43:12.879965Z"
+      "timestamp": "2025-10-26T14:48:52.302991Z"
     },
     {
       "original": "🛵\n БпЛА на півдні Харківщини в напрямку н.п.Лозова.",
-      "timestamp": "2025-10-26T14:43:12.879972Z"
+      "timestamp": "2025-10-26T14:48:52.303004Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації на північно-східному напрямку!\n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-10-26T14:43:12.879980Z"
+      "timestamp": "2025-10-26T14:48:52.303012Z"
     },
     {
       "original": "🚀\n \n🚀\nДніпропетровська область (Синельниківський р-н) - загроза застосування авіаційних засобів ураження.",
-      "timestamp": "2025-10-26T14:43:12.879985Z"
+      "timestamp": "2025-10-26T14:48:52.303018Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-10-26T14:43:12.879992Z"
+      "timestamp": "2025-10-26T14:48:52.303023Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА в напрямку Харкова з півночі.",
-      "timestamp": "2025-10-26T14:43:12.879997Z"
+      "timestamp": "2025-10-26T14:48:52.303028Z"
     },
     {
       "original": "🚀\nПуски КАБ ворожою тактичною авіацією на північний захід Харківщини.",
-      "timestamp": "2025-10-26T14:43:12.880002Z"
+      "timestamp": "2025-10-26T14:48:52.303032Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на Харківщині, курс - Харків та н.п.Лозова;\n🛸\n🛵\n БпЛА на Чернігівщині курсом на н.п.Сновськ.",
-      "timestamp": "2025-10-26T14:43:12.880010Z"
+      "timestamp": "2025-10-26T14:48:52.303040Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на південному сході Харківщини, курс - західний/північно-західний;\n🛸\n🛵\n БпЛА  на сході Дніпропетровщини, постійно змінюють напрямок руху.",
-      "timestamp": "2025-10-26T14:43:12.880017Z"
+      "timestamp": "2025-10-26T14:48:52.303048Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА в напрямку Сум зі сходу.",
-      "timestamp": "2025-10-26T14:43:12.880022Z"
+      "timestamp": "2025-10-26T14:48:52.303053Z"
     },
     {
       "original": "🛵\n Нова група БпЛА на межі Сумщини і Харківщини, курс - південний/південно-східний.",
-      "timestamp": "2025-10-26T14:43:12.880027Z"
+      "timestamp": "2025-10-26T14:48:52.303057Z"
     },
     {
       "original": "🛸\n Ворожий розвідувальний БпЛА на межі Херсонщини і Миколаївщини, курс - південно-східний. Залучено засоби для збиття.",
-      "timestamp": "2025-10-26T14:43:12.880031Z"
+      "timestamp": "2025-10-26T14:48:52.303064Z"
     },
     {
       "original": "🛵\n БпЛА на Дніпропетровщині, курс на н.п.Самар та н.п.Петропавлівку;\n🛵\n БпЛА на межі Харківщини і Донеччини в напрямку н.п.Барвінкове;\n🛵\n БпЛА на північному заході Харківщини, курс - західний/південно-східний;\n🛵\n БпЛА на Сумщині курсом на Лебедин з північного сходу.",
-      "timestamp": "2025-10-26T14:43:12.880040Z"
+      "timestamp": "2025-10-26T14:48:52.303074Z"
     },
     {
       "original": "🛵\n БпЛА з Сумщини курсом на Полтавщину в напрямку н.п.Гадяч.",
-      "timestamp": "2025-10-26T14:43:12.880044Z"
+      "timestamp": "2025-10-26T14:48:52.303079Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на Чернігівщині курсом на/повз Ріпки з північного сходу.",
-      "timestamp": "2025-10-26T14:43:12.880049Z"
+      "timestamp": "2025-10-26T14:48:52.303084Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ на Донеччину.",
+      "timestamp": "2025-10-26T14:48:52.303090Z"
     },
     {
       "original": "Iskander from Yesyk, Krasnodar Krai, to Pavlohrad.",
-      "timestamp": "2025-10-26T14:43:13.703740Z"
-    },
-    {
-      "original": "This confirms a new Iskander OTRK location which was previously unconfirmed.",
-      "timestamp": "2025-10-26T14:43:13.703750Z"
-    },
-    {
-      "original": "Iskander from Yesyk, Krasnodar Krai, to Pavlohrad.",
-      "timestamp": "2025-10-26T14:43:13.703754Z"
+      "timestamp": "2025-10-26T14:48:52.816307Z"
     },
     {
       "original": "The Iskander is approaching Shakhtarske, Dnipropetrovsk Oblast.",
-      "timestamp": "2025-10-26T14:43:13.703757Z"
+      "timestamp": "2025-10-26T14:48:52.816319Z"
     },
     {
       "original": "Grom-E1 rocket-powered glide-bombs are approaching Kryvyi Rih from the southeast.",
-      "timestamp": "2025-10-26T14:43:13.703760Z"
+      "timestamp": "2025-10-26T14:48:52.816325Z"
     },
     {
       "original": "The Iskander is approaching Shakhtarske, Dnipropetrovsk Oblast.",
-      "timestamp": "2025-10-26T14:43:13.703763Z"
+      "timestamp": "2025-10-26T14:48:52.816329Z"
     },
     {
       "original": "The Iskander disappeared. Another launch was detected.",
-      "timestamp": "2025-10-26T14:43:13.703767Z"
+      "timestamp": "2025-10-26T14:48:52.816332Z"
     },
     {
       "original": "The Iskander disappeared. Another launch was detected.",
-      "timestamp": "2025-10-26T14:43:13.703770Z"
+      "timestamp": "2025-10-26T14:48:52.816335Z"
     },
     {
       "original": "The second launch was a misidentification.",
-      "timestamp": "2025-10-26T14:43:13.703773Z"
+      "timestamp": "2025-10-26T14:48:52.816338Z"
     },
     {
       "original": "Grom-E1 rocket-powered glide-bombs are approaching Kryvyi Rih from the southeast.",
-      "timestamp": "2025-10-26T14:43:13.703776Z"
+      "timestamp": "2025-10-26T14:48:52.816341Z"
     },
     {
       "original": "Explosions in Kryvyi Rih.",
-      "timestamp": "2025-10-26T14:43:13.703779Z"
+      "timestamp": "2025-10-26T14:48:52.816345Z"
     },
     {
       "original": "The Iskander disappeared. Another launch was detected.",
-      "timestamp": "2025-10-26T14:43:13.703782Z"
+      "timestamp": "2025-10-26T14:48:52.816348Z"
     },
     {
       "original": "Correction: The first Iskander impacted Pavlohrad",
-      "timestamp": "2025-10-26T14:43:13.703785Z"
+      "timestamp": "2025-10-26T14:48:52.816351Z"
     },
     {
       "original": "Explosions in Kryvyi Rih.",
-      "timestamp": "2025-10-26T14:43:13.703788Z"
+      "timestamp": "2025-10-26T14:48:52.816354Z"
     },
     {
       "original": "Another explosion in Kryvyi Rih",
-      "timestamp": "2025-10-26T14:43:13.703791Z"
+      "timestamp": "2025-10-26T14:48:52.816357Z"
     },
     {
       "original": "One of the impacts in Kryvyi Rih",
-      "timestamp": "2025-10-26T14:43:13.703794Z"
+      "timestamp": "2025-10-26T14:48:52.816360Z"
     },
     {
       "original": "⚡️\n🇱🇧\n🇮🇱\nSmoke rising over Naqoura, southern Lebanon, after an Israeli airstrike reportedly targeted a vehicle.\n@wfwitness",
-      "timestamp": "2025-10-26T14:43:13.703802Z"
+      "timestamp": "2025-10-26T14:48:52.816368Z"
     },
     {
       "original": "⚡️\n🇱🇧\n🇮🇱\nSmoke rising over Naqoura, southern Lebanon, after an Israeli airstrike reportedly targeted a vehicle.\n@wfwitness",
-      "timestamp": "2025-10-26T14:43:13.703810Z"
+      "timestamp": "2025-10-26T14:48:52.816375Z"
     },
     {
       "original": "Ukrainian UAVs have struck the Belgorod Reservoir Dam in Belgorod Oblast. It has sustained significant damage, and water has begun flowing from part of it.",
-      "timestamp": "2025-10-26T14:43:13.703813Z"
+      "timestamp": "2025-10-26T14:48:52.816379Z"
     },
     {
       "original": "Ukrainian UAVs have struck the Belgorod Reservoir Dam in Belgorod Oblast. It has sustained significant damage, and water has begun flowing from part of it.",
-      "timestamp": "2025-10-26T14:43:13.703817Z"
+      "timestamp": "2025-10-26T14:48:52.816382Z"
     },
     {
       "original": "Ukrainian UAVs have struck the Belgorod Reservoir Dam in Belgorod Oblast. It has sustained significant damage, and water has begun flowing from part of it.",
-      "timestamp": "2025-10-26T14:43:13.703820Z"
+      "timestamp": "2025-10-26T14:48:52.816385Z"
     },
     {
       "original": "Additional explosions in the area of the dam. HIMARS have now hit it. More drones are flying in its direction.",
-      "timestamp": "2025-10-26T14:43:13.703823Z"
+      "timestamp": "2025-10-26T14:48:52.816388Z"
     },
     {
       "original": "S-300 air defence engaged the rockets. At least one was intercepted.",
-      "timestamp": "2025-10-26T14:43:13.703831Z"
+      "timestamp": "2025-10-26T14:48:52.816391Z"
     },
     {
       "original": "After over two and a half years of siege, the Sudanese city of Al-Fashir has fallen to the rebel Rapid Support Forces. \nIt was the last stronghold of the Sudanese Armed Forces in the west of the country, and its capture will free up significant numbers of RSF fighters to be redeployed to fight SAF-backed rebels and reinforce the current lines in the Kordofan region of central Sudan.\nThe battle and siege of Al-Fashir is one of the longest continuous battles in human history, outlasting almost all the longest battles in Ukraine.",
-      "timestamp": "2025-10-26T14:43:13.703836Z"
+      "timestamp": "2025-10-26T14:48:52.816396Z"
     },
     {
       "original": "After over two and a half years of siege, the Sudanese city of Al-Fashir has fallen to the rebel Rapid Support Forces. \nIt was the last stronghold of the Sudanese Armed Forces in the west of the country, and its capture will free up significant numbers of RSF fighters to be redeployed to fight SAF-backed rebels and reinforce the current lines in the Kordofan region of central Sudan.\nThe battle and siege of Al-Fashir is one of the longest continuous battles in human history, outlasting almost all the longest battles in Ukraine.",
-      "timestamp": "2025-10-26T14:43:13.703841Z"
+      "timestamp": "2025-10-26T14:48:52.816403Z"
     },
     {
       "original": "A Russian Italmas drone struck the roof of a high-rise residential building in Sumy City today. \nBased on the video, and the speed it gained as it approached the building, the drone was not under the influence of electronic warfare and was specifically targeting this building. \nPhotos posted afterwards showed damage to the roof of the building. Due to the location of the impact, no civilians were killed or injured.\nApproximate coordinates: 50.91055, 34.83250",
-      "timestamp": "2025-10-26T14:43:13.703848Z"
+      "timestamp": "2025-10-26T14:48:52.816410Z"
     },
     {
       "original": "A Russian Italmas drone struck the roof of a high-rise residential building in Sumy City today. \nBased on the video, and the speed it gained as it approached the building, the drone was not under the influence of electronic warfare and was specifically targeting this building. \nPhotos posted afterwards showed damage to the roof of the building. Due to the location of the impact, no civilians were killed or injured.\nApproximate coordinates: 50.91055, 34.83250",
-      "timestamp": "2025-10-26T14:43:13.703853Z"
+      "timestamp": "2025-10-26T14:48:52.816416Z"
     },
     {
       "original": "Russia has begun using fiber-optic Molniya drones in the Kherson direction more frequently. This one was shot down over the Dniprovskyi District of Kherson City by a mobile fire crew, and had a spool containing coil that could stretch for 24-25 km. \nFiber optic drones, especially ones of the Molniya type, are known to be able to fly much further than 25 km, but even this length would allow for it to reach Mykolaiv Oblast in some places.",
-      "timestamp": "2025-10-26T14:43:13.703857Z"
+      "timestamp": "2025-10-26T14:48:52.816420Z"
+    },
+    {
+      "original": "Ukrainian UAVs are attempting to attack Moscow for the second day in a row. Not a single drone has impacted the region so far. Certain airports have closed again due to the threat of drone strikes.",
+      "timestamp": "2025-10-26T14:48:52.816424Z"
     },
     {
       "original": "Military Situation In Ukraine On October 25, 2025 (Maps Update)",
-      "timestamp": "2025-10-26T14:43:14.471733Z"
+      "timestamp": "2025-10-26T14:48:53.366717Z"
     },
     {
       "original": "Military Situation In Ukraine On October 25, 2025 (Maps Update)",
-      "timestamp": "2025-10-26T14:43:14.471745Z"
+      "timestamp": "2025-10-26T14:48:53.366730Z"
     },
     {
       "original": "Ukraine To Get More Outdated Mirage Fighter Jets From France\nFrance will provide Ukraine with additional Mirage 2000-5F fighter jets in the coming days, President Emmanuel Macron announced during a meeting of the so-called “coalition of the willing” on October 24, according to Le Monde.\nMacron was quoted as saying that France would “deliver additional Aster missiles, new training programs, and new Mirage aircraft in the coming days.” He also stressed that it is “very important to continue our efforts to support Ukraine and increase pressure on Russia.”\nFrance has already supplied at least three Mirage 2000-5F fighter jets to Ukraine as a part of an earlier pledge to transfer up to six.\nRead more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471755Z"
+      "timestamp": "2025-10-26T14:48:53.366740Z"
     },
     {
       "original": "Russian Group Strike Leaves Ukrainian Defense Factories, Linked Energy Sites Heavily Damaged (Videos)\nA group strike targeted defense facilities and energy infrastructure that support its work in Ukraine over the night of October 24 and 25, the Russian Ministry of Defense announced.\nThe large-scale strike was carried out in response to “terrorist attacks” launched by Ukraine against civilian facilities on the territory of Russia, the ministry said in a brief statement, noting that “long-range ground-based high-precision weapons” were used.\nRead more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471762Z"
+      "timestamp": "2025-10-26T14:48:53.366747Z"
     },
     {
       "original": "Russian Group Strike Leaves Ukrainian Defense Factories, Linked Energy Sites Heavily Damaged (Videos)\nA group strike targeted defense facilities and energy infrastructure that support its work in Ukraine over the night of October 24 and 25, the Russian Ministry of Defense announced.\nThe large-scale strike was carried out in response to “terrorist attacks” launched by Ukraine against civilian facilities on the territory of Russia, the ministry said in a brief statement, noting that “long-range ground-based high-precision weapons” were used.\nRead more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471770Z"
+      "timestamp": "2025-10-26T14:48:53.366754Z"
     },
     {
       "original": "Frontline Expansion In Ukraine: Russian Forces Enter Outskirts Of Krasny Lyman And Konstantinovka\nRussian units are consolidating their position in an area of Krasny Lyman. The Ukrainian Armed Forces have begun to withdraw from Pokrovsk after losing control of Rodynske. The Ukrainian command is deploying new unmanned aerial vehicle units to the Sumy area. \nUnited States President Donald Trump has announced his intention to enlist China's help in pressuring Russia.\nRead more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471777Z"
+      "timestamp": "2025-10-26T14:48:53.366762Z"
     },
     {
       "original": "Frontline Expansion In Ukraine: Russian Forces Enter Outskirts Of Krasny Lyman And Konstantinovka\nRussian units are consolidating their position in an area of Krasny Lyman. The Ukrainian Armed Forces have begun to withdraw from Pokrovsk after losing control of Rodynske. The Ukrainian command is deploying new unmanned aerial vehicle units to the Sumy area. \nUnited States President Donald Trump has announced his intention to enlist China's help in pressuring Russia.\nRead more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471784Z"
+      "timestamp": "2025-10-26T14:48:53.366770Z"
     },
     {
       "original": "Intense Airstrikes: Summary Of Russian Combat Footage From October 25, 2025\nOn October 25, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471791Z"
+      "timestamp": "2025-10-26T14:48:53.366776Z"
     },
     {
       "original": "Intense Airstrikes: Summary Of Russian Combat Footage From October 25, 2025\nOn October 25, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471797Z"
+      "timestamp": "2025-10-26T14:48:53.366782Z"
     },
     {
       "original": "AUKUS Reloaded: Trump’s Billion-Dollar Push Turning Australia Into America’s Indo-Pacific Arsenal Against China\nIn the busy Indo-Pacific, where over 60 percent of global sea trade flows, the US, UK, and Australia are deepening their strategic alignment. This week, during Australian Prime Minister Anthony Albanese’s White House visit, President Donald Trump endorsed next phase of the AUKUS’ pact, reaffirming Canberra’s purchase of at least three Virginia-class nuclear submarines, with deliveries expected in the early 2030s.\nThis move is closely tied to an $8.5 billion rare-earth minerals deal now under discussion, channeling billions into Australia’s mining and processing sector. The initiative aims to reduce Western reliance on China, which currently refines about 90 percent of global rare earths. In essence, both frameworks are about Beijing.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471806Z"
+      "timestamp": "2025-10-26T14:48:53.366791Z"
     },
     {
       "original": "Career Growth of \"Butchers\" in the AFU: The Cost of Command Ambitions at the Expense of Ukrainian Soldiers' Lives\nA perspective prevalent in the public statements of Ukrainian servicemen and public figures holds that a system has developed within the Armed Forces of Ukraine (AFU) which encourages the career advancement of commanders who neglect the preservation of their personnel's lives. Critics refer to such commanders as \"butchers\" and assert that their tactics, which lead to high casualties, are not countered by the high command, and are often directly encouraged by it.\nThe idea of a systemic problem was publicly voiced by former Ukrainian MP and later a platoon commander in the AFU's 72nd Brigade, Tatiana Chernovol. She claims that careers in the army are built precisely by “butchers” — commanders who do not spare their soldiers and perceive them as expendable. Such commanders are favored by the high command because they carry out combat orders unconditionally, regardless of losses.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471814Z"
+      "timestamp": "2025-10-26T14:48:53.366798Z"
     },
     {
       "original": "Career Growth of \"Butchers\" in the AFU: The Cost of Command Ambitions at the Expense of Ukrainian Soldiers' Lives\nA perspective prevalent in the public statements of Ukrainian servicemen and public figures holds that a system has developed within the Armed Forces of Ukraine (AFU) which encourages the career advancement of commanders who neglect the preservation of their personnel's lives. Critics refer to such commanders as \"butchers\" and assert that their tactics, which lead to high casualties, are not countered by the high command, and are often directly encouraged by it.\nThe idea of a systemic problem was publicly voiced by former Ukrainian MP and later a platoon commander in the AFU's 72nd Brigade, Tatiana Chernovol. She claims that careers in the army are built precisely by “butchers” — commanders who do not spare their soldiers and perceive them as expendable. Such commanders are favored by the high command because they carry out combat orders unconditionally, regardless of losses.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-26T14:43:14.471822Z"
+      "timestamp": "2025-10-26T14:48:53.366806Z"
     }
   ],
-  "script_run_time": "2025-10-26T14:43:14.472731Z"
+  "script_run_time": "2025-10-26T14:48:53.367654Z"
 }
