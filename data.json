@@ -1,233 +1,229 @@
 {
   "messages": [
     {
-      "original": "🛸\n Ворожий БпЛА, ймовірно, розвідувальний, в напрямку Харкова з північного сходу.",
-      "timestamp": "2025-10-29T16:42:36.155280Z"
-    },
-    {
-      "original": "🛵\n🛸\n БпЛА на Чернігівщині в напрямку Седніва з північного сходу.",
-      "timestamp": "2025-10-29T16:42:36.155295Z"
-    },
-    {
       "original": "⚠\n Увага!\n🛵\nЗапоріжжя - в районі міста ворожий БпЛА.\nПеребувайте в укриттях!",
-      "timestamp": "2025-10-29T16:42:36.155302Z"
+      "timestamp": "2025-10-29T16:56:23.588405Z"
     },
     {
       "original": "🛸\n Ворожий розвідувальний БпЛА на Херсонщині! Залучено засоби для збиття.",
-      "timestamp": "2025-10-29T16:42:36.155307Z"
+      "timestamp": "2025-10-29T16:56:23.588420Z"
     },
     {
       "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччину.",
-      "timestamp": "2025-10-29T16:42:36.155312Z"
+      "timestamp": "2025-10-29T16:56:23.588425Z"
     },
     {
       "original": "🚀\n \n🚀\nДніпропетровська область (Синельниківський р-н) - загроза застосування авіаційних засобів ураження.",
-      "timestamp": "2025-10-29T16:42:36.155329Z"
+      "timestamp": "2025-10-29T16:56:23.588432Z"
     },
     {
       "original": "🚀\n \n🚀\nДніпропетровська область (Синельниківський р-н) - загроза застосування авіаційних засобів ураження.",
-      "timestamp": "2025-10-29T16:42:36.155335Z"
+      "timestamp": "2025-10-29T16:56:23.588437Z"
     },
     {
       "original": "Павлоградський р-н теж.",
-      "timestamp": "2025-10-29T16:42:36.155338Z"
+      "timestamp": "2025-10-29T16:56:23.588441Z"
     },
     {
       "original": "🛸\n Ворожий БпЛА, ймовірно, розвідувальний, в напрямку Харкова з північного сходу.",
-      "timestamp": "2025-10-29T16:42:36.155343Z"
+      "timestamp": "2025-10-29T16:56:23.588445Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-10-29T16:42:36.155350Z"
+      "timestamp": "2025-10-29T16:56:23.588453Z"
     },
     {
       "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Сумщину.",
-      "timestamp": "2025-10-29T16:42:36.155354Z"
+      "timestamp": "2025-10-29T16:56:23.588457Z"
     },
     {
       "original": "🚀\nПуски КАБ на Харківщину зі сходу.",
-      "timestamp": "2025-10-29T16:42:36.155358Z"
+      "timestamp": "2025-10-29T16:56:23.588461Z"
     },
     {
       "original": "Швидкісна ціль на схід Дніпропетровщини та південь Донеччини.",
-      "timestamp": "2025-10-29T16:42:36.155362Z"
+      "timestamp": "2025-10-29T16:56:23.588465Z"
     },
     {
       "original": "🛵\n Ворожі ударні БпЛА на півночі Сумщини та північному сході Чернігівщини, курс - південно-західний.",
-      "timestamp": "2025-10-29T16:42:36.155366Z"
+      "timestamp": "2025-10-29T16:56:23.588469Z"
     },
     {
       "original": "🚀\nПуски КАБ ворожою тактичною авіацією на північ Харківщини.",
-      "timestamp": "2025-10-29T16:42:36.155374Z"
+      "timestamp": "2025-10-29T16:56:23.588474Z"
     },
     {
       "original": "🛵\n БпЛА на сході Чернігівщини, рухаються в  південно-західному напрямку.",
-      "timestamp": "2025-10-29T16:42:36.155378Z"
+      "timestamp": "2025-10-29T16:56:23.588478Z"
     },
     {
       "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччину.",
-      "timestamp": "2025-10-29T16:42:36.155382Z"
+      "timestamp": "2025-10-29T16:56:23.588482Z"
     },
     {
       "original": "🛵\nДекілька груп БпЛА в центральній частині Чернігівщини, рухаються в  західному напрямку.",
-      "timestamp": "2025-10-29T16:42:36.155388Z"
+      "timestamp": "2025-10-29T16:56:23.588486Z"
     },
     {
       "original": "🛵\n Групи БпЛА на сході Дніпропетровщини, рухаються в  західному напрямку.",
-      "timestamp": "2025-10-29T16:42:36.155392Z"
+      "timestamp": "2025-10-29T16:56:23.588494Z"
     },
     {
       "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччину",
-      "timestamp": "2025-10-29T16:42:36.155398Z"
+      "timestamp": "2025-10-29T16:56:23.588498Z"
     },
     {
       "original": "🛵\n БпЛА в центральній частині Чернігівщини, рухається в  південному напрямку.",
-      "timestamp": "2025-10-29T16:42:36.155402Z"
+      "timestamp": "2025-10-29T16:56:23.588502Z"
     },
     {
-      "original": "In the Hulyaipole and Pokrovske directions, Russian forces continued their offensive operations, advancing in several different areas.  In the south, Russian forces expanded their bridgehead on the western bank of the Yanchur River. After establishing control…",
-      "timestamp": "2025-10-29T16:42:36.708123Z"
+      "original": "🛵\n  БпЛА на  Дніпропетровщині, рухаються в  західному напрямку.",
+      "timestamp": "2025-10-29T16:56:23.588507Z"
     },
     {
-      "original": "As a result of these recent Russian advances, and the breaching of the Ukrainian defences west of the Yanchur River, forward Russian units are now within 4.3 km of the critical Pokrovsk'e - Hulyaipole Highway. \nOnce cut, logistics into Hulyaipole will become very difficult as the only other road is less than 6 km from the frontline. I previously talked about Russia's goals to capture Hulyaipole at the beginning of September. Since then, they have advanced over 19 km westwards, with the Ukrainians being unable to stop the advance due to their critical manpower shortages in this sector.",
-      "timestamp": "2025-10-29T16:42:36.708135Z"
-    },
-    {
-      "original": "In the Novopavlivka direction, Russian forces advanced to the Dnipropetrovsk - Donetsk Regional Border, establishing control over an important stronghold.\nRussian forces advanced from the western part of Novoserhiivka and entered a large trench stronghold and bunker system. Soldiers were able to clear it, detonating the concrete bunkers with explosives and engaging the remaining Ukrainian soldiers with small arms. Other forces captured new positions in the treelines to the north, largely aligning the front with the regional border.\n+ ~3.04 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708141Z"
+      "original": "🛵\n Ворожі ударні БпЛА на півночі Сумщини, курс - південно-західний.",
+      "timestamp": "2025-10-29T16:56:23.588513Z"
     },
     {
       "original": "In the Pokrovsk direction, Russian forces continued to advance in and around Pokrovsk, capturing key positions within the city.\nIn the west, after bombing Ukrainian positions with FABs, Russian forces advanced from the treelines west of Pokrovsk to the railway line, establishing control over a 2.9 km stretch of the railway windbreaks. \nIn Pokrovsk City, Russian forces were able to consolidate in the northern part of the Sobachivka District, as well as the eastern part of the city centre. Clashes continue in the area of the railway station, administrative building, city council building, and other nearby districts. \nFrom there, the Russians crossed the railway line and entrenched in the private sector, establishing a wedge between the two industrial strongholds in northern Pokrovsk. They then advanced further, capturing positions on Bereznya and Demury Streets, with DRGs infiltrating even further north. Additionally, Russian forces infiltrated further into the northwestern industrial zone of Pokrovsk, expanding the grey zone further.\n+ ~1.87 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708147Z"
+      "timestamp": "2025-10-29T16:56:24.192249Z"
     },
     {
       "original": "In the Pokrovsk direction, Russian forces continued their assault operations in Myrnohrad, and have made significant progress in the southern part of the city. \nAfter entering the city further north and securing the areas to the east, Russian forces infiltrated the southern suburbs of Myrnohrad in multiple new places, consolidating in the first streets. Reinforcements were then sent in, allowing for additional progress to be made on a wide front. \nRussian forces reached the terykon from the east, establishing control over Mine 5/6, and began bypassing the terykon from the south into the nearby residential streets. Other forces who entered further south captured the small private sector and advanced towards one of the city parks, linking up with other formations. \n+ ~1.91 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708153Z"
+      "timestamp": "2025-10-29T16:56:24.192263Z"
     },
     {
       "original": "On the northeastern flank of Pokrovsk, Russian forces continued to advance behind Pokrovsk and established full control over the city of Rodynske. \nAfter infiltrating the city from the south, and advancing from the east and north, the remaining Ukrainian units were forced to leave the city, allowing for the Russians to capture the rest of the city centre and western suburbs. They then went on to establish control over the railway line to the west, along with the abandoned and demolished mine. \nTo the southeast, Russian forces continued to advance north of Myrnohrad, and captured additional treeline positions north of the city as well as an abandoned mineshaft. Some soldiers were able to infiltrate the northern streets of the city; however no consolidation has occurred yet. \n+ ~3.68 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708158Z"
+      "timestamp": "2025-10-29T16:56:24.192270Z"
     },
     {
       "original": "In the Dobropillya direction, both Russian and Ukrainian forces are advancing, with Ukrainian forces making substantial progress on the western flank of the salient.\nIn the south, Ukrainian forces advanced from their positions east of the railway line and recaptured treeline positions north of Zatyshok. They then infiltrated the village from the north, and attempted to push towards its western edge, resulting in Russian and Ukrainian positions being mixed up in a grey zone. Other forces also infiltrated Sukhetske, however there is no evidence of consolidation yet. \nTo the north, the Ukrainians once again recaptured the village of Nove Shakhove, and established control over positions to the south. They also advanced from Vilne to the treelines south and southeast and recaptured the dachas to the east. \nTo the northeast, Ukrainian forces advanced from their newly established positions in Kucheriv Yar, capturing positions in the forest plantations to the south. \nMeanwhile, Russian forces continued to advance in western Shakhove amid fierce fighting, and established full control over that section of the village. Mechanised assaults were also carried out on the eastern part of the village, however there is no evidence of consolidation yet. \n+ ~13.99 km in favour of Ukraine.\n+ ~0.52 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708166Z"
+      "timestamp": "2025-10-29T16:56:24.192277Z"
     },
     {
       "original": "In the Kostyantynivka direction, Russian forces closed the pocket south of the reservoir and began refocusing their efforts further north.\nFollowing the earlier Ukrainian withdrawal from the cut-off area south of the Kleban-Bykske reservoir via rubber boats, Russian forces have now established control over the treelines and forests to the south. Since then, they have continued their attacks towards the rear of the reservoir and are attempting to gain a foothold in the forests east of the highway.\n+ ~12.40 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708170Z"
+      "timestamp": "2025-10-29T16:56:24.192282Z"
     },
     {
       "original": "In the Siversk direction, Russian forces resumed their assault operations towards Siversk from the southeast and have captured new positions on the tactical heights.\nRussian forces advanced from the treelines northeast of Vyimka, pushing along the tactical heights, and captured new positions to the northwest. They then advanced further north up a treeline and are attempting to establish control over additional positions closer to Siversk. \n+ ~2.52 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708175Z"
+      "timestamp": "2025-10-29T16:56:24.192287Z"
     },
     {
       "original": "In the Lyman direction, Russian forces continued their offensive operations and have made new progress to east of the city. \nIn the northwest, Russian forces advanced further through the forests along the railway line and reached the eastern edge of Lyman. DRGs then infiltrated the city and have since been operating in the area of the freight terminals. They also established control over new parts of the forests and infiltrated further into the Masliakivka District. \nTo the southeast, Russian forces continued to slowly advance in Yampil. They were able to advance out of the village centre and capture some new positions in the southwestern streets. Ukrainian forces are gradually being pushed back to the southwestern edge of the settlement. \n+ ~3.70 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708180Z"
+      "timestamp": "2025-10-29T16:56:24.192293Z"
     },
     {
       "original": "In the Lyman direction, Russian forces continued to expand their zone of control west of Zarichne, and have eliminated the salient recently formed there.\nAfter outflanking Ukrainian strongpoints west of Zarichne from the north, Ukrainian forces began withdrawing to the west to prevent being encircled. The Russians have since captured the agricultural complex that served as one of Ukraine's main forward deployment points in this sector, and secured the rest of the surrounding forests, levelling the frontline to the west. \n+ ~3.85 km² in favour of Russia.",
-      "timestamp": "2025-10-29T16:42:36.708185Z"
+      "timestamp": "2025-10-29T16:56:24.192297Z"
     },
     {
       "original": "Following reports of Hamas fighters opening fire on Israeli soldiers in Rafah and firing an anti-tank missile, the IDF has begun a series of airstrikes on targets across Gaza City and Rafah. \nExplosions are currently sounding across the strip from the artillery shelling and airstrikes focusing on Gaza City. One airstrike targeted the courtyard of Al-Shifa Hospital in Gaza City; however no casualties were reported.",
-      "timestamp": "2025-10-29T16:42:36.708189Z"
+      "timestamp": "2025-10-29T16:56:24.192302Z"
     },
     {
       "original": "All those naive people when the war and genocide starts again will be so confused why the \"peace president\" couldn't stop it. \nIt's almost as if Trump's plan was terribly laid out and had very few guarantees for Hamas (let alone the other Palestinian factions and movements in Gaza).\nI honestly think the goal was to make a peace plan that was borderline acceptable for Hamas, but just slightly too far outside of what they could feasibly agree too, in order to portray them as unwilling to end the war and rebuild some justification for the IDF to continue their operations. \nHamas actually accepting the deal surprised the US and Israel, so now they are relying on ceasefire violations to slowly swing back to a fighting stance.",
-      "timestamp": "2025-10-29T16:42:36.708195Z"
+      "timestamp": "2025-10-29T16:56:24.192307Z"
     },
     {
       "original": "All those naive people when the war and genocide starts again will be so confused why the \"peace president\" couldn't stop it.   It's almost as if Trump's plan was terribly laid out and had very few guarantees for Hamas (let alone the other Palestinian factions…",
-      "timestamp": "2025-10-29T16:42:36.708198Z"
+      "timestamp": "2025-10-29T16:56:24.192314Z"
     },
     {
       "original": "This new round of attacks could only be temporary, but long-term the trend is obvious.",
-      "timestamp": "2025-10-29T16:42:36.708205Z"
+      "timestamp": "2025-10-29T16:56:24.192318Z"
     },
     {
       "original": "Today, in preparation for the next large-scale missile strike, 4 Tu-95MS strategic bombers redeployed from Ukrainka Airbase, Amur Oblast, to western Russia. 1 landed at Olenya Airbase, Murmansk Oblast, and 3 landed at Engels-2 Airbase, Saratov Oblast.\nCurrently, there are 10 strategic bombers stationed near Ukraine - 13 if you include Diaghilev Airbase (Ryazan Oblast).",
-      "timestamp": "2025-10-29T16:42:36.708209Z"
+      "timestamp": "2025-10-29T16:56:24.192321Z"
     },
     {
       "original": "Today, in preparation for the next large-scale missile strike, 4 Tu-95MS strategic bombers redeployed from Ukrainka Airbase, Amur Oblast, to western Russia. 1 landed at Olenya Airbase, Murmansk Oblast, and 3 landed at Engels-2 Airbase, Saratov Oblast.  Currently…",
-      "timestamp": "2025-10-29T16:42:36.708212Z"
+      "timestamp": "2025-10-29T16:56:24.192325Z"
     },
     {
       "original": "2 Tu-95MS strategic bombers have departed from Engels-2 Airbase and are redeploying to Olenya Airbase. They have been equipped with Kh-101 cruise missiles and will take part in the next missile attack from Olenya.",
-      "timestamp": "2025-10-29T16:42:36.708215Z"
+      "timestamp": "2025-10-29T16:56:24.192328Z"
     },
     {
       "original": "Russian forces have captured the village of Dronivka, northern flank of Siversk, Donetsk Oblast.\nPre-war population: ~613.\nTotal land area: ~0.98 km².",
-      "timestamp": "2025-10-29T16:42:36.708220Z"
+      "timestamp": "2025-10-29T16:56:24.192333Z"
     },
     {
       "original": "Following reports of Hamas fighters opening fire on Israeli soldiers in Rafah and firing an anti-tank missile, the IDF has begun a series of airstrikes on targets across Gaza City and Rafah.   Explosions are currently sounding across the strip from the artillery…",
-      "timestamp": "2025-10-29T16:42:36.708223Z"
+      "timestamp": "2025-10-29T16:56:24.192336Z"
     },
     {
       "original": "Hamas denied responsibility for the attack on IDF soldiers in Rafah, southern Gaza, and emphasised its commitment to the ceasefire.",
-      "timestamp": "2025-10-29T16:42:36.708229Z"
+      "timestamp": "2025-10-29T16:56:24.192339Z"
     },
     {
       "original": "2 Tu-95MS strategic bombers have departed from Engels-2 Airbase and are redeploying to Olenya Airbase. They have been equipped with Kh-101 cruise missiles and will take part in the next missile attack from Olenya.",
-      "timestamp": "2025-10-29T16:42:36.708234Z"
+      "timestamp": "2025-10-29T16:56:24.192344Z"
     },
     {
       "original": "4 Tu-95MS strategic bombers landed at Olenya Airbase. They are all equipped with Kh-101 cruise missiles. \nMutliple vessels of the Black Sea Fleet stationed at Novorossiysk Naval base, Krasnodar Krai, are equipped with Kalibr cruise missiles. \nMultiple OTRK installations have Iskander-M ballistic missiles ready to launch, especially from the north and northeastern directions. \n2 MiG-31Ks are equipped with Kinzhal hypersonic aeroballistic missiles at Savasleika Airbase, Nizhny Novgorod Oblast. Their usage in the next attack is likely, but not certain.\nAt least 4 Tu-22m3 strategic bombers stationed at Diaghilev Airbase, Ryazan Oblast, are equipped with Kh-22 cruise missiles. It is unclear if they will be used in the next attack.\n1 Tu-95MS and 3 Tu-160s remain stationed at Engels-2 Airbase. Not all are equipped with missiles. \nThe next large-scale, combined missile attack on Ukraine is likely to take place tomorrow night. I will provide additional updates closer to the time.",
-      "timestamp": "2025-10-29T16:42:36.708241Z"
+      "timestamp": "2025-10-29T16:56:24.192352Z"
     },
     {
       "original": "I think we may be seeing the last days of the battle for Pokrovsk.",
-      "timestamp": "2025-10-29T16:42:36.708244Z"
+      "timestamp": "2025-10-29T16:56:24.192355Z"
     },
     {
       "original": "Get ready",
-      "timestamp": "2025-10-29T16:42:36.708247Z"
+      "timestamp": "2025-10-29T16:56:24.192358Z"
     },
     {
-      "original": "Israel Admits Death Of Soldier In Gaza After Killing Over 100 Palestinians Amid Ceasefire (18+ Videos)\nThe Israeli Defense Forces (IDF) on October 29 acknowledged losing a reservist as a result of an attack in the Gaza Strip a day earlier after killing over a hundred Palestinian in intense retaliatory strikes on the enclave.\nThe attack took place amid a ceasefire that began earlier this month as a part of a United States-led peace plan meant to end the war.\nThe slain reservist was a heavy machinery operator in the Gaza Division. According to an initial IDF probe, Palestinian snipers fired at a building used by troops and at an excavator operating in Jenina neighborhood of Rafah area in southern Gaza which resulted in the death of the reservist who was operating the excavator.\nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264034Z"
+      "original": "Tonight, there is a high probability of a large-scale, combined Russian missile and drone attack being carried out on Ukraine. Here's what we know so far:\nThere are currently 7 Tu-95MS stationed at Olenya Airbase, Murmansk Oblast. 6-7 of these are equipped with Kh-101 cruise missiles and are expected to take part in any combat sorties.\nAt Engels-2 Airbase, Murmansk Oblast, there are 2-3 Tu-160 strategic bombers equipped with Kh-101s. They are likely to take part in any combat sorties. The Tu-95MS and 1 other Tu-160 stationed there are there for training purposes.\n1 frigate of the \"Admiral Makarov\" type, 1 frigate of the \"Admiral Essen\" type, and 1 submarine of the \"Varshavyanka\" type are equipped with Kalibr cruise missiles, and stationed at Novorossiysk Naval Base, Krasnodar Krai. They are likely going to take part in any missile attacks. \n3-4 MiG-31Ks stationed at Savasleika Airbase, Nizhny Novgorod Oblast, are equipped with Kinzhal hypersonic aeroballistic missiles. They may take part in any combat sorties. The 2 other MiG-31Ks equipped with missiles stationed at Akhtubinsk Airbase, Astrakhan Oblast, are not expected to take part. \nAt least four Iskander OTRK installations have received deliveries of Iskander-M ballistic missiles and/or Iskander-K cruise missiles. These are in Bryansk Oblast, Kursk Oblast, Voronezh Oblast, and Rostov Oblast. Their usage tonight is possible but not confirmed. \nAfter weeks of accumulation, there are over 500 Geran-2, Geran-3, and Gerbera drones ready to launch from 10-11 different directions surrounding Ukraine. \nThe chances of a missile attack taking place tonight is not 100%, but it is likely (~75%).",
+      "timestamp": "2025-10-29T16:56:24.192379Z"
     },
     {
-      "original": "Israel Admits Death Of Soldier In Gaza After Killing Over 100 Palestinians Amid Ceasefire (18+ Videos)\nThe Israeli Defense Forces (IDF) on October 29 acknowledged losing a reservist as a result of an attack in the Gaza Strip a day earlier after killing over a hundred Palestinian in intense retaliatory strikes on the enclave.\nThe attack took place amid a ceasefire that began earlier this month as a part of a United States-led peace plan meant to end the war.\nThe slain reservist was a heavy machinery operator in the Gaza Division. According to an initial IDF probe, Palestinian snipers fired at a building used by troops and at an excavator operating in Jenina neighborhood of Rafah area in southern Gaza which resulted in the death of the reservist who was operating the excavator.\nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264049Z"
-    },
-    {
-      "original": "Russian Army Captures Vishneve Near Yanchur, Expands Control In Pokrovsk (Videos)\nOn October 29, the Russian military captured another key settlement along the Yanchur River in Dnepropetrovsk, and expanded its control in the city of Pokrovsk in Donetsk, putting Kiev forces in a difficult position in both directions.\nThe Russian Ministry of Defense announced the capture of Vishneve in Dnepropetrovsk by the Vostok [East] Group of Forces.\nMoving to Donetsk to the east, the situation of Kiev forces is even worse. The Tsentr [Center] Group of Forces is rapidly expanding its control in Pokrovsk and nearby areas.\nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264057Z"
+      "original": "So far, launches of Geran-2 drones have been recorded from:\nPrimorsko-Akhtarsk Airbase, Krasnodar Krai.\nTsumbulova Test Site, Oryol Oblast (x2).\nKhalino Airbase, Kursk Oblast.\nNavlya Test Site, Bryansk Oblast. \nThe first drones are entering Ukrainian airspace via Sumy, Chernihiv, and Dnipropetrovsk Oblasts.",
+      "timestamp": "2025-10-29T16:56:24.192385Z"
     },
     {
       "original": "Russian Army Captures Vishneve Near Yanchur, Expands Control In Pokrovsk (Videos)\nOn October 29, the Russian military captured another key settlement along the Yanchur River in Dnepropetrovsk, and expanded its control in the city of Pokrovsk in Donetsk, putting Kiev forces in a difficult position in both directions.\nThe Russian Ministry of Defense announced the capture of Vishneve in Dnepropetrovsk by the Vostok [East] Group of Forces.\nMoving to Donetsk to the east, the situation of Kiev forces is even worse. The Tsentr [Center] Group of Forces is rapidly expanding its control in Pokrovsk and nearby areas.\nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264065Z"
+      "timestamp": "2025-10-29T16:56:24.838348Z"
+    },
+    {
+      "original": "Russian Army Captures Vishneve Near Yanchur, Expands Control In Pokrovsk (Videos)\nOn October 29, the Russian military captured another key settlement along the Yanchur River in Dnepropetrovsk, and expanded its control in the city of Pokrovsk in Donetsk, putting Kiev forces in a difficult position in both directions.\nThe Russian Ministry of Defense announced the capture of Vishneve in Dnepropetrovsk by the Vostok [East] Group of Forces.\nMoving to Donetsk to the east, the situation of Kiev forces is even worse. The Tsentr [Center] Group of Forces is rapidly expanding its control in Pokrovsk and nearby areas.\nRead more \nHERE",
+      "timestamp": "2025-10-29T16:56:24.838375Z"
     },
     {
       "original": "Kiev Forces Are Nearing Defeat In Vovchansk And Kupyansk (Videos)\nOn October 29, the Russian military advanced on all key fronts in the direction of Kharkiv, bringing Kiev forces closer to defeat in both Vovchansk and Kupyansk.\nThe Sever [North] Group of Forces is reported to be now in control of most of Vovchansk. The settlement’s southwestern part has been completely secured by Russian troops. Kiev forces are currently attempting to defend their last positions in the southeastern part of the settlement.\nMeanwhile in Kupyansk, the Zapad [West] Group of Forces is also reported to be advancing. Russian troops begin clearing the residential areas to the south of Kharkivska Vulytsya street in the center of the city. \nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264074Z"
+      "timestamp": "2025-10-29T16:56:24.838385Z"
     },
     {
       "original": "Kiev Forces Are Nearing Defeat In Vovchansk And Kupyansk (Videos)\nOn October 29, the Russian military advanced on all key fronts in the direction of Kharkiv, bringing Kiev forces closer to defeat in both Vovchansk and Kupyansk.\nThe Sever [North] Group of Forces is reported to be now in control of most of Vovchansk. The settlement’s southwestern part has been completely secured by Russian troops. Kiev forces are currently attempting to defend their last positions in the southeastern part of the settlement.\nMeanwhile in Kupyansk, the Zapad [West] Group of Forces is also reported to be advancing. Russian troops begin clearing the residential areas to the south of Kharkivska Vulytsya street in the center of the city. \nRead more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264082Z"
+      "timestamp": "2025-10-29T16:56:24.838394Z"
     },
     {
       "original": "Military Situation In Gaza Strip On October 29, 2025 (Map Update)",
-      "timestamp": "2025-10-29T16:42:37.264086Z"
+      "timestamp": "2025-10-29T16:56:24.838398Z"
     },
     {
       "original": "Where Have the \"Gray Geese\" Gone? The Fate of Foreign Mercenaries in Ukraine.\nThe prospect of easy money continues to draw foreign mercenaries to Ukraine. For those who decided that fighting the Russian army would be easy, the reality is an unenviable fate. But what happens to most of the soldiers of fortune who join the Ukrainian Armed Forces?\nWestern social networks and media outlets have launched a large-scale campaign to recruit ‘volunteers’ for Ukraine. Positions are most often offered far behind the front lines. The promise of high pay and good living conditions has generated significant interest among residents of developing countries.\nThe image of the Russian army as weak, stupid, and poorly organized has been widely promoted by Western media. This reinforces the mercenaries’ belief that earning money will be easy. A lack of awareness in the Western Hemisphere, particularly in Latin America, of the true intensity of the conflict in Ukraine also plays into the recruiters’ hands.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264095Z"
+      "timestamp": "2025-10-29T16:56:24.838408Z"
     },
     {
       "original": "Where Have the \"Gray Geese\" Gone? The Fate of Foreign Mercenaries in Ukraine.\nThe prospect of easy money continues to draw foreign mercenaries to Ukraine. For those who decided that fighting the Russian army would be easy, the reality is an unenviable fate. But what happens to most of the soldiers of fortune who join the Ukrainian Armed Forces?\nWestern social networks and media outlets have launched a large-scale campaign to recruit ‘volunteers’ for Ukraine. Positions are most often offered far behind the front lines. The promise of high pay and good living conditions has generated significant interest among residents of developing countries.\nThe image of the Russian army as weak, stupid, and poorly organized has been widely promoted by Western media. This reinforces the mercenaries’ belief that earning money will be easy. A lack of awareness in the Western Hemisphere, particularly in Latin America, of the true intensity of the conflict in Ukraine also plays into the recruiters’ hands.\n👉\n Read more \nHERE",
-      "timestamp": "2025-10-29T16:42:37.264104Z"
+      "timestamp": "2025-10-29T16:56:24.838417Z"
     },
     {
       "original": "Military Situation In Ukraine On October 29, 2025 (Maps Update)",
-      "timestamp": "2025-10-29T16:42:37.264108Z"
+      "timestamp": "2025-10-29T16:56:24.838420Z"
     },
     {
       "original": "Military Situation In Ukraine On October 29, 2025 (Maps Update)",
-      "timestamp": "2025-10-29T16:42:37.264115Z"
+      "timestamp": "2025-10-29T16:56:24.838428Z"
+    },
+    {
+      "original": "Sudanese Government Says 2,000 Civilians Were Killed By Rapid Support Forces In El-Fasher (18+ Videos)\nThousands of Sudanese civilians have been reportedly killed by the Rapid Support Forces (RSF) in el-Fashe after the withdrawal of the Sudanese Armed Forces (SAF) from the city in western Sudan.\nHorrific videos purported to show RSF militants rounding up and executing civilians near el-Fasher began to surface online right after the fall of the city on October 26.\nDuring a press conference in the city of Port Sudan on October 29, Mona Nour Al-Daem, Sudan's Deputy Commissioner of Humanitarian Aid, said that at least 2,000 civilians were killed by the RSF in el-Fasher, describing what happened as \"genocide against unarmed civilians.\"\nRead more \nHERE",
+      "timestamp": "2025-10-29T16:56:24.838436Z"
+    },
+    {
+      "original": "Sudanese Government Says 2,000 Civilians Were Killed By Rapid Support Forces In El-Fasher (18+ Videos)\nThousands of Sudanese civilians have been reportedly killed by the Rapid Support Forces (RSF) in el-Fashe after the withdrawal of the Sudanese Armed Forces (SAF) from the city in western Sudan.\nHorrific videos purported to show RSF militants rounding up and executing civilians near el-Fasher began to surface online right after the fall of the city on October 26.\nDuring a press conference in the city of Port Sudan on October 29, Mona Nour Al-Daem, Sudan's Deputy Commissioner of Humanitarian Aid, said that at least 2,000 civilians were killed by the RSF in el-Fasher, describing what happened as \"genocide against unarmed civilians.\"\nRead more \nHERE",
+      "timestamp": "2025-10-29T16:56:24.838444Z"
     }
   ],
-  "script_run_time": "2025-10-29T16:42:37.264672Z"
+  "script_run_time": "2025-10-29T16:56:24.839260Z"
 }
