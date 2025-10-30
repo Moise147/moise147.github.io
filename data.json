@@ -1,229 +1,269 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА в центрі Вінниччини, курс Вінниця.",
-      "timestamp": "2025-10-30T02:41:48.066652Z"
-    },
-    {
-      "original": "🛵\n Декілька груп  БпЛА в південній та східній частині  Кіровоградщини, курс - західний.",
-      "timestamp": "2025-10-30T02:41:48.066676Z"
-    },
-    {
-      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Сумщину.",
-      "timestamp": "2025-10-30T02:41:48.066682Z"
-    },
-    {
-      "original": "🚨\nОновлення щодо БпЛА:\n🛵\n Група ворожих БпЛА на сході Харківщини \n➡️\n курсом на південь.\n🛵\n  Група БпЛА  на півночі Дніпропетровщини \n➡️\n курсом на захід.\n🛵\n Група БпЛА на сході Миколаївщини \n➡️\n курсом на північний-захід.\n🛵\n Кілька груп БпЛА на Запоріжжі \n➡️\n курсом на захід.\n🛵\n  Група БпЛА  в центральній та південній частині Чернігівщини \n➡️\n курсом на захід.\n🛵\n Група БпЛА на Херсонщині \n➡️\n курсом на захід.\n🛵\n  Група БпЛА  в центральній частині Київщини \n➡️\n курсом на захід.\n🛵\n  Група БпЛА  в центральній  частині Вінниччини \n➡️\n курсом на захід.\n🛵\n  Група БпЛА  в східній частині Хмельниччини \n➡️\n курсом на захід.",
-      "timestamp": "2025-10-30T02:41:48.066715Z"
-    },
-    {
-      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччину та Сумщину.",
-      "timestamp": "2025-10-30T02:41:48.066720Z"
-    },
-    {
-      "original": "⚠\nУвага!\n🛵\nБіла Церква - в районі міста ворожий БпЛА. Перебувайте в укриттях!",
-      "timestamp": "2025-10-30T02:41:48.066727Z"
-    },
-    {
-      "original": "🛵\n Група  БпЛА з Кіровоградщини заходять у південну частину Вінницької області.",
-      "timestamp": "2025-10-30T02:41:48.066732Z"
-    },
-    {
-      "original": "⚠\nУвага!\n🛵\nЗапоріжжя - в районі міста ворожі БпЛА. Перебувайте в укриттях!",
-      "timestamp": "2025-10-30T02:41:48.066738Z"
+      "original": "Крилаті ракети на Херсонщині в напрямку Миколаївщини",
+      "timestamp": "2025-10-30T03:33:52.892847Z"
     },
     {
       "original": "Швидкісна ціль на Запоріжжя.",
-      "timestamp": "2025-10-30T02:41:48.066744Z"
-    },
-    {
-      "original": "⚠\n Увага!\n☄️\n Загроза застосування балістичного озброєння з Криму.",
-      "timestamp": "2025-10-30T02:41:48.066752Z"
-    },
-    {
-      "original": "Швидкісна ціль на Запоріжжя.",
-      "timestamp": "2025-10-30T02:41:48.066756Z"
-    },
-    {
-      "original": "Продовжує рух на Дніпро.",
-      "timestamp": "2025-10-30T02:41:48.066759Z"
-    },
-    {
-      "original": "Швидкісні цілі на Запоріжжі.",
-      "timestamp": "2025-10-30T02:41:48.066762Z"
-    },
-    {
-      "original": "Ще швидкісні цілі на Запоріжжі.",
-      "timestamp": "2025-10-30T02:41:48.066765Z"
-    },
-    {
-      "original": "Знову швидкісні цілі на Запоріжжі.",
-      "timestamp": "2025-10-30T02:41:48.066770Z"
-    },
-    {
-      "original": "🛵\n Група БпЛА на сході Тернопільщини \n➡️\n курсом на захід.",
-      "timestamp": "2025-10-30T02:41:48.066776Z"
-    },
-    {
-      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Донеччину.",
-      "timestamp": "2025-10-30T02:41:48.066781Z"
-    },
-    {
-      "original": "🛵\nДекілька груп БпЛА на півдні Вінниччини \n➡️\n курсом на захід.",
-      "timestamp": "2025-10-30T02:41:48.066787Z"
+      "timestamp": "2025-10-30T03:33:52.892865Z"
     },
     {
       "original": "Крилаті ракети на Херсонщині в напрямку Миколаївщини",
-      "timestamp": "2025-10-30T02:41:48.066790Z"
-    },
-    {
-      "original": "Швидкісна ціль на Запоріжжя.",
-      "timestamp": "2025-10-30T02:41:48.066793Z"
-    },
-    {
-      "original": "Крилаті ракети на Херсонщині в напрямку Миколаївщини",
-      "timestamp": "2025-10-30T02:41:48.066796Z"
+      "timestamp": "2025-10-30T03:33:52.892869Z"
     },
     {
       "original": "Продовжує рух на Кіровоградщину.",
-      "timestamp": "2025-10-30T02:41:48.066799Z"
+      "timestamp": "2025-10-30T03:33:52.892873Z"
     },
     {
-      "original": "Another Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468906Z"
+      "original": "Ракети на межі Вінницької та Черкаської областей курсом на захід.",
+      "timestamp": "2025-10-30T03:33:52.892879Z"
     },
     {
-      "original": "Another explosion",
-      "timestamp": "2025-10-30T02:41:48.468918Z"
+      "original": "Ракети курсом на Ладижин.",
+      "timestamp": "2025-10-30T03:33:52.892883Z"
     },
     {
-      "original": "2 more Iskanders to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468922Z"
+      "original": "Ракети курсом на Ладижин.",
+      "timestamp": "2025-10-30T03:33:52.892886Z"
     },
     {
-      "original": "Explosions in Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468926Z"
+      "original": "Продовжують рух на Хмельниччину.",
+      "timestamp": "2025-10-30T03:33:52.892889Z"
     },
     {
-      "original": "1 more Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468929Z"
+      "original": "Пуски Кинджалів в напрямку Вінниччини!",
+      "timestamp": "2025-10-30T03:33:52.892892Z"
     },
     {
-      "original": "Explosion in Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468932Z"
+      "original": "Пуски Кинджалів в напрямку Вінниччини!",
+      "timestamp": "2025-10-30T03:33:52.892895Z"
     },
     {
-      "original": "11th Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468935Z"
+      "original": "далі на Ладижин",
+      "timestamp": "2025-10-30T03:33:52.892898Z"
     },
     {
-      "original": "11th Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468938Z"
+      "original": "Крилата ракета на Хмельниччині курсом на захід.",
+      "timestamp": "2025-10-30T03:33:52.892901Z"
     },
     {
-      "original": "Explosion in Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468941Z"
+      "original": "Крилата ракета на Хмельниччині курсом на захід.",
+      "timestamp": "2025-10-30T03:33:52.892907Z"
     },
     {
-      "original": "12th Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468944Z"
+      "original": "Ракети на Тернопіль",
+      "timestamp": "2025-10-30T03:33:52.892910Z"
     },
     {
-      "original": "12th Iskander to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468947Z"
+      "original": "Пуски Кинджалу в напрямку Житомирщини.",
+      "timestamp": "2025-10-30T03:33:52.892913Z"
     },
     {
-      "original": "Explosion in Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468950Z"
+      "original": "Ракети на Тернопіль",
+      "timestamp": "2025-10-30T03:33:52.892916Z"
     },
     {
-      "original": "The 7 Tu-95MS from Olenya Airbase are approaching the launch lines in Mokshansky District, Penza Oblast. They will likely carry out simulated launch maneuvers from there and continue flying to Engels District, Saratov Oblast.",
-      "timestamp": "2025-10-30T02:41:48.468964Z"
+      "original": "Продовжує рух на Івано Франківщину.",
+      "timestamp": "2025-10-30T03:33:52.892919Z"
     },
     {
-      "original": "Unidentified missile to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468967Z"
+      "original": "Пуски Кинджалу в напрямку Житомирщини.",
+      "timestamp": "2025-10-30T03:33:52.892922Z"
     },
     {
-      "original": "Unidentified missile to Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468970Z"
+      "original": "Продовжує рух на Хмельниччину.",
+      "timestamp": "2025-10-30T03:33:52.892925Z"
     },
     {
-      "original": "This is an Iskander-M",
-      "timestamp": "2025-10-30T02:41:48.468973Z"
+      "original": "Крилаті ракети на Чернігівщині в напрямку Київщини.",
+      "timestamp": "2025-10-30T03:33:52.892928Z"
     },
     {
-      "original": "This is an Iskander-M",
-      "timestamp": "2025-10-30T02:41:48.468976Z"
+      "original": "Продовжує рух на Івано Франківщину.",
+      "timestamp": "2025-10-30T03:33:52.892933Z"
     },
     {
-      "original": "Explosion in Zaporizhzhia",
-      "timestamp": "2025-10-30T02:41:48.468979Z"
+      "original": "Львів в укриття.",
+      "timestamp": "2025-10-30T03:33:52.892936Z"
     },
     {
-      "original": "10 Kalibrs have entered Ukrainian airspace. Map soon",
-      "timestamp": "2025-10-30T02:41:48.468982Z"
+      "original": "Крилаті ракети на Чернігівщині в напрямку Київщини.",
+      "timestamp": "2025-10-30T03:33:52.892939Z"
     },
     {
-      "original": "3 groups of Kalibrs entered Kherson Oblast via Nova Kakhova and are flying northwest to Bashtanka, Mykolaiv Oblast.",
-      "timestamp": "2025-10-30T02:41:48.468988Z"
+      "original": "Змінюють курс на Полтавщину.",
+      "timestamp": "2025-10-30T03:33:52.892942Z"
     },
     {
-      "original": "Explosions in Zaporizhzhia. Kalibrs",
-      "timestamp": "2025-10-30T02:41:48.468992Z"
+      "original": "Декілька груп крилатих ракет на заході Полтавщини курсом на південь.",
+      "timestamp": "2025-10-30T03:33:52.892945Z"
     },
     {
-      "original": "1 Kalibr flew to Zaporizhzhia City and impacted.\n3 groups of Kalibrs continue flying northwest through Mykolaiv Oblast.\n2 Kalibrs are flying to Kherson.",
-      "timestamp": "2025-10-30T02:41:48.468997Z"
+      "original": "Крилаті ракети на Сумщині курсом на захід.",
+      "timestamp": "2025-10-30T03:33:52.892949Z"
     },
     {
-      "original": "Another explosion in Zaporizhzhia. Kalibrs again.",
-      "timestamp": "2025-10-30T02:41:48.469001Z"
+      "original": "Декілька груп крилатих ракет на заході Полтавщини курсом на південь.",
+      "timestamp": "2025-10-30T03:33:52.892952Z"
     },
     {
-      "original": "2 groups of Kalibrs flew past Kherson towards Mykolaiv. \n3 groups of Kalibrs are flying northwest towards Vozsiyats'ke, Mykolaiv Oblast.\n2 Kalibrs (1 group) impacted Zaporizhzhia.\nThey seem to be flying in pairs.",
-      "timestamp": "2025-10-30T02:41:48.469006Z"
+      "original": "продовжують рух по сходу Черкащини.",
+      "timestamp": "2025-10-30T03:33:52.892956Z"
     },
     {
-      "original": "2 pairs of Kalibrs flew past Mykolaiv to Nova Odesa, Mykolaiv Oblast.\n3 pairs of Kalibrs entered Kirovohrad Oblast, flying northwest to Uman, Cherkasy Oblast. The pairs are flying one after another.",
-      "timestamp": "2025-10-30T02:41:48.469010Z"
+      "original": "продовжують рух по сходу Черкащини.",
+      "timestamp": "2025-10-30T03:33:52.892960Z"
+    },
+    {
+      "original": "Сміла в укриття.",
+      "timestamp": "2025-10-30T03:33:52.892963Z"
+    },
+    {
+      "original": "Flying to Kaniv Hydroelectric Power Plant",
+      "timestamp": "2025-10-30T03:33:53.452909Z"
+    },
+    {
+      "original": "The Kinzhals flew over Kaniv towards Haisyn, Vinnytsia Oblast",
+      "timestamp": "2025-10-30T03:33:53.452921Z"
+    },
+    {
+      "original": "Explosions in Ladyzhyn, Vinnytsia Oblast. They are hitting the power plant there. Kalibrs also impacted it.",
+      "timestamp": "2025-10-30T03:33:53.452925Z"
+    },
+    {
+      "original": "The last 2 pairs of Kalibrs are flying west through southern Khmelnytskyi Oblast. They will likely target Burshtyn Thermal Power Plant in Ivano-Frankivsk.",
+      "timestamp": "2025-10-30T03:33:53.452929Z"
+    },
+    {
+      "original": "Another MiG-31K is airborne",
+      "timestamp": "2025-10-30T03:33:53.452932Z"
+    },
+    {
+      "original": "Another MiG-31K is airborne",
+      "timestamp": "2025-10-30T03:33:53.452935Z"
+    },
+    {
+      "original": "Launch maneuver",
+      "timestamp": "2025-10-30T03:33:53.452938Z"
+    },
+    {
+      "original": "Kinzhal to Kyiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452941Z"
+    },
+    {
+      "original": "Kinzhal to Kyiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452944Z"
+    },
+    {
+      "original": "Flying further to Burshtyn Thermal Power Plant, Ivano-Frankivsk",
+      "timestamp": "2025-10-30T03:33:53.452947Z"
+    },
+    {
+      "original": "Another MiG-31K airborne",
+      "timestamp": "2025-10-30T03:33:53.452951Z"
+    },
+    {
+      "original": "Another MiG-31K airborne",
+      "timestamp": "2025-10-30T03:33:53.452954Z"
+    },
+    {
+      "original": "This one also carried out a launch maneuver",
+      "timestamp": "2025-10-30T03:33:53.452957Z"
+    },
+    {
+      "original": "4 Kalibrs are approaching the Burshtyn TPP",
+      "timestamp": "2025-10-30T03:33:53.452960Z"
+    },
+    {
+      "original": "The 1st Kinzhal flew over Zhytomyr Oblast. 200 km from Burshtyn",
+      "timestamp": "2025-10-30T03:33:53.452967Z"
+    },
+    {
+      "original": "Explosions in Burshtyn, Ivano-Frankivsk Oblast",
+      "timestamp": "2025-10-30T03:33:53.452970Z"
+    },
+    {
+      "original": "Unidentified missiles in Chernihiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452975Z"
+    },
+    {
+      "original": "Unidentified missiles in Chernihiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452978Z"
+    },
+    {
+      "original": "These are cruise missiles, flying west to Kyiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452981Z"
+    },
+    {
+      "original": "These are cruise missiles, flying west to Kyiv Oblast",
+      "timestamp": "2025-10-30T03:33:53.452984Z"
+    },
+    {
+      "original": "6 missiles are detected. These seem to be Kh-101s whose launches were undetected",
+      "timestamp": "2025-10-30T03:33:53.452988Z"
+    },
+    {
+      "original": "I think the other 2 Kinzhals hit Starokostyantyniv Airbase instead of Burshtyn.",
+      "timestamp": "2025-10-30T03:33:53.452991Z"
+    },
+    {
+      "original": "Unidentified missiles to Zaporizhzhia",
+      "timestamp": "2025-10-30T03:33:53.452994Z"
+    },
+    {
+      "original": "Unidentified missiles to Zaporizhzhia",
+      "timestamp": "2025-10-30T03:33:53.452997Z"
+    },
+    {
+      "original": "Disappeared. Maybe MLRS",
+      "timestamp": "2025-10-30T03:33:53.453000Z"
+    },
+    {
+      "original": "Explosions in Stryi, Lviv Oblast. Kalibrs. Likely targeting underground gas storage",
+      "timestamp": "2025-10-30T03:33:53.453003Z"
+    },
+    {
+      "original": "5 groups of 4 (likely) Kh-101s are in Ukrainian airspace.\n4 groups fly southwest along the Cherkasy - Kyiv border.\n1 group follows from Sumy Obalst.",
+      "timestamp": "2025-10-30T03:33:53.453008Z"
     },
     {
       "original": "Military Situation In Ukraine On October 29, 2025 (Maps Update)",
-      "timestamp": "2025-10-30T02:41:48.972159Z"
+      "timestamp": "2025-10-30T03:33:54.211051Z"
     },
     {
       "original": "Military Situation In Ukraine On October 29, 2025 (Maps Update)",
-      "timestamp": "2025-10-30T02:41:48.972172Z"
+      "timestamp": "2025-10-30T03:33:54.211063Z"
     },
     {
       "original": "Sudanese Government Says 2,000 Civilians Were Killed By Rapid Support Forces In El-Fasher (18+ Videos)\nThousands of Sudanese civilians have been reportedly killed by the Rapid Support Forces (RSF) in el-Fashe after the withdrawal of the Sudanese Armed Forces (SAF) from the city in western Sudan.\nHorrific videos purported to show RSF militants rounding up and executing civilians near el-Fasher began to surface online right after the fall of the city on October 26.\nDuring a press conference in the city of Port Sudan on October 29, Mona Nour Al-Daem, Sudan's Deputy Commissioner of Humanitarian Aid, said that at least 2,000 civilians were killed by the RSF in el-Fasher, describing what happened as \"genocide against unarmed civilians.\"\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972181Z"
+      "timestamp": "2025-10-30T03:33:54.211072Z"
     },
     {
       "original": "Sudanese Government Says 2,000 Civilians Were Killed By Rapid Support Forces In El-Fasher (18+ Videos)\nThousands of Sudanese civilians have been reportedly killed by the Rapid Support Forces (RSF) in el-Fashe after the withdrawal of the Sudanese Armed Forces (SAF) from the city in western Sudan.\nHorrific videos purported to show RSF militants rounding up and executing civilians near el-Fasher began to surface online right after the fall of the city on October 26.\nDuring a press conference in the city of Port Sudan on October 29, Mona Nour Al-Daem, Sudan's Deputy Commissioner of Humanitarian Aid, said that at least 2,000 civilians were killed by the RSF in el-Fasher, describing what happened as \"genocide against unarmed civilians.\"\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972190Z"
+      "timestamp": "2025-10-30T03:33:54.211080Z"
     },
     {
       "original": "Over 130 Killed In Deadliest Police Raid In History Of Brazil (Videos)\nOver 130 people, including several police officers, died in a massive raid by Brazilian security forces aimed at organized crime in Rio de Janeiro on October 28.\nRio de Janeiro State Governor Cláudio Castro told reporters at a press conference that police confiscated a “large quantity of drugs” in the raid, according to Reuters. Authorities also claimed on social media that 81 people were arrested and at least 42 rifles were seized during the operation.\nCastro went on to pronounce the raid “the biggest operation in the history of Rio de Janeiro” in a post to the X social network.\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972199Z"
+      "timestamp": "2025-10-30T03:33:54.211089Z"
     },
     {
       "original": "Over 130 Killed In Deadliest Police Raid In History Of Brazil (Videos)\nOver 130 people, including several police officers, died in a massive raid by Brazilian security forces aimed at organized crime in Rio de Janeiro on October 28.\nRio de Janeiro State Governor Cláudio Castro told reporters at a press conference that police confiscated a “large quantity of drugs” in the raid, according to Reuters. Authorities also claimed on social media that 81 people were arrested and at least 42 rifles were seized during the operation.\nCastro went on to pronounce the raid “the biggest operation in the history of Rio de Janeiro” in a post to the X social network.\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972207Z"
+      "timestamp": "2025-10-30T03:33:54.211097Z"
     },
     {
       "original": "UKRAINE'S POKROVSK GAMBIT: GATHERING THE LAST RESERVES IN ATTEMPTS TO STOP THE RUSSIANS",
-      "timestamp": "2025-10-30T02:41:48.972211Z"
+      "timestamp": "2025-10-30T03:33:54.211100Z"
     },
     {
       "original": "Situation Is ‘Very Negative’ For Ukraine: Russian Forces Break Through Pokrovsk Line\nUnits of the «Center» group have taken control of the villages of Rog and Gnatovka, and are fighting for control of the industrial zone to the north of Pokrovsk. In Zaporizhzhia, the «East» grouping has seized control of the Vishnevoe area. \nThe Ukrainian command is planning to withdraw its units from the Pokrovsk-Mirnograd district.\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972218Z"
+      "timestamp": "2025-10-30T03:33:54.211108Z"
     },
     {
       "original": "Situation Is ‘Very Negative’ For Ukraine: Russian Forces Break Through Pokrovsk Line\nUnits of the «Center» group have taken control of the villages of Rog and Gnatovka, and are fighting for control of the industrial zone to the north of Pokrovsk. In Zaporizhzhia, the «East» grouping has seized control of the Vishnevoe area. \nThe Ukrainian command is planning to withdraw its units from the Pokrovsk-Mirnograd district.\nRead more \nHERE",
-      "timestamp": "2025-10-30T02:41:48.972226Z"
+      "timestamp": "2025-10-30T03:33:54.211115Z"
     }
   ],
-  "script_run_time": "2025-10-30T02:41:48.973144Z"
+  "script_run_time": "2025-10-30T03:33:54.211955Z"
 }
