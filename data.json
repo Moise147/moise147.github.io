@@ -1,225 +1,225 @@
 {
   "messages": [
     {
-      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-11T05:32:50.706817Z"
-    },
-    {
       "original": "🛵\n БпЛА на півночі Чернігівщини, курс - південно-західний.",
-      "timestamp": "2025-11-11T05:32:50.706833Z"
+      "timestamp": "2025-11-11T05:44:09.341979Z"
     },
     {
       "original": "🛵\n БпЛА у бік Чернігова з північного заходу! Перебувайте в укриттях!",
-      "timestamp": "2025-11-11T05:32:50.706839Z"
+      "timestamp": "2025-11-11T05:44:09.341996Z"
     },
     {
       "original": "🛵\n Загроза БпЛА для Ніжинського району Чернігівщини.\n🛵\n БпЛА на сході Дніпропетровщини, курсом на північний захід.",
-      "timestamp": "2025-11-11T05:32:50.706845Z"
+      "timestamp": "2025-11-11T05:44:09.342003Z"
     },
     {
       "original": "🛵\n БпЛА курсом на Одесу з акваторії Чорного моря.",
-      "timestamp": "2025-11-11T05:32:50.706852Z"
+      "timestamp": "2025-11-11T05:44:09.342010Z"
     },
     {
       "original": "🛵\n БпЛА на півдні Сумщини рухаються у бік Богодухівського району Харківщини.",
-      "timestamp": "2025-11-11T05:32:50.706857Z"
+      "timestamp": "2025-11-11T05:44:09.342015Z"
     },
     {
       "original": "🛵\n Одеська область - загроза застосування ворогом ударних БпЛА.",
-      "timestamp": "2025-11-11T05:32:50.706861Z"
+      "timestamp": "2025-11-11T05:44:09.342019Z"
     },
     {
       "original": "🛵\n БпЛА з акваторії Чорного моря в напрямку Ізмаїльського району Одеської області.",
-      "timestamp": "2025-11-11T05:32:50.706865Z"
+      "timestamp": "2025-11-11T05:44:09.342023Z"
     },
     {
       "original": "🛵\n Одещина: БпЛА \n➡️\n курсом на/повз Татарбунари.",
-      "timestamp": "2025-11-11T05:32:50.706871Z"
+      "timestamp": "2025-11-11T05:44:09.342030Z"
     },
     {
       "original": "🛵\n Групи БпЛА з акваторії Чорного моря в напрямку Ізмаїльського району Одеської області.",
-      "timestamp": "2025-11-11T05:32:50.706875Z"
+      "timestamp": "2025-11-11T05:44:09.342034Z"
     },
     {
       "original": "🛵\n Декілька груп БпЛА на Одещині – у напрямку Рені.\nПеребувайте в укриттях!",
-      "timestamp": "2025-11-11T05:32:50.706880Z"
+      "timestamp": "2025-11-11T05:44:09.342039Z"
     },
     {
       "original": "🛵\n БпЛА на межі Сумської та Харківської областей рухаються у напрямку Полтавського району Полтавської області.",
-      "timestamp": "2025-11-11T05:32:50.706885Z"
+      "timestamp": "2025-11-11T05:44:09.342044Z"
     },
     {
       "original": "🛵\n Нові групи БпЛА на межі Сумської та Харківської областей. Курс - південно-західний.",
-      "timestamp": "2025-11-11T05:32:50.706889Z"
+      "timestamp": "2025-11-11T05:44:09.342048Z"
     },
     {
       "original": "🛵\n БпЛА з півдня \n➡️\n курсом на/повз Запоріжжя.",
-      "timestamp": "2025-11-11T05:32:50.706895Z"
+      "timestamp": "2025-11-11T05:44:09.342054Z"
     },
     {
       "original": "🛵\n БпЛА на Харківщині в районі н.п. Слобожанське та Краснопавлівка, в південно-східному напрямку.",
-      "timestamp": "2025-11-11T05:32:50.706899Z"
+      "timestamp": "2025-11-11T05:44:09.342058Z"
     },
     {
       "original": "🛵\n БпЛА на Нікополь зі сходу.",
-      "timestamp": "2025-11-11T05:32:50.706904Z"
+      "timestamp": "2025-11-11T05:44:09.342062Z"
     },
     {
       "original": "🛵\n БпЛА на Запоріжжя з півдня!",
-      "timestamp": "2025-11-11T05:32:50.706908Z"
+      "timestamp": "2025-11-11T05:44:09.342069Z"
     },
     {
       "original": "🛵\n БпЛА на Одесу з акваторії Чорного моря.",
-      "timestamp": "2025-11-11T05:32:50.706912Z"
+      "timestamp": "2025-11-11T05:44:09.342073Z"
     },
     {
       "original": "🛵\n БпЛА на Одесу з акваторії Чорного моря.",
-      "timestamp": "2025-11-11T05:32:50.706916Z"
+      "timestamp": "2025-11-11T05:44:09.342078Z"
     },
     {
       "original": "🚀\n Загроза застосування балістики з Курська!",
-      "timestamp": "2025-11-11T05:32:50.706923Z"
+      "timestamp": "2025-11-11T05:44:09.342082Z"
     },
     {
-      "original": "Russian forces have captured the village of Novouspenivske, Hulyaipole direction, Zaporizhzhia Oblast.\nPre-war population: ~55.\nTotal land area: ~0.10 km².",
-      "timestamp": "2025-11-11T05:32:51.417482Z"
-    },
-    {
-      "original": "🇸🇾\nSYRIA:  — Footage has surfaced online of Russian military vehicles moving across the Rastan Bridge toward Homs for the first time since the overthrow of Bashar al-Assad.\nEarlier, the new authorities in Damascus announced they are ready to sign a security agreement with Moscow.",
-      "timestamp": "2025-11-11T05:32:51.417496Z"
-    },
-    {
-      "original": "The first footage has been published showing the British-developed \"Raven\" air defence system being used by Ukraine. The video shows it intercepting a Russian Kh-59 cruise missile, as well as a Kh-101 cruise missile.\nThe \"Raven\" system integrates AIM-132 advanced short-range air-to-air missiles with a 6x6 high-mobility armoured truck, allowing for more rapid deployments and effective interception rates, especially during larger-scale attacks.",
-      "timestamp": "2025-11-11T05:32:51.417504Z"
-    },
-    {
-      "original": "Footage showing a Russian FAB-3000 glide-bomb strike on a concentration of Ukrainian infantry in the besieged city of Myrnohrad. \nRussia launches hundreds of glide-bombs per day. Many killed from the strikes will only ever be counted as MIA.",
-      "timestamp": "2025-11-11T05:32:51.417510Z"
-    },
-    {
-      "original": "⚡️\n🇱🇧\n🇮🇱\nIsrael struck a vehicle a vehicle in Basiyariya, southern Lebanon. \nGeolocation (for nerds): \n33.4547676, 35.3156986\n@wfwitness",
-      "timestamp": "2025-11-11T05:32:51.417519Z"
-    },
-    {
-      "original": "⚡️\n🇱🇧\n🇮🇱\nIsrael struck a vehicle a vehicle in Basiyariya, southern Lebanon. \nGeolocation (for nerds): \n33.4547676, 35.3156986\n@wfwitness",
-      "timestamp": "2025-11-11T05:32:51.417528Z"
-    },
-    {
-      "original": "⚡️\n🇱🇧\n🇮🇱\nIsrael has launched strikes against the Al-Khanouq neighborhood of Aytaroun. \n@wfwitness",
-      "timestamp": "2025-11-11T05:32:51.417535Z"
-    },
-    {
-      "original": "I'm seeing a lot of people post a video of a Ukrainian tank firing at Russian positions in the high-rise buildings in southeastern Rodynske, claiming it to be new footage and proof that Ukraine controls most of the city. \nThis is not the case. Judging by sentinel satellite imagery and weather conditions at the time, the video was recorded on either Septmber 30 or October 1, nearly a month and a half ago. At this time, Ukraine was in full control of at least 95% of Rodynske, and Russian advances back into the city came later in October. \nThe sentinel imagery shows that the high-rise building which the Ukrainian tank was firing at was partially collapsed at its southern end as of October 7. This section of building also happens to be the exact area being targeted by the tank, which is likely at least indirectly related to its later collapse. \nCoordinates: 48.34554, 37.21500",
-      "timestamp": "2025-11-11T05:32:51.417540Z"
-    },
-    {
-      "original": "I'm seeing a lot of people post a video of a Ukrainian tank firing at Russian positions in the high-rise buildings in southeastern Rodynske, claiming it to be new footage and proof that Ukraine controls most of the city. \nThis is not the case. Judging by sentinel satellite imagery and weather conditions at the time, the video was recorded on either Septmber 30 or October 1, nearly a month and a half ago. At this time, Ukraine was in full control of at least 95% of Rodynske, and Russian advances back into the city came later in October. \nThe sentinel imagery shows that the high-rise building which the Ukrainian tank was firing at was partially collapsed at its southern end as of October 7. This section of building also happens to be the exact area being targeted by the tank, which is likely at least indirectly related to its later collapse. \nCoordinates: 48.34554, 37.21500",
-      "timestamp": "2025-11-11T05:32:51.417546Z"
+      "original": "🛵\n БпЛА на Чорноморське/Вапнярку з акваторії Чорного моря!",
+      "timestamp": "2025-11-11T05:44:09.342088Z"
     },
     {
       "original": "Overnight, a massive Russian Geran-2 drone attack was carried out on Odesa Oblast, which is still ongoing. Approximately 50 drones have been used, with around 40 attacking the port city of Reni on the border with Romania.\nIn Reni, the main target was the port and energy infrastructure. Air defence shot down little to no drones due to the rain and fog, while planes and helicopters were unable to fly in these weather conditions. Large fires are now burning at the port and the Limanskaya Solar Station. \nThe southern suburbs of Odesa city were targeted by around 9 drones. Air defence was far more successful here, shooting down at least 6 of them. Right now, the last two drones are flying to the Odesa port from the Black Sea.\n[Videos are both from Reni]",
-      "timestamp": "2025-11-11T05:32:51.417552Z"
+      "timestamp": "2025-11-11T05:44:09.930738Z"
     },
     {
       "original": "Overnight, a massive Russian Geran-2 drone attack was carried out on Odesa Oblast, which is still ongoing. Approximately 50 drones have been used, with around 40 attacking the port city of Reni on the border with Romania.\nIn Reni, the main target was the port and energy infrastructure. Air defence shot down little to no drones due to the rain and fog, while planes and helicopters were unable to fly in these weather conditions. Large fires are now burning at the port and the Limanskaya Solar Station. \nThe southern suburbs of Odesa city were targeted by around 9 drones. Air defence was far more successful here, shooting down at least 6 of them. Right now, the last two drones are flying to the Odesa port from the Black Sea.\n[Videos are both from Reni]",
-      "timestamp": "2025-11-11T05:32:51.417557Z"
+      "timestamp": "2025-11-11T05:44:09.930751Z"
     },
     {
       "original": "Iskander launch from Kursk.",
-      "timestamp": "2025-11-11T05:32:51.417560Z"
+      "timestamp": "2025-11-11T05:44:09.930755Z"
     },
     {
       "original": "Iskander launch from Kursk.",
-      "timestamp": "2025-11-11T05:32:51.417563Z"
+      "timestamp": "2025-11-11T05:44:09.930759Z"
     },
     {
       "original": "Misidentification. There is still an alert in place due to Iskander-M OTRK activity.",
-      "timestamp": "2025-11-11T05:32:51.417567Z"
+      "timestamp": "2025-11-11T05:44:09.930762Z"
     },
     {
       "original": "Another launch was detected",
-      "timestamp": "2025-11-11T05:32:51.417570Z"
+      "timestamp": "2025-11-11T05:44:09.930765Z"
     },
     {
       "original": "Iskander on Merefa, Kharkiv Oblast",
-      "timestamp": "2025-11-11T05:32:51.417572Z"
+      "timestamp": "2025-11-11T05:44:09.930768Z"
     },
     {
       "original": "Iskander on Merefa, Kharkiv Oblast",
-      "timestamp": "2025-11-11T05:32:51.417575Z"
+      "timestamp": "2025-11-11T05:44:09.930771Z"
     },
     {
       "original": "Flying in the direction of Poltava",
-      "timestamp": "2025-11-11T05:32:51.417579Z"
+      "timestamp": "2025-11-11T05:44:09.930774Z"
     },
     {
       "original": "Flying in the direction of Poltava",
-      "timestamp": "2025-11-11T05:32:51.417582Z"
+      "timestamp": "2025-11-11T05:44:09.930781Z"
     },
     {
       "original": "Explosions in Kharkiv Oblast",
-      "timestamp": "2025-11-11T05:32:51.417585Z"
+      "timestamp": "2025-11-11T05:44:09.930784Z"
     },
     {
       "original": "Explosions in Kharkiv Oblast",
-      "timestamp": "2025-11-11T05:32:51.417587Z"
+      "timestamp": "2025-11-11T05:44:09.930787Z"
     },
     {
       "original": "Correction: the explosion was in Kharkiv City",
-      "timestamp": "2025-11-11T05:32:51.417590Z"
+      "timestamp": "2025-11-11T05:44:09.930801Z"
     },
     {
       "original": "Correction: the explosion was in Kharkiv City",
-      "timestamp": "2025-11-11T05:32:51.417593Z"
+      "timestamp": "2025-11-11T05:44:09.930805Z"
     },
     {
       "original": "The impact was just outside the city limits, likely to the southwest.",
-      "timestamp": "2025-11-11T05:32:51.417596Z"
+      "timestamp": "2025-11-11T05:44:09.930808Z"
+    },
+    {
+      "original": "Overnight and this morning, several Russian Geran-2 drones attacked the town of Vasylivka, Dnipropetrovsk Oblast. The strikes once again likely targeted the town's railway station.",
+      "timestamp": "2025-11-11T05:44:09.930811Z"
+    },
+    {
+      "original": "Overnight and this morning, several Russian Geran-2 drones attacked the town of Vasylivka, Dnipropetrovsk Oblast. The strikes once again likely targeted the town's railway station.",
+      "timestamp": "2025-11-11T05:44:09.930815Z"
+    },
+    {
+      "original": "⚡️\n🇺🇦\n🇬🇧\n🇷🇴\n🇺🇸\n🇷🇺\nThe FSB report that they foiled a an alleged Ukrainian intelligence plot to hijack a Russian MiG-31 armed with a Kinzhal and launch it at NATO’s largest airbase in Constanţa, Romania, in order to provoke NATO. \nthe operation was prepared by Ukraine’s Main Directorate of Intelligence under the supervision of British intelligence and that Russian pilots were offered $3 million to carry out the hijacking. \n@wfwitness",
+      "timestamp": "2025-11-11T05:44:09.930826Z"
+    },
+    {
+      "original": "⚡️\n🇺🇦\n🇬🇧\n🇷🇴\n🇺🇸\n🇷🇺\nThe FSB report that they foiled a an alleged Ukrainian intelligence plot to hijack a Russian MiG-31 armed with a Kinzhal and launch it at NATO’s largest airbase in Constanţa, Romania, in order to provoke NATO.   the operation was prepared by Ukraine’s…",
+      "timestamp": "2025-11-11T05:44:09.930835Z"
+    },
+    {
+      "original": "Top 10 things that didn't happen:",
+      "timestamp": "2025-11-11T05:44:09.930838Z"
+    },
+    {
+      "original": "Yesterday evening, approximately 7 Russian Geran-2 drones attacked a target in the city of Bohodukhiv, Kharkiv Oblast. The drones were equipped with incendiary warheads, which are not often used by Russia.",
+      "timestamp": "2025-11-11T05:44:09.930841Z"
+    },
+    {
+      "original": "Yesterday evening, approximately 7 Russian Geran-2 drones attacked a target in the city of Bohodukhiv, Kharkiv Oblast. The drones were equipped with incendiary warheads, which are not often used by Russia.",
+      "timestamp": "2025-11-11T05:44:09.930847Z"
+    },
+    {
+      "original": "Overnight, Russia once again attacked the city of Kramatorsk, Donetsk Oblast, with Geran-2 drones. \nApproximately 7 drones attacked an unknown target within the city limits. No other details are known at this moment.",
+      "timestamp": "2025-11-11T05:44:09.930852Z"
+    },
+    {
+      "original": "Overnight, Russia once again attacked the city of Kramatorsk, Donetsk Oblast, with Geran-2 drones. \nApproximately 7 drones attacked an unknown target within the city limits. No other details are known at this moment.",
+      "timestamp": "2025-11-11T05:44:09.930855Z"
     },
     {
       "original": "Israel Is Pushing Lebanese Army Into Confrontation With Hezbollah\nAnother wave of deadly strikes targeted Lebanon on November 10 amid reports suggesting that Israel was pushing the Lebanese military into a confrontation with Hezbollah.\nMost of the strikes targeted southern Lebanon and the Beqaa Valley, with the Israeli Defense Forces (IDF) later announcing that its struck sites used by Hezbollah for rocket launches and the production and storage of strategic weapons.\nIn a statement, the IDF said that the strikes, guided by the Military Intelligence Directorate and carried out with the air force under the Northern Command, were aimed at neutralizing weapons directed at Israel and preventing Hezbollah from rebuilding its “terror infrastructure.”\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119198Z"
+      "timestamp": "2025-11-11T05:44:10.566330Z"
     },
     {
       "original": "Israel Is Pushing Lebanese Army Into Confrontation With Hezbollah\nAnother wave of deadly strikes targeted Lebanon on November 10 amid reports suggesting that Israel was pushing the Lebanese military into a confrontation with Hezbollah.\nMost of the strikes targeted southern Lebanon and the Beqaa Valley, with the Israeli Defense Forces (IDF) later announcing that its struck sites used by Hezbollah for rocket launches and the production and storage of strategic weapons.\nIn a statement, the IDF said that the strikes, guided by the Military Intelligence Directorate and carried out with the air force under the Northern Command, were aimed at neutralizing weapons directed at Israel and preventing Hezbollah from rebuilding its “terror infrastructure.”\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119214Z"
+      "timestamp": "2025-11-11T05:44:10.566348Z"
     },
     {
       "original": "Military Situation In Ukraine On November 10, 2025 (Maps Update)",
-      "timestamp": "2025-11-11T05:32:52.119219Z"
+      "timestamp": "2025-11-11T05:44:10.566353Z"
     },
     {
       "original": "Military Situation In Ukraine On November 10, 2025 (Maps Update)",
-      "timestamp": "2025-11-11T05:32:52.119223Z"
+      "timestamp": "2025-11-11T05:44:10.566357Z"
     },
     {
       "original": "Russian-Ukrainian Exchange Of Strikes: Kyiv Braces For Its Toughest Winter\nOn November 9-10, Russia and Ukraine continued their mutual strikes. According to the Russian Ministry of Defense, Russian air defense systems destroyed 71 Ukrainian unmanned aerial vehicles. The Ukrainian Air Force reported that overnight Russia used two Kinzhal hypersonic missile systems, five S-300/400 missiles, and 67 attack UAVs against Ukrainian territory, of which 52 drones were shot down.\nPower outages in Ukraine this winter will be more extensive than in previous winter seasons, Ukrainian media report, citing a representative from a state-owned energy sector company.\n\"There is no frost yet, and there is already a shortage of power generation. In the future, it will only become more difficult. If we survive the winter with only two stages of blackouts, it will be a huge success. The energy system lost at least 1 gigawatt of generating capacity just from the latest attack,\" the message states.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119242Z"
+      "timestamp": "2025-11-11T05:44:10.566367Z"
     },
     {
       "original": "Russian-Ukrainian Exchange Of Strikes: Kyiv Braces For Its Toughest Winter\nOn November 9-10, Russia and Ukraine continued their mutual strikes. According to the Russian Ministry of Defense, Russian air defense systems destroyed 71 Ukrainian unmanned aerial vehicles. The Ukrainian Air Force reported that overnight Russia used two Kinzhal hypersonic missile systems, five S-300/400 missiles, and 67 attack UAVs against Ukrainian territory, of which 52 drones were shot down.\nPower outages in Ukraine this winter will be more extensive than in previous winter seasons, Ukrainian media report, citing a representative from a state-owned energy sector company.\n\"There is no frost yet, and there is already a shortage of power generation. In the future, it will only become more difficult. If we survive the winter with only two stages of blackouts, it will be a huge success. The energy system lost at least 1 gigawatt of generating capacity just from the latest attack,\" the message states.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119253Z"
+      "timestamp": "2025-11-11T05:44:10.566376Z"
     },
     {
       "original": "KYIV BLACKOUT OBSCURES DEEPENING OPERATIONAL CRISES IN UKRAINE'S VOLCHANSK AND KUPYANSK",
-      "timestamp": "2025-11-11T05:32:52.119256Z"
+      "timestamp": "2025-11-11T05:44:10.566380Z"
     },
     {
       "original": "Hnativka Under Russian Army Control: Ukraine’s Attempts To Counterattack In Pokrovsk Failed \nIn the Zaporizhzhia region, Russian units have taken control of the Sladke and Novoye settlements. Russian forces repelled seven attacks by Ukrainian army units from the Hrishyne area. \nStatements from Ukrainian authorities regarding Russian energy infrastructure have been interpreted as an attempt to pressure Hungary.\nRead more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119265Z"
+      "timestamp": "2025-11-11T05:44:10.566387Z"
     },
     {
       "original": "Hnativka Under Russian Army Control: Ukraine’s Attempts To Counterattack In Pokrovsk Failed \nIn the Zaporizhzhia region, Russian units have taken control of the Sladke and Novoye settlements. Russian forces repelled seven attacks by Ukrainian army units from the Hrishyne area. \nStatements from Ukrainian authorities regarding Russian energy infrastructure have been interpreted as an attempt to pressure Hungary.\nRead more \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119273Z"
+      "timestamp": "2025-11-11T05:44:10.566395Z"
     },
     {
       "original": "Radar Hit: Summary Of Russian Combat Footage From November 10, 2025\nOn November 10, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119279Z"
+      "timestamp": "2025-11-11T05:44:10.566402Z"
     },
     {
       "original": "Radar Hit: Summary Of Russian Combat Footage From November 10, 2025\nOn November 10, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-11T05:32:52.119286Z"
+      "timestamp": "2025-11-11T05:44:10.566409Z"
     }
   ],
-  "script_run_time": "2025-11-11T05:32:52.120029Z"
+  "script_run_time": "2025-11-11T05:44:10.567227Z"
 }
