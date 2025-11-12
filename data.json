@@ -1,221 +1,217 @@
 {
   "messages": [
     {
-      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-12T11:15:46.334422Z"
-    },
-    {
-      "original": "🛵\n БпЛА на півночі Сумщини курсом на Миколаївку.",
-      "timestamp": "2025-11-12T11:15:46.334438Z"
-    },
-    {
-      "original": "🛵\n БпЛА на околиці Білопілля в північному напрямку.",
-      "timestamp": "2025-11-12T11:15:46.334443Z"
-    },
-    {
       "original": "🚀\n КАБи на Донеччину.",
-      "timestamp": "2025-11-12T11:15:46.334448Z"
+      "timestamp": "2025-11-12T11:29:20.340118Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Харківщини \n➡️\n курсом на південь.",
-      "timestamp": "2025-11-12T11:15:46.334457Z"
+      "timestamp": "2025-11-12T11:29:20.340133Z"
     },
     {
       "original": "🛵\n БпЛА на Запоріжжі в районі н.п.Тернувате, курсом на захід.",
-      "timestamp": "2025-11-12T11:15:46.334462Z"
+      "timestamp": "2025-11-12T11:29:20.340139Z"
     },
     {
       "original": "🛵\n БпЛА на Суми з півночі.",
-      "timestamp": "2025-11-12T11:15:46.334466Z"
+      "timestamp": "2025-11-12T11:29:20.340143Z"
     },
     {
       "original": "🛵\n Ударний БпЛА на Херсонщину з Дніпропетровської області.",
-      "timestamp": "2025-11-12T11:15:46.334470Z"
+      "timestamp": "2025-11-12T11:29:20.340147Z"
     },
     {
       "original": "🚀\n КАБи на Донеччину.",
-      "timestamp": "2025-11-12T11:15:46.334475Z"
+      "timestamp": "2025-11-12T11:29:20.340152Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному та північно-східному напрямках! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-12T11:15:46.334483Z"
+      "timestamp": "2025-11-12T11:29:20.340160Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-11-12T11:15:46.334487Z"
+      "timestamp": "2025-11-12T11:29:20.340165Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Дніпропетровщини, курсом Донеччину.",
-      "timestamp": "2025-11-12T11:15:46.334492Z"
+      "timestamp": "2025-11-12T11:29:20.340169Z"
     },
     {
       "original": "🛵\n БпЛА на Суми з півночі.",
-      "timestamp": "2025-11-12T11:15:46.334498Z"
+      "timestamp": "2025-11-12T11:29:20.340174Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА на півночі Сумщини в районі н.п. Ямпіль, курсом на південь.",
-      "timestamp": "2025-11-12T11:15:46.334502Z"
+      "timestamp": "2025-11-12T11:29:20.340178Z"
     },
     {
       "original": "🛸\n🛵\n Безпілотники на Запоріжжя з півдня.",
-      "timestamp": "2025-11-12T11:15:46.334508Z"
+      "timestamp": "2025-11-12T11:29:20.340183Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Дніпропетровщини, курсом на захід.",
-      "timestamp": "2025-11-12T11:15:46.334512Z"
+      "timestamp": "2025-11-12T11:29:20.340191Z"
     },
     {
       "original": "🛵\n Загроза застосування ударних БпЛА для сходу Київщини та заходу Черкащини.",
-      "timestamp": "2025-11-12T11:15:46.334516Z"
+      "timestamp": "2025-11-12T11:29:20.340203Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Харківщини, курсом на н.п. Богодухів.\n🛵\n БпЛА на Суми з півночі.",
-      "timestamp": "2025-11-12T11:15:46.334522Z"
+      "timestamp": "2025-11-12T11:29:20.340211Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА на півдні Сумщини, курсом на північ Полтавщини.\n🛵\n Ударні БпЛА на заході Харківщини, курсом на схід Полтавщини, в напрямку н.п. Карлівка.",
-      "timestamp": "2025-11-12T11:15:46.334528Z"
+      "timestamp": "2025-11-12T11:29:20.340217Z"
     },
     {
       "original": "🛵\n БпЛА з півдня Дніпропетровщини на Запорізьку область!",
-      "timestamp": "2025-11-12T11:15:46.334532Z"
+      "timestamp": "2025-11-12T11:29:20.340221Z"
     },
     {
       "original": "🛵\n Загроза застосування ударних БпЛА для Білоцерківського району.",
-      "timestamp": "2025-11-12T11:15:46.334536Z"
+      "timestamp": "2025-11-12T11:29:20.340227Z"
+    },
+    {
+      "original": "🛵\n Ударні БпЛА на Харківщині в районі н.п. Слобожанське та Краснопавлівка, на південно-східний напрямок.",
+      "timestamp": "2025-11-12T11:29:20.340232Z"
+    },
+    {
+      "original": "🛵\n Безпілотник на заході від н.п. Звенигородка на Черкащині, курсом на південь.",
+      "timestamp": "2025-11-12T11:29:20.340238Z"
     },
     {
       "original": "Update from the Pokrovsk direction (Part 1): \nOver the past few days, Russian forces have made substantial progress on the tactical heights west of Pokrovsk, while the last streets of the city begin to come under Russian control.\nNorth of Udachne, Russian forces advanced from the western part of the town to the western approaches to the Pokrovsk Coal Mine, capturing new positions along a treeline and a gulley. Other forces improved their positions along the treeline towards the eastern part of the mine. Heavy fighting continues on the approaches of this very important fortified node.\nWest of Pokrovsk, Russian forces broke through Ukrainian defences north of Kotlyne, capturing positions in the treelines to the north and northwest. They then went on to advance further northeast to the next treelines over on the tactical heights, while other forces pushed north from the railway line. Additionally, Russian forces captured numerous new treeline positions closer to Pokrovsk and made additional progress along the railway line to the south of Hryshyne, where they are beginning to outflank the Ukrainian positions in the rest of those treelines. \nIn northern Pokrovsk, under the cover of fog, additional Russian reinforcements were brought from the city centre to help the units who were struggling to consolidate in the northern residential areas of the 8th District. The remaining Ukrainian assault groups were forced to retreat from this part of the city, allowing for the Russians to establish full control over the district. Additionally, Russian forces advanced northwest from the low-rise part of the Dinas District to the nearby forested areas, while other forces in the 8th District advanced north to the forested areas just outside the city, forcing most Ukrainian formations to withdraw much further west - away from the Myrnohrad Pocket. \nIn northwestern Pokrovsk, after establishing control over and consolidating in the Shcherbakova District, Russian soldiers began infiltrating north across the Hryshinka River to the northernmost street of Pokrovsk and the Druzhba Dachas, where they are now trying to consolidate. Fighting is ongoing as Ukrainian forces attempt to prevent the Russians from securing this area as it would build a buffer outside the main part of the city and help develop the eastern flank to Hryshyne. \nNorth of Pokrovsk, Russian forces continued advancing down the road to Hryshyne and have captured additional positions there. They also advanced down a perpendicular treeline to the north. Assault groups then began attacking towards the next pig farm over, while DRGs infiltrated towards the third pig farm. DRGs also began infiltrating southwest through the treelines towards the northern outskirts of Pokrovsk\nNortheast of the city, Russian forces continued their assault operations in southern Rivne, attacking along the highway in the direction of northwestern Myrnohrad. In eastern Pokrovsk, other they began attacks from the Sobachivka District to the \"Kohozhkine\" street of Pokrovsk - the last street in the eastern part of the city. \nSouth of Myrnohrad, after capturing the last parts of Lysivka, Russian forces were able to capture the rest of the forests north of the village. They also consolidated in a large trench fortification further north and are attacking east down a treeline to the other one. Additionally, the Russians began attacks north up a treeline from eastern Lysivka to the western part of Sukhyi Yar. \nIn southeastern Myrnohrad, Russian forces continued assault operations from the area of the terykon to residential areas in the area of Dymytrov Park. They are also attacking towards the area of the high-rise buildings in the Zapadny District.\n(Part 2 is below)",
-      "timestamp": "2025-11-12T11:15:47.251238Z"
+      "timestamp": "2025-11-12T11:29:21.080282Z"
     },
     {
       "original": "Update from the Pokrovsk direction (Part 1):   Over the past few days, Russian forces have made substantial progress on the tactical heights west of Pokrovsk, while the last streets of the city begin to come under Russian control.  North of Udachne, Russian…",
-      "timestamp": "2025-11-12T11:15:47.251250Z"
+      "timestamp": "2025-11-12T11:29:21.080296Z"
     },
     {
       "original": "Update from the Pokrovsk direction (Part 2): \nIn Rodynske, extremely heavy fighting continues. The Ukrainians are attempting to exploit poorly consolidated Russian positions in the city centre to reach the southeastern high-rise micro-district, while Russian forces continue attempts to counterattack from the flanks. Both sides are using extensive heavy weaponry to strike each other's positions. Ukraine is using MiG-29s and F-16s to launch glide-bombs at Russian positions in the city, while Russia continues to strike the Ukrainian positions in the city along with its main supply line with FAB glide-bombs.",
-      "timestamp": "2025-11-12T11:15:47.251255Z"
+      "timestamp": "2025-11-12T11:29:21.080301Z"
     },
     {
       "original": "The first groups of Ukrainian soldiers have begun to surrender in the besieged city of Myrnohrad.",
-      "timestamp": "2025-11-12T11:15:47.251259Z"
+      "timestamp": "2025-11-12T11:29:21.080305Z"
     },
     {
       "original": "The first groups of Ukrainian soldiers have begun to surrender in the besieged city of Myrnohrad.",
-      "timestamp": "2025-11-12T11:15:47.251262Z"
+      "timestamp": "2025-11-12T11:29:21.080309Z"
     },
     {
       "original": "Do you guys think Zelensky is aware of his curse?",
-      "timestamp": "2025-11-12T11:15:47.251266Z"
+      "timestamp": "2025-11-12T11:29:21.080312Z"
     },
     {
       "original": "A short time ago, one Ukrainian long-range UAV impacted the ELOU-AVT unit at the Orsknefteorgsintez Oil Refinery in Orsk, Orenburg Oblast.\nThis is nearly 1,500 km from the nearest Ukrainian-controlled territory. \nCoordinates: 51.24429, 58.51838",
-      "timestamp": "2025-11-12T11:15:47.251275Z"
+      "timestamp": "2025-11-12T11:29:21.080317Z"
     },
     {
       "original": "A short time ago, one Ukrainian long-range UAV impacted the ELOU-AVT unit at the Orsknefteorgsintez Oil Refinery in Orsk, Orenburg Oblast.\nThis is nearly 1,500 km from the nearest Ukrainian-controlled territory. \nCoordinates: 51.24429, 58.51838",
-      "timestamp": "2025-11-12T11:15:47.251280Z"
+      "timestamp": "2025-11-12T11:29:21.080327Z"
     },
     {
       "original": "Despite the fierce battles, St. Michael's Church in Pokrovsk city centre has been left practically untouched.",
-      "timestamp": "2025-11-12T11:15:47.251284Z"
+      "timestamp": "2025-11-12T11:29:21.080331Z"
     },
     {
       "original": "The surrounded Ukrainian units in Myrnohrad continue to be pounded by Russian FAB glide-bombs. \nThis video shows a FAB-3000 strike on high-rise buildings in the southern part of the city.",
-      "timestamp": "2025-11-12T11:15:47.251288Z"
+      "timestamp": "2025-11-12T11:29:21.080335Z"
     },
     {
       "original": "Last night, Russia carried out a larger than usual Geran-2 drone attack on Ukraine. Approximately 200 Gerans and Gerberas were recorded in Ukrainian airspace, attacking targets in the areas of the following locations:\nKramatorsk, Donetsk Oblast (energy infrastructure).\nBohuslav, Kyiv Oblast (energy infrastructure).\nVinnytsia City, Vinnytsia Oblast.\nLadyzhyn, Vinnytsia Oblast (Thermal Power Plant).\nLozova, Kharkiv Oblast (Railway station).\nPavlohrad, Dnipropetrovsk Oblast.\nVasylkivka, Dnipropetrovsk Oblast (railway infrastructure).\nPetropavlivka, Dnipropetrovsk Oblast.\nChaplyne, Dnipropetrovsk Oblast (railway infrastructure).\nBerezivka, Odesa Oblast (energy infrastructure).\nDolynska, Kirovohrad Oblast.\nKropyvnytskyi, Kirovohrad Oblast.\nOdesa City, Odesa Oblast.",
-      "timestamp": "2025-11-12T11:15:47.251298Z"
+      "timestamp": "2025-11-12T11:29:21.080346Z"
     },
     {
       "original": "Overnight, several Russian Geran-2 drones attacked the cities of Slovyansk and Kramatorsk in Donetsk Oblast. \nAt least 4 drones struck energy infrastructure in Kramatorsk, while 2 drones impacted an unknown target in Slovyansk. \nVideos are both from Kramatorsk.",
-      "timestamp": "2025-11-12T11:15:47.251305Z"
+      "timestamp": "2025-11-12T11:29:21.080351Z"
     },
     {
       "original": "Overnight, several Russian Geran-2 drones attacked the cities of Slovyansk and Kramatorsk in Donetsk Oblast. \nAt least 4 drones struck energy infrastructure in Kramatorsk, while 2 drones impacted an unknown target in Slovyansk. \nVideos are both from Kramatorsk.",
-      "timestamp": "2025-11-12T11:15:47.251310Z"
+      "timestamp": "2025-11-12T11:29:21.080356Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-12T11:15:47.251314Z"
+      "timestamp": "2025-11-12T11:29:21.080359Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-12T11:15:47.251318Z"
+      "timestamp": "2025-11-12T11:29:21.080365Z"
     },
     {
       "original": "Over the last week, local Palestinian armed groups affiliated with the Palestinian Islamic Jihad's Saraya Al-Quds Brigades claimed responsibility for two attacks in the West Bank.\nOn November 4, the \"Tulkarm Brigade\" stated that their fighters fired on a newly established Israeli outpost with small arms near the border with Israel west of the city of Tulkarm. This is the first recorded presence of Palestinian militants in the area of Tulkarm City in some time. IDF troops effectively occupy the city, which previously served as a stronghold for multiple armed groups.\nOn November 11, the \"Nablus Brigade\" stated that their fighters fired on an Israeli military vehicle with small arms near the \"Alon Moreh\" settlement east of Nablus. An increase in insurgent activity has been recorded in the Nablus area over the past month, which has seen very little activity recently due to frequent and sustained IDF raids.\nNo Israeli casualties were reported in either of these incidents.\nAdditionally, the Saraya Al-Quds Brigades announced the death of a fighter from the local armed group \"Tubas Battalion\" after he was killed by IDF troops in the Al-Fara'a Refugee Camp.",
-      "timestamp": "2025-11-12T11:15:47.251325Z"
+      "timestamp": "2025-11-12T11:29:21.080372Z"
     },
     {
       "original": "I'm having issues with my computer, so I won't be able to post map updates from Ukraine today. All updates are live on my interactive map as usual, and I will try to make long-form posts about them as soon as possible.\nhttps://www.google.com/maps/d/u/0/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll=48.38420505740439%2C37.273749674799895&z=12",
-      "timestamp": "2025-11-12T11:15:47.251329Z"
+      "timestamp": "2025-11-12T11:29:21.080376Z"
     },
     {
       "original": "🇺🇦\n⚡️\n — Ukraine has suspended Justice Minister German Galushchenko amid an energy-sector corruption investigation. \n➡️\n His duties have been taken over by Deputy Minister for European Integration Lyudmyla Sugak. \n➡️\n Galushchenko, who served as energy minister for four years, is accused of receiving “personal benefits” from Timur Mindich in exchange for influence over energy-sector funds.\n@TabZLIVE",
-      "timestamp": "2025-11-12T11:15:47.251340Z"
+      "timestamp": "2025-11-12T11:29:21.080388Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-12T11:15:47.251343Z"
+      "timestamp": "2025-11-12T11:29:21.080392Z"
     },
     {
       "original": "Consequences of the morning Russian Geran-2 drone strikes on a warehouse facility in Kharkiv City.",
-      "timestamp": "2025-11-12T11:15:47.251346Z"
+      "timestamp": "2025-11-12T11:29:21.080395Z"
     },
     {
       "original": "Military Situation In Ukraine On November 11, 2025 (Maps Update)",
-      "timestamp": "2025-11-12T11:15:47.946508Z"
+      "timestamp": "2025-11-12T11:29:21.760436Z"
     },
     {
       "original": "Military Situation In Ukraine On November 11, 2025 (Maps Update)",
-      "timestamp": "2025-11-12T11:15:47.946521Z"
+      "timestamp": "2025-11-12T11:29:21.760449Z"
     },
     {
       "original": "Tomahawk Cruise Missile – U.S. Army’s Strategic Long-Range Weapon\n▪️\nThe Tomahawk is a subsonic, long-range, precision-guided cruise missile launched from submarines and surface platforms, designed for deep land strikes and targeting high-value objectives.  \n▪️\nThanks to its ability to fly at low altitude, its advanced combined guidance system, and in-flight retargeting capability (in modern versions), the Tomahawk has become a key strike weapon of the U.S. military over the past half-century.  \n▫️\nIt should be noted that during the 12-day war, the U.S. fired about 30 Tomahawk missiles at Iran’s Natanz and Isfahan nuclear sites, \nsome of which were intercepted by Iranian air defense systems.\n This was verified through images of Tomahawk wreckage recovered after the attacks.  \n👉\n Read more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946535Z"
+      "timestamp": "2025-11-12T11:29:21.760464Z"
     },
     {
       "original": "Tomahawk Cruise Missile – U.S. Army’s Strategic Long-Range Weapon\n▪️\nThe Tomahawk is a subsonic, long-range, precision-guided cruise missile launched from submarines and surface platforms, designed for deep land strikes and targeting high-value objectives.  \n▪️\nThanks to its ability to fly at low altitude, its advanced combined guidance system, and in-flight retargeting capability (in modern versions), the Tomahawk has become a key strike weapon of the U.S. military over the past half-century.  \n▫️\nIt should be noted that during the 12-day war, the U.S. fired about 30 Tomahawk missiles at Iran’s Natanz and Isfahan nuclear sites, \nsome of which were intercepted by Iranian air defense systems.\n This was verified through images of Tomahawk wreckage recovered after the attacks.  \n👉\n Read more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946547Z"
+      "timestamp": "2025-11-12T11:29:21.760476Z"
     },
     {
       "original": "The Severed Hand of Midas: Internal Sabotage Undermines Ukraine's Defense Capacity\nThe confrontation between Zelensky's entourage and the anti-corruption agencies is escalating. The Ukrainian president's shadow purse is under attack. What role do the US, Europe and Russia play in the internal political strife within the president's office?\nOn 10 November, the National Anti-Corruption Bureau of Ukraine (NABU) initiated large-scale searches of a number of state organisations and companies. Operation “Midas” was 15 months in the making, with 1,000 hours of audio recordings collected during the preparation phase. The activities of a high-level criminal organisation were documented. Its members had established a widespread corruption scheme to influence strategic enterprises in the public sector, particularly National Nuclear Energy Company ‘Energoatom’.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946556Z"
+      "timestamp": "2025-11-12T11:29:21.760484Z"
     },
     {
       "original": "BREAKING INTO OPERATIONAL SPACE: RUSSIA'S POTENTIAL FOR ADVANCES IN THE SOUTH GROWS",
-      "timestamp": "2025-11-12T11:15:47.946560Z"
+      "timestamp": "2025-11-12T11:29:21.760488Z"
     },
     {
       "original": "Assault On Vovchansk: Ukrainian Forces Amass Reserves To Hold Last Districts\nThe Russian army has taken control of the Novouspenivske settlement in the Zaporizhzhia region. Twenty-five Ukrainian naval infantry servicemen surrendered in Myrnohrad. \nThe US is demanding a revision of the upcoming anti-Russian UN General Assembly resolution on Ukraine.\nRead more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946567Z"
+      "timestamp": "2025-11-12T11:29:21.760495Z"
     },
     {
       "original": "Assault On Vovchansk: Ukrainian Forces Amass Reserves To Hold Last Districts\nThe Russian army has taken control of the Novouspenivske settlement in the Zaporizhzhia region. Twenty-five Ukrainian naval infantry servicemen surrendered in Myrnohrad. \nThe US is demanding a revision of the upcoming anti-Russian UN General Assembly resolution on Ukraine.\nRead more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946575Z"
+      "timestamp": "2025-11-12T11:29:21.760502Z"
     },
     {
       "original": "FAB-3000 Strike: Summary Of Russian Combat Footage From November 11, 2025\nOn November 11, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946594Z"
+      "timestamp": "2025-11-12T11:29:21.760509Z"
     },
     {
       "original": "FAB-3000 Strike: Summary Of Russian Combat Footage From November 11, 2025\nOn November 11, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946601Z"
+      "timestamp": "2025-11-12T11:29:21.760516Z"
     },
     {
       "original": "U.S. Largest Carrier Arrives In Latin America As Venezuela Holds More Military Drills (Videos)\nAircraft carrier USS Gerald R. Ford has begun operating in the United States Southern Command (SOUTHCOM) area of responsibility.\nThe Pentagon confirmed the arrival, which was first reported by Reuters news agency, saying in a statement on November 11 that it would help \"disrupt narcotics trafficking and degrade and dismantle Transnational Criminal Organizations.\"\nThe U.S. military has already carried out 19 strikes against boats allegedly carrying drugs in the Caribbean Sea and the eastern Pacific Ocean, killing 75 people.\nVenezuela has bracing for an attack by the U.S. The country’s military continues to conduct exercises with a focus on quick evacuation, and decentralized operations.\nRead more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946615Z"
+      "timestamp": "2025-11-12T11:29:21.760525Z"
     },
     {
       "original": "U.S. Largest Carrier Arrives In Latin America As Venezuela Holds More Military Drills (Videos)\nAircraft carrier USS Gerald R. Ford has begun operating in the United States Southern Command (SOUTHCOM) area of responsibility.\nThe Pentagon confirmed the arrival, which was first reported by Reuters news agency, saying in a statement on November 11 that it would help \"disrupt narcotics trafficking and degrade and dismantle Transnational Criminal Organizations.\"\nThe U.S. military has already carried out 19 strikes against boats allegedly carrying drugs in the Caribbean Sea and the eastern Pacific Ocean, killing 75 people.\nVenezuela has bracing for an attack by the U.S. The country’s military continues to conduct exercises with a focus on quick evacuation, and decentralized operations.\nRead more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946624Z"
+      "timestamp": "2025-11-12T11:29:21.760534Z"
     },
     {
       "original": "Polish Citizens Demand To Stop Social Support For Ukrainian Refugees\nEuropean fatigue with Ukraine is growing and beginning to affect migrants and refugees who have left the country to escape the war. In Poland, a neighboring country and ally of Ukraine, where millions of Ukrainian citizens live, support for welcoming foreigners is reducing – with strong social pressure to cancel benefits for Ukrainians and, in some cases, even repatriate them to Ukraine.\nA recent survey showed that about half of the Polish population is against the policy of aid to Ukrainian refugees. They consider these foreigners a problem for Polish social and economic stability and demand that the government cut all or some of the social benefits given to Ukrainians.\nCurrently, Ukrainian refugees in Poland have access to various social benefits guaranteed by special public policies for the integration of foreigners. These benefits include housing assistance, help in finding jobs, access to healthcare...\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-12T11:15:47.946633Z"
+      "timestamp": "2025-11-12T11:29:21.760543Z"
     }
   ],
-  "script_run_time": "2025-11-12T11:15:47.947465Z"
+  "script_run_time": "2025-11-12T11:29:21.761377Z"
 }
