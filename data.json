@@ -1,229 +1,237 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА повз на/повз Богодухів в південному напрямку.",
-      "timestamp": "2025-11-13T20:00:58.878337Z"
-    },
-    {
-      "original": "🛵\n БпЛА на північному заході від Миколаєва в північно-східному напрямку.",
-      "timestamp": "2025-11-13T20:00:58.878357Z"
-    },
-    {
-      "original": "🛵\n БпЛА на сході Харківщини, курс -західний.",
-      "timestamp": "2025-11-13T20:00:58.878363Z"
-    },
-    {
-      "original": "🛵\n БпЛА на північному заході Херсонщини, курс - Миколаївщина.",
-      "timestamp": "2025-11-13T20:00:58.878368Z"
-    },
-    {
-      "original": "🛵\n БпЛА на південному сході Сумщини в напрямку на/повз н.п.Боромля/Тростянець.",
-      "timestamp": "2025-11-13T20:00:58.878375Z"
-    },
-    {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-13T20:00:58.878384Z"
+      "timestamp": "2025-11-13T20:25:55.017744Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-11-13T20:00:58.878388Z"
+      "timestamp": "2025-11-13T20:25:55.017762Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА на сході Дніпропетровщини біля н.п.Межова, Петропавлівка, Шахтарське.",
-      "timestamp": "2025-11-13T20:00:58.878394Z"
+      "timestamp": "2025-11-13T20:25:55.017771Z"
     },
     {
       "original": "🛵\n БпЛА в напрямку на/повз Новгород-Сіверський з північного сходу.",
-      "timestamp": "2025-11-13T20:00:58.878399Z"
+      "timestamp": "2025-11-13T20:25:55.017777Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА на сході Дніпропетровщини біля н.п.Межова, Петропавлівка, Шахтарське.",
-      "timestamp": "2025-11-13T20:00:58.878405Z"
+      "timestamp": "2025-11-13T20:25:55.017783Z"
     },
     {
       "original": "🛵\n БпЛА на сході Дніпропетровщини, курс - південь Харківщини.",
-      "timestamp": "2025-11-13T20:00:58.878410Z"
+      "timestamp": "2025-11-13T20:25:55.017788Z"
     },
     {
       "original": "🛵\n БпЛА з ТОТ на північ Херсонщини, курс - північний/північно-західний.",
-      "timestamp": "2025-11-13T20:00:58.878415Z"
+      "timestamp": "2025-11-13T20:25:55.017793Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації на східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-13T20:00:58.878422Z"
+      "timestamp": "2025-11-13T20:25:55.017801Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-11-13T20:00:58.878427Z"
+      "timestamp": "2025-11-13T20:25:55.017808Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА на північному сході Чернігівщини, курс - південно-західний.",
-      "timestamp": "2025-11-13T20:00:58.878432Z"
+      "timestamp": "2025-11-13T20:25:55.017817Z"
     },
     {
       "original": "🛵\n БпЛА з ТОТ на північ Херсонщини, курс - північний/північно-західний.",
-      "timestamp": "2025-11-13T20:00:58.878437Z"
+      "timestamp": "2025-11-13T20:25:55.017823Z"
     },
     {
       "original": "🛵\n Група БпЛА в напрямку на/повз Нікополь з півдня.",
-      "timestamp": "2025-11-13T20:00:58.878445Z"
+      "timestamp": "2025-11-13T20:25:55.017833Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА на сході від Сум, курс - північно-західний.",
-      "timestamp": "2025-11-13T20:00:58.878450Z"
+      "timestamp": "2025-11-13T20:25:55.017839Z"
     },
     {
       "original": "🛵\n БпЛА з акваторії Чорно моря в напрямку м.Чорноморськ/Одеса.",
-      "timestamp": "2025-11-13T20:00:58.878455Z"
+      "timestamp": "2025-11-13T20:25:55.017843Z"
     },
     {
       "original": "🛵\n Велика група БпЛА з півночі Херсонщини через Криворізький район Дніпропетровщини курсом на Кіровоградщину.",
-      "timestamp": "2025-11-13T20:00:58.878459Z"
+      "timestamp": "2025-11-13T20:25:55.017847Z"
     },
     {
       "original": "🛵\n Група БпЛА в напрямку на/повз Нікополь з півдня.",
-      "timestamp": "2025-11-13T20:00:58.878463Z"
+      "timestamp": "2025-11-13T20:25:55.017853Z"
     },
     {
       "original": "🛵\n Група БпЛА на Дніпропетровщині повз Нікополь в напрямку Кам'янського району.",
-      "timestamp": "2025-11-13T20:00:58.878467Z"
+      "timestamp": "2025-11-13T20:25:55.017857Z"
     },
     {
       "original": "🛵\n Нова група БпЛА на південний схід Дніпропетровщини з ТОТ Донеччини.",
-      "timestamp": "2025-11-13T20:00:58.878471Z"
+      "timestamp": "2025-11-13T20:25:55.017862Z"
+    },
+    {
+      "original": "🚀\nПуски КАБ на Донеччину.",
+      "timestamp": "2025-11-13T20:25:55.017866Z"
+    },
+    {
+      "original": "🛵\n БпЛА на північному сході Чернігівщини, курс - південно-західний.",
+      "timestamp": "2025-11-13T20:25:55.017870Z"
+    },
+    {
+      "original": "🛵\n Група БпЛА на Дніпропетровщині повз Нікополь в напрямку Кам'янського району.",
+      "timestamp": "2025-11-13T20:25:55.017874Z"
+    },
+    {
+      "original": "🛵\n БпЛА на Дніпропетровщині в напрямку Кам'янського з південного заходу.",
+      "timestamp": "2025-11-13T20:25:55.017880Z"
+    },
+    {
+      "original": "🛵\n Велика група БпЛА з півночі Херсонщини через Криворізький район Дніпропетровщини курсом на Кіровоградщину.",
+      "timestamp": "2025-11-13T20:25:55.017884Z"
+    },
+    {
+      "original": "🛵\n БпЛА на Кіровоградщині в напрямку на/повз Олександрію/Знам'янку з півдня.",
+      "timestamp": "2025-11-13T20:25:55.017888Z"
+    },
+    {
+      "original": "🛵\n \n🛸\n БпЛА на сході  Харківщини, курс - західний.",
+      "timestamp": "2025-11-13T20:25:55.017894Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-13T20:00:59.611392Z"
+      "timestamp": "2025-11-13T20:25:55.655426Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-13T20:00:59.611405Z"
+      "timestamp": "2025-11-13T20:25:55.655438Z"
     },
     {
       "original": "Over the last week, local Palestinian armed groups affiliated with the Palestinian Islamic Jihad's Saraya Al-Quds Brigades claimed responsibility for two attacks in the West Bank.\nOn November 4, the \"Tulkarm Brigade\" stated that their fighters fired on a newly established Israeli outpost with small arms near the border with Israel west of the city of Tulkarm. This is the first recorded presence of Palestinian militants in the area of Tulkarm City in some time. IDF troops effectively occupy the city, which previously served as a stronghold for multiple armed groups.\nOn November 11, the \"Nablus Brigade\" stated that their fighters fired on an Israeli military vehicle with small arms near the \"Alon Moreh\" settlement east of Nablus. An increase in insurgent activity has been recorded in the Nablus area over the past month, which has seen very little activity recently due to frequent and sustained IDF raids.\nNo Israeli casualties were reported in either of these incidents.\nAdditionally, the Saraya Al-Quds Brigades announced the death of a fighter from the local armed group \"Tubas Battalion\" after he was killed by IDF troops in the Al-Fara'a Refugee Camp.",
-      "timestamp": "2025-11-13T20:00:59.611415Z"
+      "timestamp": "2025-11-13T20:25:55.655447Z"
     },
     {
       "original": "I'm having issues with my computer, so I won't be able to post map updates from Ukraine today. All updates are live on my interactive map as usual, and I will try to make long-form posts about them as soon as possible.\nhttps://www.google.com/maps/d/u/0/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll=48.38420505740439%2C37.273749674799895&z=12",
-      "timestamp": "2025-11-13T20:00:59.611424Z"
+      "timestamp": "2025-11-13T20:25:55.655451Z"
     },
     {
       "original": "🇺🇦\n⚡️\n — Ukraine has suspended Justice Minister German Galushchenko amid an energy-sector corruption investigation. \n➡️\n His duties have been taken over by Deputy Minister for European Integration Lyudmyla Sugak. \n➡️\n Galushchenko, who served as energy minister for four years, is accused of receiving “personal benefits” from Timur Mindich in exchange for influence over energy-sector funds.\n@TabZLIVE",
-      "timestamp": "2025-11-13T20:00:59.611439Z"
+      "timestamp": "2025-11-13T20:25:55.655463Z"
     },
     {
       "original": "This morning, three Russian Geran-2 drones struck a target in the Kholodnohirs'kyi District of Kharkiv City.",
-      "timestamp": "2025-11-13T20:00:59.611443Z"
+      "timestamp": "2025-11-13T20:25:55.655467Z"
     },
     {
       "original": "Consequences of the morning Russian Geran-2 drone strikes on a warehouse facility in Kharkiv City.",
-      "timestamp": "2025-11-13T20:00:59.611447Z"
+      "timestamp": "2025-11-13T20:25:55.655472Z"
     },
     {
       "original": "I’m seeing a lot of “Pro-Ukraine” accounts calling for mass mobilisation of more Ukrainian men today. \nTo those people advocating for this, think for a second - would you go and volunteer yourself? Would you go and fight alongside the country you claim to support so much? \nOr are you happy with just sitting at home in your comfortable, peaceful country advocating for the killing of hundreds of thousands. Because that’s what it would mean - mass mobilisation of additional Ukrainians would be condemning a significant portion of them to their deaths. They will die for a war that cannot be won. \nAll the while you have the audacity to claim that this is a good idea, while not being prepared to do anything yourself other than lie on Twitter for money and engagement. \nPeople like this are some of the most fucking vile, disgusting humans on this planet, and I truly hope that their statements will come back to haunt them once this war is over. \nYou do not support Ukraine. You are only anti-Russia. You have blood on your hands.",
-      "timestamp": "2025-11-13T20:00:59.611458Z"
+      "timestamp": "2025-11-13T20:25:55.655481Z"
     },
     {
       "original": "Im happy to announce i will be doing an interview with AMK Mapping soon. Hopefully early next week at the latest, itll be uploaded to my youtube channel. We will be discussing what couldve happened if the invasion took place in 2014, as well as the origins of this conflict to begin with, before going into the future and what it holds. \nhttps://www.youtube.com/@hudsonwarmap",
-      "timestamp": "2025-11-13T20:00:59.611462Z"
+      "timestamp": "2025-11-13T20:25:55.655485Z"
     },
     {
       "original": "Russian forces have captured the village of Yablukove, Hulyaipole direction, Zaporizhzhia Oblast.\nPre-war population: ~48.\nTotal land area: ~0.11 km².",
-      "timestamp": "2025-11-13T20:00:59.611468Z"
+      "timestamp": "2025-11-13T20:25:55.655490Z"
     },
     {
       "original": "Russian forces have captured the village of Rivnopillya, Hulyaipole direction, Zaporizhzhia Oblast.\nPre-war population: ~268.\nTotal land area: ~0.92 km².",
-      "timestamp": "2025-11-13T20:00:59.611472Z"
+      "timestamp": "2025-11-13T20:25:55.655494Z"
     },
     {
       "original": "Russian forces have captured the village of Sukhyi Yar, Pokrovsk direction, Donetsk Oblast.\nPre-war population: ~237.\nTotal land area: ~0.49 km².",
-      "timestamp": "2025-11-13T20:00:59.611478Z"
+      "timestamp": "2025-11-13T20:25:55.655501Z"
     },
     {
       "original": "For those wondering, Pokrovsk has already effectively fallen. Only a couple of streets remain, meaning that any future progress within the city will be mostly symbolic.",
-      "timestamp": "2025-11-13T20:00:59.611481Z"
+      "timestamp": "2025-11-13T20:25:55.655504Z"
     },
     {
       "original": "Last night, Ukrainian Flamingo cruise missiles attacked the Oryol Thermal Power plant in Oryol Oblast. \nThe number of missiles used is unknown, but it is known that 1 missile impacted and 1 was intercepted.",
-      "timestamp": "2025-11-13T20:00:59.611486Z"
+      "timestamp": "2025-11-13T20:25:55.655508Z"
     },
     {
       "original": "Last night, Ukrainian Flamingo cruise missiles attacked the Oryol Thermal Power plant in Oryol Oblast. \nThe number of missiles used is unknown, but it is known that 1 missile impacted and 1 was intercepted.",
-      "timestamp": "2025-11-13T20:00:59.611489Z"
+      "timestamp": "2025-11-13T20:25:55.655512Z"
     },
     {
       "original": "Russian forces have captured the village of Danylivka, Hulyaipole direction, Dnipropetrovsk Oblast.\nPre-war population: ~355.\nTotal land area: ~0.97 km².",
-      "timestamp": "2025-11-13T20:00:59.611494Z"
+      "timestamp": "2025-11-13T20:25:55.655516Z"
     },
     {
       "original": "Russian forces have captured the village of Danylivka, Hulyaipole direction, Dnipropetrovsk Oblast.  Pre-war population: ~355. Total land area: ~0.97 km².",
-      "timestamp": "2025-11-13T20:00:59.611497Z"
+      "timestamp": "2025-11-13T20:25:55.655519Z"
     },
     {
       "original": "As a result of this advance, Russian forces have now physically cut the Hulyaipole - Pokrovsk'e Highway. \nCurrently, there is only one usable paved road left leading into Hulyaipole, which is less than 6 km from the frontline, meaning it is under constant Russian drone surveillance.",
-      "timestamp": "2025-11-13T20:00:59.611501Z"
+      "timestamp": "2025-11-13T20:25:55.655523Z"
     },
     {
       "original": "The day AI becomes completely unbiased will be scary for many.",
-      "timestamp": "2025-11-13T20:00:59.611504Z"
+      "timestamp": "2025-11-13T20:25:55.655526Z"
     },
     {
       "original": "Update from the Pokrovsk direction:\nAs battles continue for the last streets of Pokrovsk, the defence of the besieged city of Myrnohrad has begun to falter. Russian forces are also advancing elsewhere, while the Ukrainians continue their push through Rodynske.\nWest of Pokrovsk, Russian forces continued their relatively quick advance through the fields between the two railway lines. They were able to make additional progress north of Kotlyne, capturing new treeline positions on the tactical heights, and advancing further north towards the second railway line. They also completed the capture of the dachas on the southeastern outskirts of Hryshyne and established control over new treeline positions on approach to the village. \nIn Pokrovsk City, Russian forces continue attempts at consolidating in the northwestern-most street of the city, as well as the adjacent dachas. Ukrainian drone operators are attempting to prevent them from establishing this bridgehead over the Hrishynka River. Meanwhile, fighting continues on the eastern edge of Pokrovsk.\nSouth of Myrnohrad, Russian forces consolidated in the second large trench fortification north of Lysivka and entered northern Sukhyi Yar. In coordination with attacks carried out from the south and east, the Russians were able to complete the capture of the village. \nIn southern Myrnohrad, as a result of recent assault operations, Russian forces managed to entrench in the first high-rise buildings of the Zapadny District. They also improved their positions further in the low-rise residential streets to the south. \nIn northern Myrnohrad, Russian forces broke through towards the centre of the city along the T-504 Highway, capturing new parts of the low-rise residential areas. They also advanced further in the northern high-rise buildings, establishing control over most of the remaining buildings north of Mukhamadyeyeva Street.\nIn Rodynske, Ukrainian forces were able to achieve some progress in the southwestern part of the city, capturing new positions in 3 blocks of 4-story buildings, as well as the treeline to the west. They are now attempting to break through the city centre to the southeastern high-rise microdistrict. A large grey zone has formed there.",
-      "timestamp": "2025-11-13T20:00:59.611515Z"
+      "timestamp": "2025-11-13T20:25:55.655535Z"
     },
     {
       "original": "Iskander on Zaporizhzhia",
-      "timestamp": "2025-11-13T20:00:59.611518Z"
+      "timestamp": "2025-11-13T20:25:55.655538Z"
     },
     {
       "original": "Iskander on Zaporizhzhia",
-      "timestamp": "2025-11-13T20:00:59.611521Z"
+      "timestamp": "2025-11-13T20:25:55.655541Z"
     },
     {
       "original": "Disappeared. Probably mixed up with MLRS.",
-      "timestamp": "2025-11-13T20:00:59.611524Z"
-    },
-    {
-      "original": "Military Situation In Northern Palestine On November 13, 2025 (Map Update)",
-      "timestamp": "2025-11-13T20:01:00.276883Z"
+      "timestamp": "2025-11-13T20:25:55.655544Z"
     },
     {
       "original": "Russian Army Captures Town Near Vovchansk, Expands Control In Kupyansk \nOn November 13, the Russian military captured a settlement to the west of Vovchansk and expanded its control in the western part of the city of Kupyansk in Kharkiv.\nThe Russian Ministry of Defense said that Synelnykove was captured by the Sever [North] Group of Forces. The settlement was the focal point of intense battles with Kiev forces that went on for weeks. From there, Russian troops could advance to Liman, Tsehelne, and Prilypka.\nMore importantly, the capture of Synelnykove secures the recent gains by the Sever Group of Forces in the southwestern part of Vovchansk.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276903Z"
+      "timestamp": "2025-11-13T20:25:56.265512Z"
     },
     {
       "original": "Russian Army Captures Town Near Vovchansk, Expands Control In Kupyansk \nOn November 13, the Russian military captured a settlement to the west of Vovchansk and expanded its control in the western part of the city of Kupyansk in Kharkiv.\nThe Russian Ministry of Defense said that Synelnykove was captured by the Sever [North] Group of Forces. The settlement was the focal point of intense battles with Kiev forces that went on for weeks. From there, Russian troops could advance to Liman, Tsehelne, and Prilypka.\nMore importantly, the capture of Synelnykove secures the recent gains by the Sever Group of Forces in the southwestern part of Vovchansk.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276913Z"
+      "timestamp": "2025-11-13T20:25:56.265528Z"
     },
     {
       "original": "Sukhoi Su-30 Multirole Fighter; The Versatile Backbone of Russian and Allied Air Forces\n▪️\nThe \nSukhoi Su-30\n is a twin-engine multirole fighter and one of Russia’s most successful fourth-generation aircraft. With its high maneuverability, extended operational range, and capability to perform a wide array of aerial missions, it has become the backbone of the air forces of several nations. \n▪️\nDerived from the design of the Su-27, the Su-30 has been developed in multiple variants and serves as a complementary platform to more advanced fighters like the Su-35. Its ability to conduct air-to-air and air-to-surface operations, reconnaissance, and aerial support has made it a popular choice in the global defense market.\nVideo: Su-30 fighter jet performs the Cobra maneuver, a favorite maneuver of Russian fighters\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276925Z"
+      "timestamp": "2025-11-13T20:25:56.265541Z"
     },
     {
       "original": "Sukhoi Su-30 Multirole Fighter; The Versatile Backbone of Russian and Allied Air Forces\n▪️\nThe \nSukhoi Su-30\n is a twin-engine multirole fighter and one of Russia’s most successful fourth-generation aircraft. With its high maneuverability, extended operational range, and capability to perform a wide array of aerial missions, it has become the backbone of the air forces of several nations. \n▪️\nDerived from the design of the Su-27, the Su-30 has been developed in multiple variants and serves as a complementary platform to more advanced fighters like the Su-35. Its ability to conduct air-to-air and air-to-surface operations, reconnaissance, and aerial support has made it a popular choice in the global defense market.\nVideo: Su-30 fighter jet performs the Cobra maneuver, a favorite maneuver of Russian fighters\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276937Z"
+      "timestamp": "2025-11-13T20:25:56.265552Z"
     },
     {
       "original": "Military Situation In Ukraine On November 13, 2025 (Maps Update)",
-      "timestamp": "2025-11-13T20:01:00.276941Z"
+      "timestamp": "2025-11-13T20:25:56.265556Z"
     },
     {
       "original": "Military Situation In Ukraine On November 13, 2025 (Maps Update)",
-      "timestamp": "2025-11-13T20:01:00.276945Z"
+      "timestamp": "2025-11-13T20:25:56.265560Z"
     },
     {
       "original": "Russian Army Gets More Upgraded TOS-1A Thermobaric Rocket Launchers \nUralvagonzavod, a part of the Russian state-owned Rostec defense conglomerate, has delivered a batch of upgraded TOS-1A “Solntsepyok” thermobaric rocket systems to the Russian military.\nThe delivery came on the occasion of the Day of the Russian military’s Troops of Radiological, Chemical and Biological Defence (RHBZ) on November 13, the press service of Rostec said in a statement, noting that the new systems were equipped with “a modernized anti-drone complex.”\n“Prior to delivery, in order to assess the quality and compliance with the requirements of the regulatory and technical documentation, the products were subjected to operational acceptance testing. According to the test results, the products demonstrated high quality and compliance with the tactical and technical characteristics and requirements of the delivery specifications,” the press service quoted a manufacturer representative as saying.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276954Z"
+      "timestamp": "2025-11-13T20:25:56.265569Z"
     },
     {
       "original": "Overview of Russian-Ukrainian Strikes. Polish Foreign Ministry: Kyiv Ready to Fight for Three More Years\nRussia and Ukraine exchanged mutual strikes on November 11-12, 2025, with the scale of strikes being roughly equal. According to statements from the Russian Ministry of Defense, 130 Ukrainian unmanned aerial vehicles (UAVs) were destroyed over Russian territory. In turn, the Ukrainian Air Force reported that 138 attack UAVs were launched against Ukrainian territory, of which 102 were shot down/suppressed.\nThe Russian armed forces carried out a series of strikes on targets within Ukraine, primarily concentrated in the country's southern and central regions. The most intense attacks targeted the Dnipropetrovsk region, where warehouses, service stations, and supply lines in Ternivka, Vasylivka, and Dmitrivka were hit. In Vasylivka, a local feed mill was also seriously damaged. Additionally, strikes hit Arzys in the Odesa region, damaging a locomotive depot...\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276962Z"
+      "timestamp": "2025-11-13T20:25:56.265578Z"
     },
     {
       "original": "Overview of Russian-Ukrainian Strikes. Polish Foreign Ministry: Kyiv Ready to Fight for Three More Years\nRussia and Ukraine exchanged mutual strikes on November 11-12, 2025, with the scale of strikes being roughly equal. According to statements from the Russian Ministry of Defense, 130 Ukrainian unmanned aerial vehicles (UAVs) were destroyed over Russian territory. In turn, the Ukrainian Air Force reported that 138 attack UAVs were launched against Ukrainian territory, of which 102 were shot down/suppressed.\nThe Russian armed forces carried out a series of strikes on targets within Ukraine, primarily concentrated in the country's southern and central regions. The most intense attacks targeted the Dnipropetrovsk region, where warehouses, service stations, and supply lines in Ternivka, Vasylivka, and Dmitrivka were hit. In Vasylivka, a local feed mill was also seriously damaged. Additionally, strikes hit Arzys in the Odesa region, damaging a locomotive depot...\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-13T20:01:00.276970Z"
+      "timestamp": "2025-11-13T20:25:56.265586Z"
+    },
+    {
+      "original": "IRAN AWAITS NEW WAR",
+      "timestamp": "2025-11-13T20:25:56.265590Z"
     }
   ],
-  "script_run_time": "2025-11-13T20:01:00.277801Z"
+  "script_run_time": "2025-11-13T20:25:56.266451Z"
 }
