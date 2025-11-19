@@ -1,225 +1,221 @@
 {
   "messages": [
     {
-      "original": "🛵\n Полтава - БпЛА в районі міста!",
-      "timestamp": "2025-11-19T01:24:44.518224Z"
-    },
-    {
-      "original": "🛵\n БпЛА з акваторії Чорного моря в напрямку Одеси.",
-      "timestamp": "2025-11-19T01:24:44.518255Z"
-    },
-    {
-      "original": "🛵\n БпЛА над Павлоградом.",
-      "timestamp": "2025-11-19T01:24:44.518264Z"
-    },
-    {
-      "original": "🛸\n Розвідувальний БпЛА над містом Харків. Перебувайте в укриттях до відбою!",
-      "timestamp": "2025-11-19T01:24:44.518271Z"
-    },
-    {
-      "original": "🛵\n БпЛА на межі Одеської, Кіровоградської та Вінницької областей рухається у західному напрямку.",
-      "timestamp": "2025-11-19T01:24:44.518277Z"
-    },
-    {
-      "original": "🛵\n Нові групи БпЛА з акваторії Чорного моря прямують у бік Одеської та Миколаївської областей.",
-      "timestamp": "2025-11-19T01:24:44.518286Z"
-    },
-    {
       "original": "🚨\nОновлення щодо \"шахедів\":\n🛵\n БпЛА у центрі та на заході Харківщини \n➡️\n курсом на захід.\n🛵\n БпЛА на півночі Дніпропетровщини \n➡️\n курсом на південний захід.\n🛵\n Кілька груп \"шахедів\" на Сумщині \n➡️\n курсом на Чернігівщину/Полтавщину.\n🛵\n БпЛА на південному сході Чернігівщини \n➡️\n курсом на Київську/Черкаську області.",
-      "timestamp": "2025-11-19T01:24:44.518313Z"
+      "timestamp": "2025-11-19T02:51:04.979285Z"
     },
     {
       "original": "🛵\n БпЛА з Житомирщини на Рівненщину, курс - західний.",
-      "timestamp": "2025-11-19T01:24:44.518320Z"
+      "timestamp": "2025-11-19T02:51:04.979307Z"
     },
     {
       "original": "🛵\n БпЛА з акваторії Чорного моря в напрямку Одеси.",
-      "timestamp": "2025-11-19T01:24:44.518327Z"
+      "timestamp": "2025-11-19T02:51:04.979314Z"
     },
     {
       "original": "🛵\n БпЛА на півдні Чернігівщини \n➡️\n курсом на Прилуки.",
-      "timestamp": "2025-11-19T01:24:44.518337Z"
+      "timestamp": "2025-11-19T02:51:04.979320Z"
     },
     {
       "original": "🛵\n Нові групи БпЛА на півночі Херсонщини \n➡️\n північно-західним курсом на Миколаївщину.",
-      "timestamp": "2025-11-19T01:24:44.518347Z"
+      "timestamp": "2025-11-19T02:51:04.979328Z"
     },
     {
       "original": "🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!\n🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-11-19T01:24:44.518360Z"
+      "timestamp": "2025-11-19T02:51:04.979337Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Тернопільщини прямує на південний захід.",
-      "timestamp": "2025-11-19T01:24:44.518367Z"
+      "timestamp": "2025-11-19T02:51:04.979342Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину та Донеччину.",
-      "timestamp": "2025-11-19T01:24:44.518375Z"
+      "timestamp": "2025-11-19T02:51:04.979348Z"
     },
     {
       "original": "☄️\n Загроза застосування балістичного озброєння з північно-східного напрямку.",
-      "timestamp": "2025-11-19T01:24:44.518384Z"
+      "timestamp": "2025-11-19T02:51:04.979355Z"
     },
     {
       "original": "Швидкісна на Харківщині курсом на південний захід.",
-      "timestamp": "2025-11-19T01:24:44.518389Z"
+      "timestamp": "2025-11-19T02:51:04.979360Z"
     },
     {
       "original": "Полтава - в укриття!",
-      "timestamp": "2025-11-19T01:24:44.518393Z"
+      "timestamp": "2025-11-19T02:51:04.979363Z"
     },
     {
       "original": "Ціль повз Чутове у бік Карлівки!",
-      "timestamp": "2025-11-19T01:24:44.518396Z"
+      "timestamp": "2025-11-19T02:51:04.979367Z"
     },
     {
       "original": "🛵\n Групи БпЛА на півночі Київщини рухаються у напрямку Вінниччини.",
-      "timestamp": "2025-11-19T01:24:44.518402Z"
+      "timestamp": "2025-11-19T02:51:04.979373Z"
     },
     {
       "original": "🛵\n Групи БпЛА з Херсонщини, повз Миколаївщину, курсом на Кіровоградщину.\n🛵\n БпЛА в південній частині Кіровоградщини, курс західний.\n🛵\n БпЛА з Одещини, курсом на Вінниччину.\n🛵\n Групи БпЛА на півдні Київщини, курсом на Вінниччину.\n🛵\n БпЛА на півдні та сході Харківщини, курс західний.\n🛵\n Декілька груп БпЛА з Чернігівщини, курсом на Київщину.\n🛵\n БпЛА з Київщини, курсом на Житомирщину.\n🛵\n БпЛА в Сарненському районі Рівненщини, курс західний.\n🛵\n БпЛА в північній частині Івано-Франківщини, курсом на Львівщину.",
-      "timestamp": "2025-11-19T01:24:44.518420Z"
+      "timestamp": "2025-11-19T02:51:04.979390Z"
     },
     {
-      "original": "The next combined missile and drone attack will probably take place tonight. 3 frequencies are active, including two command and control signals between Engels-2 Airbase and Olenya Airbase with Moscow.",
-      "timestamp": "2025-11-19T01:24:45.005767Z"
+      "original": "✈\n Відмічається активність 6-ти бортів Ту-95МС з аеродрому \"Оленья\" (Мурманська область., рф).\n👀\n Слідкуйте за подальшими  повідомленнями та не ігноруйте сигнали повітряної тривоги.",
+      "timestamp": "2025-11-19T02:51:04.979397Z"
     },
     {
-      "original": "While no combat related frequency activity has been observed yet, this is because Russia has switched to winter frequencies since November 1, and due to changes in daylight hours, departures of Tu-95MS strategic bombers will take place later than previously.\nCurrently, there are a minimum of 6 Tu-95MS known to be equipped with Kh-101 cruise missiles. 3 are stationed at Olenya Airbase in Murmansk Oblast, and interestingly, the 3 which were previously stationed at Engels-2 Airbase have been redeployed / are redeploying to Diaghilev Airbase, Ryazan Oblast.\nAs for the Tu-160 strategic bombers, 1 is airborne from Engels-2 Airbase, redeploying to Diaghilev airbase in a group with 2 of the Tu-95MS. 2 others stationed at Engels-2 Airbase are known to be equipped with Kh-101 missiles.",
-      "timestamp": "2025-11-19T01:24:45.005787Z"
+      "original": "🛵\n БпЛА над Харковом, курс західний.",
+      "timestamp": "2025-11-19T02:51:04.979401Z"
     },
     {
-      "original": "As for Kalibr-carriers, 1 \"Admiral Makarov\" frigate, 1 \"Buyan-M\" corvette, and 1 \"Varshavyanka\" submarine, are now equipped with Kalibr cruise missiles.\nThey can launch a total of 24 Kalibrs.",
-      "timestamp": "2025-11-19T01:24:45.005795Z"
+      "original": "🛵\n БпЛА на півдні Харківщини, курс західний.\n🛵\n БпЛА на півночі Чернігівщини,курс південно-західний.\n🛵\n БпЛА на півдні Чернігівщини, курсом на Київщину.\n🛵\n БпЛА на Київщині (Білоцерківський район), курсом на Житомирщину.\n🛵\n БпЛА в північній та східній частинах Вінниччини, курс західний.\n🛵\n БпЛА на півночі Житомирщини, курс західний.\n🛵\n Групи БпЛА з Кіровоградщини, курсом на Вінниччину.\n🛵\n БпЛА з Одещини, курсом на Вінниччину.\n🛵\n БпЛА з Херсонщини, курсом на Миколаївщину.\n🛵\n БпЛА з Миколаївщини, курсом на Кіровоградщину.\n🛵\n БпЛА на півночі Волинської області, курс південний/південно-західний.",
+      "timestamp": "2025-11-19T02:51:04.979421Z"
     },
     {
-      "original": "As for Geran-2 drones, launches have been recorded (not all confirmed) from the following launch points:\nKhalino Airbase, Kursk Oblast (x3).\nMillerovo Airbase, Rostov Oblast (x2)\nHvardiiske Training Ground, Crimea.\nNavlua Test Site, Bryansk Oblast.\nTsumbulova Test Site, Oryol Oblast.\nShatalovo Airbase, Smolensk Oblast.\nPrimorsko-Akhtarsk Airbase, Krasnodar Krai.\nPreparations for launches are ongoing at multiple other launch sites. A minimum of 500 Geran-2 drones is expected tonight, and Geran-3 jet drones could be launched from Navlya Test Site, Bryansk Oblast.",
-      "timestamp": "2025-11-19T01:24:45.005809Z"
+      "original": "🛵\n БпЛА в Самбірському районі Львівщини, курс західний.",
+      "timestamp": "2025-11-19T02:51:04.979426Z"
     },
     {
-      "original": "As for MiG-31K fighters, 4-8 are equipped with Kinzhal hypersonic aeroballistic missiles at Savasleika Airbase, Nizhny Novgorod Oblast, and are expected to be launched tonight.",
-      "timestamp": "2025-11-19T01:24:45.005814Z"
+      "original": "🛵\n БпЛА на півночі Київщини, курс західний.\n🛵\n БпЛА на півдні Харківщини, курс західний.\n🛵\n БпЛА на межі Миколаївщини та Кіровоградщини, курс північно-західний.\n🛵\n БпЛА в центральній частині Миколаївщини, курс північний.\n🛵\n БпЛА в західній  частині Кіровоградщини, курсом на Вінниччину.\n🛵\n БпЛА в південній частині Вінниччини, курс західний.\n🛵\n БпЛА в східній та західній частинах Житомирщини, курс західний.\n🛵\n БпЛА північніше Житомира, курс західний.\n🛵\n БпЛА на півночі Хмельниччини, курс західний.\n🛵\n БпЛА у Волинській області, курсом на Ковель.",
+      "timestamp": "2025-11-19T02:51:04.979443Z"
     },
     {
-      "original": "🇺🇦\n❌\n🇷🇺\n💡\n — About 500,000 people, around 65% of the occupied Donetsk region’s population, are without electricity, according to occupation official Denis Pushilin.\n➡️\n He said that schools, boiler stations, and water facilities have shut down, disrupting heating and water supplies after Ukrainian strikes on the Zuivska and Starobesheve power plants.\n@TabZLIVE",
-      "timestamp": "2025-11-19T01:24:45.005834Z"
-    },
-    {
-      "original": "Earlier, 1 Russian Iskander-M ballistic missile launched from Taganrog, Rostov Oblast, impacted a target near Shevchenkove, Kharkiv Oblast.",
-      "timestamp": "2025-11-19T01:24:45.005839Z"
-    },
-    {
-      "original": "An Israeli airstrike targeted a vehicle in the Palestinian-populated Ain al-Hilweh Refugee Camp in Sidon, southwestern Lebanon. \nAccording to the Lebanese Ministry of Health, at least four people were killed.",
-      "timestamp": "2025-11-19T01:24:45.005846Z"
+      "original": "🛵\n БпЛА повз Жмеринку на Вінниччині, курс західний/північно-західний.\n🛵\n БпЛА на півночі Київщини, курсом на Житомирщину.\n🛵\n БпЛА на сході Житомирщини, курс західний.\n🛵\n БпЛА північніше Житомира, курс західний.\n🛵\n БпЛА з Житомирщини, курсом на Хмельниччину.\n🛵\n БпЛА на півночі Хмельниччини, курсом на Тернопільщину.\n🛵\n БпЛА на межі Миколаївщини та Кіровоградщини, курсом на Вінниччину.\n🛵\n БпЛА на півдні Волинської області, курсом на Львівщину.\n🛵\n БпЛА на півночі Тернопільщини, курсом на Львівщину.",
+      "timestamp": "2025-11-19T02:51:04.979459Z"
     },
     {
       "original": "1 IL-76MD cargo plane landed at Taganrog-Central Airbase, Rostov Oblast. The cargo consists of Iskander-M ballistic missiles, which are now being transported by road to OTRK installations in the vicinity of Taganrog. \nThis is the third cargo plane to land in Rostov Oblast in the past two days.",
-      "timestamp": "2025-11-19T01:24:45.005853Z"
+      "timestamp": "2025-11-19T02:51:05.579087Z"
     },
     {
       "original": "The IDF stated that they carried out 3 airstrikes on the Ain al-Hilweh Refugee Camp targeted a Hamas training compound.\n11 people have been killed and 60 others wounded. The death toll continues to rise.",
-      "timestamp": "2025-11-19T01:24:45.005860Z"
+      "timestamp": "2025-11-19T02:51:05.579102Z"
     },
     {
       "original": "The IDF stated that they carried out 3 airstrikes on the Ain al-Hilweh Refugee Camp targeted a Hamas training compound.  11 people have been killed and 60 others wounded. The death toll continues to rise.",
-      "timestamp": "2025-11-19T01:24:45.005865Z"
+      "timestamp": "2025-11-19T02:51:05.579107Z"
     },
     {
       "original": "The death toll has risen to 21. \n94 others have been wounded.",
-      "timestamp": "2025-11-19T01:24:45.005871Z"
+      "timestamp": "2025-11-19T02:51:05.579112Z"
     },
     {
       "original": "No Tu-95MS have departed from Olenya Airbase. Ukrainian monitors are being schizo again. \nWe likely wont see departures for another 2-3 hours.",
-      "timestamp": "2025-11-19T01:24:45.005884Z"
+      "timestamp": "2025-11-19T02:51:05.579168Z"
     },
     {
       "original": "Russian forces have captured the village of Hai, Pokrovsk'e direction, Dnipropetrovsk Oblast.\nPre-war population: 28.\nTotal land area: ~0.36 km².",
-      "timestamp": "2025-11-19T01:24:45.005893Z"
+      "timestamp": "2025-11-19T02:51:05.579197Z"
     },
     {
       "original": "Russian forces have captured the village of Platonivka, northern flank of Siversk, Donetsk Oblast.\nPre-war population: ~42.\nTotal land area: ~0.21 km².",
-      "timestamp": "2025-11-19T01:24:45.005900Z"
+      "timestamp": "2025-11-19T02:51:05.579205Z"
     },
     {
       "original": "Russian forces have captured the village of Dvorichanske, Velykyi Burluk direction, Kharkiv Oblast.\nPre-war population: ~351.\nTotal land area: ~0.50 km².",
-      "timestamp": "2025-11-19T01:24:45.005906Z"
+      "timestamp": "2025-11-19T02:51:05.579213Z"
     },
     {
       "original": "The IDF stated that they carried out 3 airstrikes on the Ain al-Hilweh Refugee Camp targeted a Hamas training compound.  11 people have been killed and 60 others wounded. The death toll continues to rise.",
-      "timestamp": "2025-11-19T01:24:45.005910Z"
+      "timestamp": "2025-11-19T02:51:05.579218Z"
     },
     {
       "original": "According to Israeli Channel 12, the strike targeted a number of Hamas senior officials. Both Israeli Channel 12 and Lebanese media report that the attack failed, and that no officials were killed.",
-      "timestamp": "2025-11-19T01:24:45.005914Z"
+      "timestamp": "2025-11-19T02:51:05.579223Z"
     },
     {
       "original": "One more Tu-95MS redeployed from Engels-2 Airbase to Diaghilev Airbase. This brings the total number of bombers stationed at Diaghilev to 9, at least 4 of which are equipped with missiles.",
-      "timestamp": "2025-11-19T01:24:45.005918Z"
+      "timestamp": "2025-11-19T02:51:05.579229Z"
     },
     {
       "original": "Currently, ~50 Geran-2 drones are detected in Ukrainian airspace. New ones are flying in.",
-      "timestamp": "2025-11-19T01:24:45.005921Z"
+      "timestamp": "2025-11-19T02:51:05.579237Z"
     },
     {
       "original": "Currently, ~50 Geran-2 drones are detected in Ukrainian airspace. New ones are flying in.",
-      "timestamp": "2025-11-19T01:24:45.005925Z"
+      "timestamp": "2025-11-19T02:51:05.579243Z"
     },
     {
       "original": "Drones are attacking Kharkiv and Odesa cities.",
-      "timestamp": "2025-11-19T01:24:45.005929Z"
+      "timestamp": "2025-11-19T02:51:05.579248Z"
     },
     {
       "original": "No new activity has been recorded on strategic frequencies. The number of drones in Ukrainian airspace is decreasing. \nAdditionally, new redeployments of Tu-95MS bombers from Ukrainka Airbase, Amur Oblast, are underway, which suggests that preparations are still ongoing. \nThese new developments suggest that an attack tonight is unlikely, however nothing is certain at this moment.",
-      "timestamp": "2025-11-19T01:24:45.005935Z"
+      "timestamp": "2025-11-19T02:51:05.579253Z"
     },
     {
       "original": "One \"Varshavyanka\" submarine has been deployed to the waters of the Black Sea. Total possible salvo of 6 Kalibr cruise missiles.",
-      "timestamp": "2025-11-19T01:24:45.005938Z"
+      "timestamp": "2025-11-19T02:51:05.579257Z"
+    },
+    {
+      "original": "It looks like it will be a daytime attack.\n6 Tu-95MS strategic bombers are airborne, flying southeast through the Republic of Karelia towards the launch lines. \nThey will reach the different launch lines in the following amount of time:\nMokshansky District, Penza Oblast - 1 hr 25 mins.\nEngels District, Saratov Oblast - 1 hr 50 mins.\nKalachyovksy District, Volgograd Oblast - 2 hrs 15 mins.\nLimansky District, Astrakhan Oblast (Caspian Sea) - 2 hrs 45 mins.",
+      "timestamp": "2025-11-19T02:51:05.579264Z"
+    },
+    {
+      "original": "The Kh-101 cruise missiles will primarily target energy and gas infrastructure in western Ukraine. Geran-2 drones are currently flying there.",
+      "timestamp": "2025-11-19T02:51:05.579270Z"
+    },
+    {
+      "original": "Approximate location of the Tu-95MS bomber group.",
+      "timestamp": "2025-11-19T02:51:05.579274Z"
+    },
+    {
+      "original": "Earlier, 1 Iskander-M ballistic missile launched from near Kusk City impacted Berestyn, Kharkiv Oblast.",
+      "timestamp": "2025-11-19T02:51:05.579277Z"
+    },
+    {
+      "original": "Currently, at least 40 Geran-2 drones are flying in the direction of the Ladyzhyn Thermal Power Plant in Vinnytsia Oblast.\nClose to 100 drones are detected in Ukrainian airspace.",
+      "timestamp": "2025-11-19T02:51:05.579281Z"
+    },
+    {
+      "original": "Possible launches of Kalibr cruise missiles from 1 \"Admiral Makarov\" Frigate off the coast of Cape Myskhako, Krasnodar Krai. As many as 8 were launched. \nIf the launches were real, they should enter Ukrainian airspace via Kherson Oblast in the next 30 minutes.",
+      "timestamp": "2025-11-19T02:51:05.579285Z"
+    },
+    {
+      "original": "4 Tu-160 strategic bombers are also airborne from Ukrainka Airbase and are flying southwest through the Republic of Bashkortostan towards the launch lines in Engels, Saratov Oblast. \nThey will arrive there at around the same time as the Tu-95MS bomber group from Olenya, which is flying southeast through the Republic of Mordovia towards the launch lines in Mokshansky District, Penza Oblast.",
+      "timestamp": "2025-11-19T02:51:05.579291Z"
     },
     {
       "original": "Russian Army Reaches Haichur River, Ukrainian Troops Flee Pokrovsk Disguised As Civilians (Videos)\nOn November 18, the Russian military reached the Haichur River in Dnipropetrovsk and expanded its control in Pokrovsok and nearby areas in Donetsk forcing more Ukrainian troops to flee in a disorganized manner.\nThe Vostok [East] Group of Forces reached Haichur after capturing Nechayevka in Dnipropetrovsk, according to the Russian Ministry of Defense. \nThis Ukrainian failure between Dnipropetrovsk and Zaporozhye is a direct result of Kiev’s decision to prioritize the defense of the strategic city of Pokrovsk in Donetsk to the east. Ukraine is, however, also losing the battle there.\nAbandoned by their command, more and more Ukrainian troops are now attempting to flee Pokrovsk disguised as civilians.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516254Z"
+      "timestamp": "2025-11-19T02:51:06.342206Z"
     },
     {
       "original": "Russian Army Reaches Haichur River, Ukrainian Troops Flee Pokrovsk Disguised As Civilians (Videos)\nOn November 18, the Russian military reached the Haichur River in Dnipropetrovsk and expanded its control in Pokrovsok and nearby areas in Donetsk forcing more Ukrainian troops to flee in a disorganized manner.\nThe Vostok [East] Group of Forces reached Haichur after capturing Nechayevka in Dnipropetrovsk, according to the Russian Ministry of Defense. \nThis Ukrainian failure between Dnipropetrovsk and Zaporozhye is a direct result of Kiev’s decision to prioritize the defense of the strategic city of Pokrovsk in Donetsk to the east. Ukraine is, however, also losing the battle there.\nAbandoned by their command, more and more Ukrainian troops are now attempting to flee Pokrovsk disguised as civilians.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516275Z"
+      "timestamp": "2025-11-19T02:51:06.342226Z"
     },
     {
       "original": "Military Situation In Ukraine On November 18, 2025 (Maps Update)",
-      "timestamp": "2025-11-19T01:24:45.516279Z"
+      "timestamp": "2025-11-19T02:51:06.342231Z"
     },
     {
       "original": "Military Situation In Ukraine On November 18, 2025 (Maps Update)",
-      "timestamp": "2025-11-19T01:24:45.516283Z"
+      "timestamp": "2025-11-19T02:51:06.342235Z"
     },
     {
       "original": "Ukraine Is Losing More Ground In Kharkiv (Videos)\nOn November 18, the Russian military captured another settlement close to Vovchansk and made additional gains in the city of Kupyansk in Kharkiv.\nThe Sever [North] Group of Forces imposed control of Tsegelnoye, located right to the southwest of Vovchansk, according to the Russian Ministry of Defense.\nThe capture of the settlement is very important for Russian military operations in this part of Kharkiv. From there, the Sever Group of Forces could attack Vil’cha to the south. This would put immense pressure on remaining Ukrainian troops in the southeastern part of Vovchansk.\nThe pressure on Kiev forces is even larger to the south in Kharkiv, specifically in Kupyansk, where the Zapad Group of Forces has been making gains on a daily basis.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516293Z"
+      "timestamp": "2025-11-19T02:51:06.342245Z"
     },
     {
       "original": "Ukraine Is Losing More Ground In Kharkiv (Videos)\nOn November 18, the Russian military captured another settlement close to Vovchansk and made additional gains in the city of Kupyansk in Kharkiv.\nThe Sever [North] Group of Forces imposed control of Tsegelnoye, located right to the southwest of Vovchansk, according to the Russian Ministry of Defense.\nThe capture of the settlement is very important for Russian military operations in this part of Kharkiv. From there, the Sever Group of Forces could attack Vil’cha to the south. This would put immense pressure on remaining Ukrainian troops in the southeastern part of Vovchansk.\nThe pressure on Kiev forces is even larger to the south in Kharkiv, specifically in Kupyansk, where the Zapad Group of Forces has been making gains on a daily basis.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516301Z"
+      "timestamp": "2025-11-19T02:51:06.342255Z"
     },
     {
       "original": "A Reckoning for Ukraine's Spy Chief: Budanov's Ambitions Clash With Battlefield Realities\nA chronology of the Ukrainian Main Intelligence Directorate's special forces' suicidal landing. The Black Hawk-style operation ended in disaster. Despite efforts made, success was not achieved.\nOver the past few months, the operational crisis facing Ukrainian troops in the Pokrovsk and Mirnograd area has perhaps become the most critical point on the entire front. Despite the advance of Russian units, Ukrainian commanders claimed that the situation was under control. However, it later emerged that Pokrovsk had fallen and that a group of several thousand well-trained Ukrainian paratroopers and marines had become isolated from the main forces in Mirnograd.\nLosing such combat-ready units would seriously impact the entire front line. Consequently, the Ukrainian command deployed almost all available forces to relieve the besieged garrison.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516311Z"
+      "timestamp": "2025-11-19T02:51:06.342265Z"
     },
     {
       "original": "A Reckoning for Ukraine's Spy Chief: Budanov's Ambitions Clash With Battlefield Realities\nA chronology of the Ukrainian Main Intelligence Directorate's special forces' suicidal landing. The Black Hawk-style operation ended in disaster. Despite efforts made, success was not achieved.\nOver the past few months, the operational crisis facing Ukrainian troops in the Pokrovsk and Mirnograd area has perhaps become the most critical point on the entire front. Despite the advance of Russian units, Ukrainian commanders claimed that the situation was under control. However, it later emerged that Pokrovsk had fallen and that a group of several thousand well-trained Ukrainian paratroopers and marines had become isolated from the main forces in Mirnograd.\nLosing such combat-ready units would seriously impact the entire front line. Consequently, the Ukrainian command deployed almost all available forces to relieve the besieged garrison.\n👉\n Read more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516320Z"
+      "timestamp": "2025-11-19T02:51:06.342274Z"
     },
     {
       "original": "RUSSIA'S EXPANDING OFFENSIVE: PREVIOUSLY QUIET FRONTS SEE COMBAT",
-      "timestamp": "2025-11-19T01:24:45.516324Z"
+      "timestamp": "2025-11-19T02:51:06.342281Z"
     },
     {
       "original": "Russian Army Enters Siversk: Operations Against Ukrainian Forces Inside City Began \nRussian forces have taken control of the Nechayevka settlement in the Zaporizhzhia sector. The Russian army has advanced 900 metres towards Siversk , entering the southern part of the city. \nMeanwhile, British diplomat Ian Proud stated that France is unlikely to transfer Rafale fighter jets to Ukraine in the near future.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516332Z"
+      "timestamp": "2025-11-19T02:51:06.342289Z"
     },
     {
       "original": "Russian Army Enters Siversk: Operations Against Ukrainian Forces Inside City Began \nRussian forces have taken control of the Nechayevka settlement in the Zaporizhzhia sector. The Russian army has advanced 900 metres towards Siversk , entering the southern part of the city. \nMeanwhile, British diplomat Ian Proud stated that France is unlikely to transfer Rafale fighter jets to Ukraine in the near future.\nRead more \nHERE",
-      "timestamp": "2025-11-19T01:24:45.516339Z"
+      "timestamp": "2025-11-19T02:51:06.342297Z"
     }
   ],
-  "script_run_time": "2025-11-19T01:24:45.517257Z"
+  "script_run_time": "2025-11-19T02:51:06.343216Z"
 }
