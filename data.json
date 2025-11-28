@@ -1,213 +1,233 @@
 {
   "messages": [
     {
-      "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на південно-східному напрямку!",
-      "timestamp": "2025-11-28T16:37:49.393074Z"
-    },
-    {
       "original": "🛵\n БпЛА з Курської обл., рф \n➡️\n на Суми!\n🛵\n БпЛА з Брянської обл., рф \n➡️\n на Чернігівщину.",
-      "timestamp": "2025-11-28T16:37:49.393097Z"
+      "timestamp": "2025-11-28T16:50:43.363277Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на південно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-28T16:37:49.393107Z"
+      "timestamp": "2025-11-28T16:50:43.363294Z"
     },
     {
       "original": "🚀\n КАБи на Донеччину, Дніпропетровщину!",
-      "timestamp": "2025-11-28T16:37:49.393113Z"
+      "timestamp": "2025-11-28T16:50:43.363299Z"
     },
     {
       "original": "🛵\n БпЛА на Чернігів з півночі!",
-      "timestamp": "2025-11-28T16:37:49.393118Z"
+      "timestamp": "2025-11-28T16:50:43.363304Z"
     },
     {
       "original": "🛵\n БпЛА на Суми з півночі!",
-      "timestamp": "2025-11-28T16:37:49.393124Z"
+      "timestamp": "2025-11-28T16:50:43.363308Z"
     },
     {
       "original": "🛵\n БпЛА на Чернігів з південного сходу!",
-      "timestamp": "2025-11-28T16:37:49.393129Z"
+      "timestamp": "2025-11-28T16:50:43.363313Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Чернігівщини \n➡️\n курсом на Сновськ, Седнів, Мену.\n🛵\n БпЛА на сході Сумщини \n➡️\n курсом на Суми, Білопілля.\n🛵\n БпЛА на сході Дніпропетровщини \n➡️\n курсом на Шахтарське.",
-      "timestamp": "2025-11-28T16:37:49.393143Z"
+      "timestamp": "2025-11-28T16:50:43.363324Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-28T16:37:49.393152Z"
+      "timestamp": "2025-11-28T16:50:43.363332Z"
     },
     {
       "original": "🚀\n КАБи на північ Харківщини!",
-      "timestamp": "2025-11-28T16:37:49.393157Z"
+      "timestamp": "2025-11-28T16:50:43.363337Z"
     },
     {
       "original": "🛵\n Група БпЛА на сході Дніпропетровщини \n➡️\n курсом на Харківщину.\n🛵\n БпЛА на півночі Чернігівщини \n➡️\n курсом на Ріпки, Славутич.",
-      "timestamp": "2025-11-28T16:37:49.393167Z"
+      "timestamp": "2025-11-28T16:50:43.363346Z"
     },
     {
       "original": "🚀\n КАБи на північ Харківщини!",
-      "timestamp": "2025-11-28T16:37:49.393172Z"
+      "timestamp": "2025-11-28T16:50:43.363350Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-11-28T16:37:49.393176Z"
+      "timestamp": "2025-11-28T16:50:43.363354Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2025-11-28T16:37:49.393181Z"
+      "timestamp": "2025-11-28T16:50:43.363359Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на південно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-11-28T16:37:49.393188Z"
+      "timestamp": "2025-11-28T16:50:43.363366Z"
     },
     {
       "original": "🛵\n БпЛА в Ніжинському районі Чернігівщини, курс на південь.",
-      "timestamp": "2025-11-28T16:37:49.393206Z"
+      "timestamp": "2025-11-28T16:50:43.363371Z"
     },
     {
       "original": "🚀\nПуски КАБ на Запоріжжя.",
-      "timestamp": "2025-11-28T16:37:49.393211Z"
+      "timestamp": "2025-11-28T16:50:43.363375Z"
     },
     {
       "original": "🛵\n БпЛА з акваторії Чорного моря в  напрямку  Одеси.",
-      "timestamp": "2025-11-28T16:37:49.393218Z"
+      "timestamp": "2025-11-28T16:50:43.363383Z"
     },
     {
       "original": "🛵\n БпЛА на сході Харківщини (Ізюмський район), курс західний.",
-      "timestamp": "2025-11-28T16:37:49.393222Z"
+      "timestamp": "2025-11-28T16:50:43.363390Z"
     },
     {
       "original": "🛵\n БпЛА з акваторії Чорного моря в  напрямку  Затоки.",
-      "timestamp": "2025-11-28T16:37:49.393227Z"
+      "timestamp": "2025-11-28T16:50:43.363395Z"
     },
     {
-      "original": "The IDF military operation, dubbed \"Operation Five Stones\" continues in the northern West Bank.   In the town of Qabatiya, a Palestinian fighter affiliated with Hamas threw an IED at Israeli infantry. Israeli soldiers responded with fire, killing the militant…",
-      "timestamp": "2025-11-28T16:37:49.984852Z"
-    },
-    {
-      "original": "Israel's new military operation in the northern West Bank continues into its second day.\nThe IDF continues carrying out raids in settlements they deployed to earlier, and have also begun raiding the city of Qalqiya, Nablus, the eastern suburbs of Tulkarm, and the village of Kafr Thulth.\nAdditional widespread arrests have been made in various different settlements, and road closures remain in place, limiting Palestinian movement. IDF military bulldozers also demolished additional streets in the town of Tamun. \nThe centre of these operations remain in the city of Tubas, where hundreds of IDF soldiers have been deployed.",
-      "timestamp": "2025-11-28T16:37:49.984866Z"
-    },
-    {
-      "original": "The professional think tank with so-called experts working for it has resorted to the linear warfare argument.\nThey are openly lying about how attritional wars are fought, but people will just eat it up.",
-      "timestamp": "2025-11-28T16:37:49.984870Z"
-    },
-    {
-      "original": "Several Israeli airstrikes have targeted southern Lebanon. \nExplosions were heard in Al-Mahmoudiya, Al-Jarmaq, Nahr Nabaa Tasa, and Jabal Al-Rafie",
-      "timestamp": "2025-11-28T16:37:49.984875Z"
-    },
-    {
-      "original": "Several Israeli airstrikes have targeted southern Lebanon. \nExplosions were heard in Al-Mahmoudiya, Al-Jarmaq, Nahr Nabaa Tasa, and Jabal Al-Rafie",
-      "timestamp": "2025-11-28T16:37:49.984880Z"
-    },
-    {
-      "original": "Several Israeli airstrikes on the Bekaa Valley, northeastern Lebanon.",
-      "timestamp": "2025-11-28T16:37:49.984884Z"
+      "original": "⚠\nУВАГА\n🚨\n Ракетна небезпека!\n🛫\n Зафіксовано зліт МіГ-31К",
+      "timestamp": "2025-11-28T16:50:43.363402Z"
     },
     {
       "original": "Repeated Israeli airstrikes on southern Lebanon.",
-      "timestamp": "2025-11-28T16:37:49.984887Z"
+      "timestamp": "2025-11-28T16:50:43.922269Z"
     },
     {
       "original": "Repeated Israeli airstrikes on southern Lebanon.",
-      "timestamp": "2025-11-28T16:37:49.984891Z"
+      "timestamp": "2025-11-28T16:50:43.922279Z"
     },
     {
       "original": "Russian forces have captured the village of Shakhove, Dobropillya direction, Donetsk Oblast.\nPre-war population: ~899.\nTotal land area: ~2.29 km².\nThe 2nd battle for Shakhove lasted approximately 1 month, 10 days.",
-      "timestamp": "2025-11-28T16:37:49.984897Z"
+      "timestamp": "2025-11-28T16:50:43.922285Z"
     },
     {
       "original": "Vovchansk city centre after 565 days of fighting for the city.",
-      "timestamp": "2025-11-28T16:37:49.984901Z"
+      "timestamp": "2025-11-28T16:50:43.922289Z"
     },
     {
       "original": "In the evening, one Russian Iskander-M ballistic missile launched from near Simferopol, Crimea, impacted the Buialyk airfield in Odesa Oblast. \nThis airfield was likely used for launches of long-range UAVs at Crimea. Media 1 shows the Iskander being launched. \nCoordinates: 46.89287, 30.69906",
-      "timestamp": "2025-11-28T16:37:49.984906Z"
+      "timestamp": "2025-11-28T16:50:43.922294Z"
     },
     {
       "original": "In the evening, one Russian Iskander-M ballistic missile launched from near Simferopol, Crimea, impacted the Buialyk airfield in Odesa Oblast. \nThis airfield was likely used for launches of long-range UAVs at Crimea. Media 1 shows the Iskander being launched. \nCoordinates: 46.89287, 30.69906",
-      "timestamp": "2025-11-28T16:37:49.984911Z"
+      "timestamp": "2025-11-28T16:50:43.922299Z"
     },
     {
       "original": "The IDF stated that 6 of its soldiers were injured, including 3 officers, during clashes in the village of Beit Jinn, southern Syria.\nIsraeli soldiers were deployed to the village in order to arrest multiple Islamist militants, reportedly from the Jaama Islamiya group. They were immediately met with resistance by several armed fighters. Airstrikes were subsequently carried out to support the soldiers, killing at least 9 people including multiple militants",
-      "timestamp": "2025-11-28T16:37:49.984915Z"
+      "timestamp": "2025-11-28T16:50:43.922303Z"
     },
     {
       "original": "Last night, Ukrainian long-range UAVs once again attacked the city of Saratov. At least one impact was recorded at the Saratov Oil Refinery, resulting in a fire subsequently breaking out.",
-      "timestamp": "2025-11-28T16:37:49.984919Z"
+      "timestamp": "2025-11-28T16:50:43.922307Z"
     },
     {
       "original": "Last night, Ukrainian long-range UAVs once again attacked the city of Saratov. At least one impact was recorded at the Saratov Oil Refinery, resulting in a fire subsequently breaking out.",
-      "timestamp": "2025-11-28T16:37:49.984922Z"
+      "timestamp": "2025-11-28T16:50:43.922310Z"
     },
     {
       "original": "Overnight, Russia carried out another large-scale Geran-2 drone attack on eastern Dnipropetrovsk Oblast.\n4-5 Gerans impacted the railway station in the village of Zaliznychne. Both attached videos show the impacts, as seen from neighbouring settlements.\nAt least 4 Gerans impacted an unknown target in/near the city of Shakhtarske.\nAnother 4 Gerans impacted two targets in the central and southern parts of Vasylkivka. One of the drones targeting the town centre failed to detonate.\nAt least 2 Gerans impacted Novomykolaivka, likely targeting the railway station.",
-      "timestamp": "2025-11-28T16:37:49.984928Z"
+      "timestamp": "2025-11-28T16:50:43.922317Z"
     },
     {
       "original": "Overnight, Russia carried out another large-scale Geran-2 drone attack on eastern Dnipropetrovsk Oblast.\n4-5 Gerans impacted the railway station in the village of Zaliznychne. Both attached videos show the impacts, as seen from neighbouring settlements.\nAt least 4 Gerans impacted an unknown target in/near the city of Shakhtarske.\nAnother 4 Gerans impacted two targets in the central and southern parts of Vasylkivka. One of the drones targeting the town centre failed to detonate.\nAt least 2 Gerans impacted Novomykolaivka, likely targeting the railway station.",
-      "timestamp": "2025-11-28T16:37:49.984935Z"
+      "timestamp": "2025-11-28T16:50:43.922323Z"
     },
     {
       "original": "The Syrian flag emoji has finally changed for me, exactly one year after the HTS offensive began \n🇸🇾",
-      "timestamp": "2025-11-28T16:37:49.984939Z"
+      "timestamp": "2025-11-28T16:50:43.922328Z"
     },
     {
       "original": "The IDF stated that 6 of its soldiers were injured, including 3 officers, during clashes in the village of Beit Jinn, southern Syria.  Israeli soldiers were deployed to the village in order to arrest multiple Islamist militants, reportedly from the Jaama Islamiya…",
-      "timestamp": "2025-11-28T16:37:49.984943Z"
+      "timestamp": "2025-11-28T16:50:43.922332Z"
     },
     {
       "original": "During the clashes in southern Syria, an Israeli Humvee vehicle was disabled by local fighters. The vehicle was abandoned and subsequently struck by the Israeli Airforce.",
-      "timestamp": "2025-11-28T16:37:49.984949Z"
+      "timestamp": "2025-11-28T16:50:43.922335Z"
     },
     {
       "original": "Zelensky's Chief of Staff Andrii Yermak has resigned, following a search on his house by Ukraine's \"NABU\" anti-corruption authorities.",
-      "timestamp": "2025-11-28T16:37:49.984953Z"
+      "timestamp": "2025-11-28T16:50:43.922338Z"
+    },
+    {
+      "original": "There is an increased threat of a large-scale, combined Russian missile and drone attack on Ukraine from November 27 onwards.   I will publish more details about this once some things are clarified.",
+      "timestamp": "2025-11-28T16:50:43.922341Z"
+    },
+    {
+      "original": "Regarding the increased threat of the next large-scale, combined Russian missile attack which I reported on earlier:\nToday, 4 Tu-95MS strategic bombers redeployed from Ukrainka Airbase, Amur Oblast, to Diaghilev Airbase, Ryazan Oblast. 2 IL-78M tankers refueled them during the flight. Its currently unclear as to why they flew here rather than to Engels-2. \nOver the last week, at least 3 IL-76MD cargo planes landed at Engels-2 Airbase. 1-2 of these planes carried Kh-101 cruise missiles, which will likely be equipped to the Tu-95MS.\nAt least 4 Tu-22m3 strategic bombers are equipped with Kh-22 cruise missiles at Olenya Airbase. This is what the 3rd IL-76MD was transporting to Engels-2 Airbase.\n4-6 MiG-31K fighters have been equipped with Kinzhal hypersonic aeroballistic missiles at Savasleika Airbase and have been carrying out active training missions over the past week, including with simulated launches. \nIskander-M ballistic missiles have been delivered to OTRK installations near Taganrog, Rostov Oblast, and Liski, Voronezh Oblast. Deliveries to other areas has also likely been carried out.\nIt's likely (not 100% confirmed) that 1 \"Varshavyanka\" submarine, 1 \"Admiral Makarov\" Frigate, and 1 \"Buyan-M\" Corvette have been equipped with Kalibr cruise missiles at Novorossiysk Naval Base.\nAccumulation of Geran-2 and Gerbera drones continues at all major launch points surrounding Ukraine. \nActivity on frequencies used by strategic aviation at Ukrainka Airbase suggests that redeployments of Tu-160 strategic bombers will likely take place tonight/tomorrow. \nThere will not be an attack tonight, but the increased threat is for the nights of November 29/30, and November 30/December 1.",
+      "timestamp": "2025-11-28T16:50:43.922352Z"
+    },
+    {
+      "original": "Regarding the increased threat of the next large-scale, combined Russian missile attack which I reported on earlier:  Today, 4 Tu-95MS strategic bombers redeployed from Ukrainka Airbase, Amur Oblast, to Diaghilev Airbase, Ryazan Oblast. 2 IL-78M tankers refueled…",
+      "timestamp": "2025-11-28T16:50:43.922355Z"
+    },
+    {
+      "original": "One of the Tu-22m3 strategic bombers seen equipped with a Kh-32 cruise missile while carrying out a training mission over the Baltic Sea. \nPhoto taken from a Swedish JAS-39C Gripen fighter jet.",
+      "timestamp": "2025-11-28T16:50:43.922367Z"
+    },
+    {
+      "original": "MiG-31K airborne. There is a missile threat for all of Ukraine, but its likely just carrying out training.",
+      "timestamp": "2025-11-28T16:50:43.922372Z"
+    },
+    {
+      "original": "MiG-31K airborne. There is a missile threat for all of Ukraine, but its likely just carrying out training.",
+      "timestamp": "2025-11-28T16:50:43.922375Z"
+    },
+    {
+      "original": "Clarification: 4 MiG-31Ks are airborne.",
+      "timestamp": "2025-11-28T16:50:43.922378Z"
+    },
+    {
+      "original": "Clarification: 4 MiG-31Ks are airborne.",
+      "timestamp": "2025-11-28T16:50:43.922381Z"
+    },
+    {
+      "original": "Launch maneuvers",
+      "timestamp": "2025-11-28T16:50:43.922384Z"
+    },
+    {
+      "original": "Launch maneuvers",
+      "timestamp": "2025-11-28T16:50:43.922387Z"
+    },
+    {
+      "original": "The launches took place from eastern Tambov Oblast. If the launches were real, they should enter Ukrainian airspace in 2-3 minutes.",
+      "timestamp": "2025-11-28T16:50:43.922392Z"
     },
     {
       "original": "ECHOES OF OPERATION MIDAS: CORRUPTION SCANDAL IN UKRAINE THREATENS PEACE TALKS",
-      "timestamp": "2025-11-28T16:37:50.561631Z"
+      "timestamp": "2025-11-28T16:50:44.476614Z"
     },
     {
       "original": "Breakthrough In Dibrova: Russia Threatens Ukraine’s Control Over Road To Sloviansk\nThe Russian command claims that assault groups have entered Dibrova in the Krasny Liman sector. Russian assault units have seized control of the eastern outskirts of Siversk and advanced to the city center. Ukrainian forces have abandoned Shakhove in the Druzhkivka sector. \nSlovakian Prime Minister Robert Fico has called on the European Union to stop providing aid to Ukraine.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561654Z"
+      "timestamp": "2025-11-28T16:50:44.476628Z"
     },
     {
       "original": "Breakthrough In Dibrova: Russia Threatens Ukraine’s Control Over Road To Sloviansk\nThe Russian command claims that assault groups have entered Dibrova in the Krasny Liman sector. Russian assault units have seized control of the eastern outskirts of Siversk and advanced to the city center. Ukrainian forces have abandoned Shakhove in the Druzhkivka sector. \nSlovakian Prime Minister Robert Fico has called on the European Union to stop providing aid to Ukraine.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561663Z"
+      "timestamp": "2025-11-28T16:50:44.476637Z"
     },
     {
       "original": "Drone Attacks: Summary Of Russian Combat Footage From November 27, 2025\nOn November 27, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561671Z"
+      "timestamp": "2025-11-28T16:50:44.476644Z"
     },
     {
       "original": "Drone Attacks: Summary Of Russian Combat Footage From November 27, 2025\nOn November 27, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561678Z"
+      "timestamp": "2025-11-28T16:50:44.476651Z"
     },
     {
       "original": "Israeli Forces Came Under Attack In Syria, At Least 13 Killed In Clashes And Strikes (videos) \nIsraeli troops came under attack while operating in southern Syria early on November 28, with reports indicating that over a dozen people, including women and children, were killed in retaliatory strikes.\nIn a statement, the Israeli Defense Forces (IDF) said that troops of the 55th Reserve Paratroopers Brigade set out in the early morning to detain members of the al-Jama’a al-Islamiyya (Islamic Group), following intelligence information collected in recent weeks indicating that they were operating in the Syrian town of Beit Jinn and worked to advance attacks on Israel.\n\"During the operation, terrorists opened fire at IDF troops, who returned fire,\" the military said, adding that the Israeli Air Force also struck the area to support the ground troops.\nThe IDF admitted two officers and a reservist were seriously hurt as a result of the fire. \nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561688Z"
+      "timestamp": "2025-11-28T16:50:44.476661Z"
     },
     {
       "original": "Israeli Forces Came Under Attack In Syria, At Least 13 Killed In Clashes And Strikes (videos) \nIsraeli troops came under attack while operating in southern Syria early on November 28, with reports indicating that over a dozen people, including women and children, were killed in retaliatory strikes.\nIn a statement, the Israeli Defense Forces (IDF) said that troops of the 55th Reserve Paratroopers Brigade set out in the early morning to detain members of the al-Jama’a al-Islamiyya (Islamic Group), following intelligence information collected in recent weeks indicating that they were operating in the Syrian town of Beit Jinn and worked to advance attacks on Israel.\n\"During the operation, terrorists opened fire at IDF troops, who returned fire,\" the military said, adding that the Israeli Air Force also struck the area to support the ground troops.\nThe IDF admitted two officers and a reservist were seriously hurt as a result of the fire. \nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561698Z"
+      "timestamp": "2025-11-28T16:50:44.476670Z"
     },
     {
       "original": "Israel Attacks Lebanon On Anniversary Of Ceasefire, Boast About Killing Over 300 Within Year (Videos)\nA wave of Israeli strikes hit southern Lebanon on November 27, the first anniversary of the ceasefire brokered by the United States.\nThe strikes targeted the towns of Jarmaq and Mahmoudiyeh, along with other areas in southern Lebanon. The IDF later said in a statement that the strikes hit Hezbollah targets, including rocket-launching sites, weapon depots, and military posts belonging to the group.\nFollowing the latest wave of strikes, the IDF announced that it had killed over 370 “terror operatives” in Lebanon since the ceasefire came into effect on November 27 of last year.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561706Z"
+      "timestamp": "2025-11-28T16:50:44.476679Z"
     },
     {
       "original": "Israel Attacks Lebanon On Anniversary Of Ceasefire, Boast About Killing Over 300 Within Year (Videos)\nA wave of Israeli strikes hit southern Lebanon on November 27, the first anniversary of the ceasefire brokered by the United States.\nThe strikes targeted the towns of Jarmaq and Mahmoudiyeh, along with other areas in southern Lebanon. The IDF later said in a statement that the strikes hit Hezbollah targets, including rocket-launching sites, weapon depots, and military posts belonging to the group.\nFollowing the latest wave of strikes, the IDF announced that it had killed over 370 “terror operatives” in Lebanon since the ceasefire came into effect on November 27 of last year.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561715Z"
+      "timestamp": "2025-11-28T16:50:44.476687Z"
     },
     {
       "original": "Iran Deployed Its Aging F-14s During War With Israel, Shot Down Multiple Drones (Video)\nThe Islamic Republic of Iran Air Force (IRIAF) deployed its aging American-made F-14 interceptor jets during the 12-day war with Israel last June, a documentary aired by the Islamic Republic’s state TV on November 10 revealed.\nIran received at least 79 F-14A/AM from the United States in the 1970s. By the time Israel launched its attack on the Islamic Republic’s nuclear program on June 13, only 40-20 of the jets were still in service.\nThe documentary “Unequal Battle,” which was produced by the media division for the Islamic Republic of Iran Army “Artesh,” revealed that these jets, despite major difficulties, took to the sky with the start of the war with the main task of intercepting Israeli drones.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561724Z"
+      "timestamp": "2025-11-28T16:50:44.476696Z"
     },
     {
       "original": "Iran Deployed Its Aging F-14s During War With Israel, Shot Down Multiple Drones (Video)\nThe Islamic Republic of Iran Air Force (IRIAF) deployed its aging American-made F-14 interceptor jets during the 12-day war with Israel last June, a documentary aired by the Islamic Republic’s state TV on November 10 revealed.\nIran received at least 79 F-14A/AM from the United States in the 1970s. By the time Israel launched its attack on the Islamic Republic’s nuclear program on June 13, only 40-20 of the jets were still in service.\nThe documentary “Unequal Battle,” which was produced by the media division for the Islamic Republic of Iran Army “Artesh,” revealed that these jets, despite major difficulties, took to the sky with the start of the war with the main task of intercepting Israeli drones.\nRead more \nHERE",
-      "timestamp": "2025-11-28T16:37:50.561733Z"
+      "timestamp": "2025-11-28T16:50:44.476704Z"
     }
   ],
-  "script_run_time": "2025-11-28T16:37:50.562632Z"
+  "script_run_time": "2025-11-28T16:50:44.477269Z"
 }
