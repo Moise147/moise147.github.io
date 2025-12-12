@@ -1,229 +1,253 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА з акваторії Чорного моря на Чорноморськ.",
-      "timestamp": "2025-12-12T23:14:36.896867Z"
-    },
-    {
-      "original": "🛵\n Чернігів - БпЛА у напрямку міста!",
-      "timestamp": "2025-12-12T23:14:36.896882Z"
-    },
-    {
-      "original": "🛵\n БпЛА з акваторії Чорного моря на Чорноморськ/Овідіополь.",
-      "timestamp": "2025-12-12T23:14:36.896888Z"
-    },
-    {
-      "original": "🛵\n Ворожий БпЛА з акваторії Чорного моря в напрямку Одеси.",
-      "timestamp": "2025-12-12T23:14:36.896893Z"
-    },
-    {
-      "original": "🚀\nПуски КАБ на Запорізьку область.",
-      "timestamp": "2025-12-12T23:14:36.896897Z"
-    },
-    {
-      "original": "🛵\n БпЛА в акваторії Чорного моря курсом на Одесу.",
-      "timestamp": "2025-12-12T23:14:36.896902Z"
-    },
-    {
-      "original": "🚀\nПовторні пуски КАБ на Запорізьку область.",
-      "timestamp": "2025-12-12T23:14:36.896907Z"
-    },
-    {
-      "original": "🛵\n Група БпЛА з акваторії Чорного моря в напрямку Одеси.\n🛵\n БпЛА з Чернігівщини на Сумщину (Конотопський район).\n🛵\n БпЛА з Сумщини на Полтавщину (Миргородський район).",
-      "timestamp": "2025-12-12T23:14:36.896915Z"
-    },
-    {
-      "original": "🛵\n Павлоград - БпЛА у напрямку міста!",
-      "timestamp": "2025-12-12T23:14:36.896920Z"
-    },
-    {
-      "original": "🛵\n Ворожий БпЛА курсом на Суми.\n🛵\n Група БпЛА з Дніпропетровщини на Донеччину.\n🛵\n БпЛА з Полтавщини на Дніпропетровщину.",
-      "timestamp": "2025-12-12T23:14:36.896932Z"
-    },
-    {
-      "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-12-12T23:14:36.896936Z"
-    },
-    {
       "original": "🛵\n Група БпЛА на півдні Миколаївщини у північно-західному напрямку.\n🛵\n Група БпЛА на межі Херсонщини на Запорізької області курсом на Дніпропетровщину.",
-      "timestamp": "2025-12-12T23:14:36.896943Z"
+      "timestamp": "2025-12-12T23:30:43.433470Z"
     },
     {
       "original": "🛵\n Декілька груп БпЛА з Миколаївщини на Одещину.\n🛵\n Група БпЛА в акваторії Чорного моря у напрямку півдня Одещини.\n🛵\n Група БпЛА із Запорізької області на Дніпропетровщину (Нікопольський район).",
-      "timestamp": "2025-12-12T23:14:36.896951Z"
+      "timestamp": "2025-12-12T23:30:43.433486Z"
     },
     {
       "original": "🚀\nПуски КАБ на сході Харківщини.",
-      "timestamp": "2025-12-12T23:14:36.896955Z"
+      "timestamp": "2025-12-12T23:30:43.433492Z"
     },
     {
       "original": "🛵\n Одеса - декілька груп БпЛА з півночі у напрямку міста!",
-      "timestamp": "2025-12-12T23:14:36.896960Z"
+      "timestamp": "2025-12-12T23:30:43.433496Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА курсом на Суми.",
-      "timestamp": "2025-12-12T23:14:36.896964Z"
+      "timestamp": "2025-12-12T23:30:43.433500Z"
     },
     {
       "original": "🛵\n Декілька груп БпЛА повз Маяки в напрямку Одеси.",
-      "timestamp": "2025-12-12T23:14:36.896971Z"
+      "timestamp": "2025-12-12T23:30:43.433508Z"
     },
     {
       "original": "🛵\n Кривий Ріг - БпЛА у напрямку міста!",
-      "timestamp": "2025-12-12T23:14:36.896975Z"
+      "timestamp": "2025-12-12T23:30:43.433513Z"
     },
     {
       "original": "🚀\nРакетна небезпека в областях, де оголошена тривога!",
-      "timestamp": "2025-12-12T23:14:36.896980Z"
+      "timestamp": "2025-12-12T23:30:43.433517Z"
     },
     {
       "original": "🚀\nГрупа крилатих ракет з Херсонщини на Миколаївщину.",
-      "timestamp": "2025-12-12T23:14:36.896984Z"
+      "timestamp": "2025-12-12T23:30:43.433521Z"
+    },
+    {
+      "original": "🚀\nГрупа крилатих ракет на Миколаївщині курсом на Одещину.",
+      "timestamp": "2025-12-12T23:30:43.433526Z"
+    },
+    {
+      "original": "🚀\nКР з акваторії Чорного моря на Чорноморськ.",
+      "timestamp": "2025-12-12T23:30:43.433530Z"
+    },
+    {
+      "original": "🚀\nКР з акваторії Чорного моря на Чорноморськ.",
+      "timestamp": "2025-12-12T23:30:43.433534Z"
+    },
+    {
+      "original": "Курсом на Білгород-Дністровський.",
+      "timestamp": "2025-12-12T23:30:43.433538Z"
+    },
+    {
+      "original": "Курсом на Білгород-Дністровський.",
+      "timestamp": "2025-12-12T23:30:43.433541Z"
+    },
+    {
+      "original": "🚀\nКР курсом на Сарату.",
+      "timestamp": "2025-12-12T23:30:43.433545Z"
+    },
+    {
+      "original": "🚀\nГрупа крилатих ракет на Миколаївщині курсом на Одещину.",
+      "timestamp": "2025-12-12T23:30:43.433549Z"
+    },
+    {
+      "original": "🚀\nГрупа КР на Одещині курсом на Ананьїв.",
+      "timestamp": "2025-12-12T23:30:43.433554Z"
+    },
+    {
+      "original": "🚀\nНова група КР з Херсонщини на Миколаївщину.",
+      "timestamp": "2025-12-12T23:30:43.433558Z"
+    },
+    {
+      "original": "🚀\nКР курсом на Сарату.",
+      "timestamp": "2025-12-12T23:30:43.433562Z"
+    },
+    {
+      "original": "КР курсом на Арциз.",
+      "timestamp": "2025-12-12T23:30:43.433565Z"
+    },
+    {
+      "original": "☄️\n Загроза застосування балістики з півдня!",
+      "timestamp": "2025-12-12T23:30:43.433570Z"
+    },
+    {
+      "original": "🚀\nНова група КР з Херсонщини на Миколаївщину.",
+      "timestamp": "2025-12-12T23:30:43.433575Z"
+    },
+    {
+      "original": "Група КР зі сходу курсом на Миколаїв.",
+      "timestamp": "2025-12-12T23:30:43.433579Z"
+    },
+    {
+      "original": "Група КР з Миколаївщини на Кіровоградщину.",
+      "timestamp": "2025-12-12T23:30:43.433582Z"
+    },
+    {
+      "original": "☄️\n Загроза застосування балістики з півдня!",
+      "timestamp": "2025-12-12T23:30:43.433587Z"
+    },
+    {
+      "original": "Швидкісна ціль на Одесу!",
+      "timestamp": "2025-12-12T23:30:43.433590Z"
     },
     {
       "original": "Overnight, around 8 Russian Geran-2 drones attacked energy infrastructure in Odesa City.\nThe target was likely the \"Centrolit\" 220 kV electrical substation (46.61796, 30.82342). A large fire subsequently broke out, resulting in power outages for parts of northern Odesa.",
-      "timestamp": "2025-12-12T23:14:37.518267Z"
+      "timestamp": "2025-12-12T23:30:44.188032Z"
     },
     {
       "original": "Overnight, around 8 Russian Geran-2 drones attacked energy infrastructure in Odesa City.\nThe target was likely the \"Centrolit\" 220 kV electrical substation (46.61796, 30.82342). A large fire subsequently broke out, resulting in power outages for parts of northern Odesa.",
-      "timestamp": "2025-12-12T23:14:37.518279Z"
+      "timestamp": "2025-12-12T23:30:44.188045Z"
     },
     {
       "original": "Over the last few days, the defence of Siversk has completely collapsed. \nA fortress city that the Russians couldn't reach for nearly 4 years is about to be captured after just a week of fighting.\nIf this isn't a sign of how bad Ukraine's manpower shortages have got, I don't know what is.",
-      "timestamp": "2025-12-12T23:14:37.518285Z"
+      "timestamp": "2025-12-12T23:30:44.188050Z"
     },
     {
       "original": "🇹🇭\n🇰🇭\n⚡\n- Cambodian forces also launched a counterattack in the village of Trakoun, Poi Pet direction.\nFootage shows Cambodian troops crossing a recently planted Thai barbed wire point, as well as taking down the Thai flag, replacing it with a Cambodian one. Most of the village is under Cambodian control.",
-      "timestamp": "2025-12-12T23:14:37.518293Z"
+      "timestamp": "2025-12-12T23:30:44.188058Z"
     },
     {
       "original": "🇹🇭\n🇰🇭\n⚡\n- Cambodian forces also launched a counterattack in the village of Trakoun, Poi Pet direction.\nFootage shows Cambodian troops crossing a recently planted Thai barbed wire point, as well as taking down the Thai flag, replacing it with a Cambodian one. Most of the village is under Cambodian control.",
-      "timestamp": "2025-12-12T23:14:37.518300Z"
+      "timestamp": "2025-12-12T23:30:44.188064Z"
     },
     {
       "original": "The last Ukrainian defences in the besieged city of Myrnohrad are being breached by Russian forces, who have now entered the city centre. \nThe parts of the pocket still under firm Ukrainian control have decreased to around 2.8 km², compared to ~36 km² at the beginning of the siege. \nNevertheless, Russian FAB glide-bombs continue to strike the remaining blocks still under Ukrainian control. This video shows a FAB-1500 strike on a high-rise apartment building.",
-      "timestamp": "2025-12-12T23:14:37.518306Z"
+      "timestamp": "2025-12-12T23:30:44.188069Z"
     },
     {
       "original": "Iskander launch from Taganrog, Rostov Oblast",
-      "timestamp": "2025-12-12T23:14:37.518309Z"
+      "timestamp": "2025-12-12T23:30:44.188073Z"
     },
     {
       "original": "Iskander launch from Taganrog, Rostov Oblast",
-      "timestamp": "2025-12-12T23:14:37.518312Z"
+      "timestamp": "2025-12-12T23:30:44.188076Z"
     },
     {
       "original": "No missiles have been detected in Ukrainian airspace. Possibly the work of Russian air defence.",
-      "timestamp": "2025-12-12T23:14:37.518316Z"
+      "timestamp": "2025-12-12T23:30:44.188079Z"
     },
     {
       "original": "Russian forces have captured the village of Synkivka, Kupyansk direction, Kharkiv Oblast.\nPre-war population: ~389.\nTotal land area: ~1.64 km².\nThe fighting for Synkivka lasted approximately 2 years, 5 months.",
-      "timestamp": "2025-12-12T23:14:37.518321Z"
+      "timestamp": "2025-12-12T23:30:44.188084Z"
     },
     {
       "original": "Russian forces have captured the village of Lyman, Bilyi Kolodyaz direction, Kharkiv Oblast.\nPre-war population: ~542.\nTotal land area: ~1.93 km².\nThe fighting for Lyman lasted approximately 16 days.",
-      "timestamp": "2025-12-12T23:14:37.518327Z"
+      "timestamp": "2025-12-12T23:30:44.188090Z"
     },
     {
       "original": "1 Tu-95MS strategic bomber just carried out a launch maneuver over Penza Oblast while redeploying from Olenya Airbase to Engels-2 Airbase.",
-      "timestamp": "2025-12-12T23:14:37.518330Z"
+      "timestamp": "2025-12-12T23:30:44.188093Z"
     },
     {
       "original": "Iskander threat from Bryansk Oblast",
-      "timestamp": "2025-12-12T23:14:37.518337Z"
+      "timestamp": "2025-12-12T23:30:44.188096Z"
     },
     {
       "original": "1 Tu-95MS strategic bomber just carried out a launch maneuver over Penza Oblast while redeploying from Olenya Airbase to Engels-2 Airbase.",
-      "timestamp": "2025-12-12T23:14:37.518340Z"
+      "timestamp": "2025-12-12T23:30:44.188099Z"
     },
     {
       "original": "The launch maneuvers were carried out 10 minutes ago.\nIf they were real, Kh-101 cruise missiles should enter Ukrainian airspace in the next 40 minutes.\nRemember, last time there was a missile attack, additional launches were carried out at around this time.",
-      "timestamp": "2025-12-12T23:14:37.518345Z"
+      "timestamp": "2025-12-12T23:30:44.188107Z"
     },
     {
       "original": "I wrote about this during the previous attack, and I am doing it again now because its become clear. In recent strikes, Russia has clearly changed its tactics for carrying out large scale missile attacks on Ukraine involving Tu-95MS/Tu-160M strategic bombers. \nFor the past 3 to 4 years, Olenya Air Base served as the main base for combat flights, with bombers taking off from there ahead of any strike. Dyagilevo and Engels 2 were also used in combat strikes.\nNow the pattern has changed. Bombers take off directly from the Far East already ready for combat and fly towards launch zones in western Russia, where they launch cruise missiles at Ukraine. After that, the aircraft land at Engels 2 to refuel and rearm before returning to the Far East.",
-      "timestamp": "2025-12-12T23:14:37.518350Z"
+      "timestamp": "2025-12-12T23:30:44.188112Z"
     },
     {
       "original": "Unidentified missile in Sumy Oblast",
-      "timestamp": "2025-12-12T23:14:37.518353Z"
+      "timestamp": "2025-12-12T23:30:44.188116Z"
     },
     {
       "original": "Unidentified missile in Sumy Oblast",
-      "timestamp": "2025-12-12T23:14:37.518356Z"
+      "timestamp": "2025-12-12T23:30:44.188119Z"
     },
     {
       "original": "Flying to Poltava on a ballistic trajectory. Could be EW.",
-      "timestamp": "2025-12-12T23:14:37.518359Z"
+      "timestamp": "2025-12-12T23:30:44.188122Z"
     },
     {
       "original": "Flying to Poltava on a ballistic trajectory. Could be EW.",
-      "timestamp": "2025-12-12T23:14:37.518362Z"
+      "timestamp": "2025-12-12T23:30:44.188125Z"
     },
     {
       "original": "Disappeared",
-      "timestamp": "2025-12-12T23:14:37.518365Z"
+      "timestamp": "2025-12-12T23:30:44.188128Z"
     },
     {
       "original": "Disappeared",
-      "timestamp": "2025-12-12T23:14:37.518368Z"
+      "timestamp": "2025-12-12T23:30:44.188133Z"
     },
     {
       "original": "This was Russian S-300/400 air defence targeting Ukrainian fighter jets",
-      "timestamp": "2025-12-12T23:14:37.518371Z"
+      "timestamp": "2025-12-12T23:30:44.188138Z"
     },
     {
       "original": "I wrote about this during the previous attack, and I am doing it again now because its become clear. In recent strikes, Russia has clearly changed its tactics for carrying out large scale missile attacks on Ukraine involving Tu-95MS/Tu-160M strategic bombers.…",
-      "timestamp": "2025-12-12T23:14:37.518374Z"
+      "timestamp": "2025-12-12T23:30:44.188141Z"
     },
     {
       "original": "No missiles have been detected in Ukrainian airspace. The launch maneuvers were simulated with electronic warfare.",
-      "timestamp": "2025-12-12T23:14:37.518377Z"
+      "timestamp": "2025-12-12T23:30:44.188144Z"
     },
     {
       "original": "I'm aware of Deepstate's update on Kupyansk, and quite frankly I don't care.\nThose who map UKRAINIAN advances based off a UKRAINIAN source who is under constant pressure from the SBU are naive at best, and propagandists at worst.\nI'm not saying this map isn't correct, as the situation is indeed critical for Russian forces in the city, but we will need a lot more to say for certain that this is true.",
-      "timestamp": "2025-12-12T23:14:37.518382Z"
+      "timestamp": "2025-12-12T23:30:44.188149Z"
     },
     {
       "original": "Alawites’ General Strike Enters Final Day Amid Rising Tensions With Syrian Government (Videos)\nA general strike by the Alawite community on the Syrian coast and nearby areas entered its fifth and final day on December 12, amid rising tensions with the country’s Islamist-led Interim Government.\nThe strike began on December 8, the first anniversary of the fall of the regime of former President Bashar al-Assad, a member of the community himself.\nIt was called by Sheikh Ghazal Ghazal, head of the Supreme Islamic Alawite Council in Syria and Abroad, who denounced attempts by the government to force Alawites to celebrate the occasion despite facing discrimination and violence since the fall of the Assad regime.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220007Z"
+      "timestamp": "2025-12-12T23:30:44.774614Z"
     },
     {
       "original": "Alawites’ General Strike Enters Final Day Amid Rising Tensions With Syrian Government (Videos)\nA general strike by the Alawite community on the Syrian coast and nearby areas entered its fifth and final day on December 12, amid rising tensions with the country’s Islamist-led Interim Government.\nThe strike began on December 8, the first anniversary of the fall of the regime of former President Bashar al-Assad, a member of the community himself.\nIt was called by Sheikh Ghazal Ghazal, head of the Supreme Islamic Alawite Council in Syria and Abroad, who denounced attempts by the government to force Alawites to celebrate the occasion despite facing discrimination and violence since the fall of the Assad regime.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220025Z"
+      "timestamp": "2025-12-12T23:30:44.774632Z"
     },
     {
       "original": "Russia-Ukraine Strikes: Substations Down, Cargo Ship Hit, Oil Refinery Fire\nOn the night of December 11-12, Russia and Ukraine conducted another exchange of strikes. Russian forces launched 80 attack UAVs against Ukraine, while Ukrainian forces struck targets in Russia. According to official reports, Russian air defense destroyed 90 drones during the latter attack. Russia's main strike was focused on energy infrastructure, particularly in the Odesa region and the city of Pavlohrad. Ukrainian drones struck a major Yaroslavl oil refinery—causing a fire—and targeted a residential building in Tver.\nIn Odesa, two substations were hit—one in the Kotovsky district and one in Cheremushky—leading to a partial power outage in the city. Additionally, a Turkish cargo ship in the port of Chornomorsk (Odesa region) was damaged. According to some reports, the vessel was transporting military cargo.\nRead more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220035Z"
+      "timestamp": "2025-12-12T23:30:44.774640Z"
     },
     {
       "original": "Russia-Ukraine Strikes: Substations Down, Cargo Ship Hit, Oil Refinery Fire\nOn the night of December 11-12, Russia and Ukraine conducted another exchange of strikes. Russian forces launched 80 attack UAVs against Ukraine, while Ukrainian forces struck targets in Russia. According to official reports, Russian air defense destroyed 90 drones during the latter attack. Russia's main strike was focused on energy infrastructure, particularly in the Odesa region and the city of Pavlohrad. Ukrainian drones struck a major Yaroslavl oil refinery—causing a fire—and targeted a residential building in Tver.\nIn Odesa, two substations were hit—one in the Kotovsky district and one in Cheremushky—leading to a partial power outage in the city. Additionally, a Turkish cargo ship in the port of Chornomorsk (Odesa region) was damaged. According to some reports, the vessel was transporting military cargo.\nRead more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220043Z"
+      "timestamp": "2025-12-12T23:30:44.774647Z"
     },
     {
       "original": "Russian Army Has Already Secured Third Of Huliaipole (Videos)\nOn December 12, the Russian military expanded its control in Huliaipole in Zaporozhye, securing at least a third of the key city.\nThe Vostok [East] Group of Forces stormed the eastern and northeastern parts of the city, taking control of Peschanya Street, after crossing the Haichur River a day earlier. Within 24 hours, Russian troops managed to reach the Specialized School at the city center after capturing large parts of Mira, Velyka and Urozhaina streets.\nCurrently 30% of Huliaipole is under Russian control. Around 2,4 square kilometers within the city have been captured, according to preliminary reports.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220053Z"
+      "timestamp": "2025-12-12T23:30:44.774656Z"
     },
     {
       "original": "Russian Army Has Already Secured Third Of Huliaipole (Videos)\nOn December 12, the Russian military expanded its control in Huliaipole in Zaporozhye, securing at least a third of the key city.\nThe Vostok [East] Group of Forces stormed the eastern and northeastern parts of the city, taking control of Peschanya Street, after crossing the Haichur River a day earlier. Within 24 hours, Russian troops managed to reach the Specialized School at the city center after capturing large parts of Mira, Velyka and Urozhaina streets.\nCurrently 30% of Huliaipole is under Russian control. Around 2,4 square kilometers within the city have been captured, according to preliminary reports.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220063Z"
+      "timestamp": "2025-12-12T23:30:44.774665Z"
     },
     {
       "original": "Kyiv’s High-Stakes Strategy: Rumors of a “Dirty Bomb” Resurface\nNew details have emerged about Kiev's secret activities. Why were spent nuclear fuel and protective equipment delivered to Ukraine? Senior Ukrainian officials are involved in preparations for a monstrous provocation.\nRecently, the operational situation on the Ukrainian front has not favored Kiev. The army is suffering setbacks on key sections of the front, and human reserves are dwindling daily. Massive Russian drone strikes are destroying the rear infrastructure daily. Explosions can be heard at night in most regions of Ukraine. The difficult economic situation could become critical if the European Union stops providing sufficient subsidies.\nThe world community is no longer shocked by the current fighting in Ukraine as it was in 2022. The media's impact is waning. Many now view the Ukrainian people's role as martyrs, led by the indomitable President Volodymyr Zelensky, with irony. \n👉\n Read more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220073Z"
+      "timestamp": "2025-12-12T23:30:44.774674Z"
     },
     {
       "original": "NORTHERN FRONT UNRAVELS: KYIV'S LAST RESERVES FAIL TO HALT RUSSIAN ADVANCE",
-      "timestamp": "2025-12-12T23:14:38.220077Z"
+      "timestamp": "2025-12-12T23:30:44.774678Z"
     },
     {
       "original": "Breakthrough In Huliaipole: Russian Army Bypasses Ukraine's Defenses \nRussian assault groups crossed the Haichur River from the «Bochany» district and advanced into Huliaipole's central quarters. Russian units established control over Yunakivka in Sumy. \nThe European Union has decided to freeze Russian assets on its territory indefinitely.\nRead more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220085Z"
+      "timestamp": "2025-12-12T23:30:44.774685Z"
     },
     {
       "original": "Breakthrough In Huliaipole: Russian Army Bypasses Ukraine's Defenses \nRussian assault groups crossed the Haichur River from the «Bochany» district and advanced into Huliaipole's central quarters. Russian units established control over Yunakivka in Sumy. \nThe European Union has decided to freeze Russian assets on its territory indefinitely.\nRead more \nHERE",
-      "timestamp": "2025-12-12T23:14:38.220093Z"
+      "timestamp": "2025-12-12T23:30:44.774692Z"
     }
   ],
-  "script_run_time": "2025-12-12T23:14:38.220944Z"
+  "script_run_time": "2025-12-12T23:30:44.775545Z"
 }
