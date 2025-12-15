@@ -1,225 +1,229 @@
 {
   "messages": [
     {
-      "original": "🛸\n \n🛵\n Ворожий БпЛА на півночі Харківщини, курс - південний. Залучено засоби для збиття.",
-      "timestamp": "2025-12-15T19:35:26.294093Z"
-    },
-    {
       "original": "🛸\n \n🛵\n БпЛА на Чернігівщині в напрямку на/повз Мену з північного сходу. Можлива робота ППО.",
-      "timestamp": "2025-12-15T19:35:26.294111Z"
+      "timestamp": "2025-12-15T19:44:08.076978Z"
     },
     {
       "original": "🛸\n \n🛵\n БпЛА на Чернігівщині в напрямку на/повз Ніжин з північного сходу. Залучено засоби для збиття.",
-      "timestamp": "2025-12-15T19:35:26.294119Z"
+      "timestamp": "2025-12-15T19:44:08.076998Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА на Сумщині в напрямку на/повз н.п.Шостка з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294125Z"
+      "timestamp": "2025-12-15T19:44:08.077004Z"
     },
     {
       "original": "🛵\n Одещина: БпЛА із акваторії Чорного моря \n➡️\n у напрямку Затоки.",
-      "timestamp": "2025-12-15T19:35:26.294131Z"
+      "timestamp": "2025-12-15T19:44:08.077011Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на південно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-12-15T19:35:26.294139Z"
+      "timestamp": "2025-12-15T19:44:08.077019Z"
     },
     {
       "original": "🛸\n БпЛА, ймовірно, розвідувальний, на Херсонщині. Залучено засоби для збиття.",
-      "timestamp": "2025-12-15T19:35:26.294144Z"
+      "timestamp": "2025-12-15T19:44:08.077024Z"
     },
     {
       "original": "🚀\nПуски КАБ на межі Донецької, Дніпропетровської та Запорізької областей.",
-      "timestamp": "2025-12-15T19:35:26.294149Z"
+      "timestamp": "2025-12-15T19:44:08.077029Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА в напрямку Сум з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294155Z"
+      "timestamp": "2025-12-15T19:44:08.077034Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА на північному заході Харківщини, курс - південно-східний/південно-західний.",
-      "timestamp": "2025-12-15T19:35:26.294160Z"
+      "timestamp": "2025-12-15T19:44:08.077040Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2025-12-15T19:35:26.294168Z"
+      "timestamp": "2025-12-15T19:44:08.077052Z"
     },
     {
       "original": "🛵\n БпЛА на Сумщині в напрямку на/повз н.п.Тростянець/н.п.Охтирка з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294173Z"
+      "timestamp": "2025-12-15T19:44:08.077056Z"
     },
     {
       "original": "🚀\nПуски КАБ на Харківщину з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294177Z"
+      "timestamp": "2025-12-15T19:44:08.077061Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному напрямку!",
-      "timestamp": "2025-12-15T19:35:26.294184Z"
+      "timestamp": "2025-12-15T19:44:08.077067Z"
     },
     {
       "original": "🚀\nПуски КАБ на Харківщину зі сходу.",
-      "timestamp": "2025-12-15T19:35:26.294188Z"
+      "timestamp": "2025-12-15T19:44:08.077072Z"
     },
     {
       "original": "🛵\n БпЛА на Сумщині в напрямку на/повз н.п.Тростянець/н.п.Охтирка з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294193Z"
+      "timestamp": "2025-12-15T19:44:08.077076Z"
     },
     {
       "original": "🛵\n БпЛА на Сумщині курсом на Полтавщину (вектор - н.п.Котельва).",
-      "timestamp": "2025-12-15T19:35:26.294197Z"
+      "timestamp": "2025-12-15T19:44:08.077083Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2025-12-15T19:35:26.294201Z"
+      "timestamp": "2025-12-15T19:44:08.077088Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА на Харківщині в напрямку на/повз н.п.Вільшани/Старий Мерчик з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294210Z"
+      "timestamp": "2025-12-15T19:44:08.077095Z"
     },
     {
       "original": "🛵\n Одещина: БпЛА із акваторії Чорного моря \n➡️\n у напрямку Затоки.",
-      "timestamp": "2025-12-15T19:35:26.294216Z"
+      "timestamp": "2025-12-15T19:44:08.077101Z"
     },
     {
       "original": "🛵\n Харківщина: БпЛА в напрямку на/повз н.п.Мерефа з північного заходу;\n🛵\n Полтавщина: БпЛА в напрямку на/повз н.п.Карлівка/Машівка з півночі.",
-      "timestamp": "2025-12-15T19:35:26.294222Z"
+      "timestamp": "2025-12-15T19:44:08.077107Z"
     },
     {
       "original": "🚀\nПовторні пуски КАБ на Донеччину.",
-      "timestamp": "2025-12-15T19:35:26.294226Z"
+      "timestamp": "2025-12-15T19:44:08.077112Z"
+    },
+    {
+      "original": "🛵\n Харківщина: БпЛА в напрямку на/повз н.п.Мерефа з північного заходу; \n🛵\n Полтавщина: БпЛА в напрямку на/повз н.п.Карлівка/Машівка з півночі.",
+      "timestamp": "2025-12-15T19:44:08.077118Z"
+    },
+    {
+      "original": "🛵\n Харківщина: БпЛА в напрямку на/повз н.п.Златопіль з північного заходу;\n🛵\n Полтавщина: БпЛА в напрямку на/повз н.п.Карлівка/Машівка, н.п. Скороходове з півночі.",
+      "timestamp": "2025-12-15T19:44:08.077124Z"
     },
     {
       "original": "Explosions in Zaporizhzhia. These are the second strikes so far.",
-      "timestamp": "2025-12-15T19:35:27.133057Z"
+      "timestamp": "2025-12-15T19:44:08.918022Z"
     },
     {
       "original": "KABs are being launched from the area of Molochansk and Kalynivka from Su-34s at medium altitudes, flying along the vectors shown on the map. \nImpacts are recorded in Rozumivka/Nyzhnya Khortytsya, just outside Zaporizhzhia City.",
-      "timestamp": "2025-12-15T19:35:27.133072Z"
+      "timestamp": "2025-12-15T19:44:08.918036Z"
     },
     {
       "original": "Russian forces have crossed the Haichur River northwest of Hulyaipole and entered the treelines on its western bank, officially marking the start of the battles for Zaporizhzhia Raion (District).\nZaporizhzhia Raion was the second to last non-contested district in the 4 Oblasts claimed by Russia, and the last district that Russia never entered in the first place. Now only Beryslav Raion in Kherson Oblast remains.",
-      "timestamp": "2025-12-15T19:35:27.133078Z"
+      "timestamp": "2025-12-15T19:44:08.918042Z"
     },
     {
       "original": "Russian forces have crossed the Haichur River northwest of Hulyaipole and entered the treelines on its western bank, officially marking the start of the battles for Zaporizhzhia Raion (District).\nZaporizhzhia Raion was the second to last non-contested district in the 4 Oblasts claimed by Russia, and the last district that Russia never entered in the first place. Now only Beryslav Raion in Kherson Oblast remains.",
-      "timestamp": "2025-12-15T19:35:27.133082Z"
+      "timestamp": "2025-12-15T19:44:08.918047Z"
     },
     {
       "original": "Horrible events happening in Sydney... reminds me of March 15 in Christchurch. Praying for you guys just across the water.",
-      "timestamp": "2025-12-15T19:35:27.133086Z"
+      "timestamp": "2025-12-15T19:44:08.918050Z"
     },
     {
       "original": "Sick fucks who celebrate this do not care about Palestinian people. Just like with \"pro-Ukraine\" crowd who simply want Russians dead, these fucks just want jews dead. Scum of the earth",
-      "timestamp": "2025-12-15T19:35:27.133089Z"
+      "timestamp": "2025-12-15T19:44:08.918054Z"
     },
     {
       "original": "The air raid alerts in Odesa Oblast have been ongoing for over 10 hours. \nThis is the third consecutive day of large-scale attacks on energy, gas, and port infrastructure, as well as on other targets in the region.",
-      "timestamp": "2025-12-15T19:35:27.133093Z"
+      "timestamp": "2025-12-15T19:44:08.918058Z"
     },
     {
       "original": "Ukrainian HIMARS rockets have once again targeted the Belgorod Power Plant in Belgorod City. A large fire was seen burning following the impacts.\nCoordinates: 50.59935, 36.61694",
-      "timestamp": "2025-12-15T19:35:27.133098Z"
+      "timestamp": "2025-12-15T19:44:08.918062Z"
     },
     {
       "original": "Ukrainian HIMARS rockets have once again targeted the Belgorod Power Plant in Belgorod City. A large fire was seen burning following the impacts.\nCoordinates: 50.59935, 36.61694",
-      "timestamp": "2025-12-15T19:35:27.133102Z"
+      "timestamp": "2025-12-15T19:44:08.918066Z"
     },
     {
       "original": "Overnight, Russian Geran-2 drones once again attacked targets in Dnipropetrovsk Oblast.\nAt least 12 Gerans targeted the railway junction in the city of Pyatykhatky (48.41386, 33.69432). Media 2 shows some of the damage from the blast waves. \nAt least 10 Gerans struck an unknown target in the village of Khoroshe.\nAt least 4 Gerans targeted the \"Svitlo Shakhtarya\" 150 kV electrical substation at the Stepnaya Mine near the city of Shakhtarske (48.37662, 36.36671). Media 1 shows one of the impacts and media 3 shows a fire burning afterwards.",
-      "timestamp": "2025-12-15T19:35:27.133108Z"
+      "timestamp": "2025-12-15T19:44:08.918072Z"
     },
     {
       "original": "Overnight, Russian Geran-2 drones once again attacked targets in Dnipropetrovsk Oblast.\nAt least 12 Gerans targeted the railway junction in the city of Pyatykhatky (48.41386, 33.69432). Media 2 shows some of the damage from the blast waves. \nAt least 10 Gerans struck an unknown target in the village of Khoroshe.\nAt least 4 Gerans targeted the \"Svitlo Shakhtarya\" 150 kV electrical substation at the Stepnaya Mine near the city of Shakhtarske (48.37662, 36.36671). Media 1 shows one of the impacts and media 3 shows a fire burning afterwards.",
-      "timestamp": "2025-12-15T19:35:27.133114Z"
+      "timestamp": "2025-12-15T19:44:08.918078Z"
     },
     {
       "original": "Currently live with \nHagueFugitive\n and \nHudson War Mapping\n. Come join! \nhttps://www.youtube.com/watch?v=YnlMQJetDDc",
-      "timestamp": "2025-12-15T19:35:27.133125Z"
+      "timestamp": "2025-12-15T19:44:08.918085Z"
     },
     {
       "original": "In the Dobropillya direction, Russian forces continued to advance, making more progress in and around Myrnohrad.\nIn the southeast, Russian forces continued advancing north towards Myrnohrad city centre and captured the rest of the 3-story buildings. Fighting is now ongoing for the City Central Hospital and the adjacent row of apartment buildings. Russian forces also advanced further northwest and linked up with assault groups in the northwestern streets of the city, while other forces cleared the remaining pockets of Ukrainian resistance in the treelines to the southwest. Additionally, the Russians reached the city centre from the east, advancing from the area of the paintball field to the stadium, capturing additional low-rise residential areas there.\nTo the northwest, Russian forces continued advancing east through Svitle and have captured most of the rest of the village. They also managed to consolidate in the former Novator Mine, fully securing the northern outskirts of Myrnohrad.\nTo the west, Russian forces continued their assault operations north of Pokrovsk and captured new positions in two different treelines, including one along the road to Hryshyne. \n+ ~6.86 km² in favour of Russia.",
-      "timestamp": "2025-12-15T19:35:27.133132Z"
+      "timestamp": "2025-12-15T19:44:08.918095Z"
     },
     {
       "original": "Russia is currently completing its preparations for the next large-scale, combined missile and drone attack on Ukraine. \n- At least 3 Tu-95MS strategic bombers are redeploying from Ukrainka Airbase, Amur Oblast, to Engels-2 Airbase, Saratov Oblast after being equipped with Kh-101 cruise missiles.\n- 1 Tu-95MS has been equipped with Kh-101 missiles at Engels-2 Airbase.\n- 3 Tu-160 strategic bombers have been equipped with Kh-101 missiles at Ukrainka Airbase. They will likely take part in the attack by flying from the far east to the launch lines.\n- 4-6 MiG-31K fighters have been equipped with Kinzhal hypersonic aeroballistic missiles at Savasleika Airbase, Nizhny Novgorod Oblast.\n- Iskander-M ballistic missiles have been delivered to OTRK installations in Kursk Oblast, Bryansk Oblast, Voronezh Oblast, and Rostov Oblast.\n- Iskander-K cruise missiles have been delivered to OTRK installations in Kursk Oblast and Voronezh Oblast.\n- Accumulation of Geran-2 and Gerbera drones has been ongoing at all major launch points surrounding Ukraine, with more than 500 ready for use.\n- There is no confirmed information about the possible usage of Kalibrs during this upcoming attack, however this is not ruled out.\nThe highest threat is for the night/morning of Tuesday/Wednesday; however, it could take place at any of the next 3 nights/mornings, including tonight. \nEnergy infrastructure in the western regions (especially Ivano-Frankivsk and Lviv Oblasts) and Kyiv Oblast are the most likely targets.",
-      "timestamp": "2025-12-15T19:35:27.133143Z"
+      "timestamp": "2025-12-15T19:44:08.918106Z"
     },
     {
       "original": "Russia is currently completing its preparations for the next large-scale, combined missile and drone attack on Ukraine.   - At least 3 Tu-95MS strategic bombers are redeploying from Ukrainka Airbase, Amur Oblast, to Engels-2 Airbase, Saratov Oblast after being…",
-      "timestamp": "2025-12-15T19:35:27.133147Z"
+      "timestamp": "2025-12-15T19:44:08.918110Z"
     },
     {
       "original": "* This is not a complete list of activity. Changes will be made, some things listed here may be being prepared for something else. This is meant to serve as a minimum for current, confirmed activity.",
-      "timestamp": "2025-12-15T19:35:27.133150Z"
+      "timestamp": "2025-12-15T19:44:08.918113Z"
     },
     {
       "original": "Deepstate has officially joined the linear warfare bros. \nPressure from the SBU must be high.",
-      "timestamp": "2025-12-15T19:35:27.133154Z"
+      "timestamp": "2025-12-15T19:44:08.918117Z"
     },
     {
       "original": "6 Grom-E1 rocket-powered glide-bombs and at least 18 Geran-2 drones targeted the Zatoka Bridge in Odesa Oblast. All of the glide-bombs and most of the drones impacted.  Coordinates: 46.07611, 30.46972",
-      "timestamp": "2025-12-15T19:35:27.133157Z"
+      "timestamp": "2025-12-15T19:44:08.918122Z"
     },
     {
       "original": "Footage showing yesterday's combined glide-bomb and Geran-2 drone attack on the Zatoka railway and road bridge in Odesa Oblast.\nThis bridge is the only connector in Ukraine between southern Odesa Oblast and the rest of the country.",
-      "timestamp": "2025-12-15T19:35:27.133161Z"
+      "timestamp": "2025-12-15T19:44:08.918126Z"
     },
     {
       "original": "In the Rai-Oleksandrivka direction, Russian forces continued to advance in several different areas, exploiting the fall of Siversk to make additional progress. \nIn the southeast, following the fall of Siversk and the withdrawal of Ukrainian formations from positions northwest of the city, Russian forces began a two-axis push further west along the tactical heights. They were able to quickly capture the remaining positions north of the Siversk - Lyman highway and began advancing south down the treelines to the rear of the chalk quarry. \nOther forces advanced directly west from Siversk, capturing the trenches just outside the city and quickly entering the chalk quarry from the east. Ukrainian units continued to withdraw further west, while covering Siversk itself with FPV drones in an attempt to disrupt Russian logistics and slow their advance. Since then, the Russians have continued to push west along the tactical heights and occupied new positions in the forest plantations and treelines further west, almost levelling the frontline between Platonivka and Sviato-Pokrovske. Additionally, they were able to complete the capture of Sviato-Pokrovske - establishing control over its western outskirts - and are now engaged in battles for the eastern outskirts of Riznykivka.\nTo the northwest, Russian forces advanced from the strongpoints along the highway and entered the first houses of Ozerne, capturing its northern street. Further west, other forces broke through to the northern bank of the Siverskyi Donets River and entrenched in the northwestern-most houses of Ozerne. \nIn the northwest, Russian forces continued to expand their zone of control in Dibrova and managed to fully capture the eastern half of the village. Other forces continued slowly advancing through the forests to the north, capturing additional positions southwest and west of the lakes.\n+ ~15.43 km² in favour of Russia.",
-      "timestamp": "2025-12-15T19:35:27.133169Z"
+      "timestamp": "2025-12-15T19:44:08.918134Z"
     },
     {
       "original": "In the Rai-Oleksandrivka direction and on the northeastern flank of Kostyantynivka, Russian forces continued their intensified assault operations and have made significant progress over the past week.\nIn the southwest, following their earlier infiltrations, Russian forces managed to consolidate in the treelines north of Virolyubivka and in the forest on the eastern bank of the reservoir east of Klynove. They then entered Virolyubivka and established control over the northern part of the village. Additionally, under heavy artillery and MLRS cover, Russian forces began a new push north from Maiske in the direction of Markove - Fedorivka, and managed to consolidate in new treeline positions north of Maiske and the forest to the northwest. Some soldiers have infiltrated further, entering the western houses of Markove and reaching the forest plantations to the west.\nIn the northeast, Russian forces began advancing southwest from Vasyukivka. They captured new positions in five different treelines and some adjacent forested areas and are threatening to cut off some of the last remaining 2023 fortifications in this sector.  Additionally, the Russians managed to eliminate part of the salient north of Vasyukivka, consolidating in the trenches there, and began a new push further north. There, theyy were able to capture the village of Pazeno and advanced up two treelines, reaching and establishing control over a large part of the forest to the north.\n+ ~20.81 km² in favour of Russia.",
-      "timestamp": "2025-12-15T19:35:27.133174Z"
+      "timestamp": "2025-12-15T19:44:08.918139Z"
     },
     {
       "original": "Chinese Tanks And Guided Missiles Make Strong Appearance In Thai-Cambodian Conflict (Photos)\nThailand has captured advanced Chinese-made anti-tank guided missiles (ATGM) from Cambodia, according to photos that appeared online on December 14, a day after it became known that a Chinese-made main battle tank of the Thai military was damaged by Cambodian fire during the ongoing border clashes between the two countries.\nDozens of people were killed in a five-day battle in July part of a long-standing conflict rooted in the colonial-era demarcation of the countries’ 800-kilometre frontier. The battle ended back then with a ceasefire mediated by Malaysia with help from the United States.\nFighting along the disputed border resumed on December 9, with reports suggesting that at least 28 people, including soldiers and civilians, have been killed, so far.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956604Z"
+      "timestamp": "2025-12-15T19:44:09.712895Z"
     },
     {
       "original": "Chinese Tanks And Guided Missiles Make Strong Appearance In Thai-Cambodian Conflict (Photos)\nThailand has captured advanced Chinese-made anti-tank guided missiles (ATGM) from Cambodia, according to photos that appeared online on December 14, a day after it became known that a Chinese-made main battle tank of the Thai military was damaged by Cambodian fire during the ongoing border clashes between the two countries.\nDozens of people were killed in a five-day battle in July part of a long-standing conflict rooted in the colonial-era demarcation of the countries’ 800-kilometre frontier. The battle ended back then with a ceasefire mediated by Malaysia with help from the United States.\nFighting along the disputed border resumed on December 9, with reports suggesting that at least 28 people, including soldiers and civilians, have been killed, so far.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956622Z"
+      "timestamp": "2025-12-15T19:44:09.712914Z"
     },
     {
       "original": "Military Situation In Syria On December 15, 2025 (Map Update)",
-      "timestamp": "2025-12-15T19:35:27.956627Z"
+      "timestamp": "2025-12-15T19:44:09.712919Z"
     },
     {
       "original": "Russia’s Molniya-2 Suicide Drone Spotted With Starlink Terminal\nA Russian Molniya-2 fixed-wing drone equipped with a Starlink satellite internet terminal has been spotted for the first time.\nUkrainian media shared a photo of the drone on December 15. The photo was apparently taken from the live feed of an interceptor that attempted to take down the drone. The Starlink terminal was installed on top of the drone, right before the tail section.\nThe Molniya-2 has been nicknamed “the AK-47 Kalashnikov of drones” due to its simplicity, affordability, and battlefield effectiveness.\nThe drone, which is powered by two electric engines, is made out of cheap materials like plywood, aluminum tubing and plastic. It can be used for reconnaissance. However, the drone is often used in suicide attacks. For such missions, it can carry a warhead weighing three to seven kilograms.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956637Z"
+      "timestamp": "2025-12-15T19:44:09.712929Z"
     },
     {
       "original": "Ukraine May Be Days Away From Catastrophic Defeat Along Haichur River (Videos)\nOn December 15, the Russian military expanded its control in the key city of Huliaipole and began clearing the left bank of the Haichur River to the north amid what appears to be a complete collapse of Kiev forces in this area between Dnepropetrovsk and Zaporozhye.\nAfter capturing Varvarivka, the last settlement on the right bank of the Haichur to the north of Huliaipole, then crossing the river a day earlier, the Vostok [East] Group of Forces established a bridgehead on the lift bank by capturing Peschanoye in Dnepropetrovsk.\nThe attack on the settlement was led by the 36th Guards Motorised Rifle Brigade of the 29th Army, according to the Russian Ministry of Defense.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956646Z"
+      "timestamp": "2025-12-15T19:44:09.712938Z"
     },
     {
       "original": "Ukraine May Be Days Away From Catastrophic Defeat Along Haichur River (Videos)\nOn December 15, the Russian military expanded its control in the key city of Huliaipole and began clearing the left bank of the Haichur River to the north amid what appears to be a complete collapse of Kiev forces in this area between Dnepropetrovsk and Zaporozhye.\nAfter capturing Varvarivka, the last settlement on the right bank of the Haichur to the north of Huliaipole, then crossing the river a day earlier, the Vostok [East] Group of Forces established a bridgehead on the lift bank by capturing Peschanoye in Dnepropetrovsk.\nThe attack on the settlement was led by the 36th Guards Motorised Rifle Brigade of the 29th Army, according to the Russian Ministry of Defense.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956655Z"
+      "timestamp": "2025-12-15T19:44:09.712948Z"
     },
     {
       "original": "Military Situation In Ukraine On December 15, 2025 (Maps Update)",
-      "timestamp": "2025-12-15T19:35:27.956662Z"
+      "timestamp": "2025-12-15T19:44:09.712952Z"
     },
     {
       "original": "Military Situation In Ukraine On December 15, 2025 (Maps Update)",
-      "timestamp": "2025-12-15T19:35:27.956667Z"
+      "timestamp": "2025-12-15T19:44:09.712956Z"
     },
     {
       "original": "Ukrainian Defenses Are Rapidly Collapsing West of Siversk (Videos)\nOn December 15, the Russian military expanded its control in the outskirts of the city of Siversk in Donetsk after defeating Kiev forces there.\nThe Yug [South] Group of Forces broke through Ukrainian defenses to the west of Siversk, securing a large area, more than 9,8 square kilometers in size, from Sviato-Pokrovske to the southwest of the city up to the T-05-13 road to the northwest of it.\nWeakened by the defeat in Siversk, Kiev forces withdrew from this area, which included a well-fortified chalk quarry, without putting up any real fight.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956676Z"
+      "timestamp": "2025-12-15T19:44:09.712966Z"
     },
     {
       "original": "Ukrainian Defenses Are Rapidly Collapsing West of Siversk (Videos)\nOn December 15, the Russian military expanded its control in the outskirts of the city of Siversk in Donetsk after defeating Kiev forces there.\nThe Yug [South] Group of Forces broke through Ukrainian defenses to the west of Siversk, securing a large area, more than 9,8 square kilometers in size, from Sviato-Pokrovske to the southwest of the city up to the T-05-13 road to the northwest of it.\nWeakened by the defeat in Siversk, Kiev forces withdrew from this area, which included a well-fortified chalk quarry, without putting up any real fight.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956685Z"
+      "timestamp": "2025-12-15T19:44:09.712975Z"
     },
     {
       "original": "Exchange of Strikes: Ukraine Faces Energy Collapse, Submarine Attacked in Novorossiysk\nOn December 14–15, Russia and Ukraine conducted another exchange of strikes. The Russian Ministry of Defense claimed to have shot down 130 Ukrainian drones, with the majority intercepted over the Astrakhan, Bryansk, and Moscow regions. Ukrainian forces announced attacks on Russian gas distribution and energy facilities, as well as striking a Russian submarine in Novorossiysk using maritime drones. In turn, the Ukrainian Air Force reported that out of 153 attack drones launched against Ukraine, 133 were intercepted and downed. The primary Russian strikes targeted energy infrastructure and railway hubs.\nThese sustained Russian attacks have left Ukraine's energy grid in critical condition, according to The Washington Post. Kyiv and the eastern regions are on the verge of a full-scale and potentially irreversible blackout. \n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956695Z"
+      "timestamp": "2025-12-15T19:44:09.712983Z"
     },
     {
       "original": "Exchange of Strikes: Ukraine Faces Energy Collapse, Submarine Attacked in Novorossiysk\nOn December 14–15, Russia and Ukraine conducted another exchange of strikes. The Russian Ministry of Defense claimed to have shot down 130 Ukrainian drones, with the majority intercepted over the Astrakhan, Bryansk, and Moscow regions. Ukrainian forces announced attacks on Russian gas distribution and energy facilities, as well as striking a Russian submarine in Novorossiysk using maritime drones. In turn, the Ukrainian Air Force reported that out of 153 attack drones launched against Ukraine, 133 were intercepted and downed. The primary Russian strikes targeted energy infrastructure and railway hubs.\nThese sustained Russian attacks have left Ukraine's energy grid in critical condition, according to The Washington Post. Kyiv and the eastern regions are on the verge of a full-scale and potentially irreversible blackout. \n👉\n Read more \nHERE",
-      "timestamp": "2025-12-15T19:35:27.956704Z"
+      "timestamp": "2025-12-15T19:44:09.712995Z"
     }
   ],
-  "script_run_time": "2025-12-15T19:35:27.957590Z"
+  "script_run_time": "2025-12-15T19:44:09.713926Z"
 }
