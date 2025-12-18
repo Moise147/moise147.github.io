@@ -1,249 +1,253 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА над Овідіополем (Одещина), курс - північний.",
-      "timestamp": "2025-12-18T15:13:03.120210Z"
-    },
-    {
-      "original": "🛵\n Дніпропетровщина: БпЛА на Дніпровський район зі сходу, півдня та заходу.",
-      "timestamp": "2025-12-18T15:13:03.120228Z"
-    },
-    {
       "original": "🛵\n Чернігівщина: БпЛА курсом на/повз Холми в південно-західному напрямку та Варву в напрямку Полтавщини.\n🛵\n БпЛА з Харківщини курсом на Дніпропетровщину.",
-      "timestamp": "2025-12-18T15:13:03.120236Z"
+      "timestamp": "2025-12-18T15:35:58.062792Z"
     },
     {
       "original": "🛵\n БпЛА в напрямку м.Дніпро з південного сходу та південного заходу.",
-      "timestamp": "2025-12-18T15:13:03.120242Z"
+      "timestamp": "2025-12-18T15:35:58.062809Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Полтавщини повз Пирятин на сході, курс - південно-західний.",
-      "timestamp": "2025-12-18T15:13:03.120249Z"
+      "timestamp": "2025-12-18T15:35:58.062816Z"
     },
     {
       "original": "🛵\n Нові групи БпЛА з акваторії Чорного моря в напрямку Одещини (вектор - Затока/Овідіополь/Чорноморськ).",
-      "timestamp": "2025-12-18T15:13:03.120255Z"
+      "timestamp": "2025-12-18T15:35:58.062821Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА на півдні від м.Запоріжжя, курс - північний/північно-західний.",
-      "timestamp": "2025-12-18T15:13:03.120261Z"
+      "timestamp": "2025-12-18T15:35:58.062827Z"
     },
     {
       "original": "🛵\n Харківщина: \n- БпЛА курсом на/повз Сахновщину, курс - південно-східний;\n- БпЛА над Змієвим, курс - північно-східний.\n🛵\n Дніпропетровщина: \n- БпЛА на південних околицях обласного центру, курс - західний;\n- БпЛА в Нікопольському районі, курс - західний;\n- БпЛА по межі Харківщини і Дніпропетровщини, курс - Донеччина.\n🛵\n Групи БпЛА маневрують в акваторії Чорного моря.",
-      "timestamp": "2025-12-18T15:13:03.120272Z"
+      "timestamp": "2025-12-18T15:35:58.062838Z"
     },
     {
       "original": "🛵\n БпЛА в напрямку Кривого Рогу зі сходу.",
-      "timestamp": "2025-12-18T15:13:03.120276Z"
+      "timestamp": "2025-12-18T15:35:58.062843Z"
     },
     {
       "original": "🛵\n БпЛА на м.Дніпро із заходу.",
-      "timestamp": "2025-12-18T15:13:03.120281Z"
+      "timestamp": "2025-12-18T15:35:58.062847Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Донеччину.",
-      "timestamp": "2025-12-18T15:13:03.120286Z"
+      "timestamp": "2025-12-18T15:35:58.062851Z"
     },
     {
       "original": "🛵\n Харківщина:  - БпЛА курсом на/повз Сахновщину, курс - південно-східний; - БпЛА над Змієвим, курс - північно-східний. \n🛵\n Дніпропетровщина:  - БпЛА на південних околицях обласного центру, курс - західний; - БпЛА в Нікопольському районі, курс - західний; - БпЛА…",
-      "timestamp": "2025-12-18T15:13:03.120292Z"
+      "timestamp": "2025-12-18T15:35:58.062858Z"
     },
     {
       "original": "🛵\n Групи БпЛА із акваторії Чорного моря \n➡️\n у напрямку Чорноморська/Одеси.\n🛵\n Дніпропетровщина: БпЛА \n➡️\n у напрямку Солоного. \n🛵\n БпЛА \n➡️\n у бік Запоріжжя.\n🛵\n Херсонщина: група БпЛА через Антонівку \n➡️\n у північно-західному напрямку.",
-      "timestamp": "2025-12-18T15:13:03.120307Z"
+      "timestamp": "2025-12-18T15:35:58.062872Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Сумщину.",
-      "timestamp": "2025-12-18T15:13:03.120313Z"
+      "timestamp": "2025-12-18T15:35:58.062877Z"
     },
     {
       "original": "🛵\n Сумщина \n➡️\n нові групи БпЛА повз Велику Писарівку.",
-      "timestamp": "2025-12-18T15:13:03.120319Z"
+      "timestamp": "2025-12-18T15:35:58.062883Z"
     },
     {
       "original": "🛵\n Харківщина: БпЛА \n➡️\n через Золочів та Вовчанськ. \n🛵\n Одещина: БпЛА \n➡️\n на Чорноморськ.",
-      "timestamp": "2025-12-18T15:13:03.120328Z"
+      "timestamp": "2025-12-18T15:35:58.062891Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА над м. Запоріжжя. Можлива робота ППО.",
-      "timestamp": "2025-12-18T15:13:03.120334Z"
+      "timestamp": "2025-12-18T15:35:58.062897Z"
     },
     {
       "original": "🛵\n Харківщина: БпЛА в напрямку на/повз Дергачі в напрямку Харкова.",
-      "timestamp": "2025-12-18T15:13:03.120338Z"
+      "timestamp": "2025-12-18T15:35:58.062901Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Харківщину зі сходу.",
-      "timestamp": "2025-12-18T15:13:03.120342Z"
+      "timestamp": "2025-12-18T15:35:58.062906Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Запорізьку область.",
-      "timestamp": "2025-12-18T15:13:03.120347Z"
+      "timestamp": "2025-12-18T15:35:58.062910Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Донеччину.",
-      "timestamp": "2025-12-18T15:13:03.120351Z"
+      "timestamp": "2025-12-18T15:35:58.062914Z"
+    },
+    {
+      "original": "🛵\n БпЛА на півночі Харкова, курс - південно-східний.",
+      "timestamp": "2025-12-18T15:35:58.062919Z"
+    },
+    {
+      "original": "🛵\n🛸\n БпЛА в напрямку Сум з півночі.",
+      "timestamp": "2025-12-18T15:35:58.062924Z"
     },
     {
       "original": "2 Su-34s covered by 2 Su-35s are flying towards their launch lines in the western Black Sea.\nThey may launch Grom-E1 rocket-powered glide-bombs at Odesa Oblast.",
-      "timestamp": "2025-12-18T15:13:03.523062Z"
+      "timestamp": "2025-12-18T15:35:58.704456Z"
     },
     {
       "original": "2 Su-34s covered by 2 Su-35s are flying towards their launch lines in the western Black Sea.  They may launch Grom-E1 rocket-powered glide-bombs at Odesa Oblast.",
-      "timestamp": "2025-12-18T15:13:03.523074Z"
+      "timestamp": "2025-12-18T15:35:58.704468Z"
     },
     {
       "original": "Correction: 4 Su-34s",
-      "timestamp": "2025-12-18T15:13:03.523078Z"
+      "timestamp": "2025-12-18T15:35:58.704472Z"
     },
     {
       "original": "Su-34 movements. Almost at the launch lines.",
-      "timestamp": "2025-12-18T15:13:03.523081Z"
+      "timestamp": "2025-12-18T15:35:58.704475Z"
     },
     {
       "original": "Su-34 movements. Almost at the launch lines.",
-      "timestamp": "2025-12-18T15:13:03.523085Z"
+      "timestamp": "2025-12-18T15:35:58.704478Z"
     },
     {
       "original": "Gaining altitude rapidly",
-      "timestamp": "2025-12-18T15:13:03.523088Z"
+      "timestamp": "2025-12-18T15:35:58.704482Z"
     },
     {
       "original": "Gaining altitude rapidly",
-      "timestamp": "2025-12-18T15:13:03.523091Z"
+      "timestamp": "2025-12-18T15:35:58.704485Z"
     },
     {
       "original": "Launch maneuvers have not been recorded.",
-      "timestamp": "2025-12-18T15:13:03.523094Z"
+      "timestamp": "2025-12-18T15:35:58.704488Z"
     },
     {
       "original": "Now launch maneuvers",
-      "timestamp": "2025-12-18T15:13:03.523097Z"
+      "timestamp": "2025-12-18T15:35:58.704492Z"
     },
     {
       "original": "No aerial targets are detected. The 4 Su-34s are circling west of Crimea.",
-      "timestamp": "2025-12-18T15:13:03.523101Z"
+      "timestamp": "2025-12-18T15:35:58.704495Z"
     },
     {
       "original": "They flew past their other launch lines (for Mykolaiv Oblast) near the Kinburn Spit, Kherson Oblast.",
-      "timestamp": "2025-12-18T15:13:03.523104Z"
+      "timestamp": "2025-12-18T15:35:58.704498Z"
     },
     {
       "original": "They flew past their other launch lines (for Mykolaiv Oblast) near the Kinburn Spit, Kherson Oblast.",
-      "timestamp": "2025-12-18T15:13:03.523107Z"
+      "timestamp": "2025-12-18T15:35:58.704501Z"
     },
     {
       "original": "They circled back and rapidly gained altitude again (10 km right now)",
-      "timestamp": "2025-12-18T15:13:03.523110Z"
+      "timestamp": "2025-12-18T15:35:58.704504Z"
     },
     {
       "original": "They circled back and rapidly gained altitude again (10 km right now)",
-      "timestamp": "2025-12-18T15:13:03.523113Z"
+      "timestamp": "2025-12-18T15:35:58.704507Z"
     },
     {
       "original": "Launch maneuvers",
-      "timestamp": "2025-12-18T15:13:03.523116Z"
+      "timestamp": "2025-12-18T15:35:58.704510Z"
     },
     {
       "original": "Grom-E1 rocket-powered glide-bombs are flying towards Zatoka, Odesa Oblast. Currently only 2 are detected.",
-      "timestamp": "2025-12-18T15:13:03.523120Z"
+      "timestamp": "2025-12-18T15:35:58.704513Z"
     },
     {
       "original": "Correction on the flight route: they were launched from the southeast.\n2 glide-bombs are flying towards Hrybivka, Odesa Oblast.\n2 more were launched, flying along the same route.",
-      "timestamp": "2025-12-18T15:13:03.523124Z"
+      "timestamp": "2025-12-18T15:35:58.704518Z"
     },
     {
       "original": "Correction on the flight route: they were launched from the southeast.  2 glide-bombs are flying towards Hrybivka, Odesa Oblast.  2 more were launched, flying along the same route.",
-      "timestamp": "2025-12-18T15:13:03.523128Z"
+      "timestamp": "2025-12-18T15:35:58.704521Z"
     },
     {
       "original": "The first two are ~18 km away.",
-      "timestamp": "2025-12-18T15:13:03.523134Z"
+      "timestamp": "2025-12-18T15:35:58.704525Z"
     },
     {
       "original": "The first two are ~18 km away.",
-      "timestamp": "2025-12-18T15:13:03.523137Z"
+      "timestamp": "2025-12-18T15:35:58.704529Z"
     },
     {
       "original": "The glide-bombs are still at a somewhat high altitude, they may fly further inland to Ovidiopol.",
-      "timestamp": "2025-12-18T15:13:03.523142Z"
+      "timestamp": "2025-12-18T15:35:58.704532Z"
     },
     {
       "original": "Explosions in the Zatoka - Karolino-Buhaz area.",
-      "timestamp": "2025-12-18T15:13:03.523146Z"
+      "timestamp": "2025-12-18T15:35:58.704536Z"
     },
     {
       "original": "The other 2 glide-bombs disappeared. The Su-34s and Su-35s have flown back past Crimea on an eastern course.",
-      "timestamp": "2025-12-18T15:13:03.523149Z"
+      "timestamp": "2025-12-18T15:35:58.704540Z"
     },
     {
       "original": "Now 4+ Geran-2 drones are flying to attack the same area.",
-      "timestamp": "2025-12-18T15:13:03.523152Z"
+      "timestamp": "2025-12-18T15:35:58.704543Z"
     },
     {
       "original": "Following the earlier KAB strikes, the southern suburbs/outskirts of Zaporizhzhia are under heavy MLRS fire. \nAt least 6 strikes so far.",
-      "timestamp": "2025-12-18T15:13:03.523156Z"
+      "timestamp": "2025-12-18T15:35:58.704553Z"
     },
     {
       "original": "Following the earlier KAB strikes, the southern suburbs/outskirts of Zaporizhzhia are under heavy MLRS fire.   At least 6 strikes so far.",
-      "timestamp": "2025-12-18T15:13:03.523166Z"
+      "timestamp": "2025-12-18T15:35:58.704558Z"
     },
     {
       "original": "The MLRS strikes targeted the Balabyne area, just south of the city.",
-      "timestamp": "2025-12-18T15:13:03.523169Z"
+      "timestamp": "2025-12-18T15:35:58.704561Z"
     },
     {
       "original": "Repeated MLRS strikes and more launches. 16+ so far.\nA Russian recon drone is operating over Balabyne, adjusting the strikes.",
-      "timestamp": "2025-12-18T15:13:03.523173Z"
+      "timestamp": "2025-12-18T15:35:58.704565Z"
     },
     {
       "original": "Russian Army Is Finishing Off Ukrainian Troops In Myrnohrad (Videos)\nOn December 17, the Russian military expanded its control in the center of the city of Myrnohrad, also known as Dimitrov, in Donetsk, breaking down most of the last defensive lines of Ukrainian troops besieged there.\nThe Tsentr [Center] Group of Forces is now reportedly working to clear the center of Myrnohrad. Remaining Ukrainian troops there are no longer fighting as organized formations, but rather in isolated pockets that are being eliminated one after another by Russian troops.\nOrganized defenses still exist in the northern part of the city, but will not likely hold up for long. The Tsentr Group of Forces is said to be advancing in the Brianka district there.\nRead more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062829Z"
+      "timestamp": "2025-12-18T15:35:59.531549Z"
     },
     {
       "original": "Russian Army Is Finishing Off Ukrainian Troops In Myrnohrad (Videos)\nOn December 17, the Russian military expanded its control in the center of the city of Myrnohrad, also known as Dimitrov, in Donetsk, breaking down most of the last defensive lines of Ukrainian troops besieged there.\nThe Tsentr [Center] Group of Forces is now reportedly working to clear the center of Myrnohrad. Remaining Ukrainian troops there are no longer fighting as organized formations, but rather in isolated pockets that are being eliminated one after another by Russian troops.\nOrganized defenses still exist in the northern part of the city, but will not likely hold up for long. The Tsentr Group of Forces is said to be advancing in the Brianka district there.\nRead more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062846Z"
+      "timestamp": "2025-12-18T15:35:59.531565Z"
     },
     {
       "original": "UKRAINE'S DOUBLE BIND: STALEMATE IN KUPYANSK AMID ORGANIZATIONAL COLLAPSE IN MIRNOGRAD",
-      "timestamp": "2025-12-18T15:13:04.062851Z"
+      "timestamp": "2025-12-18T15:35:59.531569Z"
     },
     {
       "original": "Battle Of The Haichur: Russian Army Advances Near Stepnohirsk, Fights Ukrainian Forces In Huliaipole\nIn the Zaporizhzhia sector, Russian forces drove Ukrainian troops out of Herasymivka. In the Kharkiv sector, the Russian army is advancing towards Prylypka and Hrafsky while simultaneously advancing in Vovchanski Khutora. In the Pokrovsk sector, Myrnohrad is being cleared while Ukrainian reserves are transferred to Serhiivka and Hrishyne. \nThe United States is privately urging Europe not to use these funds, threatening to demand their return.\nRead more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062858Z"
+      "timestamp": "2025-12-18T15:35:59.531588Z"
     },
     {
       "original": "Battle Of The Haichur: Russian Army Advances Near Stepnohirsk, Fights Ukrainian Forces In Huliaipole\nIn the Zaporizhzhia sector, Russian forces drove Ukrainian troops out of Herasymivka. In the Kharkiv sector, the Russian army is advancing towards Prylypka and Hrafsky while simultaneously advancing in Vovchanski Khutora. In the Pokrovsk sector, Myrnohrad is being cleared while Ukrainian reserves are transferred to Serhiivka and Hrishyne. \nThe United States is privately urging Europe not to use these funds, threatening to demand their return.\nRead more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062866Z"
+      "timestamp": "2025-12-18T15:35:59.531596Z"
     },
     {
       "original": "Lancet Strikes: Summary Of Russian Combat Footage From December 17, 2025\nOn December 17, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062873Z"
+      "timestamp": "2025-12-18T15:35:59.531603Z"
     },
     {
       "original": "Lancet Strikes: Summary Of Russian Combat Footage From December 17, 2025\nOn December 17, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062880Z"
+      "timestamp": "2025-12-18T15:35:59.531610Z"
     },
     {
       "original": "U.S. Army Hits Another Alleged Drug Boat As Trump Demands ‘Energy Rights’ In Venezuela (Video)\nThe United States military struck another drug trafficking boat in the eastern Pacific Ocean on December 17, as President Donald Trump accused Venezuela of illegally taking away “energy rights” from American companies.\nThe “lethal kinetic strike” was carried out upon orders from Secretary of Defense Pete Hegseth, the U.S. Southern Command (SOUTHCOM) said in a statement posted to X.\n“Intelligence confirmed that the vessel was transiting along a known narco-trafficking route in the Eastern Pacific and was engaged in narco-trafficking operations. A total of four male narco-terrorists were killed, and no U.S. military forces were harmed,” the statement reads.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062893Z"
+      "timestamp": "2025-12-18T15:35:59.531620Z"
     },
     {
       "original": "Military Situation In Northern Palestine On December 18, 2025 (Map Update)",
-      "timestamp": "2025-12-18T15:13:04.062897Z"
+      "timestamp": "2025-12-18T15:35:59.531624Z"
     },
     {
       "original": "Tensions In Eastern Mediterranean: Greece, Israel, And Cyprus To Confront Turkey With Joint Force\nIsrael, Greece, and Cyprus are working on a fast response force with 2,500 troops to counter Turkish influence, Greek newspaper TA NEA reported on December 17.\nAccording to the report, which cites top defense officials, Greece is considering implementing Israeli measures and offering a coordinated response mechanism to protect against potential threats from “enemy states”.\nThe report explains that Israel, Greece, and Cyprus will have access to this force, which will have dedicated air and sea capabilities.\n“A Greek-Israeli rapid reaction force is not an alliance against anyone. It fills a strategic void. From Rhodes to Cyprus and Israel, platforms, pipelines, and electricity cables are exposed,” one of the officials told the newspaper.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-18T15:13:04.062908Z"
+      "timestamp": "2025-12-18T15:35:59.531634Z"
     },
     {
       "original": "Military Situation In Ukraine On December 18, 2025 (Maps Update)",
-      "timestamp": "2025-12-18T15:13:04.062912Z"
+      "timestamp": "2025-12-18T15:35:59.531638Z"
     },
     {
       "original": "Military Situation In Ukraine On December 18, 2025 (Maps Update)",
-      "timestamp": "2025-12-18T15:13:04.062916Z"
+      "timestamp": "2025-12-18T15:35:59.531642Z"
+    },
+    {
+      "original": "The Vovchansk And Lyman Paradox: Why Polymarket Bets Are Still Up Against Cities Already Captured\nWhich cities under Russian control are not yet recognized by Polymarket? Which contracts will definitely not close in December? Which settlements must be captured to complete the clearance of Myrnohrad?\nPredictive markets like Polymarket continue to serve as popular indicators of expectations related to the development of the military operation in Ukraine. As some contracts tied to the fall of settlements are resolved, investors’ attention shifts to new hotspots. However, the frontline dynamics from late November through the first half of December were surprising, radically altering forecasts and demonstrating the impressive pace of the Russian advance on key sectors.\nIn this article, we analyze the operational situation in the most important sectors of the front from December 6 to 16 using current reports and data.\n👉\n Read more \nHERE",
+      "timestamp": "2025-12-18T15:35:59.531651Z"
     }
   ],
-  "script_run_time": "2025-12-18T15:13:04.063732Z"
+  "script_run_time": "2025-12-18T15:35:59.532452Z"
 }
