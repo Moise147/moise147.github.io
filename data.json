@@ -1,265 +1,261 @@
 {
   "messages": [
     {
-      "original": "🛵\nВорожі БпЛА на сході Дніпропетровщини та поблизу Павлограду, в напрямку обласного центру.",
-      "timestamp": "2025-12-22T22:59:55.979588Z"
-    },
-    {
       "original": "🛵\n БпЛА на Запоріжжя зі сходу.",
-      "timestamp": "2025-12-22T22:59:55.979601Z"
+      "timestamp": "2025-12-22T23:20:05.939927Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Чернігівщини, курс на південь.",
-      "timestamp": "2025-12-22T22:59:55.979606Z"
+      "timestamp": "2025-12-22T23:20:05.939943Z"
     },
     {
       "original": "🛸\n🛵\n  БпЛА на Запоріжжі в районі н.п. Комишуваха та Оріхів, здійснюють хаотичне переміщення в повітряному просторі області.",
-      "timestamp": "2025-12-22T22:59:55.979612Z"
+      "timestamp": "2025-12-22T23:20:05.939950Z"
     },
     {
       "original": "🛵\n БпЛА на Запоріжжя з півдня.",
-      "timestamp": "2025-12-22T22:59:55.979617Z"
+      "timestamp": "2025-12-22T23:20:05.939955Z"
     },
     {
       "original": "🛵\n Ударний БпЛА на заході Чернігівщині по Київському водосховищу, на південь.",
-      "timestamp": "2025-12-22T22:59:55.979621Z"
+      "timestamp": "2025-12-22T23:20:05.939960Z"
     },
     {
       "original": "🛵\n Ударний БпЛА на заході Чернігівщині по Київському водосховищу, на південь.",
-      "timestamp": "2025-12-22T22:59:55.979625Z"
+      "timestamp": "2025-12-22T23:20:05.939965Z"
     },
     {
       "original": "Повернув в напрямку Чорнобильської зони.",
-      "timestamp": "2025-12-22T22:59:55.979629Z"
+      "timestamp": "2025-12-22T23:20:05.939968Z"
     },
     {
       "original": "🚀\nШвидкісна ціль на Херсон.",
-      "timestamp": "2025-12-22T22:59:55.979635Z"
+      "timestamp": "2025-12-22T23:20:05.939973Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА в напрямку н.п.Іванків на Київщині.",
-      "timestamp": "2025-12-22T22:59:55.979642Z"
+      "timestamp": "2025-12-22T23:20:05.939980Z"
     },
     {
       "original": "🛵\n БпЛА на сході Житомирщини вектором руху на південний захід;\n🛵\n БпЛА на півночі Чернігівщини курсом на Київщину.",
-      "timestamp": "2025-12-22T22:59:55.979648Z"
+      "timestamp": "2025-12-22T23:20:05.939986Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА в Чорному морі у напрямку Одеси",
-      "timestamp": "2025-12-22T22:59:55.979653Z"
+      "timestamp": "2025-12-22T23:20:05.939991Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА на північній межі Київської та Житомирської областей.",
-      "timestamp": "2025-12-22T22:59:55.979658Z"
+      "timestamp": "2025-12-22T23:20:05.939995Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА на північному заході Чернігівщини у напрямку Київщини.",
-      "timestamp": "2025-12-22T22:59:55.979662Z"
+      "timestamp": "2025-12-22T23:20:05.940000Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА у напрямку Затоки з Чорного моря.",
-      "timestamp": "2025-12-22T22:59:55.979668Z"
+      "timestamp": "2025-12-22T23:20:05.940016Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА через н.п. Маяки вектором руху на Одесу.",
-      "timestamp": "2025-12-22T22:59:55.979673Z"
+      "timestamp": "2025-12-22T23:20:05.940022Z"
     },
     {
       "original": "🛵\n Ворожий БпЛА на Житомир з півночі.",
-      "timestamp": "2025-12-22T22:59:55.979677Z"
+      "timestamp": "2025-12-22T23:20:05.940026Z"
     },
     {
       "original": "🚀\n Пуски КАБ на Харківщину.",
-      "timestamp": "2025-12-22T22:59:55.979681Z"
+      "timestamp": "2025-12-22T23:20:05.940031Z"
     },
     {
       "original": "🛵\n БпЛА північно-західніше від Сум у напрямку Полтавщини.",
-      "timestamp": "2025-12-22T22:59:55.979686Z"
+      "timestamp": "2025-12-22T23:20:05.940035Z"
     },
     {
       "original": "🛵\n Татарбунарський р-н. ворожий БпЛА у напрямку Арцизу",
-      "timestamp": "2025-12-22T22:59:55.979690Z"
+      "timestamp": "2025-12-22T23:20:05.940040Z"
     },
     {
       "original": "🛵\n Групи ворожих ударних БпЛА у Татарбунарському р-ні., рухаються у напрямку Арцизу;\n🛵\n Ще групи ворожих БпЛА  з Херсонщини зайшли у Чорне море, вектором руху на Татарбунари;\n🛵\n Ворожі БпЛА на півночі та заході Харківщини, курс південний;\n🛵\n Групи ворожих БпЛА зі сходу на захід Сумщини, вектором руху на Чернігівщину;\n🛵\n БпЛА на Чернігівщині курсом на Київщину;\n🛵\n БпЛА на Донеччині курсом на Дніпропетровщину.",
-      "timestamp": "2025-12-22T22:59:55.979702Z"
+      "timestamp": "2025-12-22T23:20:05.940052Z"
+    },
+    {
+      "original": "🛵\n Ворожі БпЛА в р-ні. н.п. Рені (Одещина), курс постійно змінюється.",
+      "timestamp": "2025-12-22T23:20:05.940057Z"
     },
     {
       "original": "You know the information space is bad when someone calls me \"biased\" or \"unreliable\" and I have to check their profile to see if they're calling me too Pro-Russian or too Pro-Ukrainian \n🤣\n🤣",
-      "timestamp": "2025-12-22T22:59:56.514405Z"
+      "timestamp": "2025-12-22T23:20:06.472579Z"
     },
     {
       "original": "A car bombing in Moscow has killed Major General Fanil Sarvarov, the head of the operational training department of the Russian General Staff.",
-      "timestamp": "2025-12-22T22:59:56.514415Z"
+      "timestamp": "2025-12-22T23:20:06.472590Z"
     },
     {
       "original": "Large fires are burning in Russia’s Taman Bay on the Black Sea following an overnight Ukrainian drone attack. 2 vessels were struck, and damage to a pier has been reported",
-      "timestamp": "2025-12-22T22:59:56.514419Z"
+      "timestamp": "2025-12-22T23:20:06.472595Z"
     },
     {
       "original": "Large fires are burning in Russia’s Taman Bay on the Black Sea following an overnight Ukrainian drone attack. 2 vessels were struck, and damage to a pier has been reported",
-      "timestamp": "2025-12-22T22:59:56.514423Z"
+      "timestamp": "2025-12-22T23:20:06.472599Z"
     },
     {
       "original": "Ukrzaliznytsia reports that a freight train derailed near the city of Korosten, Zhytomyr Oblast.\nThey stated that the cause is \"unknown\", however it is known that it was struck by multiple Russian Geran-2 drones overnight.",
-      "timestamp": "2025-12-22T22:59:56.514427Z"
+      "timestamp": "2025-12-22T23:20:06.472603Z"
     },
     {
       "original": "2 Russian Su-34s are flying to their launch lines in the Black Sea to launch glide-bombs at Odesa Oblast.",
-      "timestamp": "2025-12-22T22:59:56.514431Z"
+      "timestamp": "2025-12-22T23:20:06.472607Z"
     },
     {
       "original": "2 Russian Su-34s are flying to their launch lines in the Black Sea to launch glide-bombs at Odesa Oblast.",
-      "timestamp": "2025-12-22T22:59:56.514434Z"
+      "timestamp": "2025-12-22T23:20:06.472610Z"
     },
     {
       "original": "Currently over Crimea, flying west. \nGerans are also over the western Black Sea, flying to Odesa Oblast",
-      "timestamp": "2025-12-22T22:59:56.514438Z"
+      "timestamp": "2025-12-22T23:20:06.472614Z"
     },
     {
       "original": "Currently over Crimea, flying west.   Gerans are also over the western Black Sea, flying to Odesa Oblast",
-      "timestamp": "2025-12-22T22:59:56.514441Z"
+      "timestamp": "2025-12-22T23:20:06.472617Z"
     },
     {
       "original": "Both Su-34s are now over the Black Sea. 2 Su-35s are covering them.",
-      "timestamp": "2025-12-22T22:59:56.514444Z"
+      "timestamp": "2025-12-22T23:20:06.472620Z"
     },
     {
       "original": "A Russian recon drone is operating just off the coast from Zatoka, Odesa Oblast. The glide-bombs will likely fly there.",
-      "timestamp": "2025-12-22T22:59:56.514447Z"
+      "timestamp": "2025-12-22T23:20:06.472623Z"
     },
     {
       "original": "Su-34s are around 100 km from their launch lines",
-      "timestamp": "2025-12-22T22:59:56.514454Z"
+      "timestamp": "2025-12-22T23:20:06.472626Z"
     },
     {
       "original": "Su-34s are around 100 km from their launch lines",
-      "timestamp": "2025-12-22T22:59:56.514457Z"
+      "timestamp": "2025-12-22T23:20:06.472630Z"
     },
     {
       "original": "Approaching their launch lines",
-      "timestamp": "2025-12-22T22:59:56.514462Z"
+      "timestamp": "2025-12-22T23:20:06.472633Z"
     },
     {
       "original": "Approaching their launch lines",
-      "timestamp": "2025-12-22T22:59:56.514466Z"
+      "timestamp": "2025-12-22T23:20:06.472639Z"
     },
     {
       "original": "Launch maneuvers",
-      "timestamp": "2025-12-22T22:59:56.514469Z"
+      "timestamp": "2025-12-22T23:20:06.472642Z"
     },
     {
       "original": "Launch maneuvers",
-      "timestamp": "2025-12-22T22:59:56.514472Z"
+      "timestamp": "2025-12-22T23:20:06.472645Z"
     },
     {
       "original": "KABs are flying towards Zatoka, Odesa Oblast.",
-      "timestamp": "2025-12-22T22:59:56.514475Z"
+      "timestamp": "2025-12-22T23:20:06.472649Z"
     },
     {
       "original": "KABs are flying towards Zatoka, Odesa Oblast.",
-      "timestamp": "2025-12-22T22:59:56.514478Z"
+      "timestamp": "2025-12-22T23:20:06.472652Z"
     },
     {
       "original": "2 KABs in total, both flying towards Zatoka Bridge.",
-      "timestamp": "2025-12-22T22:59:56.514481Z"
+      "timestamp": "2025-12-22T23:20:06.472655Z"
     },
     {
       "original": "These are Grom-E1 rocket-powered glide-bombs. They changed their course towards Chornomorsk, Odesa Oblast.",
-      "timestamp": "2025-12-22T22:59:56.514484Z"
+      "timestamp": "2025-12-22T23:20:06.472660Z"
     },
     {
       "original": "Explosions near Chornomorsk.\nRepeated launches were carried out.",
-      "timestamp": "2025-12-22T22:59:56.514488Z"
+      "timestamp": "2025-12-22T23:20:06.472664Z"
     },
     {
       "original": "Explosions near Chornomorsk.  Repeated launches were carried out.",
-      "timestamp": "2025-12-22T22:59:56.514491Z"
+      "timestamp": "2025-12-22T23:20:06.472668Z"
     },
     {
       "original": "The repeated launches were carried out at a very high altitude. \nThe glide-bombs will likely fly to the Mayaky Bridge.",
-      "timestamp": "2025-12-22T22:59:56.514495Z"
+      "timestamp": "2025-12-22T23:20:06.472674Z"
     },
     {
       "original": "The repeated launches were carried out at a very high altitude.   The glide-bombs will likely fly to the Mayaky Bridge.",
-      "timestamp": "2025-12-22T22:59:56.514498Z"
+      "timestamp": "2025-12-22T23:20:06.472677Z"
     },
     {
       "original": "These ones seem to be flying at a similar speed to ordinary KABs. \nApproaching the coast, around 35 km from the Mayaky Bridge.",
-      "timestamp": "2025-12-22T22:59:56.514502Z"
+      "timestamp": "2025-12-22T23:20:06.472681Z"
     },
     {
       "original": "These ones seem to be flying at a similar speed to ordinary KABs.   Approaching the coast, around 35 km from the Mayaky Bridge.",
-      "timestamp": "2025-12-22T22:59:56.514505Z"
+      "timestamp": "2025-12-22T23:20:06.472684Z"
     },
     {
       "original": "Explosion near Karolino-Buhaz, Odesa Oblast. Somewhere near the coast. 1 more KAB is approaching.\nBoth Su-34s are flying east over Crimea back to their base airfield.",
-      "timestamp": "2025-12-22T22:59:56.514511Z"
+      "timestamp": "2025-12-22T23:20:06.472688Z"
     },
     {
       "original": "Explosion near Karolino-Buhaz, Odesa Oblast. Somewhere near the coast. 1 more KAB is approaching.  Both Su-34s are flying east over Crimea back to their base airfield.",
-      "timestamp": "2025-12-22T22:59:56.514514Z"
+      "timestamp": "2025-12-22T23:20:06.472691Z"
     },
     {
       "original": "Another explosion. All clear now.",
-      "timestamp": "2025-12-22T22:59:56.514519Z"
-    },
-    {
-      "original": "With Defeat Nearing In Myrnohrad, Ukraine Loses First Australian Abrams Close To Pokrovsk (Videos)\nUkraine lost the first of over 40 American-made M1A1 Abrams main battle tanks it recently received from Australia close to the city of Pokrovsk, as it inches closer towards a catastrophic defeat in the nearby city of Myrnohrad in the Donetsk direction.\nThe tank was destroyed by the Center for Advanced Unmanned Technologies “Rubicon,” which said in a post to Telegram that it received support from the 76th Guards Air Assault Division of the Russian military’s Tsentr [Center] Group of Forces.\nFootage released by Rubicon shows the tank abandoned and on fire after being targeted with multiple first-person view suicide drones.\nThe loss took place on December 20, just a day after Australia announced that it had delivered all 49 M1A1 Abrams tanks it committed to provide to Ukraine.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.170955Z"
-    },
-    {
-      "original": "With Defeat Nearing In Myrnohrad, Ukraine Loses First Australian Abrams Close To Pokrovsk (Videos)\nUkraine lost the first of over 40 American-made M1A1 Abrams main battle tanks it recently received from Australia close to the city of Pokrovsk, as it inches closer towards a catastrophic defeat in the nearby city of Myrnohrad in the Donetsk direction.\nThe tank was destroyed by the Center for Advanced Unmanned Technologies “Rubicon,” which said in a post to Telegram that it received support from the 76th Guards Air Assault Division of the Russian military’s Tsentr [Center] Group of Forces.\nFootage released by Rubicon shows the tank abandoned and on fire after being targeted with multiple first-person view suicide drones.\nThe loss took place on December 20, just a day after Australia announced that it had delivered all 49 M1A1 Abrams tanks it committed to provide to Ukraine.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.170970Z"
-    },
-    {
-      "original": "Military Situation In Syria On December 22, 2025 (Map Update)",
-      "timestamp": "2025-12-22T22:59:57.170974Z"
+      "timestamp": "2025-12-22T23:20:06.472694Z"
     },
     {
       "original": "Seizure Of Dozens Of Anti-Aircraft Missiles Sounds Alarm On Security Situation In Syria (Photos)\nThe Syrian Ministry of Interior announced on December 22 that its forces seized dozens of man-portable air-defense systems (MANPADs) in the eastern governorate of Deir Ezzor, highlighting the fragile security situation in the war-torn country.\n“Accurate information was received by the security directorate in al-Bukamal indicating that anti-aircraft missiles were being hidden inside a house, in preparation for smuggling them out of the country,” the ministry said in a statement.\n“Based on this information, a well-planned raid was carried out, resulting in the seizure of SAM-7 missiles,” it added.\nThe SAM-7 is a common name in the Middle East for the Soviet-made 9K32 Strela-2, also known by NATO reporting name SA-7 Grail. Photos shared by the ministry show more than 24 missiles, along with a number of gripstocks and thermal batteries.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.170985Z"
+      "timestamp": "2025-12-22T23:20:07.089403Z"
     },
     {
       "original": "Seizure Of Dozens Of Anti-Aircraft Missiles Sounds Alarm On Security Situation In Syria (Photos)\nThe Syrian Ministry of Interior announced on December 22 that its forces seized dozens of man-portable air-defense systems (MANPADs) in the eastern governorate of Deir Ezzor, highlighting the fragile security situation in the war-torn country.\n“Accurate information was received by the security directorate in al-Bukamal indicating that anti-aircraft missiles were being hidden inside a house, in preparation for smuggling them out of the country,” the ministry said in a statement.\n“Based on this information, a well-planned raid was carried out, resulting in the seizure of SAM-7 missiles,” it added.\nThe SAM-7 is a common name in the Middle East for the Soviet-made 9K32 Strela-2, also known by NATO reporting name SA-7 Grail. Photos shared by the ministry show more than 24 missiles, along with a number of gripstocks and thermal batteries.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.170994Z"
+      "timestamp": "2025-12-22T23:20:07.089421Z"
     },
     {
       "original": "Military Situation In Ukraine On December 22, 2025 (Maps Update)",
-      "timestamp": "2025-12-22T22:59:57.170998Z"
+      "timestamp": "2025-12-22T23:20:07.089425Z"
     },
     {
       "original": "Military Situation In Ukraine On December 22, 2025 (Maps Update)",
-      "timestamp": "2025-12-22T22:59:57.171002Z"
+      "timestamp": "2025-12-22T23:20:07.089429Z"
     },
     {
       "original": "The \"Elite\" Graveyard: How Ukraine's Foreign Legions Are Being Depleted\nThe number of foreign mercenaries killed in Ukraine continues to rise inexorably, long surpassing 6,000. In the past week alone, 84 new casualties have been identified—though most will remain nameless in mass graves. Despite this, the influx of \"easy money hunters\" shows no signs of abating.\nBrutal reality catches up swiftly, as it did with Argentinians Bruno Herrera and Cione Dante Augusto \"Pastor\" from the neo-Nazi \"Revanche\" unit of Ukraine's GUR: they were eliminated by Russian special forces while attempting to relieve a besieged garrison in the critical Stepnogorsk area. The Ukrainian command deliberately throws mercenaries into the fray first, preserving its own elite units for a second echelon.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171011Z"
+      "timestamp": "2025-12-22T23:20:07.089438Z"
     },
     {
       "original": "The \"Elite\" Graveyard: How Ukraine's Foreign Legions Are Being Depleted\nThe number of foreign mercenaries killed in Ukraine continues to rise inexorably, long surpassing 6,000. In the past week alone, 84 new casualties have been identified—though most will remain nameless in mass graves. Despite this, the influx of \"easy money hunters\" shows no signs of abating.\nBrutal reality catches up swiftly, as it did with Argentinians Bruno Herrera and Cione Dante Augusto \"Pastor\" from the neo-Nazi \"Revanche\" unit of Ukraine's GUR: they were eliminated by Russian special forces while attempting to relieve a besieged garrison in the critical Stepnogorsk area. The Ukrainian command deliberately throws mercenaries into the fray first, preserving its own elite units for a second echelon.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171019Z"
+      "timestamp": "2025-12-22T23:20:07.089447Z"
     },
     {
       "original": "Russian Army Defeats Kiev Forces In Vilcha, Turns Up Heat In Sumy (Videos)\nOn December 22, the Russian military dealt another defeat to Kiev forces by capturing Vilcha, located to the south of Vovchansk in Kharkiv.\nThe 69th Guards Motor Rifle Division of the 6th Army and the 128th Motorized Rifle Brigade of the 44th Army of the Sever [North] Group of Forces broke the last defense line of Ukraine’s 57th Motor Rifle Brigade and 225th Separate Shock Battalion in the southern part of Vilcha, bringing all of the settlement and its outskirt under control.\nRead more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171026Z"
+      "timestamp": "2025-12-22T23:20:07.089455Z"
     },
     {
       "original": "Russian Army Defeats Kiev Forces In Vilcha, Turns Up Heat In Sumy (Videos)\nOn December 22, the Russian military dealt another defeat to Kiev forces by capturing Vilcha, located to the south of Vovchansk in Kharkiv.\nThe 69th Guards Motor Rifle Division of the 6th Army and the 128th Motorized Rifle Brigade of the 44th Army of the Sever [North] Group of Forces broke the last defense line of Ukraine’s 57th Motor Rifle Brigade and 225th Separate Shock Battalion in the southern part of Vilcha, bringing all of the settlement and its outskirt under control.\nRead more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171034Z"
+      "timestamp": "2025-12-22T23:20:07.089463Z"
     },
     {
       "original": "A NEW FRONT OPENS: RUSSIAN ADVANCE IN SUMY THREATENS UKRAINIAN DEFENSE STRATEGY",
-      "timestamp": "2025-12-22T22:59:57.171041Z"
+      "timestamp": "2025-12-22T23:20:07.089467Z"
     },
     {
       "original": "Key To Russian Advance: Strategic Significance Of Zakotne In Slaviansk Sector For Ukraine\nIn the Slaviansk sector, Russian units are carrying out an offensive in the Sviato-Pokrovske area, advancing from the north and south. In the vicinity of Konstantynivka, Russian assault groups are tightening their grip on the approaches to the city by advancing into the built-up area from Predtechyne. \nMeanwhile, Hungarian Prime Minister Viktor Orbán stated that Hungarian money should not go to Ukrainian oligarchs.\nRead more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171048Z"
+      "timestamp": "2025-12-22T23:20:07.089474Z"
     },
     {
       "original": "Key To Russian Advance: Strategic Significance Of Zakotne In Slaviansk Sector For Ukraine\nIn the Slaviansk sector, Russian units are carrying out an offensive in the Sviato-Pokrovske area, advancing from the north and south. In the vicinity of Konstantynivka, Russian assault groups are tightening their grip on the approaches to the city by advancing into the built-up area from Predtechyne. \nMeanwhile, Hungarian Prime Minister Viktor Orbán stated that Hungarian money should not go to Ukrainian oligarchs.\nRead more \nHERE",
-      "timestamp": "2025-12-22T22:59:57.171055Z"
+      "timestamp": "2025-12-22T23:20:07.089482Z"
+    },
+    {
+      "original": "Russian-Ukrainian Exchange Of Strikes: Odesa Ports Under Fire Again, 'Flamingo' Maker Hosts Blindfolded Journalists\nAs in previous days, the hottest spot in Ukraine during this 24-hour period was once again the Odesa region, where strikes have now been carried out for the fifth consecutive day, deliberately targeting and damaging energy and port infrastructure.\nAgainst the backdrop of ongoing shelling, the Ukrainian media space continues to make active attempts to restore the reputation of Fire Point, a company known for producing the long-range FP-1 and FP-2 drones as well as the experimental \"Flamingo\" cruise missile. The company found itself at the center of a corruption scandal involving businessman Mindich. As part of a PR campaign, groups of foreign and local journalists have been taken to the enterprise—whose location is classified—blindfolded, according to the journalists themselves.\n👉\n Read more \nHERE",
+      "timestamp": "2025-12-22T23:20:07.089491Z"
+    },
+    {
+      "original": "Russian-Ukrainian Exchange Of Strikes: Odesa Ports Under Fire Again, 'Flamingo' Maker Hosts Blindfolded Journalists\nAs in previous days, the hottest spot in Ukraine during this 24-hour period was once again the Odesa region, where strikes have now been carried out for the fifth consecutive day, deliberately targeting and damaging energy and port infrastructure.\nAgainst the backdrop of ongoing shelling, the Ukrainian media space continues to make active attempts to restore the reputation of Fire Point, a company known for producing the long-range FP-1 and FP-2 drones as well as the experimental \"Flamingo\" cruise missile. The company found itself at the center of a corruption scandal involving businessman Mindich. As part of a PR campaign, groups of foreign and local journalists have been taken to the enterprise—whose location is classified—blindfolded, according to the journalists themselves.\n👉\n Read more \nHERE",
+      "timestamp": "2025-12-22T23:20:07.089499Z"
     }
   ],
-  "script_run_time": "2025-12-22T22:59:57.171631Z"
+  "script_run_time": "2025-12-22T23:20:07.090315Z"
 }
