@@ -1,225 +1,237 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА з Миколаївщини у напрямку Кіровоградщини.",
-      "timestamp": "2025-12-23T04:26:14.286698Z"
-    },
-    {
-      "original": "🛵\n Групи ворожих БпЛА рухаються через північ Київщини у західному напрямку;\n🛵\n Групи БпЛА на півночі Чернігівщини рухаються у західному напрямку;\n🛵\nГрупи БпЛА на Миколаївщині рухаються переважно північним курсом у напрямку Кіровоградщини;\n🛵\n Групи БпЛА на північному заході Херсонщини та соді Миколаївщини рухаються у західному напрямку;\n🛵\n Групи БпЛА по всій території Сумщини рухаються південно-західним курсом на Полтавщину;\n🛵\n Групи БпЛА на Харківщині у напрямку Полтавщини;\n🛵\n БпЛА на південному заході Полтавщини та сході Черкащини рухаються у західному напрямку.",
-      "timestamp": "2025-12-23T04:26:14.286727Z"
-    },
-    {
-      "original": "🛵\n БпЛА у напрямку Білої Церкви з північного сходу.",
-      "timestamp": "2025-12-23T04:26:14.286737Z"
-    },
-    {
-      "original": "🛵\n Групи ворожих БпЛА з Чорного моря у напрямку Миколаївщини.",
-      "timestamp": "2025-12-23T04:26:14.286743Z"
-    },
-    {
-      "original": "🛵\n Групи на півночі Одещини у напрямку Вінниччини.",
-      "timestamp": "2025-12-23T04:26:14.286747Z"
-    },
-    {
       "original": "🚀\nПуски КАБ на Харківщині.",
-      "timestamp": "2025-12-23T04:26:14.286761Z"
+      "timestamp": "2025-12-23T04:53:00.450098Z"
     },
     {
       "original": "🚀\nШвидкісна ціль у напрямку Запоріжжя з півдня.",
-      "timestamp": "2025-12-23T04:26:14.286767Z"
+      "timestamp": "2025-12-23T04:53:00.450116Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА на Житомир з півночі.",
-      "timestamp": "2025-12-23T04:26:14.286772Z"
+      "timestamp": "2025-12-23T04:53:00.450125Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА в Чорному морі у напрямку Південного та Миколаївщини.",
-      "timestamp": "2025-12-23T04:26:14.286777Z"
+      "timestamp": "2025-12-23T04:53:00.450130Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА з Житомирщини у напрмку Рівного.",
-      "timestamp": "2025-12-23T04:26:14.286784Z"
+      "timestamp": "2025-12-23T04:53:00.450135Z"
     },
     {
       "original": "🛵\n Групи ворожих БпЛА на півдні Вінниччини у напрямку Хмельниччини.",
-      "timestamp": "2025-12-23T04:26:14.286789Z"
+      "timestamp": "2025-12-23T04:53:00.450139Z"
     },
     {
       "original": "🛵\n Групи ворожих БпЛА по всій території Чернігівщини у напрямку Київщини;\n🛵\n Ворожі БпЛА з Вінниччини у напрямку Кам'янець-Подільського та Чернівецької області;\n🛵\n БпЛА на півночі Вінниччини рухаються західним курсом;\n🛵\n БпЛА на Житомир з півночі;\n🛵\n БпЛА на Полтавщині у напрямку Полтави та Черкащини;\n🛵\n БпЛА на Кіровоградщини у західному напрямку;\n🛵\n БпЛА на півночі Миколаївщини рухаються північним курсом;\n🛵\n БпЛА у напрямку рівного зі сходу;\n🛵\n БпЛА у напрямку Білої Церкви",
-      "timestamp": "2025-12-23T04:26:14.286806Z"
+      "timestamp": "2025-12-23T04:53:00.450156Z"
     },
     {
       "original": "🛵\n Ворожі БпЛА з Хмельниччини заходять на Тернопільщину.",
-      "timestamp": "2025-12-23T04:26:14.286811Z"
+      "timestamp": "2025-12-23T04:53:00.450161Z"
     },
     {
       "original": "🛵\n Групи ворожих БпЛА на півночі Київщини у напрямку Житомирщини.",
-      "timestamp": "2025-12-23T04:26:14.286815Z"
+      "timestamp": "2025-12-23T04:53:00.450165Z"
     },
     {
       "original": "🛵\n БпЛА з Тернопільщини у напрямку Івано-Франківщини.",
-      "timestamp": "2025-12-23T04:26:14.286820Z"
+      "timestamp": "2025-12-23T04:53:00.450172Z"
     },
     {
       "original": "🛵\n БпЛА в р-ні. Бучи у напрямку Києва.",
-      "timestamp": "2025-12-23T04:26:14.286824Z"
+      "timestamp": "2025-12-23T04:53:00.450176Z"
     },
     {
       "original": "🛵\n БпЛа у напрямку Одеси та Миколаєва.",
-      "timestamp": "2025-12-23T04:26:14.286828Z"
+      "timestamp": "2025-12-23T04:53:00.450181Z"
     },
     {
       "original": "🛵\n БпЛА в р-ні Броварів у напрямку Києва.",
-      "timestamp": "2025-12-23T04:26:14.286832Z"
+      "timestamp": "2025-12-23T04:53:00.450185Z"
     },
     {
       "original": "🛵\n БпЛА в р-ні. Немирова напрямок руху Вінниця.",
-      "timestamp": "2025-12-23T04:26:14.286837Z"
+      "timestamp": "2025-12-23T04:53:00.450192Z"
     },
     {
       "original": "🛵\n БпЛА у напрямку Житомира зі сходу.",
-      "timestamp": "2025-12-23T04:26:14.286841Z"
+      "timestamp": "2025-12-23T04:53:00.450196Z"
     },
     {
-      "original": "The number of Geran-2 drones detected in Ukrainian airspace has rapidly increased to 135 following additional mass launches.",
-      "timestamp": "2025-12-23T04:26:14.754882Z"
+      "original": "🛵\n Групи ворожих БпЛА на заході та південному заході Сумщини рухаються західним напрямком.\n🛵\n Північ та південь Київщини, курс західний.\n🛵\nБпЛА на Черкащині, курс західний.\n🛵\n Групи БпЛА північніше Житомира курс західний",
+      "timestamp": "2025-12-23T04:53:00.450206Z"
     },
     {
-      "original": "Reports of Kalibr carriers leaving Novorossiysk Naval Base, Krasnodar Krai are false.",
-      "timestamp": "2025-12-23T04:26:14.754893Z"
+      "original": "🚀\nКрилата ракета на північному сході Сумщини курсом на Чернігівщину.",
+      "timestamp": "2025-12-23T04:53:00.450210Z"
     },
     {
-      "original": "If you currently live in Ukraine or Russia and feel comfortable with getting in contact with me, please DM me. I’m looking to increase the scope of my sourcing and reliability of the information I provide, especially on Russian and Ukrainian attacks. \nYou will remain anonymous, and in complete control of the information you choose to provide, and how you provide it. I will only publish information that you allow me to, and that doesn’t put anyone from any side at risk. This will be extremely beneficial to my reporting. \nMy telegram account: \n@AMK_Mapping1\n. I also have Signal if you prefer that.",
-      "timestamp": "2025-12-23T04:26:14.754902Z"
+      "original": "🚀\n Крилата ракета на півночі Сумщини вектор на Черкащину.",
+      "timestamp": "2025-12-23T04:53:00.450216Z"
     },
     {
-      "original": "Update: A minimum of 3 Tu-95MS are confirmed to be airborne from Olenya Airbase now. \nThis is in addition to the 3 Tu-95MS from Belaya Airbase, and 2 Tu-160s from Ukrainka Airbase.\nNo departures from Engels-2 Airbase have been recorded yet.",
-      "timestamp": "2025-12-23T04:26:14.754907Z"
+      "original": "🚀\nРакета на сході Сумщини, курс західний",
+      "timestamp": "2025-12-23T04:53:00.450221Z"
     },
     {
-      "original": "The first groups of Russian Geran-2 drones are bypassing Kyiv and flying towards the western regions of Ukraine.\nThis means that the cruise missiles will likely follow the same path later on.\nThe highest threat is Ivano-Frankivsk and Lviv Oblasts, however additional regions will likely be attacked.",
-      "timestamp": "2025-12-23T04:26:14.754912Z"
-    },
-    {
-      "original": "3 Tu-95MS strategic bombers departed from Engels-2 Airbase, Saratov Oblast.\nNow there are a total of 9 Tu-95MS and 2 Tu-160s airborne.",
-      "timestamp": "2025-12-23T04:26:14.754917Z"
-    },
-    {
-      "original": "The number of Geran-2 drones detected in Ukrainian airspace has increased to 150.",
-      "timestamp": "2025-12-23T04:26:14.754920Z"
-    },
-    {
-      "original": "Kalibr launches from at least two Kalibr carriers are expected to take place from within Novorossiysk Naval Base, Krasnodar Krai in the next hour. \nTu-95MS and Tu-160s from the far east should reach their launch lines in 30-60 minutes.\nAs I mentioned earlier, the western regions of Ukraine will be the main target (especially Ivano-Frankivsk and Lviv Oblasts). There is also an increased threat for energy infrastructure in Cherkasy Oblast.",
-      "timestamp": "2025-12-23T04:26:14.754925Z"
-    },
-    {
-      "original": "MiG-31K fighters are being prepared at Savasleika Airbase, Nizhny Novgorod Oblast at this moment. They will probably launch Kinzhal hypersonic aeroballistic missiles at energy infrastructure in western Ukraine.\nIskander-M ballistic missiles may also be used.",
-      "timestamp": "2025-12-23T04:26:14.754929Z"
-    },
-    {
-      "original": "Update on strategic bombers:\n- 4 Tu-95MS are airborne from Belaya Airbase.\n- 3 Tu-95MS are airborne from Olenya Airbase.\n- 3 Tu-95MS are airborne from Engels-2 airbase.\n- 2 Tu-160s are airborne from Ukrainka Airbase\n- 1 Tu-160 is airborne from Engels-2 Airbase.\n13 strategic bombers in total.",
-      "timestamp": "2025-12-23T04:26:14.754939Z"
+      "original": "🚀\nРакета на Черкаси",
+      "timestamp": "2025-12-23T04:53:00.450225Z"
     },
     {
       "original": "The numbers of Geran-2 drones detected in Ukrainian airspace remains largely unchanged at ~140. They are continuing to transit to the western regions of Ukraine.",
-      "timestamp": "2025-12-23T04:26:14.754943Z"
+      "timestamp": "2025-12-23T04:53:00.868633Z"
     },
     {
       "original": "Tu-95MS strategic bombers carried out launch maneuvers from Kalachyovksy District, Volgograd Oblast.\nIf the launches were real, they should enter Ukrainian airspace in the next hour.",
-      "timestamp": "2025-12-23T04:26:14.754947Z"
+      "timestamp": "2025-12-23T04:53:00.868646Z"
     },
     {
       "original": "Tu-95MS strategic bombers carried out launch maneuvers from Kalachyovksy District, Volgograd Oblast.  If the launches were real, they should enter Ukrainian airspace in the next hour.",
-      "timestamp": "2025-12-23T04:26:14.754953Z"
+      "timestamp": "2025-12-23T04:53:00.868650Z"
     },
     {
       "original": "Tu-160s haven't launched anything yet. This was just the Tu-95s.",
-      "timestamp": "2025-12-23T04:26:14.754957Z"
+      "timestamp": "2025-12-23T04:53:00.868654Z"
     },
     {
       "original": "High threat of Kalibr launches for the next 30 minutes.",
-      "timestamp": "2025-12-23T04:26:14.754967Z"
+      "timestamp": "2025-12-23T04:53:00.868657Z"
     },
     {
       "original": "Only 3 out of 10 Tu-95MS have carried out launch maneuvers. These were the ones from Engels-2 airbase.",
-      "timestamp": "2025-12-23T04:26:14.754970Z"
+      "timestamp": "2025-12-23T04:53:00.868660Z"
     },
     {
       "original": "The Rivne 330 kV electrical substation is under a large-scale Geran-2 drone attack.\nThis is one of the areas which was scouted out by Russian drones two days ago. Missiles will likely attack it later on.",
-      "timestamp": "2025-12-23T04:26:14.754975Z"
+      "timestamp": "2025-12-23T04:53:00.868664Z"
     },
     {
       "original": "The Kh-101 launches from 3 Tu-95MS were real and not simulated.\nA Russian Su-30/35 is airborne in Bryansk Oblast. It will cover the Kh-101 cruise missiles as they enter Chernihiv/Sumy Oblasts.\nThe missiles are expected to enter Ukrainian airspace in 55-65 minutes.",
-      "timestamp": "2025-12-23T04:26:14.754980Z"
+      "timestamp": "2025-12-23T04:53:00.868669Z"
     },
     {
       "original": "Unconfirmed reports of Kalibr launches from Novorossiysk Naval Base",
-      "timestamp": "2025-12-23T04:26:14.754983Z"
+      "timestamp": "2025-12-23T04:53:00.868672Z"
     },
     {
       "original": "Unconfirmed reports of Kalibr launches from Novorossiysk Naval Base",
-      "timestamp": "2025-12-23T04:26:14.754986Z"
+      "timestamp": "2025-12-23T04:53:00.868680Z"
     },
     {
       "original": "Launches of Kalibrs did not take place.",
-      "timestamp": "2025-12-23T04:26:14.754989Z"
+      "timestamp": "2025-12-23T04:53:00.868684Z"
     },
     {
       "original": "Kh-101s are expected to enter Ukrainian airspace in the next 5-10 minutes.",
-      "timestamp": "2025-12-23T04:26:14.754993Z"
+      "timestamp": "2025-12-23T04:53:00.868687Z"
+    },
+    {
+      "original": "Launches of up to 16 Kalibr cruise missiles took place from two Buyan-M corvettes in the Caspian Sea. \nThese were launched around an hour ago and are expected to enter Ukrainian airspace in 30-60 minutes.",
+      "timestamp": "2025-12-23T04:53:00.868691Z"
+    },
+    {
+      "original": "Kh-101s are in Ukrainian airspace",
+      "timestamp": "2025-12-23T04:53:00.868694Z"
+    },
+    {
+      "original": "Kh-101s are in Ukrainian airspace",
+      "timestamp": "2025-12-23T04:53:00.868697Z"
+    },
+    {
+      "original": "Correction: They are flying over Oryol Oblast, Russia",
+      "timestamp": "2025-12-23T04:53:00.868700Z"
+    },
+    {
+      "original": "Correction: They are flying over Oryol Oblast, Russia",
+      "timestamp": "2025-12-23T04:53:00.868706Z"
+    },
+    {
+      "original": "These seem to be from 3 Tu-95MS who launched from Nizhny Novgorod Oblast around 50 minutes ago",
+      "timestamp": "2025-12-23T04:53:00.868709Z"
+    },
+    {
+      "original": "Correction: They are flying over Oryol Oblast, Russia",
+      "timestamp": "2025-12-23T04:53:00.868712Z"
+    },
+    {
+      "original": "Now they're entering Sumy Oblast",
+      "timestamp": "2025-12-23T04:53:00.868728Z"
+    },
+    {
+      "original": "2 groups of Kh-101s are flying on a southwestern course after flying over Hlukhiv, Sumy Oblast.",
+      "timestamp": "2025-12-23T04:53:00.868732Z"
+    },
+    {
+      "original": "Correcting the missile trajectories a bit.\n2 groups, flying betwene Krolovets and Konotop, approaching Baturyn, Chernihiv Oblast.",
+      "timestamp": "2025-12-23T04:53:00.868736Z"
+    },
+    {
+      "original": "Both groups changed course to the south, flying east of Konotop in the direction of northern Poltava Oblast.\nFlying at around 950 km/h",
+      "timestamp": "2025-12-23T04:53:00.868740Z"
+    },
+    {
+      "original": "Both groups are entering northern Poltava Oblast, flying south in the direction of Lubny.",
+      "timestamp": "2025-12-23T04:53:00.868745Z"
+    },
+    {
+      "original": "2 groups changed course towards Krasenivka, Cherkasy Oblast.\n1 new group of Kh-101s entered Sumy Oblast, following the same course.",
+      "timestamp": "2025-12-23T04:53:00.868749Z"
     },
     {
       "original": "Seizure Of Dozens Of Anti-Aircraft Missiles Sounds Alarm On Security Situation In Syria (Photos)\nThe Syrian Ministry of Interior announced on December 22 that its forces seized dozens of man-portable air-defense systems (MANPADs) in the eastern governorate of Deir Ezzor, highlighting the fragile security situation in the war-torn country.\n“Accurate information was received by the security directorate in al-Bukamal indicating that anti-aircraft missiles were being hidden inside a house, in preparation for smuggling them out of the country,” the ministry said in a statement.\n“Based on this information, a well-planned raid was carried out, resulting in the seizure of SAM-7 missiles,” it added.\nThe SAM-7 is a common name in the Middle East for the Soviet-made 9K32 Strela-2, also known by NATO reporting name SA-7 Grail. Photos shared by the ministry show more than 24 missiles, along with a number of gripstocks and thermal batteries.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340443Z"
+      "timestamp": "2025-12-23T04:53:01.459276Z"
     },
     {
       "original": "Seizure Of Dozens Of Anti-Aircraft Missiles Sounds Alarm On Security Situation In Syria (Photos)\nThe Syrian Ministry of Interior announced on December 22 that its forces seized dozens of man-portable air-defense systems (MANPADs) in the eastern governorate of Deir Ezzor, highlighting the fragile security situation in the war-torn country.\n“Accurate information was received by the security directorate in al-Bukamal indicating that anti-aircraft missiles were being hidden inside a house, in preparation for smuggling them out of the country,” the ministry said in a statement.\n“Based on this information, a well-planned raid was carried out, resulting in the seizure of SAM-7 missiles,” it added.\nThe SAM-7 is a common name in the Middle East for the Soviet-made 9K32 Strela-2, also known by NATO reporting name SA-7 Grail. Photos shared by the ministry show more than 24 missiles, along with a number of gripstocks and thermal batteries.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340462Z"
+      "timestamp": "2025-12-23T04:53:01.459297Z"
     },
     {
       "original": "Military Situation In Ukraine On December 22, 2025 (Maps Update)",
-      "timestamp": "2025-12-23T04:26:15.340467Z"
+      "timestamp": "2025-12-23T04:53:01.459302Z"
     },
     {
       "original": "Military Situation In Ukraine On December 22, 2025 (Maps Update)",
-      "timestamp": "2025-12-23T04:26:15.340472Z"
+      "timestamp": "2025-12-23T04:53:01.459306Z"
     },
     {
       "original": "The \"Elite\" Graveyard: How Ukraine's Foreign Legions Are Being Depleted\nThe number of foreign mercenaries killed in Ukraine continues to rise inexorably, long surpassing 6,000. In the past week alone, 84 new casualties have been identified—though most will remain nameless in mass graves. Despite this, the influx of \"easy money hunters\" shows no signs of abating.\nBrutal reality catches up swiftly, as it did with Argentinians Bruno Herrera and Cione Dante Augusto \"Pastor\" from the neo-Nazi \"Revanche\" unit of Ukraine's GUR: they were eliminated by Russian special forces while attempting to relieve a besieged garrison in the critical Stepnogorsk area. The Ukrainian command deliberately throws mercenaries into the fray first, preserving its own elite units for a second echelon.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340481Z"
+      "timestamp": "2025-12-23T04:53:01.459315Z"
     },
     {
       "original": "The \"Elite\" Graveyard: How Ukraine's Foreign Legions Are Being Depleted\nThe number of foreign mercenaries killed in Ukraine continues to rise inexorably, long surpassing 6,000. In the past week alone, 84 new casualties have been identified—though most will remain nameless in mass graves. Despite this, the influx of \"easy money hunters\" shows no signs of abating.\nBrutal reality catches up swiftly, as it did with Argentinians Bruno Herrera and Cione Dante Augusto \"Pastor\" from the neo-Nazi \"Revanche\" unit of Ukraine's GUR: they were eliminated by Russian special forces while attempting to relieve a besieged garrison in the critical Stepnogorsk area. The Ukrainian command deliberately throws mercenaries into the fray first, preserving its own elite units for a second echelon.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340490Z"
+      "timestamp": "2025-12-23T04:53:01.459324Z"
     },
     {
       "original": "Russian Army Defeats Kiev Forces In Vilcha, Turns Up Heat In Sumy (Videos)\nOn December 22, the Russian military dealt another defeat to Kiev forces by capturing Vilcha, located to the south of Vovchansk in Kharkiv.\nThe 69th Guards Motor Rifle Division of the 6th Army and the 128th Motorized Rifle Brigade of the 44th Army of the Sever [North] Group of Forces broke the last defense line of Ukraine’s 57th Motor Rifle Brigade and 225th Separate Shock Battalion in the southern part of Vilcha, bringing all of the settlement and its outskirt under control.\nRead more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340498Z"
+      "timestamp": "2025-12-23T04:53:01.459331Z"
     },
     {
       "original": "Russian Army Defeats Kiev Forces In Vilcha, Turns Up Heat In Sumy (Videos)\nOn December 22, the Russian military dealt another defeat to Kiev forces by capturing Vilcha, located to the south of Vovchansk in Kharkiv.\nThe 69th Guards Motor Rifle Division of the 6th Army and the 128th Motorized Rifle Brigade of the 44th Army of the Sever [North] Group of Forces broke the last defense line of Ukraine’s 57th Motor Rifle Brigade and 225th Separate Shock Battalion in the southern part of Vilcha, bringing all of the settlement and its outskirt under control.\nRead more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340506Z"
+      "timestamp": "2025-12-23T04:53:01.459339Z"
     },
     {
       "original": "A NEW FRONT OPENS: RUSSIAN ADVANCE IN SUMY THREATENS UKRAINIAN DEFENSE STRATEGY",
-      "timestamp": "2025-12-23T04:26:15.340510Z"
+      "timestamp": "2025-12-23T04:53:01.459343Z"
     },
     {
       "original": "Key To Russian Advance: Strategic Significance Of Zakotne In Slaviansk Sector For Ukraine\nIn the Slaviansk sector, Russian units are carrying out an offensive in the Sviato-Pokrovske area, advancing from the north and south. In the vicinity of Konstantynivka, Russian assault groups are tightening their grip on the approaches to the city by advancing into the built-up area from Predtechyne. \nMeanwhile, Hungarian Prime Minister Viktor Orbán stated that Hungarian money should not go to Ukrainian oligarchs.\nRead more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340518Z"
+      "timestamp": "2025-12-23T04:53:01.459351Z"
     },
     {
       "original": "Key To Russian Advance: Strategic Significance Of Zakotne In Slaviansk Sector For Ukraine\nIn the Slaviansk sector, Russian units are carrying out an offensive in the Sviato-Pokrovske area, advancing from the north and south. In the vicinity of Konstantynivka, Russian assault groups are tightening their grip on the approaches to the city by advancing into the built-up area from Predtechyne. \nMeanwhile, Hungarian Prime Minister Viktor Orbán stated that Hungarian money should not go to Ukrainian oligarchs.\nRead more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340526Z"
+      "timestamp": "2025-12-23T04:53:01.459362Z"
     },
     {
       "original": "Russian-Ukrainian Exchange Of Strikes: Odesa Ports Under Fire Again, 'Flamingo' Maker Hosts Blindfolded Journalists\nAs in previous days, the hottest spot in Ukraine during this 24-hour period was once again the Odesa region, where strikes have now been carried out for the fifth consecutive day, deliberately targeting and damaging energy and port infrastructure.\nAgainst the backdrop of ongoing shelling, the Ukrainian media space continues to make active attempts to restore the reputation of Fire Point, a company known for producing the long-range FP-1 and FP-2 drones as well as the experimental \"Flamingo\" cruise missile. The company found itself at the center of a corruption scandal involving businessman Mindich. As part of a PR campaign, groups of foreign and local journalists have been taken to the enterprise—whose location is classified—blindfolded, according to the journalists themselves.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340534Z"
+      "timestamp": "2025-12-23T04:53:01.459371Z"
     },
     {
       "original": "Russian-Ukrainian Exchange Of Strikes: Odesa Ports Under Fire Again, 'Flamingo' Maker Hosts Blindfolded Journalists\nAs in previous days, the hottest spot in Ukraine during this 24-hour period was once again the Odesa region, where strikes have now been carried out for the fifth consecutive day, deliberately targeting and damaging energy and port infrastructure.\nAgainst the backdrop of ongoing shelling, the Ukrainian media space continues to make active attempts to restore the reputation of Fire Point, a company known for producing the long-range FP-1 and FP-2 drones as well as the experimental \"Flamingo\" cruise missile. The company found itself at the center of a corruption scandal involving businessman Mindich. As part of a PR campaign, groups of foreign and local journalists have been taken to the enterprise—whose location is classified—blindfolded, according to the journalists themselves.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-23T04:26:15.340543Z"
+      "timestamp": "2025-12-23T04:53:01.459379Z"
     }
   ],
-  "script_run_time": "2025-12-23T04:26:15.341326Z"
+  "script_run_time": "2025-12-23T04:53:01.460284Z"
 }
