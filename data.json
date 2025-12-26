@@ -1,221 +1,217 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА на півночі Рівненщини, курс на захід.\n🛵\n БпЛА на півдні Чернігівщини, в напрямку столиці.",
-      "timestamp": "2025-12-26T12:33:49.947063Z"
-    },
-    {
-      "original": "🛵\n Ударний БпЛА над н.п.Любичів, курс на Київ. В разі оголошення повітряної тривоги перебувайте в укриттях!",
-      "timestamp": "2025-12-26T12:33:49.947078Z"
-    },
-    {
-      "original": "🛵\n Ворожий БпЛА над Києвом, курс на південь. Перебувайте в укриттях!",
-      "timestamp": "2025-12-26T12:33:49.947083Z"
-    },
-    {
-      "original": "🚀\nПуски керованих авіаційних бомб ворожою тактичною авіацією на Запоріжжя та Херсонщину.",
-      "timestamp": "2025-12-26T12:33:49.947091Z"
-    },
-    {
-      "original": "Швидкісна на Миколаївщині, курс на Кіровоградщину.",
-      "timestamp": "2025-12-26T12:33:49.947095Z"
-    },
-    {
-      "original": "Швидкісна на Миколаївщині, курс на Кіровоградщину.",
-      "timestamp": "2025-12-26T12:33:49.947098Z"
-    },
-    {
-      "original": "Курс на н.п. Братське на Миколаївщині.",
-      "timestamp": "2025-12-26T12:33:49.947102Z"
+      "original": "Швидкісна ціль на Черкащині на Умань.",
+      "timestamp": "2025-12-26T13:10:38.935223Z"
     },
     {
       "original": "Швидкісна ціль на Черкащині на Умань.",
-      "timestamp": "2025-12-26T12:33:49.947105Z"
-    },
-    {
-      "original": "Швидкісна ціль на Черкащині на Умань.",
-      "timestamp": "2025-12-26T12:33:49.947111Z"
+      "timestamp": "2025-12-26T13:10:38.935235Z"
     },
     {
       "original": "Курс на н.п. Монастирище на Черкащині.",
-      "timestamp": "2025-12-26T12:33:49.947114Z"
+      "timestamp": "2025-12-26T13:10:38.935239Z"
     },
     {
       "original": "⚠\nУвага!\nВідбій ракетної небезпеки.",
-      "timestamp": "2025-12-26T12:33:49.947119Z"
+      "timestamp": "2025-12-26T13:10:38.935245Z"
     },
     {
       "original": "🛸\n В Чорному морі поблизу Одещини розвідувальний БпЛА противника, який може бути навідником  ворожих засобів ураження! Залучено засоби для його збиття.",
-      "timestamp": "2025-12-26T12:33:49.947125Z"
+      "timestamp": "2025-12-26T13:10:38.935251Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Житомирщини, курс на захід.",
-      "timestamp": "2025-12-26T12:33:49.947129Z"
+      "timestamp": "2025-12-26T13:10:38.935256Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА на Запоріжжя з півдня.",
-      "timestamp": "2025-12-26T12:33:49.947134Z"
+      "timestamp": "2025-12-26T13:10:38.935261Z"
     },
     {
       "original": "🛵\n БпЛА на сході Харківщини, на півдні від Куп'янська, курс на південь.",
-      "timestamp": "2025-12-26T12:33:49.947139Z"
+      "timestamp": "2025-12-26T13:10:38.935266Z"
     },
     {
       "original": "🛵\n БпЛА на півночі Чернігівщини, курс на південь.",
-      "timestamp": "2025-12-26T12:33:49.947143Z"
+      "timestamp": "2025-12-26T13:10:38.935270Z"
     },
     {
       "original": "🛵\n🛸\n БпЛА на Запоріжжя з півдня.",
-      "timestamp": "2025-12-26T12:33:49.947149Z"
+      "timestamp": "2025-12-26T13:10:38.935276Z"
     },
     {
       "original": "🛵\n БпЛА на н.п.Дубровиця зі сходу на Рівненщині.",
-      "timestamp": "2025-12-26T12:33:49.947155Z"
+      "timestamp": "2025-12-26T13:10:38.935284Z"
     },
     {
       "original": "🛵\n БпЛА в напрямку н.п.Коростень та на н.п.Малин з півночі на Житомирщині.",
-      "timestamp": "2025-12-26T12:33:49.947159Z"
+      "timestamp": "2025-12-26T13:10:38.935289Z"
     },
     {
       "original": "Ворожий БпЛА на Франківщині, курс на н.п. Бурштин.",
-      "timestamp": "2025-12-26T12:33:49.947162Z"
+      "timestamp": "2025-12-26T13:10:38.935292Z"
     },
     {
       "original": "Ворожий БпЛА на Франківщині, курс на н.п. Бурштин.",
-      "timestamp": "2025-12-26T12:33:49.947165Z"
+      "timestamp": "2025-12-26T13:10:38.935295Z"
     },
     {
       "original": "Відбій загрози!",
-      "timestamp": "2025-12-26T12:33:49.947168Z"
+      "timestamp": "2025-12-26T13:10:38.935299Z"
     },
     {
       "original": "🛵\n БпЛА поблизу Житомира, можливий вектор руху на місто.\n🛵\n БпЛА на півдні від Запоріжжя, курс на північ.\n🛵\n БпЛА з півночі на н.п. Путивль на Сумщині.",
-      "timestamp": "2025-12-26T12:33:49.947176Z"
+      "timestamp": "2025-12-26T13:10:38.935307Z"
     },
     {
-      "original": "~2 more storm shadows are flying past Debaltseve, Luhansk Oblast to Rostov Oblast.",
-      "timestamp": "2025-12-26T12:33:50.538514Z"
+      "original": "🛵\n БпЛА на півдні Одещини на н.п.Овідіополь.",
+      "timestamp": "2025-12-26T13:10:38.935314Z"
+    },
+    {
+      "original": "🛵\n БпЛА з Житомирщини курсом на північ Вінниччини.",
+      "timestamp": "2025-12-26T13:10:38.935320Z"
+    },
+    {
+      "original": "🛵\n БпЛА на півночі Вінниччини, курс на н.п. Хмільник.",
+      "timestamp": "2025-12-26T13:10:38.935324Z"
+    },
+    {
+      "original": "🚀\n Пуски КАБ на Донеччину.",
+      "timestamp": "2025-12-26T13:10:38.935329Z"
+    },
+    {
+      "original": "🛵\n БпЛА в напрямку н.п.Літин на Вінниччині.",
+      "timestamp": "2025-12-26T13:10:38.935333Z"
+    },
+    {
+      "original": "🛵\n БпЛА на Суми з півночі.",
+      "timestamp": "2025-12-26T13:10:38.935337Z"
     },
     {
       "original": "2 missiles in Luhansk Oblast changed course to the south/southeast, flying past Rovenky to Rostov-on-Don",
-      "timestamp": "2025-12-26T12:33:50.538525Z"
+      "timestamp": "2025-12-26T13:10:39.689106Z"
     },
     {
       "original": "2-4 missiles are flying to Temyruk, Krasnodar Krai. The port there was under attack from UAVs earlier. Russian air defence is working from Krasnodar Krai.\n2 missiles changed course to the east, flying past Novocherkassk, Rostov Oblast.",
-      "timestamp": "2025-12-26T12:33:50.538530Z"
+      "timestamp": "2025-12-26T13:10:39.689119Z"
     },
     {
       "original": "Missile strikes were carried out on the Novoshakhtinsk Oil Refinery, Rostov Oblast.",
-      "timestamp": "2025-12-26T12:33:50.538533Z"
+      "timestamp": "2025-12-26T13:10:39.689126Z"
     },
     {
       "original": "Missile strikes were carried out on the Novoshakhtinsk Oil Refinery, Rostov Oblast.",
-      "timestamp": "2025-12-26T12:33:50.538537Z"
+      "timestamp": "2025-12-26T13:10:39.689130Z"
     },
     {
       "original": "The fire at the Novoshakhtinsk Oil Refinery is growing",
-      "timestamp": "2025-12-26T12:33:50.538541Z"
+      "timestamp": "2025-12-26T13:10:39.689134Z"
     },
     {
       "original": "It seems to be all clear for Crimea and Krasnodar Krai. The missiles flying to attack Temryuk were likely all shot down.",
-      "timestamp": "2025-12-26T12:33:50.538544Z"
+      "timestamp": "2025-12-26T13:10:39.689137Z"
     },
     {
       "original": "More from Novoshakhtinsk Oil Refinery, Rostov Oblast.\nRussian censorship sucks lol",
-      "timestamp": "2025-12-26T12:33:50.538548Z"
+      "timestamp": "2025-12-26T13:10:39.689141Z"
     },
     {
       "original": "Approximate routes of the Storm Shadow cruise missiles used by Ukraine during this attack.\n~8 missiles were used in total, likely launched from 2 Su-24s near Kryvyi Rih, Dnipropetrovsk Oblast, and 2 Su-24s near Slovyansk, Donetsk Oblast.\n2 impacts were recorded to the Novoshakhtinsk Oil Refinery in Rostov Oblast. \nThe other 6 missiles were likely shot down (2 over Russian-controlled Kherson Oblast, 2 over Russian-controlled Luhansk Oblast, and 2 over the Sea of Azov).",
-      "timestamp": "2025-12-26T12:33:50.538554Z"
+      "timestamp": "2025-12-26T13:10:39.689147Z"
     },
     {
       "original": "In the Dobropillya direction, Russian forces continued their assault operations and have made additional progress over the last 10 days.\nIn the west, Russian forces consolidated in the rest of Nove Shakhove following earlier infiltrations, allowing for them to accumulate and begin attacks on Vilne. They subsequently advanced north up three parallel treelines, capturing new positions there. Unsuccesful attacks were then then carried out on Vilne. \nIn the east, Russian forces began pushing northwest from the gulley west of Shakhove and captured new positions in the forested areas in the direction of the clay quarries. \n+ ~3.54 km² in favour of Russia.  \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538561Z"
+      "timestamp": "2025-12-26T13:10:39.689154Z"
     },
     {
       "original": "In the Stepnohirsk direction, Russian forces continued to rapidly advance over the last week, further collapsing Ukrainian defences. \nIn the west, Russian forces consolidated in the remaining parts of southern Prymorske dachas and continued advancing in southern Prymorske. They captured the entirety of the residential area south of the first gulley, while DRGs advanced further north to the second gulley and the village centre. The Russians then advanced west along the first gulley towards the pumping station, linking up with other assault groups who consolidated along the E-105 Highway. DRGs then infiltrated further along the highway and reached the large forest east of Prymorske.\nTo the east, Russian forces managed to consolidate in the treelines north of Stepnohirsk following earlier attacks and are attempting to infiltrate further north. They also captured the rest of the treeline stretching west from the solar field. \nIn the east, Russian forces consolidated in the treelines southwest of Lukyanivske following earlier attacks and began advancing further west down the treelines in the direction of Pavlivka. This was done in coordination with attacks along the treelines on the tactical heights north of Stepove. \n+ ~26.13 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538569Z"
+      "timestamp": "2025-12-26T13:10:39.689162Z"
     },
     {
       "original": "In the Orikhiv direction, Russian forces resumed their assault operations and have made new progress in two different areas.\nIn the west, Russian forces began pushing northwest from the area of Nesteryanka and captured a series of fortifications along six parallel treelines which had held since 2023. \nTo the east, Russian forces resumed their assault operations in Mala Tokmachka. They recaptured the railway station and positions in the nearby streets and began attacking the ruins of the prison. \n+ ~3.79 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538576Z"
+      "timestamp": "2025-12-26T13:10:39.689170Z"
     },
     {
       "original": "In the Hulyaipole direction, Russian forces continued to advance in Hulyaipole and are coming closer to completely capturing the city.\nIn the south, Ukrainian forces continued to incrementally withdraw from the 2023 fortifications due to the threat of encirclement, allowing for the Russians to secure additional positions in two different treelines. They also improved their positions in the nearby forest plantations.\nTo the north, Russian forces captured additional positions in the low-rise residential areas on Nova and Petrovskoho Streets. They also continued clearing the city centre and captured the remaining three-story apartment buildings there.\nTo the northwest, the Russians bypassed the rest of the city centre from the north and entrenched along the eastern part of Travnya 1st street, and in the surrounding areas. They also continued expanding their zone of control in the northwestern part of Hulyaipole, and broke through Ukrainian positions on Ally Onoshko Street towards the westernmost edge of the city.\n+ ~4.96 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538583Z"
+      "timestamp": "2025-12-26T13:10:39.689177Z"
     },
     {
       "original": "In the Hulyaipole direction, Russian forces continued to advance in Hulyaipole and are coming closer to completely capturing the city.  In the south, Ukrainian forces continued to incrementally withdraw from the 2023 fortifications due to the threat of encirclement…",
-      "timestamp": "2025-12-26T12:33:50.538589Z"
+      "timestamp": "2025-12-26T13:10:39.689181Z"
     },
     {
       "original": "Russian forces now control approximately 83% of Hulyaipole.",
-      "timestamp": "2025-12-26T12:33:50.538593Z"
+      "timestamp": "2025-12-26T13:10:39.689184Z"
     },
     {
       "original": "In the Novopavlivka direction, Russian forces continued their assault operations and have advanced in three different areas.\nIn the west, Russian forces advanced in the northwestern part of Ivanivka and have begun attempts at consolidating in part of Ukraine's main defensive line to the north. They also improved their positions in the southern streets, reaching the village centre. Currently, the rest of Ivanivka is in the grey-zone, with both Russian and Ukrainian forces holding overlapping temporary positions throughout it in a very fluid and dynamic situation. \nIn the east, Russian forces continued to slowly advance southwest of Novopavlivka. They improved their positions north of the fortified forest and captured new positions in the forested areas there. \n+ ~1.99 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538599Z"
+      "timestamp": "2025-12-26T13:10:39.689191Z"
     },
     {
       "original": "In the Dobropillya direction, both Russian and Ukrainian forces have advanced over the last 10 days, with Ukrainian forces making significant progress in a series of coordinated counterattacks.\nNorth of Pokrovsk, Ukrainian forces launched a mechanised assault towards the northwestern outskirts of Pokrovsk. They managed to recapture the two pig farm complexes and a series of treeline positions, however the attack on the outskirts of the city, which involved Abrams tanks from the 425th Separate Assault Regiment \"Skala\", was ultimately repelled.\nIn Rodynske, Ukrainian forces have resumed their assault operations in the city. They advanced east from their strongpoints and entered the southeastern streets, outflanking Russian positions in the city centre. They cleared part of the low-rise residential area there and entrenched in the western part of the southeastern high-rise micro-district, which the Russians are now bombing with FAB glide-bombs. They also entrenched in a number of 3-story-buildings in western Rodynske.\nNortheast of Rodynske, Ukrainian forces have made significant progress over the last 10 days. They recaptured the southern part of Suhketske and broke through to the Krasnolymanskaya Mine, establishing full control over this crucial stronghold. Building on their momentum, they advanced further east to one of the ventilation shafts for the mine, capturing it and the surrounding areas. Russian forces subsequently carried out a massive, mechanised assault consisting of around 40 heavy and light vehicles of various types on the ventilation shaft, which was repelled with heavy losses. \nIn Myrnohrad, Russian forces continued finalising their clearing operations in the central and northern parts of the city. They managed to complete the capture of the city centre and secured the rest of the residential areas to the west. They also continued clearing the northern streets, consolidating in the low-rise residential streets south and southeast of the cemetery.\n+ ~10.84 km² in favour of Ukraine.\n+ ~0.79 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2025-12-26T12:33:50.538608Z"
+      "timestamp": "2025-12-26T13:10:39.689200Z"
     },
     {
       "original": "Russian forces have captured the village of Novomarkove, Rai-Oleksandrivka direction, Donetsk Oblast.\nPre-war population: ~63.\nTotal land area: ~0.65 km².\nThe fighting for Novomarkove lasted <10 days.",
-      "timestamp": "2025-12-26T12:33:50.538613Z"
+      "timestamp": "2025-12-26T13:10:39.689206Z"
     },
     {
       "original": "Russian forces have recaptured the village of Varachyne, Khotin direction, Sumy Oblast.\nPre-war population: ~62.\nTotal land area: ~0.37 km².\nThe fighting for Varachyne lasted approximately 75 days.",
-      "timestamp": "2025-12-26T12:33:50.538618Z"
+      "timestamp": "2025-12-26T13:10:39.689211Z"
     },
     {
       "original": "A Russian soldier is seen draping the flag of the 57th Brigade over the statue of Nestor Makhno in the city centre of Hulyaipole. \nCoordinates: 47.666078, 36.2529328",
-      "timestamp": "2025-12-26T12:33:50.538622Z"
+      "timestamp": "2025-12-26T13:10:39.689217Z"
+    },
+    {
+      "original": "David is so annoyed at me for reporting about the reality in Ukraine that he is now openly lying about me, beyond just speculative opinions. The only time I ever spoke to him through a call was in a public space prior to him blocking and condemning me. I have never had a private call with him, and the fact that he is lying to himself and others shows how desperate he is. \nIt seems like every couple of weeks he has another little meltdown, calling me Pro-Russian and the closest friend of @.squatsons. But what's funny is that he can't even get his info about me correct.\nDavid is an American boomer, indoctrinated since birth, who is now spouting his nonsense online to an ever-shrinking audience of comfort-media-consumers. He's someone that you should never take seriously, unless you like being lied to.\nBut don't worry, his grift will be over soon. Any form of reputation he still has will be lost once this war is over, as people realise that he has lied about everything. I have a whole catalogue of stupid things he's posted that have aged terribly and contradicted earlier statements he's made. Perhaps I should post them at some point?",
+      "timestamp": "2025-12-26T13:10:39.689223Z"
     },
     {
       "original": "Russian Troops Capture Ukrainian Headquarters At Heart Of Huliaipole (Videos)\nOn December 25, the Russian military made additional gains in the city of Huliaipole, and broke through Ukrainian defenses in two other areas in Zaporizhzhia.\nThe Vostok [East] Group of Forces advanced in the heart of Huliaipole, mainly in Sobornaya Street where Russian troops reportedly managed to capture the headquarters of Ukraine’s 102nd Territorial Defense Brigade. The troops also expanded their control in the northern part of the city.\nMeanwhile to the south of the city, the troops advanced in the outskirts, capturing a large strip of the T-0401 to the north of Dorozhnianka.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104414Z"
+      "timestamp": "2025-12-26T13:10:40.535123Z"
     },
     {
       "original": "Russian Troops Capture Ukrainian Headquarters At Heart Of Huliaipole (Videos)\nOn December 25, the Russian military made additional gains in the city of Huliaipole, and broke through Ukrainian defenses in two other areas in Zaporizhzhia.\nThe Vostok [East] Group of Forces advanced in the heart of Huliaipole, mainly in Sobornaya Street where Russian troops reportedly managed to capture the headquarters of Ukraine’s 102nd Territorial Defense Brigade. The troops also expanded their control in the northern part of the city.\nMeanwhile to the south of the city, the troops advanced in the outskirts, capturing a large strip of the T-0401 to the north of Dorozhnianka.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104431Z"
+      "timestamp": "2025-12-26T13:10:40.535139Z"
     },
     {
       "original": "Russia Systematically Dismantles Ukraine's Energy Infrastructure Amid Mutual Strikes\nThe Ukrainian Air Force reported that on the night of December 25, Russian forces launched 131 attack drones, of which 106 were intercepted or suppressed by air defense systems. At the same time, the Russian side stated that it had destroyed 141 Ukrainian drones\n.\nReports indicate that the dynamics of strikes on Ukrainian territory continue to demonstrate Russia's strategic goal: the systematic dismantling of Ukraine's energy system, particularly in northern regions. In recent days, key substations in Chernihiv and Sumy regions have been targeted. This tactic pursues a pragmatic objective — isolating the combat zone by disrupting energy supply. The northern corridor is critically important for the Ukrainian army as a route for deploying reserves. Strikes on energy facilities aim to narrow this window of opportunity, complicate logistics, and deprive regions of resilience.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104441Z"
+      "timestamp": "2025-12-26T13:10:40.535149Z"
     },
     {
       "original": "Russia Systematically Dismantles Ukraine's Energy Infrastructure Amid Mutual Strikes\nThe Ukrainian Air Force reported that on the night of December 25, Russian forces launched 131 attack drones, of which 106 were intercepted or suppressed by air defense systems. At the same time, the Russian side stated that it had destroyed 141 Ukrainian drones\n.\nReports indicate that the dynamics of strikes on Ukrainian territory continue to demonstrate Russia's strategic goal: the systematic dismantling of Ukraine's energy system, particularly in northern regions. In recent days, key substations in Chernihiv and Sumy regions have been targeted. This tactic pursues a pragmatic objective — isolating the combat zone by disrupting energy supply. The northern corridor is critically important for the Ukrainian army as a route for deploying reserves. Strikes on energy facilities aim to narrow this window of opportunity, complicate logistics, and deprive regions of resilience.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104449Z"
+      "timestamp": "2025-12-26T13:10:40.535157Z"
     },
     {
       "original": "ALL HELL ABOUT TO BREAK LOOSE IN SYRIA",
-      "timestamp": "2025-12-26T12:33:51.104453Z"
+      "timestamp": "2025-12-26T13:10:40.535161Z"
     },
     {
       "original": "From Siversk To Slaviansk: Russian Army Fights Ukrainian Forces For Reznykivka And Zakotne\nIn the Sumy sector, Russian units are advancing on a broad front up to 700 meters deep. After seizing control of the center and eastern part of Andriivka, they expanded their sphere of influence in the Krasnopillia district. \nAnd in the Slaviansk sector, Russian units established full control over Sviato-Pokrovske, paving the way for a further advance to the west. Heavy fighting continues in Zakotne, where Ukrainian forces, capturing the high ground, are trying to impede the advance. \nMeanwhile, in the Zaporizhzhia sector, Russian assault units are consolidating bridgeheads on the left bank of the Haichur River. They fully control Andriivka and are fighting for Bratske and Huliaipole.\nThese military successes unfold against a backdrop of mounting criticism of the European strategy. Some politicians deem it a \"dangerous path\" that prolongs the conflict and refuses dialogue.\nRead more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104462Z"
+      "timestamp": "2025-12-26T13:10:40.535170Z"
     },
     {
       "original": "From Siversk To Slaviansk: Russian Army Fights Ukrainian Forces For Reznykivka And Zakotne\nIn the Sumy sector, Russian units are advancing on a broad front up to 700 meters deep. After seizing control of the center and eastern part of Andriivka, they expanded their sphere of influence in the Krasnopillia district. \nAnd in the Slaviansk sector, Russian units established full control over Sviato-Pokrovske, paving the way for a further advance to the west. Heavy fighting continues in Zakotne, where Ukrainian forces, capturing the high ground, are trying to impede the advance. \nMeanwhile, in the Zaporizhzhia sector, Russian assault units are consolidating bridgeheads on the left bank of the Haichur River. They fully control Andriivka and are fighting for Bratske and Huliaipole.\nThese military successes unfold against a backdrop of mounting criticism of the European strategy. Some politicians deem it a \"dangerous path\" that prolongs the conflict and refuses dialogue.\nRead more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104471Z"
+      "timestamp": "2025-12-26T13:10:40.535180Z"
     },
     {
       "original": "Energy Strikes: Summary Of Russian Combat Footage From December 25, 2025\nOn December 25, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104477Z"
+      "timestamp": "2025-12-26T13:10:40.535186Z"
     },
     {
       "original": "Energy Strikes: Summary Of Russian Combat Footage From December 25, 2025\nOn December 25, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104484Z"
+      "timestamp": "2025-12-26T13:10:40.535193Z"
     },
     {
       "original": "U.S. Launches Strikes In Nigeria In Response To Killing Of Christians (Video, Photos)\nPresident Donald Trump announced on December 25 that the United States military conducted “powerful and deadly” strikes against ISIS targets in northwestern Nigeria, well over a month after warning the West African nation over the issue.\n“Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria, who have been targeting and viciously killing, primarily, innocent Christians, at levels not seen for many years, and even Centuries!” Trump wrote on his Truth Social network.\n“I have previously warned these Terrorists that if they did not stop the slaughtering of Christians, there would be hell to pay, and tonight, there was,” the president continued.\"\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104493Z"
+      "timestamp": "2025-12-26T13:10:40.535203Z"
     },
     {
       "original": "U.S. Launches Strikes In Nigeria In Response To Killing Of Christians (Video, Photos)\nPresident Donald Trump announced on December 25 that the United States military conducted “powerful and deadly” strikes against ISIS targets in northwestern Nigeria, well over a month after warning the West African nation over the issue.\n“Tonight, at my direction as Commander in Chief, the United States launched a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria, who have been targeting and viciously killing, primarily, innocent Christians, at levels not seen for many years, and even Centuries!” Trump wrote on his Truth Social network.\n“I have previously warned these Terrorists that if they did not stop the slaughtering of Christians, there would be hell to pay, and tonight, there was,” the president continued.\"\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-26T12:33:51.104502Z"
+      "timestamp": "2025-12-26T13:10:40.535212Z"
     }
   ],
-  "script_run_time": "2025-12-26T12:33:51.105301Z"
+  "script_run_time": "2025-12-26T13:10:40.535933Z"
 }
