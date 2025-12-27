@@ -1,225 +1,245 @@
 {
   "messages": [
     {
-      "original": "🛵\n Група БпЛА повз Бровари  у напрямку Києва.",
-      "timestamp": "2025-12-27T05:49:45.087389Z"
-    },
-    {
-      "original": "🛵\n Декілька груп БпЛА з півночі курсом на Київ.",
-      "timestamp": "2025-12-27T05:49:45.087409Z"
-    },
-    {
       "original": "🛵\n БпЛА на Київщині курсом на Фастів.",
-      "timestamp": "2025-12-27T05:49:45.087416Z"
+      "timestamp": "2025-12-27T05:55:19.019606Z"
     },
     {
       "original": "🛵\n БпЛА з Чернігівщини на Київщину.\n🛵\n БпЛА з Сумщини на Чернігівщину.\n🛵\n БпЛА з Харківщини на Полтавщину.\n🛵\n БпЛА з Дніпропетровщини та Миколаївщини на Кіровоградщину.\n🛵\n БпЛА з Миколаївщини на Одещину.\n🛵\n БпЛА з Херсонщини на Миколаївщину.",
-      "timestamp": "2025-12-27T05:49:45.087430Z"
+      "timestamp": "2025-12-27T05:55:19.019630Z"
     },
     {
       "original": "🛵\n Група БпЛА з півночі на Київ.",
-      "timestamp": "2025-12-27T05:49:45.087436Z"
+      "timestamp": "2025-12-27T05:55:19.019635Z"
     },
     {
       "original": "🛵\n БпЛА з півдня курсом на Кропивницький.",
-      "timestamp": "2025-12-27T05:49:45.087441Z"
+      "timestamp": "2025-12-27T05:55:19.019640Z"
     },
     {
       "original": "🛵\n Чернігів - БпЛА у напрямку міста!",
-      "timestamp": "2025-12-27T05:49:45.087446Z"
+      "timestamp": "2025-12-27T05:55:19.019645Z"
     },
     {
       "original": "🛵\n БпЛА з півночі курсом на Київ.",
-      "timestamp": "2025-12-27T05:49:45.087451Z"
+      "timestamp": "2025-12-27T05:55:19.019649Z"
     },
     {
       "original": "🛵\n БпЛА повз Бровари у напрямку Києва.",
-      "timestamp": "2025-12-27T05:49:45.087460Z"
+      "timestamp": "2025-12-27T05:55:19.019653Z"
     },
     {
       "original": "🚀\nГрупа крилатих ракет на Сумщині повз Лебедин у західному напрямку.",
-      "timestamp": "2025-12-27T05:49:45.087466Z"
+      "timestamp": "2025-12-27T05:55:19.019658Z"
     },
     {
       "original": "🚀\nКР на Полтавщині курсом на Черкащину.\n🚀\nКР з Сумщини на Полтавщину.",
-      "timestamp": "2025-12-27T05:49:45.087472Z"
+      "timestamp": "2025-12-27T05:55:19.019663Z"
     },
     {
       "original": "🛵\n Черкаси - БпЛА у напрямку міста.",
-      "timestamp": "2025-12-27T05:49:45.087476Z"
+      "timestamp": "2025-12-27T05:55:19.019668Z"
     },
     {
       "original": "🚀\nКР на Черкащині курсом на Кіровоградщину.\n🚀\nКР з Полтавщини на Черкащину.",
-      "timestamp": "2025-12-27T05:49:45.087483Z"
+      "timestamp": "2025-12-27T05:55:19.019674Z"
     },
     {
       "original": "🚀\nДекілька груп КР на Черкащині у західному напрямку.",
-      "timestamp": "2025-12-27T05:49:45.087489Z"
+      "timestamp": "2025-12-27T05:55:19.019682Z"
     },
     {
       "original": "🚀\nКР на Сумщині курсом на Чернігівщину.",
-      "timestamp": "2025-12-27T05:49:45.087494Z"
+      "timestamp": "2025-12-27T05:55:19.019686Z"
     },
     {
       "original": "🚀\nГрупа КР з Черкащини на Київщину (Білоцерківський район).",
-      "timestamp": "2025-12-27T05:49:45.087499Z"
+      "timestamp": "2025-12-27T05:55:19.019691Z"
     },
     {
       "original": "🛵\n БпЛА з півночі курсом на Київ.",
-      "timestamp": "2025-12-27T05:49:45.087503Z"
+      "timestamp": "2025-12-27T05:55:19.019695Z"
     },
     {
       "original": "🚀\nШвидкісна ціль в акваторії Чорного моря в напрямку півдня Одещини.",
-      "timestamp": "2025-12-27T05:49:45.087507Z"
+      "timestamp": "2025-12-27T05:55:19.019699Z"
     },
     {
       "original": "🚀\nКР з півдня курсом на Київ!",
-      "timestamp": "2025-12-27T05:49:45.087512Z"
+      "timestamp": "2025-12-27T05:55:19.019704Z"
     },
     {
       "original": "🚀\nГрупа КР на Чернігівщині курсом на Київщину.",
-      "timestamp": "2025-12-27T05:49:45.087516Z"
+      "timestamp": "2025-12-27T05:55:19.019708Z"
     },
     {
-      "original": "Approximate missile movements right now.\n5 groups are detected.",
-      "timestamp": "2025-12-27T05:49:45.548035Z"
+      "original": "🚀\nГрупа КР з півдня повз Білу Церкву.",
+      "timestamp": "2025-12-27T05:55:19.019713Z"
     },
     {
-      "original": "2 groups to Moshny, Cherkasy Oblast.\n3 groups to Lubny, Poltava Oblast.\nExtremely high threat to Kyiv",
-      "timestamp": "2025-12-27T05:49:45.548050Z"
-    },
-    {
-      "original": "The 2 Tu-22m3s are flying over Kerch, Crimea towards their launch lines south/southwest of Sevastopol in the Black Sea",
-      "timestamp": "2025-12-27T05:49:45.548054Z"
-    },
-    {
-      "original": "1 Kh-101 interception over northeastern Cherkasy Oblast",
-      "timestamp": "2025-12-27T05:49:45.548057Z"
-    },
-    {
-      "original": "1 Kh-101 interception over northeastern Cherkasy Oblast",
-      "timestamp": "2025-12-27T05:49:45.548060Z"
-    },
-    {
-      "original": "F-16/Mirage-2000 probably",
-      "timestamp": "2025-12-27T05:49:45.548064Z"
-    },
-    {
-      "original": "At least two more missiles have been shot down over Cherkasy Oblast.\n3 groups are flying towards northern Kirovohorad Oblast.\n3 groups are flying to Veremiivka, Cherkasy Oblast.",
-      "timestamp": "2025-12-27T05:49:45.548068Z"
-    },
-    {
-      "original": "Approximate movements right now.\nMissiles are beginning to fly past Uman towards Vinnytsia Oblast.\nFrom there they will likely turn back to Kyiv.",
-      "timestamp": "2025-12-27T05:49:45.548073Z"
-    },
-    {
-      "original": "Approximate movements. No major changes, they continue flying towards Vinnytsia Oblast.\nThe front 3 groups have been thinned out.",
-      "timestamp": "2025-12-27T05:49:45.548078Z"
+      "original": "🚀\nКР з півночі на Київ!",
+      "timestamp": "2025-12-27T05:55:19.019717Z"
     },
     {
       "original": "Missiles are turning towards Kyiv",
-      "timestamp": "2025-12-27T05:49:45.548081Z"
+      "timestamp": "2025-12-27T05:55:19.440354Z"
     },
     {
       "original": "Launch maneuvers from the Tu-22m3s",
-      "timestamp": "2025-12-27T05:49:45.548084Z"
+      "timestamp": "2025-12-27T05:55:19.440366Z"
     },
     {
       "original": "3 groups of Kh-101s changed course to Bila Tserkba, Kyiv Oblast.\n3 groups follow behind.\n2 new groups entered Sumy Oblast and are flying to Nizhyn, Chernihiv Oblast.",
-      "timestamp": "2025-12-27T05:49:45.548089Z"
+      "timestamp": "2025-12-27T05:55:19.440372Z"
     },
     {
       "original": "Iskander threat from Crimea",
-      "timestamp": "2025-12-27T05:49:45.548100Z"
+      "timestamp": "2025-12-27T05:55:19.440375Z"
     },
     {
       "original": "The Kh-22s impacted gas platforms in the Black Sea.\n4 groups of Kh-101s are flying to Kyiv.\n2 groups are flying to Ukrainka/Trypillya.\n2 groups continue flying west to kyiv.",
-      "timestamp": "2025-12-27T05:49:45.548105Z"
+      "timestamp": "2025-12-27T05:55:19.440381Z"
     },
     {
       "original": "Iskander threat from Crimea",
-      "timestamp": "2025-12-27T05:49:45.548108Z"
+      "timestamp": "2025-12-27T05:55:19.440385Z"
     },
     {
       "original": "Iskander launch from Crimea",
-      "timestamp": "2025-12-27T05:49:45.548111Z"
+      "timestamp": "2025-12-27T05:55:19.440388Z"
     },
     {
       "original": "Updated approximate movements.\nAlmost all missiles are headed for Kyiv.",
-      "timestamp": "2025-12-27T05:49:45.548115Z"
+      "timestamp": "2025-12-27T05:55:19.440392Z"
     },
     {
       "original": "The first missiles are approaching Kyiv. CHP-4 power plant. Air defence is working.",
-      "timestamp": "2025-12-27T05:49:45.548119Z"
+      "timestamp": "2025-12-27T05:55:19.440395Z"
     },
     {
       "original": "Explosion in Kyiv",
-      "timestamp": "2025-12-27T05:49:45.548122Z"
+      "timestamp": "2025-12-27T05:55:19.440399Z"
     },
     {
       "original": "Kh-101s to the city centre",
-      "timestamp": "2025-12-27T05:49:45.548125Z"
+      "timestamp": "2025-12-27T05:55:19.440402Z"
     },
     {
       "original": "Kh-101s to the city centre",
-      "timestamp": "2025-12-27T05:49:45.548128Z"
+      "timestamp": "2025-12-27T05:55:19.440405Z"
     },
     {
       "original": "CHP-5 power plant",
-      "timestamp": "2025-12-27T05:49:45.548131Z"
+      "timestamp": "2025-12-27T05:55:19.440408Z"
     },
     {
       "original": "CHP-5 power plant",
-      "timestamp": "2025-12-27T05:49:45.548133Z"
+      "timestamp": "2025-12-27T05:55:19.440411Z"
     },
     {
       "original": "Approaching",
-      "timestamp": "2025-12-27T05:49:45.548136Z"
+      "timestamp": "2025-12-27T05:55:19.440414Z"
+    },
+    {
+      "original": "Approaching",
+      "timestamp": "2025-12-27T05:55:19.440417Z"
+    },
+    {
+      "original": "2 more groups are following from the southwest",
+      "timestamp": "2025-12-27T05:55:19.440420Z"
+    },
+    {
+      "original": "Repeated explosions in Kyiv",
+      "timestamp": "2025-12-27T05:55:19.440423Z"
+    },
+    {
+      "original": "2 groups are approaching the city from the east.\nCHP-4, CHP-6",
+      "timestamp": "2025-12-27T05:55:19.440431Z"
+    },
+    {
+      "original": "2 groups are approaching the city from the east.  CHP-4, CHP-6",
+      "timestamp": "2025-12-27T05:55:19.440434Z"
+    },
+    {
+      "original": "Flying to the north. Vyshhorod/Kyiv HPP",
+      "timestamp": "2025-12-27T05:55:19.440437Z"
+    },
+    {
+      "original": "Flying to the north. Vyshhorod/Kyiv HPP",
+      "timestamp": "2025-12-27T05:55:19.440440Z"
+    },
+    {
+      "original": "CHP-6",
+      "timestamp": "2025-12-27T05:55:19.440443Z"
+    },
+    {
+      "original": "CHP-6",
+      "timestamp": "2025-12-27T05:55:19.440446Z"
+    },
+    {
+      "original": "Bypassing the city from the north, flying to Irpin/Bucha/Hostomel, possibly to the 750 kV substation",
+      "timestamp": "2025-12-27T05:55:19.440449Z"
+    },
+    {
+      "original": "Bypassing the city from the north, flying to Irpin/Bucha/Hostomel, possibly to the 750 kV substation",
+      "timestamp": "2025-12-27T05:55:19.440452Z"
+    },
+    {
+      "original": "Further to Hostomel",
+      "timestamp": "2025-12-27T05:55:19.440458Z"
+    },
+    {
+      "original": "Further to Hostomel",
+      "timestamp": "2025-12-27T05:55:19.440461Z"
+    },
+    {
+      "original": "Flying further west to the 750 kV substation",
+      "timestamp": "2025-12-27T05:55:19.440464Z"
     },
     {
       "original": "Russia Begins Delivering Heavy Drones To The Front Lines Amid Strikes On Ukrainian Logistics\nDuring the exchange of strikes on the night of December 26, Russian forces used, according to the Ukrainian Air Force, one Iskander-M ballistic missile and 99 attack drones, 73 of which were shot down/suppressed. \nRussia aims to paralyze the strategically important railway line from Ukraine to Poland (the Kyiv-Kovel line). This was stated by Ukrainian military radio technology specialist Serhii Beskrestnov, known by the call sign \"Flash.\" He notes that attacks on this artery are following one after another: two days ago, the strike hit a train; the day before yesterday, a railway bridge; and last night, a locomotive depot. He predicts further strikes on objects of this line and calls for their protection.\nSimultaneously, the Russian side announced the delivery to the front line of the first test batch of the newest heavy combat drones \"Berdysh,\" numbering about 100 units.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095887Z"
+      "timestamp": "2025-12-27T05:55:20.066514Z"
     },
     {
       "original": "Russia Begins Delivering Heavy Drones To The Front Lines Amid Strikes On Ukrainian Logistics\nDuring the exchange of strikes on the night of December 26, Russian forces used, according to the Ukrainian Air Force, one Iskander-M ballistic missile and 99 attack drones, 73 of which were shot down/suppressed. \nRussia aims to paralyze the strategically important railway line from Ukraine to Poland (the Kyiv-Kovel line). This was stated by Ukrainian military radio technology specialist Serhii Beskrestnov, known by the call sign \"Flash.\" He notes that attacks on this artery are following one after another: two days ago, the strike hit a train; the day before yesterday, a railway bridge; and last night, a locomotive depot. He predicts further strikes on objects of this line and calls for their protection.\nSimultaneously, the Russian side announced the delivery to the front line of the first test batch of the newest heavy combat drones \"Berdysh,\" numbering about 100 units.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095906Z"
+      "timestamp": "2025-12-27T05:55:20.066532Z"
     },
     {
       "original": "Ukraine Has Lost Nearly All of Huliaipole (Videos)\nOn December 26, the Russian military extended its control over most of the center and northern part of Huliaipole in Zaporozhye, and advanced in its eastern part, reducing the area under Ukrainian control to less than 20 percent of the city.\nVideos posted online confirmed that Russian troops from the Vostok [East] Group of Forces have reached the Nestor Makhno statues at the heart of Huliaipole – also known as Gulyaypole -, as well as the “I Love Huliaipole” sign in the northern part of the city.\nJust a day earlier, the troops broke through Ukrainian defenses in Sobornaya Street in the city center and captured the headquarters of Ukraine’s 102nd Territorial Defense Brigade. Kiev forces withdrew in a rush leaving behind everything, including their communication equipment, which explains their later collapse in the nearby areas.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095916Z"
+      "timestamp": "2025-12-27T05:55:20.066543Z"
     },
     {
       "original": "Ukraine Has Lost Nearly All of Huliaipole (Videos)\nOn December 26, the Russian military extended its control over most of the center and northern part of Huliaipole in Zaporozhye, and advanced in its eastern part, reducing the area under Ukrainian control to less than 20 percent of the city.\nVideos posted online confirmed that Russian troops from the Vostok [East] Group of Forces have reached the Nestor Makhno statues at the heart of Huliaipole – also known as Gulyaypole -, as well as the “I Love Huliaipole” sign in the northern part of the city.\nJust a day earlier, the troops broke through Ukrainian defenses in Sobornaya Street in the city center and captured the headquarters of Ukraine’s 102nd Territorial Defense Brigade. Kiev forces withdrew in a rush leaving behind everything, including their communication equipment, which explains their later collapse in the nearby areas.\n👉\n Read more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095925Z"
+      "timestamp": "2025-12-27T05:55:20.066552Z"
     },
     {
       "original": "Elite Russian Drone Unit Eliminates Ukrainian Tank Gathering Near Kostiantynivka (Videos)\nThe Center for Advanced Unmanned Technologies “Rubicon” announced on December 26 that it has destroyed more than two dozen Ukrainian armored vehicles which were gathered in the Kostiantynivka direction in Donetsk in a well-planned special operation.\nThe gathering was near the city of Druzhkivka, a logistics and command hub of Kiev forces located right to the north of the city of Kostiantynivka where the Russian military’s Yug [South] Group of Forces is currently advancing.\nRubicon said that the gathering was discovered by one of its drone pilots on December 20, and was quickly targeted in an attack that went on for hours.\nRead more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095934Z"
+      "timestamp": "2025-12-27T05:55:20.066561Z"
     },
     {
       "original": "Elite Russian Drone Unit Eliminates Ukrainian Tank Gathering Near Kostiantynivka (Videos)\nThe Center for Advanced Unmanned Technologies “Rubicon” announced on December 26 that it has destroyed more than two dozen Ukrainian armored vehicles which were gathered in the Kostiantynivka direction in Donetsk in a well-planned special operation.\nThe gathering was near the city of Druzhkivka, a logistics and command hub of Kiev forces located right to the north of the city of Kostiantynivka where the Russian military’s Yug [South] Group of Forces is currently advancing.\nRubicon said that the gathering was discovered by one of its drone pilots on December 20, and was quickly targeted in an attack that went on for hours.\nRead more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095943Z"
+      "timestamp": "2025-12-27T05:55:20.066570Z"
     },
     {
       "original": "MOBILIZATION BY FORCE, LIFE BY PRIVILEGE: THE DEEPENING SOCIAL SPLIT IN WARTIME UKRAINE",
-      "timestamp": "2025-12-27T05:49:46.095947Z"
+      "timestamp": "2025-12-27T05:55:20.066573Z"
     },
     {
       "original": "Key Heights And Forests: Russian Army Makes Tactical Moves Against Ukrainian Forces In Slaviansk\nIn the Kharkiv sector, Russian units are achieving tactical success by advancing south of Vilcha towards Hrafskyi and capturing strongpoints in forested areas. In the Slaviansk sector, after establishing control over Sviato-Pokrovske, assault groups have reached the eastern part of Reznykivka. They are conducting fierce fighting in Zakotne and the Bondarne area. In the Zaporizhzhia sector, Kosivtsiv was taken under control. \nIn Huliaipole, units established control over a significant part of the city, including a captured headquarters. In the Sumy sector, advances of up to 600 meters have been noted in several areas, including Andriivka. Meanwhile, the Ukrainian command is attempting to reinforce defenses and prevent troop withdrawals. \nKyiv's European allies plan to finalize a package of security guarantees for Ukraine in January 2026.\nRead more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095959Z"
+      "timestamp": "2025-12-27T05:55:20.066582Z"
     },
     {
       "original": "Key Heights And Forests: Russian Army Makes Tactical Moves Against Ukrainian Forces In Slaviansk\nIn the Kharkiv sector, Russian units are achieving tactical success by advancing south of Vilcha towards Hrafskyi and capturing strongpoints in forested areas. In the Slaviansk sector, after establishing control over Sviato-Pokrovske, assault groups have reached the eastern part of Reznykivka. They are conducting fierce fighting in Zakotne and the Bondarne area. In the Zaporizhzhia sector, Kosivtsiv was taken under control. \nIn Huliaipole, units established control over a significant part of the city, including a captured headquarters. In the Sumy sector, advances of up to 600 meters have been noted in several areas, including Andriivka. Meanwhile, the Ukrainian command is attempting to reinforce defenses and prevent troop withdrawals. \nKyiv's European allies plan to finalize a package of security guarantees for Ukraine in January 2026.\nRead more \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095968Z"
+      "timestamp": "2025-12-27T05:55:20.066591Z"
     },
     {
       "original": "Lancet Strikes: Summary Of Russian Combat Footage From December 26, 2025\nOn December 26, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095975Z"
+      "timestamp": "2025-12-27T05:55:20.066600Z"
     },
     {
       "original": "Lancet Strikes: Summary Of Russian Combat Footage From December 26, 2025\nOn December 26, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
-      "timestamp": "2025-12-27T05:49:46.095982Z"
+      "timestamp": "2025-12-27T05:55:20.066610Z"
     }
   ],
-  "script_run_time": "2025-12-27T05:49:46.097002Z"
+  "script_run_time": "2025-12-27T05:55:20.067322Z"
 }
