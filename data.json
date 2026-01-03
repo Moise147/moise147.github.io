@@ -1,225 +1,237 @@
 {
   "messages": [
     {
-      "original": "🛵\n БпЛА на півдні Дніпропетровщини в напрямку н.п.Авіаторське, н.п.Самар.",
-      "timestamp": "2026-01-03T10:11:52.817045Z"
-    },
-    {
-      "original": "🛵\n БпЛА на півдні Дніпропетровщини в напрямку н.п.Авіаторське, н.п.Самар.",
-      "timestamp": "2026-01-03T10:11:52.817061Z"
-    },
-    {
-      "original": "🛵\n БпЛА в напрямку на/повз н.п.Черкаське/Зарічне.",
-      "timestamp": "2026-01-03T10:11:52.817067Z"
-    },
-    {
-      "original": "🛵\n БпЛА на сході Дніпропетровщини в напрямку на/повз н.п.Просяна та на північному сході від н.п.Зарічне, курс - західний;\n🛵\n БпЛА на заході Донеччини, курс - східний (вектор - Краматорськ).",
-      "timestamp": "2026-01-03T10:11:52.817073Z"
-    },
-    {
-      "original": "🛸\n🛵\n БпЛА на півдні від м.Запоріжжя, курс - північний.",
-      "timestamp": "2026-01-03T10:11:52.817079Z"
-    },
-    {
-      "original": "🛸\n🛵\n БпЛА по межі Херсонщини і Миколаївщини, курс - північно-східний.",
-      "timestamp": "2026-01-03T10:11:52.817088Z"
-    },
-    {
-      "original": "🛵\n Дніпропетровщина: БпЛА на сході області в напрямку на/повз Васильківку, на північному сході - повз н.п.Губиниха на південний схід.",
-      "timestamp": "2026-01-03T10:11:52.817093Z"
-    },
-    {
-      "original": "🛵\n \n🛸\n Сумщина: БпЛА в напрямку на/повз н.п.Улянівка з північного сходу.",
-      "timestamp": "2026-01-03T10:11:52.817099Z"
-    },
-    {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на північно-східному напрямку! \n🚀\nЗагроза застосування авіаційних засобів ураження для прифронтових областей!",
-      "timestamp": "2026-01-03T10:11:52.817107Z"
+      "timestamp": "2026-01-03T10:35:14.160805Z"
     },
     {
       "original": "🛵\n \n🛸\n БпЛА в напрямку Сум з півночі.",
-      "timestamp": "2026-01-03T10:11:52.817112Z"
+      "timestamp": "2026-01-03T10:35:14.160828Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2026-01-03T10:11:52.817117Z"
+      "timestamp": "2026-01-03T10:35:14.160834Z"
     },
     {
       "original": "⚠\n Увага!\n🛫\n Активність ворожої тактичної авіації  на східному напрямку!",
-      "timestamp": "2026-01-03T10:11:52.817123Z"
+      "timestamp": "2026-01-03T10:35:14.160841Z"
     },
     {
       "original": "🚀\nПуски КАБ на Донеччину.",
-      "timestamp": "2026-01-03T10:11:52.817127Z"
+      "timestamp": "2026-01-03T10:35:14.160846Z"
     },
     {
       "original": "🚀\nПуски КАБ на Харківщину зі сходу.",
-      "timestamp": "2026-01-03T10:11:52.817132Z"
+      "timestamp": "2026-01-03T10:35:14.160851Z"
     },
     {
       "original": "🛵\n Дніпропетровщина: БпЛА на сході області в напрямку Петропавлівки та Славгорода.",
-      "timestamp": "2026-01-03T10:11:52.817137Z"
+      "timestamp": "2026-01-03T10:35:14.160856Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на півдні від м.Запоріжжя, курс - північний.",
-      "timestamp": "2026-01-03T10:11:52.817142Z"
+      "timestamp": "2026-01-03T10:35:14.160862Z"
     },
     {
       "original": "🚀\n \n🚀\nДніпропетровська область (Синельниківський р-н) - загроза застосування авіаційних засобів ураження.",
-      "timestamp": "2026-01-03T10:11:52.817148Z"
+      "timestamp": "2026-01-03T10:35:14.160873Z"
     },
     {
       "original": "🛵\n Дніпропетровщина: БпЛА на сході області в напрямку Славгорода і Павлограда.",
-      "timestamp": "2026-01-03T10:11:52.817154Z"
+      "timestamp": "2026-01-03T10:35:14.160880Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на півдні від м.Дніпро, курс - північно-західний.",
-      "timestamp": "2026-01-03T10:11:52.817159Z"
+      "timestamp": "2026-01-03T10:35:14.160886Z"
     },
     {
       "original": "🚀\nРакета на півдні Сумщині в напрямку Полтавщини.",
-      "timestamp": "2026-01-03T10:11:52.817165Z"
+      "timestamp": "2026-01-03T10:35:14.160891Z"
     },
     {
       "original": "🛸\n🛵\n БпЛА на півдні від м.Запоріжжя, курс - північний.",
-      "timestamp": "2026-01-03T10:11:52.817171Z"
+      "timestamp": "2026-01-03T10:35:14.160897Z"
     },
     {
-      "original": "Civilians have begun fleeing Venezuela's capital Caracas following the US airstrikes and reported special forces insertions.",
-      "timestamp": "2026-01-03T10:11:53.348490Z"
+      "original": "🚀\nРакета на півдні Сумщині в напрямку Полтавщини.",
+      "timestamp": "2026-01-03T10:35:14.160902Z"
     },
     {
-      "original": "A Venezuelan Army Fiat 6616 armoured personnel carrier is seen driving on the streets of Caracas, Venezuela.",
-      "timestamp": "2026-01-03T10:11:53.348499Z"
+      "original": "🚀\nРакета на сході Полтавщини продовжує рух в напрямку н.п.Лубни/Пирятин.",
+      "timestamp": "2026-01-03T10:35:14.160907Z"
     },
     {
-      "original": "Footage showing a civilian driving through the streets of Caracas, Venezuela, as the U.S. carries out airstrikes.",
-      "timestamp": "2026-01-03T10:11:53.348503Z"
+      "original": "🛵\n БпЛА на м.Дніпро зі сходу.",
+      "timestamp": "2026-01-03T10:35:14.160911Z"
     },
     {
-      "original": "A U.S. Airforce KC-135R Stratotanker has turned on its transponder approximately 620 km off the coast of Venezuela. \nPresumably it is being used to refuel fighter jets carrying out airstrikes.",
-      "timestamp": "2026-01-03T10:11:53.348508Z"
+      "original": "🚀\nРакета на сході Полтавщини продовжує рух в напрямку н.п.Лубни/Пирятин.",
+      "timestamp": "2026-01-03T10:35:14.160916Z"
     },
     {
-      "original": "Footage showing a U.S. AH-64 Apache helicopter launching rockets at a target, somewhere in northern Venezuela.",
-      "timestamp": "2026-01-03T10:11:53.348511Z"
+      "original": "🚀\nРакета на Полтавщині повз н.п.Новооржицьке в напрямку Черкащини.",
+      "timestamp": "2026-01-03T10:35:14.160920Z"
     },
     {
-      "original": "Footage showing a U.S. AH-64 Apache helicopter launching rockets at a target, somewhere in northern Venezuela.",
-      "timestamp": "2026-01-03T10:11:53.348515Z"
+      "original": "🚀\nРакета на Полтавщині повз н.п.Новооржицьке в напрямку Черкащини.",
+      "timestamp": "2026-01-03T10:35:14.160925Z"
     },
     {
-      "original": "Apparently this is targeting the Fort Tiuna military base in Caracas",
-      "timestamp": "2026-01-03T10:11:53.348518Z"
+      "original": "🚀\nРакета на сході Черкащини в напрямку на/повз н.п.Золотоноша.",
+      "timestamp": "2026-01-03T10:35:14.160929Z"
     },
     {
-      "original": "Venezuelan President Nicolás Maduro has declared a state of emergency, calling on people to mobilise to \"defeat this imperialist aggression.\"",
-      "timestamp": "2026-01-03T10:11:53.348521Z"
+      "original": "🛸\n🛵\n БпЛА на півдні від м.Запоріжжя, курс - північний.",
+      "timestamp": "2026-01-03T10:35:14.160935Z"
     },
     {
-      "original": "Venezuela's foreign ministry has released a statement denouncing the US attacks on Venezuela, calling it an attempt at seizing their strategic resources such as oil, and undermining their political independence.",
-      "timestamp": "2026-01-03T10:11:53.348524Z"
+      "original": "🚀\nПуски КАБ на Донеччину.",
+      "timestamp": "2026-01-03T10:35:14.160939Z"
     },
     {
-      "original": "Venezuelan President Nicolás Maduro has ordered all national defence plans to be implemented \"at the appropriate time and circumstances\".",
-      "timestamp": "2026-01-03T10:11:53.348528Z"
-    },
-    {
-      "original": "A massive fire is burning at the La Guaira port in Venezuela.",
-      "timestamp": "2026-01-03T10:11:53.348531Z"
-    },
-    {
-      "original": "Heavy damage is seen at the La Guaria port north of Caracas in Venezuela following a series of U.S. airstrikes.",
-      "timestamp": "2026-01-03T10:11:53.348535Z"
+      "original": "🛸\n🛵\n БпЛА на м.Запоріжжя та м.Дніпро.",
+      "timestamp": "2026-01-03T10:35:14.160944Z"
     },
     {
       "original": "So far, the U.S. Airforce has attacked targets in at least 4 different regions of Venezuela.\n- Dozens of airstrikes targeted the capital of Caracas, including the Fort Tiuna military base, and a number of ammunition depots, resulting in massive secondary detonations.\n- At least 6 airstrikes targeted the La Guaria Port in the La Guaria State.\n- Several airstrikes targeted the Miranda State, with most/all impacting Higuerote Aiport. \n- Multiple airstrikes targeted something in Aragua State, likely El Libertador Air Base (the Headquarters of the Venezuelan Air Force).",
-      "timestamp": "2026-01-03T10:11:53.348541Z"
+      "timestamp": "2026-01-03T10:35:14.586962Z"
     },
     {
       "original": "When Russia invades Ukraine, it's a full-scale unprovoked illegal invasion...\nWhen the U.S. invades Venezuela, it's a justified military operation for national security purposes...\nMake that make sense.",
-      "timestamp": "2026-01-03T10:11:53.348546Z"
+      "timestamp": "2026-01-03T10:35:14.586976Z"
     },
     {
       "original": "When Russia invades Ukraine, it's a full-scale unprovoked illegal invasion...  When the U.S. invades Venezuela, it's a justified military operation for national security purposes...  Make that make sense.",
-      "timestamp": "2026-01-03T10:11:53.348549Z"
+      "timestamp": "2026-01-03T10:35:14.586980Z"
     },
     {
       "original": "Liberal rules based order at its finest \n😁",
-      "timestamp": "2026-01-03T10:11:53.348557Z"
+      "timestamp": "2026-01-03T10:35:14.586985Z"
     },
     {
       "original": "A fire is seen burning at the Antenas El Volcán communications centre on the outskirts of Caracas, Venezuela, following U.S. airstrikes.\nCoordinates: 10.41633, -66.84931",
-      "timestamp": "2026-01-03T10:11:53.348561Z"
+      "timestamp": "2026-01-03T10:35:14.586989Z"
     },
     {
       "original": "Donald Trump has released a statement claiming to have captured Venezuelan President Nicolas Maduro and his wife.",
-      "timestamp": "2026-01-03T10:11:53.348565Z"
+      "timestamp": "2026-01-03T10:35:14.586995Z"
     },
     {
       "original": "Donald Trump has released a statement claiming to have captured Venezuelan President Nicolas Maduro and his wife.",
-      "timestamp": "2026-01-03T10:11:53.348570Z"
+      "timestamp": "2026-01-03T10:35:14.586999Z"
     },
     {
       "original": "This could be what the earlier reported U.S. delta force landings in Caracas were for.",
-      "timestamp": "2026-01-03T10:11:53.348573Z"
+      "timestamp": "2026-01-03T10:35:14.587002Z"
     },
     {
       "original": "According to unconfirmed reports, Caracas International Airport is under U.S. control and ready to accept transport aircraft.",
-      "timestamp": "2026-01-03T10:11:53.348576Z"
+      "timestamp": "2026-01-03T10:35:14.587005Z"
     },
     {
       "original": "Kh-59/69 cruise missile to Krasnopillya, Sumy Oblast.",
-      "timestamp": "2026-01-03T10:11:53.348579Z"
+      "timestamp": "2026-01-03T10:35:14.587010Z"
     },
     {
       "original": "Kh-59/69 cruise missile to Krasnopillya, Sumy Oblast.",
-      "timestamp": "2026-01-03T10:11:53.348582Z"
+      "timestamp": "2026-01-03T10:35:14.587014Z"
     },
     {
       "original": "Flying to Okhtyrka and then Poltava Oblast on a southwestern course.\nIt was launched from a Su-34 over eastern Kursk Oblast.",
-      "timestamp": "2026-01-03T10:11:53.348588Z"
+      "timestamp": "2026-01-03T10:35:14.587018Z"
     },
     {
       "original": "Changed course to the west and entered Poltava Oblast, flying in the direction of Hadyach. It will probably bypass Hadyach from the south.",
-      "timestamp": "2026-01-03T10:11:53.348592Z"
+      "timestamp": "2026-01-03T10:35:14.587021Z"
+    },
+    {
+      "original": "The missile is flying low, repeatedly disappearing from radars. \nA Su-57 also carried out a launch maneuver from eastern Kursk Oblast around 5 mins ago, however this was likely simulated with electronic warfare.",
+      "timestamp": "2026-01-03T10:35:14.587027Z"
+    },
+    {
+      "original": "The Kh-59/69 flew south of Hadyach and changed course to the southwest, flying towards Lubny, Poltava Oblast.\nFor now the height is about 100 metres.\nThe target is likely Kaniv, Cherkasy Oblast.",
+      "timestamp": "2026-01-03T10:35:14.587034Z"
+    },
+    {
+      "original": "Changed course to the west again, flying to Hrebinka.",
+      "timestamp": "2026-01-03T10:35:14.587037Z"
+    },
+    {
+      "original": "Changed course to the west again, flying to Hrebinka.",
+      "timestamp": "2026-01-03T10:35:14.587040Z"
+    },
+    {
+      "original": "Maneuvering north of Lubny, Poltava Oblast, constantly changing course.",
+      "timestamp": "2026-01-03T10:35:14.587044Z"
+    },
+    {
+      "original": "Now maneuvering south of Hrebinka, Poltava Oblast, generally flying towards Drabiv, Cherkasy Oblast.",
+      "timestamp": "2026-01-03T10:35:14.587047Z"
+    },
+    {
+      "original": "Now flying southwest again, in the general direction of Zolotonosha, Cherkasy Oblast.",
+      "timestamp": "2026-01-03T10:35:14.587050Z"
+    },
+    {
+      "original": "Approaching Zolotonosha from the northeast",
+      "timestamp": "2026-01-03T10:35:14.587053Z"
+    },
+    {
+      "original": "Approaching Zolotonosha from the northeast",
+      "timestamp": "2026-01-03T10:35:14.587056Z"
+    },
+    {
+      "original": "Over the city",
+      "timestamp": "2026-01-03T10:35:14.587059Z"
+    },
+    {
+      "original": "Over the city",
+      "timestamp": "2026-01-03T10:35:14.587062Z"
+    },
+    {
+      "original": "Disappeared",
+      "timestamp": "2026-01-03T10:35:14.587065Z"
+    },
+    {
+      "original": "Explosion in Zolotonosha, Cherkasy Oblast.",
+      "timestamp": "2026-01-03T10:35:14.587068Z"
     },
     {
       "original": "A COSTLY END TO 2025: UKRAINE RETREATS AND REFORMS AFTER YEAR OF STRATEGIC LOSSES",
-      "timestamp": "2026-01-03T10:11:53.939484Z"
+      "timestamp": "2026-01-03T10:35:15.183824Z"
     },
     {
       "original": "Zaporizhzhia Front: Russian Army Repels Ukrainian Landing In Rivnopillia, Reaches Zaliznychne\nIn the Kupyansk sector, the Ukrainian command is redeploying additional forces to prepare new attacks on the outskirts of the city. In the Kharkiv sector, intense fighting persists south of Vovchansk. \nIn the Konstantynivka sector, there has been an increase in activity on the northern flank. The Russian army has captured most of the Maiske settlement, and assault groups are advancing within Konstantynivka itself toward a key bridge and the railway station. In the Sumy sector, Russian assault groups advanced up to 500 meters in several areas. In the Zaporizhzhia sector, after an attempted Ukrainian landing failed, units concentrated on reaching Zaliznychne and expanding the control zone near the Malokaterynivka estuary.\nCzech Prime Minister Andrej Babiš stated that the country can no longer provide Ukraine with direct funding from the state budget.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939498Z"
+      "timestamp": "2026-01-03T10:35:15.183847Z"
     },
     {
       "original": "Zaporizhzhia Front: Russian Army Repels Ukrainian Landing In Rivnopillia, Reaches Zaliznychne\nIn the Kupyansk sector, the Ukrainian command is redeploying additional forces to prepare new attacks on the outskirts of the city. In the Kharkiv sector, intense fighting persists south of Vovchansk. \nIn the Konstantynivka sector, there has been an increase in activity on the northern flank. The Russian army has captured most of the Maiske settlement, and assault groups are advancing within Konstantynivka itself toward a key bridge and the railway station. In the Sumy sector, Russian assault groups advanced up to 500 meters in several areas. In the Zaporizhzhia sector, after an attempted Ukrainian landing failed, units concentrated on reaching Zaliznychne and expanding the control zone near the Malokaterynivka estuary.\nCzech Prime Minister Andrej Babiš stated that the country can no longer provide Ukraine with direct funding from the state budget.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939508Z"
+      "timestamp": "2026-01-03T10:35:15.183856Z"
     },
     {
       "original": "The Price Of A Flag Is Life: How Ukraine's Command Fakes Territory Control\nIn recent days, Russian forces have destroyed at least two sabotage and reconnaissance groups of the AFU sent to Myrnohrad (Dimitrov)—a city fully under Russian military control. Videos of the destroyed groups have circulated online. A common feature of these operations has been that each group was carrying Ukrainian flags with the aim of planting and filming them to create an illusion of control over the city. \nA similar tactic has been evident in the case of the 4th Brigade of the National Guard of Ukraine's personnel, who found themselves encircled in Myrnohrad. Instead of ammunition or food, the Ukrainian command dropped flags to them using drones. Captured servicemen of this brigade, taken prisoner by Russian forces, openly described the nature of the assignment: \n\"They drop flags to us and force us to wave them, covering their own asses in the process.\"\n👉\n Read more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939518Z"
+      "timestamp": "2026-01-03T10:35:15.183867Z"
     },
     {
       "original": "The Price Of A Flag Is Life: How Ukraine's Command Fakes Territory Control\nIn recent days, Russian forces have destroyed at least two sabotage and reconnaissance groups of the AFU sent to Myrnohrad (Dimitrov)—a city fully under Russian military control. Videos of the destroyed groups have circulated online. A common feature of these operations has been that each group was carrying Ukrainian flags with the aim of planting and filming them to create an illusion of control over the city. \nA similar tactic has been evident in the case of the 4th Brigade of the National Guard of Ukraine's personnel, who found themselves encircled in Myrnohrad. Instead of ammunition or food, the Ukrainian command dropped flags to them using drones. Captured servicemen of this brigade, taken prisoner by Russian forces, openly described the nature of the assignment: \n\"They drop flags to us and force us to wave them, covering their own asses in the process.\"\n👉\n Read more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939527Z"
+      "timestamp": "2026-01-03T10:35:15.183876Z"
     },
     {
       "original": "Blasts Rock Venezuelan Capital In What Appears To Be Opening Of U.S. War (Videos)\nA series of blasts rocked different parts of the Venezuelan capital, Caracas, and its outskirts early on January 3, in what may be the opening of a military operation by the United States.\nThe U.S. began a pressure campaign against Venezuela all the way back in October, accusing President Nicolás Maduro of links to drug cartels, which were later designated as terrorist groups. In September, the campaign escalated into strikes against alleged drug trafficking boats in the Caribbean Sea and the Eastern Pacific Ocean. Around 35 boats have been hit since, with at least 115 traffickers killed.\nThe early morning blasts in Caracas appeared to be the result of strikes, with videos posted online showing secondary explosions. In some footage, a drone buzzing sound can be clearly heard.\nReuters reported a power outrage in certain parts of Caracas following the blasts, including in an area where a base is located.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939536Z"
+      "timestamp": "2026-01-03T10:35:15.183885Z"
     },
     {
       "original": "Blasts Rock Venezuelan Capital In What Appears To Be Opening Of U.S. War (Videos)\nA series of blasts rocked different parts of the Venezuelan capital, Caracas, and its outskirts early on January 3, in what may be the opening of a military operation by the United States.\nThe U.S. began a pressure campaign against Venezuela all the way back in October, accusing President Nicolás Maduro of links to drug cartels, which were later designated as terrorist groups. In September, the campaign escalated into strikes against alleged drug trafficking boats in the Caribbean Sea and the Eastern Pacific Ocean. Around 35 boats have been hit since, with at least 115 traffickers killed.\nThe early morning blasts in Caracas appeared to be the result of strikes, with videos posted online showing secondary explosions. In some footage, a drone buzzing sound can be clearly heard.\nReuters reported a power outrage in certain parts of Caracas following the blasts, including in an area where a base is located.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939545Z"
+      "timestamp": "2026-01-03T10:35:15.183893Z"
     },
     {
       "original": "Maduro Mobilizes Venezuelan Army As U.S. Helicopters Attack Key HQ In Caracas (Videos)\nPresident Nicolás Maduro signed a state of emergency and ordered all national defense plans to be implemented “at the appropriate time and under the appropriate circumstances,” the Venezuelan government announced in a statement issued on January 3 morning, just a few hours after the beginning of an attack on the country by the United States.\nU.S. officials confirmed to CBS News that Trump ordered strikes on sites inside Venezuela, including military facilities, without providing any additional details.\nOther officials told CNN later that the U.S. Senate Armed Services Committee was not notified by the Trump administration ahead of the strikes.\nVideos posted online indicate that many military sites in Caracas were hit, with evidence suggesting multiple air defense systems were destroyed and reports saying that the residency of the country’s defense minister, Vladimir Padrino López, was targeted.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939555Z"
+      "timestamp": "2026-01-03T10:35:15.183902Z"
     },
     {
       "original": "Maduro Mobilizes Venezuelan Army As U.S. Helicopters Attack Key HQ In Caracas (Videos)\nPresident Nicolás Maduro signed a state of emergency and ordered all national defense plans to be implemented “at the appropriate time and under the appropriate circumstances,” the Venezuelan government announced in a statement issued on January 3 morning, just a few hours after the beginning of an attack on the country by the United States.\nU.S. officials confirmed to CBS News that Trump ordered strikes on sites inside Venezuela, including military facilities, without providing any additional details.\nOther officials told CNN later that the U.S. Senate Armed Services Committee was not notified by the Trump administration ahead of the strikes.\nVideos posted online indicate that many military sites in Caracas were hit, with evidence suggesting multiple air defense systems were destroyed and reports saying that the residency of the country’s defense minister, Vladimir Padrino López, was targeted.\nRead more \nHERE",
-      "timestamp": "2026-01-03T10:11:53.939565Z"
+      "timestamp": "2026-01-03T10:35:15.183912Z"
     }
   ],
-  "script_run_time": "2026-01-03T10:11:53.940084Z"
+  "script_run_time": "2026-01-03T10:35:15.184799Z"
 }
