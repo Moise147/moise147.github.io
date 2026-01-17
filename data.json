@@ -1,221 +1,217 @@
 {
   "messages": [
     {
-      "original": "🛸\nНа півночі Київщини розвідувальний БпЛА противника, який може бути навідником  ворожих засобів ураження! Залучено засоби для його збиття.",
-      "timestamp": "2026-01-17T05:18:01.094935Z"
-    },
-    {
-      "original": "🛵\n БпЛА на півдні Миколаївщини, курс на н.п. Березанка.\n🛵\n БпЛА на із заходу Миколаївщини, курс на Одещину.",
-      "timestamp": "2026-01-17T05:18:01.094953Z"
-    },
-    {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2026-01-17T05:18:01.094970Z"
+      "timestamp": "2026-01-17T05:38:01.329860Z"
     },
     {
       "original": "🛵\n БпЛА на Одещині, на н.п.Доброслав з півночі.",
-      "timestamp": "2026-01-17T05:18:01.094975Z"
+      "timestamp": "2026-01-17T05:38:01.329880Z"
     },
     {
       "original": "🛵\n Запоріжжя: БпЛА на/повз Вільнянськ з півночі.",
-      "timestamp": "2026-01-17T05:18:01.094979Z"
+      "timestamp": "2026-01-17T05:38:01.329905Z"
     },
     {
       "original": "🛵\n БпЛА у напрямку м. Суми з північного сходу.",
-      "timestamp": "2026-01-17T05:18:01.094987Z"
+      "timestamp": "2026-01-17T05:38:01.329917Z"
     },
     {
       "original": "🛵\n Одещина: БпЛА на/повз Доброслав з півночі.",
-      "timestamp": "2026-01-17T05:18:01.094991Z"
+      "timestamp": "2026-01-17T05:38:01.329924Z"
     },
     {
       "original": "🚀\nПуски КАБ на Сумщину.",
-      "timestamp": "2026-01-17T05:18:01.094995Z"
+      "timestamp": "2026-01-17T05:38:01.329932Z"
     },
     {
       "original": "🚀\nПуски КАБ на схід Харківщини.",
-      "timestamp": "2026-01-17T05:18:01.095000Z"
+      "timestamp": "2026-01-17T05:38:01.329940Z"
     },
     {
       "original": "🛵\n БпЛА у напрямку м. Суми з півночі.",
-      "timestamp": "2026-01-17T05:18:01.095006Z"
+      "timestamp": "2026-01-17T05:38:01.329947Z"
     },
     {
       "original": "🛵\n БпЛА на Запоріжжя з півночі.",
-      "timestamp": "2026-01-17T05:18:01.095011Z"
+      "timestamp": "2026-01-17T05:38:01.329954Z"
     },
     {
       "original": "🛵\n Сумщина: БпЛА у напрямку м. Конотоп з півночі.",
-      "timestamp": "2026-01-17T05:18:01.095016Z"
+      "timestamp": "2026-01-17T05:38:01.329961Z"
     },
     {
       "original": "🛵\n Чернігівщина: БпЛА на/повз Мену з півночі. БпЛА північніше Батурина, курс - західний.",
-      "timestamp": "2026-01-17T05:18:01.095020Z"
+      "timestamp": "2026-01-17T05:38:01.329968Z"
     },
     {
       "original": "🛵\n Київщина: БпЛА на/повз Баришівку з півночі.",
-      "timestamp": "2026-01-17T05:18:01.095024Z"
+      "timestamp": "2026-01-17T05:38:01.329976Z"
     },
     {
       "original": "БпЛА на Обухів з південного сходу.",
-      "timestamp": "2026-01-17T05:18:01.095028Z"
+      "timestamp": "2026-01-17T05:38:01.329982Z"
     },
     {
       "original": "🛵\n БпЛА на Київ з півдня.",
-      "timestamp": "2026-01-17T05:18:01.095033Z"
+      "timestamp": "2026-01-17T05:38:01.329989Z"
     },
     {
       "original": "🛵\n Київщина: БпЛА повз Переяслав південно-західним курсом.",
-      "timestamp": "2026-01-17T05:18:01.095037Z"
+      "timestamp": "2026-01-17T05:38:01.329996Z"
     },
     {
       "original": "🛵\n Київщина: БпЛА на Обухів/Українку зі сходу.",
-      "timestamp": "2026-01-17T05:18:01.095042Z"
+      "timestamp": "2026-01-17T05:38:01.330003Z"
     },
     {
       "original": "🛵\n БпЛА на Київ з півдня.",
-      "timestamp": "2026-01-17T05:18:01.095046Z"
+      "timestamp": "2026-01-17T05:38:01.330014Z"
     },
     {
       "original": "🛵\n Запоріжжя: БпЛА повз Вільнянськ, курс - західний.",
-      "timestamp": "2026-01-17T05:18:01.095050Z"
+      "timestamp": "2026-01-17T05:38:01.330022Z"
+    },
+    {
+      "original": "🛵\n БпЛА на м. Запоріжжя з півночі.",
+      "timestamp": "2026-01-17T05:38:01.330030Z"
+    },
+    {
+      "original": "🛵\n Дніпропетровщина: БпЛА північніше Павлограда. курс - південно-західний.",
+      "timestamp": "2026-01-17T05:38:01.330040Z"
     },
     {
       "original": "In the Kostyantynivka direction, Russian forces continued to advance towards Kostyantynivka, making significant progress in developing their offensive.\nFollowing at least a week infiltrations, Russian forces managed to consolidate in the southern part of Illinka and in the forested gulley to the south. This allowed for DRGs to infiltrate even deeper, entering the low-rise residential parts of southwestern Kostyantynivka for the first time, and reaching areas further north in the direction of northwestern Kostyantynivka.\nAdditionally, Russian forces managed to clear out the rest of the pocket northeast of Yablunivka, where they captured a number of strongpoints in the forests there, and also improved their positions in the treelines in the direction of Berestok. This forced most of the remaining Ukrainian formations to withdraw from the forests north of the Kleban-Bykske reservoir, with those last positions now fully in the grey-zone. \n+ ~9.11 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771459Z"
+      "timestamp": "2026-01-17T05:38:01.880331Z"
     },
     {
       "original": "⚡️\n🇱🇧\n🇮🇱\n Footage of the Israeli airstrikes targeting the town of Shamar in western Bekaa.\n@wfwitness",
-      "timestamp": "2026-01-17T05:18:01.771476Z"
+      "timestamp": "2026-01-17T05:38:01.880347Z"
     },
     {
       "original": "⚡️\n🇱🇧\n🇮🇱\n Footage of the Israeli airstrikes targeting the town of Shamar in western Bekaa.\n@wfwitness",
-      "timestamp": "2026-01-17T05:18:01.771484Z"
+      "timestamp": "2026-01-17T05:38:01.880354Z"
     },
     {
       "original": "Current trends suggest that another large-scale missile and drone attack on Ukraine involving strategic bombers will take place in the next 1-4 days.  Currently I'm trying to determine some additional info about movements, so I will make a follow up post with…",
-      "timestamp": "2026-01-17T05:18:01.771488Z"
+      "timestamp": "2026-01-17T05:38:01.880358Z"
     },
     {
       "original": "There is information about the possibility of an attack tonight, but this seems highly unlikely to me.\nRussian strategic aviation doesn't seem to have completed it's preparations yet, and there isn't any activity on combat frequencies yet. I will continue to monitor and update if anything changes.",
-      "timestamp": "2026-01-17T05:18:01.771493Z"
+      "timestamp": "2026-01-17T05:38:01.880362Z"
     },
     {
       "original": "On the northern flank of Kostyantynivka, both Russian and Ukrainian forces have advanced.\nIn the southwest, Ukrainian forces continued their attempts at counterattacking south of the tributary of the Bilenka River, and managed to recapture the western part of Virolyubivka. Fighting continues for the central and eastern parts of the village. Additionally, at some point recently, the Ukrainians cleared out the fields and forested areas to the northwest of Virolyubivka from Russian DRGs.\nIn the northeast, Russian forces continued to incrementally advance towards Markove and captured the agricultural buildings on its southern outskirts, as well as a nearby trench fortification. From there they entered the main part of Markove, where fighting is now ongoing.\n+ ~8.77 km² in favour of Ukraine.\n+ ~1.03 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771501Z"
+      "timestamp": "2026-01-17T05:38:01.880370Z"
     },
     {
       "original": "In the Rai-Oleksandrivka direction, Russian forces continued to advance, making new progress on a wide front.\nIn the north, Russian forces pushed further west from the treelines west of Siversk, capturing additional positions there and entering the southern part of the gulley that stretches south from Zakitne. Other assault groups cleared the rest of the gulley from the north. From there, attacks were made on the forests to the west where fighting is now ongoing. \nAdditionally, Russian forces captured more treeline positions on the tactical heights north of Riznykivka and secured the neighbouring forested areas. From there, they advanced further west, reaching and capturing another fortified forest, and entering a larger adjacent forest. \nTo the south, the Russians continued improving their positions in Riznykivka and captured the rest of the eastern part of the village. They were also able to begin taking positions west of the gulley stretching south from Riznykivka, where they advanced southwest down a treeline from the southern outskirts of the village. Furthermore, Russian forces crossed the gulley at a second point further south and secured part of the forest plantations there, before infiltrating the eastern part of the nearby forests. \nIn the southwest, the Russians established control over the last parts of the forests northwest of Pazeno and captured additional forested areas in the gulleys to the south. To the south of the Vasyukivka River, they managed to complete the capture of the village of Bondarne, allowing for some soldiers to infiltrate across the river and enter the first houses of Nykyforivka. They also continued advancing southwest through the fields south of Bondarne where more treeline positions were seized.\n+ ~13.43 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771510Z"
+      "timestamp": "2026-01-17T05:38:01.880378Z"
     },
     {
       "original": "In the Lyman direction, Russian forces continued to advance east and southeast of Lyman, making new progress in 6 different areas.\nIn the northwest, Russian forces resumed their assault operations in the fields east of Lyman, where they advanced north from the forests and captured a number of positions in the treelines there. \nTo the southwest, the Russians were able to clear out the salient that formed south of Lyman, and began their assaults on the southern outskirts of the city. Fierce fighting is now ongoing for the forested areas west of the highway, where a large grey-zone has formed.\nTo the south, following earlier Ukrainian counterattacks, Russian forces resumed their assault operations in Dibrova and recaptured all of their previously lost positions in the main part of the village. \nTo the southeast, Russian forces continued slowly advancing in Ozerne, and established a foothold in the central part of the village. Other assault groups entered its south-eastern houses, taking up new positions there too. \nTo the east. Russian forces managed to take up positions in the forested areas along the western bank of the Siverskyi Donets River opposite Zakitne, which were previously abandoned by the Ukrainians. They also made additional progress in Zakitne itself, capturing the central part of the village, and began the assault on the hills to the south where Ukraine holds their main presence. As a result of these assaults, Russian soldiers managed to gain a foothold in the strongpoints there, with heavy fighting now ongoing for additional areas. \n+ ~5.90 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771520Z"
+      "timestamp": "2026-01-17T05:38:01.880387Z"
     },
     {
       "original": "In the Svyatohirsk direction, Russian forces continued to advance in multiple areas, capturing important positions in the Sviati Hory National Park.\nIn in the northwest, Russian forces continued advancing in the vicinity of Oleksandrivka and captured new positions in the forests to the south in the direction of the Sosnove - Oleksandrivka Road.\nTo the southwest, the Russians advanced south from the railway east of Sosnove, breaking through Ukrainian positions for nearly 2 km and entering the northern outskirts of Svyatohirsk city. They also captured additional positions on the flanks of this spearhead. Meanwhile, Russian DRGs continued infiltrating the eastern part of Svyatohirsk, advancing along the northern bank of the Siverskyi Donets River.\nIn the southeast, Russian forces continued improving their positions in the forests east of Yarova and are approaching the eastern edge of the village.\n+ ~2.87 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771528Z"
+      "timestamp": "2026-01-17T05:38:01.880399Z"
     },
     {
       "original": "In the Borova direction, both Russian and Ukrainian forces have advanced in Donetsk and Luhansk Oblasts.\nIn the southwest, after consolidating in the area of the school, Russian forces advanced further west and completed the capture of Ridkodub. \nIn the northeast, Russian forces continued to slowly advance in the area of Novojehorivka, and captured the remaining positions in the forest plantations north of the village. \nMeanwhile, Ukrainian forces continued their counterattacks in the Hrekivka area and advanced east of the village, recapturing positions in the treelines there.\n+ ~3.11 km² in favour of Russia.\n+ ~0.42 km² in favour of Ukraine. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771541Z"
+      "timestamp": "2026-01-17T05:38:01.880407Z"
     },
     {
       "original": "In the Borova direction, Russian forces resumed their assault operations in the direction of Nova Kruhlyakivka, recapturing previously lost positions there.\nFollowing recent Ukrainian counterattacks, Russian forces began advancing back down three parallel treelines west of Lozova, recapturing two large trench fortifications in the direction of Nova Kruhlyakivka. \n+ ~4.87 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771548Z"
+      "timestamp": "2026-01-17T05:38:01.880413Z"
     },
     {
       "original": "In the Kupyansk direction, both Russian and Ukrainian forces continued their assault operations, with Russian forces making new advances in Kupyansk.\nIn the northwest, following repeated assaults, Russian forces managed to consolidate in the northern-most houses of the city, and began attacks to the south down Michurina Street. Other assault groups entered the enterprises in northwestern Kupyansk in the area of the highway, while attacks were also carried out in the direction of Radkivka.  \nTo the southeast, Russian forces managed to recapture most of the northwestern part of the industrial zone, including part of the milk factory. Ukrainian forces are now counterattacking again, attempting to push the Russians back north. Ukrainian clearing operations continued in the central part of Kupyansk. \nMeanwhile, following earlier infiltrations into eastern Podoly, Russian DRGs began infiltrating the southern part of the village, reaching the northeastern outskirts of Kupyansk-Vuzlovyi.\n+ ~0.82 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771555Z"
+      "timestamp": "2026-01-17T05:38:01.880421Z"
     },
     {
       "original": "In the Bilyi Kolodyaz and Ternova directions, Russian forces continued their assault operations and have advanced in five different areas. \nIn the east, following a series of unsuccessful Ukrainian counterattacks, Russian forces advanced south from Lyman, capturing positions in the forests outside the village. They also made additional incremental progress through the forests southwest of Lyman, and in the direction of eastern Hrafske.\nTo the northwest, Russian forces captured the western part of Prylipka, as well as the remaining positions in the forests to the south of the village. From there, they began pushing south and southwest in the direction of Hrafske, collapsing most of the remaining Ukrainian defences outside the village. \nIn the west, Russian forces continued incrementally advancing in eastern Startsya, and restarted their assault operations further west. As a result of these new attacks, they managed to gain a foothold in multiple forested areas in the gulleys west of the village.\n+ ~4.88 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771563Z"
+      "timestamp": "2026-01-17T05:38:01.880428Z"
     },
     {
       "original": "In the Khotin, Yunakivka, and Myropillya directions, Russian forces continued their assault operations and have advanced in two different areas.\nIn the west, Russsian forces continued advancing south from Andriivka, capturing new positions in the treelines there. Attacks were also carried out on the forest plantations northwest of Mala Morchakivka. \nTo the east, Russian forces restarted their assault operations in the direction of Sadky, and entered the forests north of the village. A grey-zone has formed and fighting is ongoing.\nFurther east, Russian forces restarted their assault operations in the direction of Oleksandriya. Despite an initial failed attack, they were able to recapture a number of positions in the forests just south of the international border. \n+ ~1.58 km² in favour of Russia. \nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771571Z"
+      "timestamp": "2026-01-17T05:38:01.880436Z"
     },
     {
       "original": "In the Hlukhiv direction, Russian forces crossed the international border into Sumy Oblast, capturing the village of Komarivka.\nAround three weeks ago, Russian soldiers crossed the Kleven River (which runs along the international border) at multiple points in the direction of Komarivka and Kharkivka. While the attacks on Kharkivka were ultimately repelled, the Russians were able to establish a small bridgehead in Komarivka.\nFrom there, they began to expand the bridgehead to include the rest of the village, and captured parts of the forests to the east and southwest.\n+ ~4.90 km² in favour of Russia.\nInteractive map link: \nhttps://www.google.com/maps/d/u/1/edit?hl=en&mid=1thW9kqnDOaS2lAepLhLdzSX8Ur9Sc4k&ll",
-      "timestamp": "2026-01-17T05:18:01.771578Z"
+      "timestamp": "2026-01-17T05:38:01.880443Z"
     },
     {
       "original": "Footage showing two strikes on a Ukrainian HIMARS launcher near the village of Svirok, Chernihiv Oblast, with Russian drones of an unknown type, after it carried out launches into Bryansk Oblast.\nCoordinates: 51.73405, 32.65498",
-      "timestamp": "2026-01-17T05:18:01.771582Z"
+      "timestamp": "2026-01-17T05:38:01.880446Z"
     },
     {
       "original": "Zelensky has issued a statement claiming that Russia is preparing another large-scale, combined missile and drone attack on Ukraine.\nLast time he did this, there was an attack the same day, however there will be no attack tonight as Russian preparations are not complete yet. \n- 1 Tu-95MS redeployed from Ukrainka Airbase, Amur Oblast, to Olenya Airbase, Murmansk Oblast after being equipped with Kh-101 cruise missiles. 7 other Tu-95s (that are used for combat missions) are still stationed at Ukrainka Airbase. \n- 3 Buyan-M corvettes were deployed from Kaspiysk Naval Base, Republic of Dagestan, to the waters of the Caspian Sea. They can launch a maximum of 24 Kalibr cruise missiles.\n- Equipments of Kalibr carriers with missiles at Novorossiysk Naval Base, Kransodar Krai, may also be underway.\n- Additional deliveries of Iskander-M ballistic missiles and Iskander-K cruise missiles to OTRK installations near Ukraine have taken place. \n- Kinzhals launched from MiG-31Ks may also be used, but likely only in conjunction with Kh-101 cruise missiles from strategic bombers. \n- A minimum of 350 Geran-2 drones are expected to be used during this attack.\nIf Tu-95MS and Tu-160 strategic bombers are used, the highest threat is to the western regions of Ukraine, especially energy infrastructure in Lviv and Ivano-Frankivsk Oblasts. This would also increase the likelihood of MiG-31K fighters being involved and decrease the chances of Iskander-Ks being used.\nIf strategic bombers aren't used, the highest threat is to the central and northern regions of Ukraine, especially energy and gas infrastructure in Kyiv and Poltava Oblasts. This would decrease the likelihood of MiG-31Ks being involved and increase the chances of Iskander-Ks being used. \nAs for the claim of possible Oreshnik IRBM launches that have been floating around, there is no actual threat right now. Anyone claiming that is fear mongering or copy-pasting unreliable sources. Iskander-I (Iskander-M with 1,000 range) might be used, but this seems unlikely for the next few weeks.\nInformation continues to be clarified as there have been a lot of inaccurate and conflicting reports recently.",
-      "timestamp": "2026-01-17T05:18:01.771594Z"
+      "timestamp": "2026-01-17T05:38:01.880458Z"
     },
     {
       "original": "Situation in northern Syria:\nFollowing negotiations between the U.S. and SDF, the SDF agreed to withdraw from most of the rest of their positions west of the Euphrates River in the Aleppo Governorate, including the towns of Dayr Hafir and Maskanah, leaving only their small bridgehead west of the Tishreen Dam. \nThe first withdrawals from frontline positions near Dayr Hafir have already begun, with the main movements expected closer to 7am local time (around 5 hours from the time of writing). The STG has agreed not to target the withdrawing SDF units, who will receive reinforcements to assist in this operation. \nMeanwhile, clashes between the SDF and SNA + STG formations continue in the direction of the Tishreen dam (red square), while both sides continue mutual shelling of other areas with artillery and MLRS.",
-      "timestamp": "2026-01-17T05:18:01.771600Z"
+      "timestamp": "2026-01-17T05:38:01.880463Z"
     },
     {
       "original": "Russian forces have recaptured the village of Ivanivka, Dobropillya direction, Donetsk Oblast.\nPre-war population: ~54.\nTotal land area: ~0.38 km².",
-      "timestamp": "2026-01-17T05:18:01.771604Z"
+      "timestamp": "2026-01-17T05:38:01.880468Z"
     },
     {
       "original": "Ukrainian UAVs attacked the \"Atlant Aero\" plant in the city of Taganrog, Rostov Oblast.   Explosions were heard and a large fire broke out at the production buildings.   Atlant Aero specialises in the production of of aircraft and spacecraft. It also produces…",
-      "timestamp": "2026-01-17T05:18:01.771608Z"
+      "timestamp": "2026-01-17T05:38:01.880471Z"
     },
     {
       "original": "The Ukrainian Navy published high-resolution satellite imagery showing the damage the \"Atlant Aero\" plant sustained after it was hit by at least 1 Neptune cruise missile, and possibly UAVs, in Taganrog, Rostov Oblast.\nThe main damage is to production workshops for drones. This plant produces Molniya FPV drones, as components for Orion drones.",
-      "timestamp": "2026-01-17T05:18:01.771612Z"
+      "timestamp": "2026-01-17T05:38:01.880475Z"
     },
     {
       "original": "Last night, Russia carried out another Geran-2 drone attack on the Kyiv Hydroelectric Power Plant in the city of Vyshhorod, Kyiv Oblast.\nAt least 7 impacts were recorded, with power outages and fluctuations reported.",
-      "timestamp": "2026-01-17T05:18:01.771615Z"
-    },
-    {
-      "original": "Military Situation In Ukraine On January 16, 2026 (Maps Update)",
-      "timestamp": "2026-01-17T05:18:02.413632Z"
-    },
-    {
-      "original": "Military Situation In Ukraine On January 16, 2026 (Maps Update)",
-      "timestamp": "2026-01-17T05:18:02.413646Z"
-    },
-    {
-      "original": "Financial Constraints Make Trump’s “Dream Military” Easier Said Than Done\nUnited States President Donald Trump wants to increase his country’s military budget by 50% by 2027. According to him, $1.5 trillion would be sufficient to strengthen the US armed forces amid geopolitical realignment and destabilizing global security. However, there are questions about whether this can be achieved when the US has a debt of $37.5 trillion.\nWhen Trump announced that the Department of Defense would be renamed the Department of War, many believed it was just a cosmetic change. However, time has shown otherwise. The US military deployment in the Caribbean and the kidnapping of Venezuelan President Nicolás Maduro are the first signs that the US National Security Strategy is not meant to be ignored.\n👉\n Read more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413657Z"
+      "timestamp": "2026-01-17T05:38:01.880479Z"
     },
     {
       "original": "Russian Army Solidifies Control South Of Krasny Liman As It Prepares To Storm City (Videos)\nOn January 16, the Russian military expanded its control to the south of Krasny Liman in Donetsk capturing a settlement from Kiev forces, all while preparing to storm the key city.\nZakotnoye, located some 12 kilometers to the south of Krasny Liman, was captured by the 7th Separate Guards Motorized Rifle Chistyakov Brigade of the Yug [South] Group of Forces, according to a statement by the Russian Ministry of Defense.\n“The brigade's servicemen demonstrated courage and heroism during the offensive. Coordinated actions of reconnaissance units, artillery fire support, and effective operation of drone teams made it possible to block all enemy attempts to hold the settlement,” the statement reads.\nThe attack on Zakotnoye began a few days earlier. Kiev forces didn’t put up much resistance. According to preliminary reports, Russian troops were even able to capture heights to the west of the settlement.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413667Z"
+      "timestamp": "2026-01-17T05:38:02.508195Z"
     },
     {
       "original": "Russian Army Solidifies Control South Of Krasny Liman As It Prepares To Storm City (Videos)\nOn January 16, the Russian military expanded its control to the south of Krasny Liman in Donetsk capturing a settlement from Kiev forces, all while preparing to storm the key city.\nZakotnoye, located some 12 kilometers to the south of Krasny Liman, was captured by the 7th Separate Guards Motorized Rifle Chistyakov Brigade of the Yug [South] Group of Forces, according to a statement by the Russian Ministry of Defense.\n“The brigade's servicemen demonstrated courage and heroism during the offensive. Coordinated actions of reconnaissance units, artillery fire support, and effective operation of drone teams made it possible to block all enemy attempts to hold the settlement,” the statement reads.\nThe attack on Zakotnoye began a few days earlier. Kiev forces didn’t put up much resistance. According to preliminary reports, Russian troops were even able to capture heights to the west of the settlement.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413677Z"
+      "timestamp": "2026-01-17T05:38:02.508213Z"
     },
     {
       "original": "Russian Strikes Erode Ukraine's Energy Grid Amid Air Defense Shortfalls\nRussian strikes on Ukraine's energy infrastructure are becoming increasingly effective, while Ukrainian air defense capabilities are being depleted. As noted by retired Austrian Army Colonel Markus Reisner in an interview with Berliner Zeitung, the air defense system cannot cope even with a small fraction of drones and cruise missiles. \n\"One can see an almost complete absence of successful defense,\" the expert states. According to him, Russia is not only increasing the number of attack assets but also improving tactics—using attacks from all directions, maneuvers before the target, and sharp dives—making defense practically impossible.\nThe result has been massive power outages in Odesa, Sumy, Dnipro, Kharkiv, Zhytomyr, Zaporizhzhia, and significant parts of Kyiv. Authorities are draining water from heating systems to avoid pipe bursts, and residents are beginning to leave cities. \n👉\n Read more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413687Z"
+      "timestamp": "2026-01-17T05:38:02.508224Z"
     },
     {
       "original": "Russian Strikes Erode Ukraine's Energy Grid Amid Air Defense Shortfalls\nRussian strikes on Ukraine's energy infrastructure are becoming increasingly effective, while Ukrainian air defense capabilities are being depleted. As noted by retired Austrian Army Colonel Markus Reisner in an interview with Berliner Zeitung, the air defense system cannot cope even with a small fraction of drones and cruise missiles. \n\"One can see an almost complete absence of successful defense,\" the expert states. According to him, Russia is not only increasing the number of attack assets but also improving tactics—using attacks from all directions, maneuvers before the target, and sharp dives—making defense practically impossible.\nThe result has been massive power outages in Odesa, Sumy, Dnipro, Kharkiv, Zhytomyr, Zaporizhzhia, and significant parts of Kyiv. Authorities are draining water from heating systems to avoid pipe bursts, and residents are beginning to leave cities. \n👉\n Read more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413696Z"
+      "timestamp": "2026-01-17T05:38:02.508233Z"
     },
     {
       "original": "Russian Army Expands Control Along Haichur, Near Huliaipole And East Of Stepnohirsk (Videos)\nOn January 16, the Russian military’s Vostok [East] Group of Forces made additional gains in three separate areas in Zaporozhye as the collapse of Kiev forces continued.\nThe 394th Motorized Rifle Regiment of the 127th Motorized Rifle Division, a part of the Vostok Group of Forces, captured Zhovtnevoye, also known as Olenokostiantynivka, on the Haichur River after a heated battle, according to the Russian Ministry of Defense.\nFurther south along the River, the Vostok Group of Forces expanded its control around Huliaipole, mainly to the south of the city.\nRussian troops advanced to the west of the T-0401 highway for the first time, securing more than 8,2 square kilometers.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413706Z"
+      "timestamp": "2026-01-17T05:38:02.508242Z"
     },
     {
       "original": "Russian Army Expands Control Along Haichur, Near Huliaipole And East Of Stepnohirsk (Videos)\nOn January 16, the Russian military’s Vostok [East] Group of Forces made additional gains in three separate areas in Zaporozhye as the collapse of Kiev forces continued.\nThe 394th Motorized Rifle Regiment of the 127th Motorized Rifle Division, a part of the Vostok Group of Forces, captured Zhovtnevoye, also known as Olenokostiantynivka, on the Haichur River after a heated battle, according to the Russian Ministry of Defense.\nFurther south along the River, the Vostok Group of Forces expanded its control around Huliaipole, mainly to the south of the city.\nRussian troops advanced to the west of the T-0401 highway for the first time, securing more than 8,2 square kilometers.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413715Z"
+      "timestamp": "2026-01-17T05:38:02.508251Z"
     },
     {
       "original": "UKRAINE'S KUPYANSK GAMBIT BACKFIRES: RUSSIAN FORCES EXPLOIT WEAKNESS ACROSS NORTHERN FRONT",
-      "timestamp": "2026-01-17T05:18:02.413719Z"
+      "timestamp": "2026-01-17T05:38:02.508255Z"
     },
     {
       "original": "Ukrainian Losses In Slaviansk Sector: Russian Army Captures Zakotne and Advance Towards Kryva Luka\nIn the Kostiantynivka area, Russian troops advancing from Pleshcheivka seized control of the heights near the northern bank of the Kleban-Byk Reservoir. They also reached the western outskirts of Berestok, where clashes persist. In the Krasnyi Liman sector, there are ongoing fierce engagements on the southern outskirts of Krasnyi Liman, where assault groups have broken through to the northeastern outskirts of the city.\nIn the Slaviansk sector, the Russian 7th Separate Motor Rifle Brigade has taken full control of Zakotne and is advancing toward the chalk quarry, threatening Kryva Luka. In the Sumy sector, Russian forces advanced up to 800 meters on sixteen sections of the front in the Sumy, Krasnopillia, and Hlukhiv districts.\nIn the forest southwest of Liman, Russian assault units advanced 600 meters and captured one strongpoint in the Kharkiv sector.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413727Z"
+      "timestamp": "2026-01-17T05:38:02.508263Z"
     },
     {
       "original": "Ukrainian Losses In Slaviansk Sector: Russian Army Captures Zakotne and Advance Towards Kryva Luka\nIn the Kostiantynivka area, Russian troops advancing from Pleshcheivka seized control of the heights near the northern bank of the Kleban-Byk Reservoir. They also reached the western outskirts of Berestok, where clashes persist. In the Krasnyi Liman sector, there are ongoing fierce engagements on the southern outskirts of Krasnyi Liman, where assault groups have broken through to the northeastern outskirts of the city.\nIn the Slaviansk sector, the Russian 7th Separate Motor Rifle Brigade has taken full control of Zakotne and is advancing toward the chalk quarry, threatening Kryva Luka. In the Sumy sector, Russian forces advanced up to 800 meters on sixteen sections of the front in the Sumy, Krasnopillia, and Hlukhiv districts.\nIn the forest southwest of Liman, Russian assault units advanced 600 meters and captured one strongpoint in the Kharkiv sector.\nRead more \nHERE",
-      "timestamp": "2026-01-17T05:18:02.413735Z"
+      "timestamp": "2026-01-17T05:38:02.508271Z"
+    },
+    {
+      "original": "HIMARS Hit: Summary Of Russian Combat Footage From January 16, 2026\nOn January 16, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
+      "timestamp": "2026-01-17T05:38:02.508278Z"
+    },
+    {
+      "original": "HIMARS Hit: Summary Of Russian Combat Footage From January 16, 2026\nOn January 16, several videos documenting some of the Russian military’s recent operations against Kiev forces surfaced online.\nTo see all the videos click \nHERE",
+      "timestamp": "2026-01-17T05:38:02.508285Z"
     }
   ],
-  "script_run_time": "2026-01-17T05:18:02.414570Z"
+  "script_run_time": "2026-01-17T05:38:02.509106Z"
 }
