@@ -13,7 +13,7 @@ TELEGRAM_URLS = [
     "https://t.me/s/kpszsu?embed=1",
     "https://t.me/s/AMK_Mapping?embed=1",
     "https://t.me/s/southfronteng?embed=1",
-    "t.me/s/kiber_boroshno?embed=1"
+    "https://t.me/s/kiber_boroshno?embed=1"
 ]
 
 # Încărcare modele locale pentru traducere (engleză → română și rusă → română)
