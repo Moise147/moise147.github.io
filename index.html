@@ -16,41 +16,41 @@
   <h1>Translated Telegram Alerts</h1>
   <div id="messages">Loading messages...</div>
   <div class="script-run-time" id="script-run-time"></div>
+  
   <script>
-    fetch("data.json")
-      .then(response => {
-        if (!response.ok) throw new Error("HTTP " + response.status);
-        return response.json();
-      })
-      .then(data => {
-        const container = document.getElementById("messages");
-        container.innerHTML = "";
-
-        // Verifică dacă data.messages este definit și este un array
-        if (!data.messages || !Array.isArray(data.messages) || data.messages.length === 0) {
-          container.textContent = "No alerts found.";
-          return;
-        }
-
-
-        data.events.forEach(ev => {
-          const div = document.createElement("div");
-          div.className = "message";
-          div.innerHTML = `<div class="original">${ev}</div>`;
-          container.appendChild(div);
-        });
-
-
-        // Afișează data și ora rulării scriptului
-        const scriptRunTime = document.getElementById("script-run-time");
-        if (data.script_run_time) {
-          scriptRunTime.textContent = "Scriptul a fost rulat la: " + new Date(data.script_run_time).toLocaleString();
-        }
-      })
-      .catch(err => {
-        document.getElementById("messages").textContent = "Eroare: " + err.message;
-        console.error(err);
+  fetch("data.json")
+    .then(response => {
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      return response.json();
+    })
+    .then(data => {
+      const container = document.getElementById("messages");
+      container.innerHTML = "";
+  
+      if (!data.events || !Array.isArray(data.events) || data.events.length === 0) {
+        container.textContent = "Nu există evenimente disponibile.";
+        return;
+      }
+  
+      data.events.forEach(ev => {
+        const div = document.createElement("div");
+        div.className = "message";
+        div.innerHTML = `<div class="original">${ev}</div>`;
+        container.appendChild(div);
       });
-  </script>
+  
+      if (data.script_run_time) {
+        document.getElementById("script-run-time").textContent =
+          "Scriptul a fost rulat la: " +
+          new Date(data.script_run_time).toLocaleString();
+      }
+    })
+    .catch(err => {
+      document.getElementById("messages").textContent =
+        "Eroare la încărcarea datelor";
+      console.error(err);
+    });
+</script>
+
 </body>
 </html>
