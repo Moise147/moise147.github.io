@@ -7,6 +7,8 @@ from transformers import pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+MAX_MESSAGES = 20   # evită overload
+MAX_CHARS = 3000    # limită BART
 
 TELEGRAM_URLS = [
     "https://t.me/s/kpszsu?embed=1",
@@ -81,17 +83,31 @@ def scrape_messages(url):
     return messages
 
 def main():
-    all_events = []
+    translated_texts = []
 
     for url in TELEGRAM_URLS:
-        messages = scrape_messages(url)
+        messages = scrape_messages(url)[:MAX_MESSAGES]
 
         for msg in messages:
-            translated = translate_to_ro(msg["original"])
-            events = generate_events(translated)
-            all_events.extend(events)
+            try:
+                translated = translate_to_ro(msg["original"])
+                translated_texts.append(translated)
+            except Exception as e:
+                print("Translate error:", e)
 
-    unique_events = remove_duplicates(all_events)
+    if not translated_texts:
+        print("No translated text")
+        return
+
+    combined_text = " ".join(translated_texts)[:MAX_CHARS]
+
+    try:
+        events = generate_events(combined_text)
+    except Exception as e:
+        print("Summarization error:", e)
+        events = []
+
+    unique_events = remove_duplicates(events)
 
     data = {
         "events": unique_events,
@@ -102,6 +118,7 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=2)
 
     print(f"Saved {len(unique_events)} unique events")
+
 
 if __name__ == "__main__":
     main()
