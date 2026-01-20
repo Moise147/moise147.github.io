@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
 import json
 from datetime import datetime
+from transformers import pipeline
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 TELEGRAM_URLS = [
     "https://t.me/s/kpszsu?embed=1",
