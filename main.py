@@ -72,6 +72,7 @@ def scrape_messages(url):
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     print(f"Status cod răspuns: {response.status_code}")
+    print(f"Conținut HTML (primul 500 de caractere): {response.text[:500]}")
     soup = BeautifulSoup(response.text, "html.parser")
     messages = []
     for div in soup.find_all("div", class_=lambda c: c and "tgme_widget_message_text" in c):
