@@ -1,1 +1,23 @@
-
+{
+  "news": [
+    {
+      "summary": "Serviciile de urgență au raportat întreruperi de trafic după un incident rutier major, iar autoritățile au intervenit pentru degajarea zonei.",
+      "link": "https://t.me/s/AMK_Mapping",
+      "importance_score": 44,
+      "rank": 1
+    },
+    {
+      "summary": "Actualizări privind operațiunile militare au indicat noi mișcări în mai multe regiuni, cu evaluări în curs asupra impactului.",
+      "link": "https://t.me/s/southfronteng",
+      "importance_score": 38,
+      "rank": 2
+    },
+    {
+      "summary": "Comunitatea locală a anunțat activități de sprijin umanitar, cu distribuirea de resurse către zonele afectate.",
+      "link": "https://t.me/s/kpszsu",
+      "importance_score": 32,
+      "rank": 3
+    }
+  ],
+  "script_run_time": "2024-04-12T12:00:00Z"
+}
