@@ -2,19 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Telegram Alerts Demo</title>
+  <title>Știri rezumate în română</title>
   <style>
     body { font-family: sans-serif; padding: 20px; }
-    .message { background: #f9f9f9; margin: 15px 0; padding: 15px; border-radius: 5px; border-left: 4px solid #007acc; }
-    .timestamp { font-size: 0.9em; color: #555; margin-bottom: 5px; }
-    .original { font-weight: bold; }
-    .translated { margin-top: 8px; color: #333; }
+    .news-list { padding-left: 20px; }
+    .news-item { background: #f9f9f9; margin: 12px 0; padding: 12px; border-radius: 5px; border-left: 4px solid #007acc; }
+    .news-item a { color: #007acc; text-decoration: none; }
+    .news-item a:hover { text-decoration: underline; }
     .script-run-time { font-style: italic; color: #777; margin-top: 20px; }
   </style>
 </head>
 <body>
-  <h1>Translated Telegram Alerts</h1>
-  <div id="messages">Loading messages...</div>
+  <h1>Știri rezumate în română</h1>
+  <div id="messages">Se încarcă știrile...</div>
   <div class="script-run-time" id="script-run-time"></div>
   
   <script>
@@ -27,17 +27,21 @@
       const container = document.getElementById("messages");
       container.innerHTML = "";
   
-      if (!data.events || !Array.isArray(data.events) || data.events.length === 0) {
-        container.textContent = "Nu există evenimente disponibile.";
+      if (!data.news || !Array.isArray(data.news) || data.news.length === 0) {
+        container.textContent = "Nu există știri disponibile.";
         return;
       }
-  
-      data.events.forEach(ev => {
-        const div = document.createElement("div");
-        div.className = "message";
-        div.innerHTML = `<div class="original">${ev}</div>`;
-        container.appendChild(div);
+
+      const list = document.createElement("ol");
+      list.className = "news-list";
+      data.news.forEach(item => {
+        const li = document.createElement("li");
+        li.className = "news-item";
+        const linkPart = item.link ? ` <a href="${item.link}" target="_blank" rel="noopener">Link către postare</a>` : "";
+        li.innerHTML = `<strong>${item.rank}.</strong> ${item.summary}${linkPart}`;
+        list.appendChild(li);
       });
+      container.appendChild(list);
   
       if (data.script_run_time) {
         document.getElementById("script-run-time").textContent =
