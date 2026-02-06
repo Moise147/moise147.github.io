@@ -34,11 +34,12 @@
 
       const list = document.createElement("ol");
       list.className = "news-list";
-      data.news.forEach(item => {
+      data.news.forEach((item, index) => {
         const li = document.createElement("li");
         li.className = "news-item";
+        const rank = item.rank || index + 1;
         const linkPart = item.link ? ` <a href="${item.link}" target="_blank" rel="noopener">Link către postare</a>` : "";
-        li.innerHTML = `<strong>${item.rank}.</strong> ${item.summary}${linkPart}`;
+        li.innerHTML = `<strong>${rank}.</strong> ${item.summary}${linkPart}`;
         list.appendChild(li);
       });
       container.appendChild(list);
